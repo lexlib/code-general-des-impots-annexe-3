@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1980-07-05
+Version Consolidée au 1980-07-30
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -17185,25 +17185,25 @@ _Nouveaux textes_:
 Le pouvoir de statuer est dévolu :
 
 au directeur des services fiscaux [*autorité compétente*] lorsque les sommes dont l'admission en non-valeurs est demandée
-n'excèdent pas 200.000 F par cote;
+n'excèdent pas 400.000 F par cote;
 
-au directeur général des impôts  d'accord avec le directeur de la comptabilité publique  lorsqu'il s'agit de sommes excédant
-les limites de compétence du directeur des services fiscaux;
+au directeur général des impôts  d'accord avec le directeur de  a la comptabilité publique  lorsqu'il s'agit de sommes
+excédant les limites de compétence du directeur des services fiscaux;
 
-au ministre  après avis du comité des remises et transactions  en cas de désaccord entre le directeur général des impôts et
+au ministre, après avis du comité des remises et transactions, en cas de désaccord entre le directeur général des impôts et
 le directeur de la comptabilité publique.
 
 Les décisions sont notifiées au service du recouvrement par le directeur des services fiscaux.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V) JORF 30 JUILLET 1980
+
 _Cité par_:
 
   - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 429
