@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-03-02
+Version Consolidée au 1988-03-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -443,9 +443,9 @@ Version Consolidée au 1988-03-02
             - [b : Décharge de responsabilité (art. 433 à 438)](#440)
             - [c : Dispositions communes (art. 439 à 444)](#441)
         - [D : Dispositions particulières aux impôts directs (art. 445)](#442)
-  - [RECOUVREMENT DE L'IMPOT (art. 360 à 363)](#443)
-    - [PAIEMENT DE L'IMPOT (art. 360 à 363)](#444)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360 à 363)](#445)
+  - [RECOUVREMENT DE L'IMPOT (art. 360)](#443)
+    - [PAIEMENT DE L'IMPOT (art. 360)](#444)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360)](#445)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -23712,6 +23712,31 @@ le comptable du Trésor de remettre à l'intéressé une quittance détachée d'
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 363
+
+La société  qui estime que le montant des acomptes déjà versés au titre d'un exercice est égal ou supérieur aux cotisations
+dont elle sera finalement redevable pour cet exercice  peut se dispenser d'effectuer de nouveaux versements d'acomptes en
+remettant au comptable du Trésor chargé du recouvrement des impôts directs avant la date de majoration, fixée à l'article
+364, du prochain versement à effectuer une déclaration datée et signée.
+
+Si  par la suite  cette déclaration est reconnue inexacte de plus du dixième la majoration de 10 % [*sanction, pénalité*],
+visée à l'article 364, sera appliquée aux sommes qui n'auront pas été versées aux échéances prévues.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 364
+
+_Modifié par_:
+
+  - Décret n°88-287 du 24 mars 1988 - art. 1 (V) JORF 30 mars 1988
+
+_Abrogé par_:
+
+  - Décret n°92-119 du 5 février 1992 - art. 3 () JORF 7 février 1992
+
+
 ###### Article 364
 
 1. Si l'un des acomptes prévus à l'article 360 n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il
@@ -26621,26 +26646,5 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YV (P)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZB bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZD (V)
-
-
-###### Article 363
-
-La société  qui estime que le montant des acomptes déjà versés au titre d'un exercice est égal ou supérieur aux cotisations
-dont elle sera finalement redevable pour cet exercice  peut se dispenser d'effectuer de nouveaux versements d'acomptes en
-remettant au comptable du Trésor chargé du recouvrement des impôts directs  quinze jours avant la date d'exigibilité du
-prochain versement à effectuer une déclaration datée et signée.
-
-Si  par la suite  cette déclaration est reconnue inexacte de plus du dixième la majoration de 10 % [*sanction, pénalité*],
-visée à l'article 364, sera appliquée aux sommes qui n'auront pas été versées aux échéances prévues.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 364
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
