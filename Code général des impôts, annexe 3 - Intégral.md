@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-12-30
+Version Consolidée au 1985-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -299,7 +299,7 @@ Version Consolidée au 1984-12-30
           - [Section I : Taxe sur les produits des exploitations forestières. (art. 332)](#296)
           - [Section I bis : Taxe spéciale sur les huiles. (art. 333 A à 333 G bis)](#297)
           - [Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles. (art. 333 H)](#298)
-          - [Section II : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 333 bis A à 333 ter)](#299)
+          - [Section II : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 333 bis à 333 ter)](#299)
         - [Chapitre III : Enregistrement (art. 334 à 339 bis)](#300)
           - [Section I : Contributions pour l'alimentation du fonds commun des accidents du travail agricole (art. 334 à 339 bis)](#301)
             - [I : Contribution des employeurs assurés. (art. 334 à 336)](#302)
@@ -16942,6 +16942,45 @@ _Abrogé par_:
 
 
 ##### Section II : Taxe spéciale sur le prix des places de spectacles cinématographiques.<a id=299></a>
+
+###### Article 333 bis
+
+Le montant de la taxe spéciale prévue à l'article 1621 du code général des impôts est fixé en fonction de la valeur de chaque
+billet déterminée conformément aux règlements en vigueur et compte non tenu des majorations éventuelles pour la location des
+places.
+
+Les exploitants doivent indiquer au verso de la déclaration de recettes qu'ils sont tenus en vertu de l'article 15 du décret
+modifié du 28 décembre 1946, d'adresser au centre national de la cinématographie lors de chaque changement de programme le
+nombre de places de chaque catégorie sur le prix desquelles a été perçue la taxe spéciale, ainsi que le produit global de
+cette taxe.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1621
+  - Décret n°1946-12-28 ART. 15
+
+_Nouveaux textes_:
+
+  - CGIAN3 331 V bis
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+_Modifié par_:
+
+  - Loi n°84-1208 1984-12-29 art. 92 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+_Codifié par_:
+
+  - Décret n°93-1127 1993-09-24
+
+_Transféré par_:
+
+  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
 
 ###### Article 333 bis A
 
