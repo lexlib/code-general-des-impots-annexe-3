@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-06-12
+Version Consolidée au 2004-06-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -105,361 +105,362 @@ Version Consolidée au 2004-06-12
             - [3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer (art. 46 AG decies à 46 AG undecies)](#102)
             - [5° : Réduction d'impôt au titre des souscriptions en numéraire au capital de sociétés non cotées (art. 46 AI bis)](#103)
             - [6° : Réduction d'impôt au titre des souscriptions de parts de fonds communs de placement dans l'innovation (art. 46 AI quater à 46 AI ter)](#104)
-            - [8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés. (art. 46 AM à 46 AO)](#105)
-            - [8° bis : Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet. (art. 46 AO bis)](#106)
-            - [10° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles (art. 46 AS à 46 AT)](#107)
-          - [Section IV : Obligations incombant à certaines sociétés immobilières (art. 46 B à 46 D)](#108)
-          - [Section V : Disposition applicable en cas de perte du statut fiscal des sociétés de personnes (art. 46 E)](#109)
-        - [Chapitre I bis : Impôt sur les sociétés (art. 46 bis à 46 quater-0 ZZ sexies)](#110)
-          - [Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires (art. 46 bis à 46 ter)](#111)
-          - [Section 0I bis : Exonération édictée en faveur des sociétés d'investissements immobiliers cotées (art. 46 ter A)](#112)
-          - [Section I bis : Entreprises créées en Corse (art. 46 quater)](#113)
-          - [Section I ter : Activités créées en Corse (art. 46 quater-00 A à 46 quater-00 A ter)](#114)
-          - [Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs (art. 46 quater-0 A)](#115)
-          - [Section III : Intérêts de livrets supplémentaires de caisses d'épargne (art. 46 quater-0 B)](#116)
-          - [Section III bis : Supplément d'impôt sur les sociétés (art. 46 quater-0 BA)](#117)
-          - [Section IV : Modalités d'application du précompte. (art. 46 quater-0 C à 46 quater-0 FA)](#118)
-          - [Section IV bis : Modalités de l'exonération de la retenue à la source ou du prélèvement applicable aux dividendes, intérêts et redevances distribués ou payées entre sociétés associées d'Etats membres de la Communauté européenne (art. 46 quater-0 FB à 46 quater-0 FD)](#119)
-          - [Section V : Profits de construction (art. 46 quater-0 G à 46 quater-0 R)](#120)
-            - [I : Entreprises de construction de logements. (art. 46 quater-0 I à 46 quater-0 K)](#121)
-            - [II : Entreprises dont la construction de logements ne constitue pas l'activité exclusive. (art. 46 quater-0 L à 46 quater-0 O)](#122)
-            - [III : Dispositions diverses (art. 46 quater-0 P à 46 quater-0 R)](#123)
-          - [Section V bis : Rachat d'une entreprise par ses salariés (art. 46 quater-0 RA à 46 quater-0 RG)](#124)
-          - [Section VI : Report en arrière des déficits (art. 46 quater-0 S à 46 quater-0 YC)](#125)
-            - [I : Sociétés agréées au régime du bénéfice consolidé (art. 46 quater-0 X à 46 quater-0 XB)](#126)
-            - [II : Sociétés agréées au régime de l'intégration fiscale. (art. 46 quater-0 Y à 46 quater-0 YC)](#127)
-          - [Section VI bis : Option de souscription, achat ou attribution gratuite d'actions (art. 46 quater-0 YD à 46 quater-0 YE)](#128)
-          - [Section VI ter : Crédit d'impôt pour investissement en faveur des entreprises implantées dans certains secteurs de la région Nord - Pas-de-Calais. (art. 46 quater-0 YF à 46 quater-0 YK)](#129)
-          - [Section VI quater : Crédit d'impôt pour dépenses dans la production d'oeuvres cinématographiques (art. 46 quater-0 YL à 46 quater-0 YR)](#130)
-          - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural (art. 46 quater-0 Z à 46 quater-0 ZC)](#131)
-          - [Section VIII : Régime des groupes de sociétés (art. 46 quater-0 ZD à 46 quater-0 ZS)](#132)
-          - [Section VIII bis : Régime de taxation au tonnage (art. 46 quater-0 ZS bis à 46 quater-0 ZS bis A)](#133)
-          - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies (art. 46 quater-0 ZU)](#134)
-          - [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital (art. 46 quater-0 ZZ à 46 quater-0 ZZ bis)](#135)
-          - [Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises (art. 46 quater-0 ZZ bis A)](#136)
-          - [Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées (art. 46 quater-0 ZZ bis B)](#137)
-          - [Section XIII : Déduction des investissements réalisés outre-mer (art. 46 quater-0 ZZ ter)](#138)
-          - [Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière (art. 46 quater-0 ZZ quater à 46 quater-0 ZZ quinquies)](#139)
-          - [Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural (art. 46 quater-0 ZZ sexies)](#140)
-        - [Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés (art. 46 quater A à 49 octies E)](#141)
-          - [Section 00I : Sociétés d'investissement (art. 46 quater A à 46 quater C)](#142)
-            - [Capital minimal exigé pour l'octroi des avantages fiscaux (art. 46 quater A à 46 quater C)](#143)
-          - [Section 0I : Sociétés de personnes et assimilées (art. 46 terdecies A à 46 terdecies H)](#144)
-            - [I : Sociétés à responsabilité limitée.   Option pour le régime fiscal des sociétés de personnes (art. 46 terdecies A à 46 terdecies D)](#145)
-            - [II : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes, un groupement d'intérêt économique, un groupement d'intérêt public ou un groupement européen d'intérêt économique (art. 46 terdecies E à 46 terdecies H)](#146)
-          - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble (art. 46 quaterdecies)](#147)
-          - [Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer (art. 46 quaterdecies BA à 46 quaterdecies X)](#148)
-          - [Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles (art. 46 quindecies A à 46 quindecies F)](#149)
-          - [Section 0I quinquies : Financement en capital de la pêche artisanale (art. 46 quindecies G à 46 quindecies L)](#150)
-          - [Section 0I sexies : Mécénat d'entreprises (art. 46 quindecies M à 46 quindecies Q)](#151)
-          - [Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur (art. 47 à 47 bis)](#152)
-          - [Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices (art. 48)](#153)
-          - [Section II bis : Déclarations concernant les revenus de capitaux mobiliers (art. 49 B à 49 I bis)](#154)
-            - [1° : Contrats de prêts (art. 49 B)](#155)
-            - [2° : Paiement de revenus de valeurs mobilières (art. 49 D à 49 I)](#156)
-            - [3° : Obligations des établissements auprès desquels ont été souscrits des bons, titres ou contrats nominatifs (art. 49 I bis)](#157)
-          - [Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts (art. 49 J)](#158)
-          - [Section II quater : Entreprises implantées dans les zones franches urbaines- territoires entrepreneurs (art. 49 K à 49 P)](#159)
-          - [Section II quinquies : Entreprises implantées en Corse (art. 49 Q à 49 T)](#160)
-          - [Section III : Restitution d'impôts consécutive au remboursement des sommes mentionnées au a de l'article 111 du code général des impôts (art. 49 bis à 49 ter)](#161)
-          - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles (art. 49 septies F à 49 septies N)](#162)
-          - [Section V bis : Crédit d'impôt pour dépenses de formation. (art. 49 septies S à 49 septies-0 T)](#163)
-          - [Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse (art. 49 septies WB à 49 septies WH)](#164)
-          - [Section V quinquies : Réduction d'impôt pour versement de dons aux oeuvres et organismes d'intérêt général prévue à l'article 238 bis du code général des impôts (art. 49 septies X à 49 septies XB)](#165)
-          - [Section VI : Indemnités de congé payé (art. 49 octies à 49 octies D)](#166)
-          - [Section VII : Opérations de crédit-bail (art. 49 octies E)](#167)
-        - [Chapitre III : Taxes diverses (art. 50-0 à 58 O)](#168)
-          - [Section 0I : Taxe d'apprentissage. (art. 50-0 à 50-0 bis)](#169)
-          - [Section I : Taxe sur les salaires (art. 50 à 53 ter)](#170)
-            - [I : Champ d'application. (art. 50)](#171)
-            - [II : Base de la taxe (art. 51)](#172)
-            - [III : Dispositions spéciales aux professions relevant du régime agricole au regard des lois sur la sécurité sociale (art. 53 à 53 ter)](#173)
-          - [Section III : Contribution annuelle sur les revenus locatifs (art. 58 A à 58-0 A)](#174)
-          - [Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction (art. 58 J)](#175)
-          - [Section V : Contribution des institutions financières. (art. 58 K à 58 O)](#176)
-        - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III (art. 64 bis à 65)](#177)
-          - [Section I : Impôt sur le revenu et impôt sur les sociétés (art. 64 bis à 64 ter)](#178)
-          - [Section II : Dispositions spéciales applicables aux opérations de nationalisation (art. 65)](#179)
-      - [Titre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 65 A à 111 quater R)](#180)
-        - [Chapitre premier : Taxe sur la valeur ajoutée (art. 65 A à 98 bis)](#181)
-          - [Section I : Champ d'application (art. 65 A à 74)](#182)
-            - [I : Opérations obligatoirement imposables (art. 65 A à 68)](#183)
-              - [A : Animaux de boucherie et de charcuterie (art. 65 A)](#184)
-              - [B : Prestations de transport (art. 68)](#185)
-            - [I bis : Opérations imposables sur option (art. 70 septies à 70 sexies)](#186)
-            - [II : Opérations exonérées (art. 72 à 74)](#187)
-              - [B : Presse et impression (art. 72 à 73)](#188)
-              - [C : Transports, opérations et services exonérés (art. 73 A à 73 H)](#189)
-              - [D : Exportation (art. 74)](#190)
-          - [Section II : Assiette de la taxe (art. 76)](#191)
-            - [Régime du chiffre d'affaires réel (art. 76)](#192)
-          - [Section III : Fait générateur et exigibilité de la taxe (art. 77 à 84)](#193)
-            - [I : Paiement de la taxe d'après les débits (art. 77)](#194)
-            - [II : Entrepreneurs de travaux immobiliers (art. 78 à 84)](#195)
-          - [Section IV : Liquidation de la taxe (art. 85 à 85 L)](#196)
-            - [OI : Déductions (art. 85 à 85 L)](#197)
-              - [I :  Régime suspensif (art. 85 à 85 L)](#198)
-                - [A : Ouverture d'un entrepôt fiscal (art. 85 à 85 A)](#199)
-                - [B : Modification du fonctionnement d'un entrepôt fiscal (art. 85 B)](#200)
-                - [C : Fermeture d'un entrepôt fiscal (art. 85 C)](#201)
-                - [D : Entrée et sortie des biens d'un entrepôt fiscal (art. 85 D)](#202)
-                - [E : Entrepôts nationaux d'importation et d'exportation (art. 85 E)](#203)
-                - [F : Biens admissibles sous un régime d'entrepôt fiscal (art. 85 F)](#204)
-                - [G : Définition des opérations effectuées en suspension du paiement de la taxe sur la valeur ajoutée (art. 85 G à 85 J)](#205)
-                - [H : Attestations et factures (art. 85 K à 85 L)](#206)
-          - [Section V : Calcul de la taxe (art. 85 bis à 89 ter)](#207)
-            - [I : Taux (art. 85 bis à 89 ter)](#208)
-              - [A : Taux réduit (art. 85 bis à 87 ter)](#209)
-                - [1 : Cantines d'entreprises (art. 85 bis)](#210)
-                - [3 : Concerts (art. 87 bis à 87 ter)](#211)
-              - [D : Taux particuliers (art. 89 ter)](#212)
-          - [Section VI : Obligations des redevables (art. 95 à 96 M)](#213)
-            - [1° : Entreprises de spectacles (art. 96 B à 96 D)](#214)
-            - [2° : Factures transmises par voie télématique (art. 96 F à 96 I)](#215)
-            - [3° : Déclaration des échanges de biens entre Etats membres de l'Union européenne (art. 96 J à 96 M)](#216)
-          - [Section VII bis : Identification des assujettis non établis dans la Communauté européenne fournissant des services par voie électronique (art. 97 bis à 97 ter)](#217)
-          - [Section VIII : Régimes spéciaux (art. 98 A à 98 C)](#218)
-            - [II : Biens d'occasion, oeuvres d'art, objets de collection et d'antiquité (art. 98 A)](#219)
-            - [III : Régime applicable à l'or d'investissement (art. 98 B)](#220)
-            - [IV : Services fournis par voie électronique (art. 98 C)](#221)
-          - [Section IX : Exploitants agricoles (art. 98 bis)](#222)
-        - [Chapitre IV : Redevance sanitaire d'abattage (art. 111 quater A à 111 quater I)](#223)
-        - [Chapitre V : Redevance sanitaire de découpage (art. 111 quater L à 111 quater R)](#224)
-      - [Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires (art. 111 novodecies à 111 sexdecies)](#225)
-        - [Chapitre II : Récépissé de consignation (art. 111 novodecies à 111 sexdecies)](#226)
-      - [Titre III : Contributions indirectes et taxes diverses (art. 111-0 A à 244 quinquedecies)](#227)
-        - [Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés (art. 111-0 A à 111 N)](#228)
-          - [Section 0I : Entrepositaires et opérateurs agréés (art. 111-0 A à 111-00 C)](#229)
-          - [Section II : Titres de mouvement (art. 111 H bis à 111 H ter)](#230)
-          - [Section III : Capsules représentatives de droits (art. 111 I à 111 N)](#231)
-        - [Chapitre premier : Boissons (art. 118 à 182)](#232)
-          - [Section I : Alcools (art. 118 à 169-0 A)](#233)
-            - [A : Production (art. 118 à 143)](#234)
-              - [II : Déduction spéciale accordée aux fabricants de mistelles (art. 118)](#235)
-              - [III : Fabrication des boissons de raisins secs. (art. 125 à 143)](#236)
-            - [B : Régime économique (art. 143 A à 144 bis)](#237)
-              - [I : Organisation de l'économie cidricole (art. 143 A à 143 Z)](#238)
-              - [II bis : Régime économique du rhum (art. 144 bis)](#239)
-            - [C : Régime fiscal (art. 169-0 A)](#240)
-          - [Section II : Vins et cidres (art. 169 bis à 178-0 bis)](#241)
-            - [A : Production (art. 169 bis)](#242)
-              - [Déclarations (art. 169 bis)](#243)
-            - [B : Régime fiscal (art. 172 à 178-0 bis)](#244)
-              - [Admission en décharge des déchets résultant de la concentration par le froid (art. 172 à 178-0 bis)](#245)
-          - [Section V : Régimes particuliers (art. 178 A à 182)](#246)
-            - [I : Réglementation des essences d'absinthe et produits assimilés ou susceptibles de les suppléer (art. 178 A à 178 Z)](#247)
-            - [II : Charbons activés et substances similaires. (art. 179 à 182)](#248)
-        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 183 à 214)](#249)
-          - [Section I : Forme et apposition des poinçons (art. 183 à 186 ter)](#250)
-          - [Section II : Organisation des bureaux de garantie (art. 187 à 191)](#251)
-          - [Section III : Fonctionnement des bureaux de garantie (art. 203 à 208)](#252)
-          - [Section IV : Obligations des redevables (art. 209 à 211)](#253)
-          - [Section IV bis : Exportations ou livraisons à destination d'un autre Etat membre de l'Union européenne (art. 211 AA à 211 AC)](#254)
-          - [Section V : Ouvrages dorés, argentés ou platinés (art. 212 A)](#255)
-          - [Section VI : Frappe des médailles (art. 213 à 214)](#256)
-        - [Chapitre III bis : Régime économique du sucre. (art. 219 A à 219 O)](#257)
-        - [Chapitre III ter : Régime économique de l'isoglucose. (art. 219 P à 219 U)](#258)
-        - [Chapitre III ter A : Régime économique du sirop d'inuline. (art. 219 V bis à 219 V ter)](#259)
-        - [Chapitre VI : Tabacs (art. 244 decies à 244 vicies)](#260)
-        - [Chapitre VI : Tabac (art. 244 quinquedecies)](#261)
-      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 245 à 313-0 BR bis)](#262)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 245 à 299)](#263)
-          - [Section I : Dispositions générales (art. 245 à 263)](#264)
-            - [I : Des formalités (art. 245 à 260)](#265)
-              - [A : Champ d'application respectif de la formalité de l'enregistrement et de la formalité fusionnée - Délais (art. 245 à 250)](#266)
-                - [1 : Actes et mutations soumis à la formalité de l'enregistrement. Actes publics et sous seings privés (art. 245 à 248)](#267)
-                - [2 : Actes soumis à la formalité fusionnée de l'enregistrement et de la publicité foncière (art. 249)](#268)
-                - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 250)](#269)
-              - [B : Accomplissement des formalités (art. 250 A à 260)](#270)
-                - [1 : Bureaux compétents (art. 250 A à 251)](#271)
-                  - [a : Enregistrement (art. 250 A)](#272)
-                  - [b : Formalité fusionnée (art. 251)](#273)
-                - [2 : Modalités d'exécution (art. 251 A à 260)](#274)
-                  - [a : Enregistrement (art. 251 A à 252)](#275)
-                  - [b : Formalité fusionnée (art. 253 à 259)](#276)
-                  - [c : Interdictions (art. 260)](#277)
-            - [II : Des impositions (art. 263)](#278)
-              - [Assiette et liquidation (art. 263)](#279)
-          - [Section II : Les tarifs et leur application (art. 266 bis à 281 ter)](#280)
-            - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 266 bis à 267)](#281)
-              - [2 : Opérations concourant à la production ou à la livraison d'immeubles (art. 266 bis)](#282)
-              - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#283)
-            - [II : Mutations à titre gratuit (art. 280 à 281 ter)](#284)
-              - [A : Assiette des droits - Dispositions spéciales aux successions - Règles d'évaluation (art. 280 à 280 B)](#285)
-                - [2° : Biens frappés d'indisponibilité hors de France (art. 280)](#286)
-                - [3° : Fonds communs de placement (art. 280 A)](#287)
-                - [4° : Fonds communs de placement à risques (art. 280 B)](#288)
-              - [B : Régimes spéciaux et exonérations (art. 281 A à 281 ter)](#289)
-          - [Section III : Obligations diverses (art. 282 à 299)](#290)
-            - [I : Obligations des officiers publics et ministériels (art. 282 à 284)](#291)
-              - [Répertoire des notaires, huissiers et autorités administratives (art. 282 à 284)](#292)
-            - [II : Obligations des agents de l'administration : Salaires des conservateurs (art. 285 à 299)](#293)
-              - [1 : Généralités (art. 285)](#294)
-              - [2 : Salaires fixes (art. 286 à 292)](#295)
-              - [3 : Salaires proportionnels (art. 293 à 297)](#296)
-              - [4 : Minimum de perception (art. 298)](#297)
-              - [5 : Délivrance de renseignements urgents (art. 299)](#298)
-        - [Chapitre II : Droits de timbre (art. 301 à 313 BJ)](#299)
-          - [Section I : Droits de timbre proprement dits (art. 301 à 308)](#300)
-            - [I : Timbre de dimension (art. 301)](#301)
-            - [III : Timbre des quittances (art. 308)](#302)
-          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 313 AR à 313 BG ter)](#303)
-            - [I : Cartes d'entrée dans les casinos. (art. 313 AR)](#304)
-            - [IV : Droits d'inscription à certains examens (art. 313 AV)](#305)
-            - [V : Formalités administratives (1) (art. 313 AW)](#306)
-            - [VI : Navigation intérieure et navigation maritime de plaisance (art. 313 AZ)](#307)
-            - [VII : Passeports et titres de voyage (1) (art. 313 BA)](#308)
-            - [IX : Véhicules à moteur (art. 313 BE à 313 BF)](#309)
-              - [Permis de conduire et certificats d'immatriculation (1) (art. 313 BE à 313 BF)](#310)
-            - [X : Régies de recettes des préfectures et sous-préfectures (art. 313 BG)](#311)
-            - [XI : Formules de chèques (art. 313 BG bis à 313 BG ter)](#312)
-          - [Section III : Dispositions communes aux sections I et II (art. 313 BH à 313 BJ)](#313)
-        - [Chapitre II bis : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques (art. 313-0 BR à 313-0 BR bis)](#314)
-    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 314 à 344 ter)](#315)
-      - [Titre premier : Impositions communales (art. 314 à 328 D ter)](#316)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 314 à 324 AL)](#317)
-          - [Section I : Taxes foncières sur les propriétés bâties et non bâties (art. 314 à 322 ter)](#318)
-            - [a : Exonérations temporaires (art. 314 à 315 sexies)](#319)
-              - [1° : Habitations à loyer modéré (art. 314)](#320)
-              - [2° : Constructions financées au moyen des prêts aidés par l'Etat (art. 315 à 315-0 bis C)](#321)
-              - [3° : Zones franches urbaines (art. 315 quater à 315 sexies)](#322)
-            - [b : Lieu d'imposition (art. 316 à 321 B)](#323)
-              - [Entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts (art. 316 à 321 B)](#324)
-            - [c : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation (art. 321 E à 321 G)](#325)
-            - [d : Majoration de la valeur locative cadastrale des terrains constructibles (art. 322 à 322 ter)](#326)
-          - [Section III : Taxe professionnelle (art. 322 FA à 323)](#327)
-            - [I : Exonération des gîtes ruraux (art. 322 FA)](#328)
-            - [I bis : Exonération temporaire accordée dans le cadre de l'aménagement du territoire (art. 322 G à 322 P)](#329)
-            - [II : Lieu d'imposition des entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts (art. 323)](#330)
-          - [Section III bis : Règles d'évaluation de la valeur locative des biens imposables (art. 324 A à 324 AL)](#331)
-            - [I : Dispositions communes à toutes les catégories de locaux (art. 324 A à 324 C)](#332)
-            - [II : Locaux d'habitation et locaux à usage professionnel (art. 324 D à 324 X)](#333)
-              - [A : Décomposition de chaque propriété ou fraction de propriété (art. 324 D à 324 F)](#334)
-              - [B : Classification communale des locaux (art. 324 G à 324 J)](#335)
-              - [C : Tarifs d'évaluation (art. 324 K à 324 V)](#336)
-                - [1 : Modalités d'établissement (art. 324 K)](#337)
-                - [2 : Détermination de la surface pondérée (art. 324 L à 324 V)](#338)
-              - [D : Evaluations individuelles (art. 324 W à 324 X)](#339)
-                - [1 : Evaluation des locaux de référence (art. 324 W)](#340)
-                - [2 : Evaluation des autres locaux (art. 324 X)](#341)
-            - [III : Locaux commerciaux et biens divers passibles de la taxe foncière sur les propriétés bâties (art. 324 Y à 324 AC)](#342)
-              - [A : Evaluation d'après les baux écrits ou les locations verbales (art. 324 Y)](#343)
-              - [B : Evaluation par comparaison (art. 324 AA à 324 Z)](#344)
-              - [C : Evaluation par voie d'appréciation directe (art. 324 AB à 324 AC)](#345)
-            - [IV : Etablissements industriels (art. 324 AE à 324 AG)](#346)
-            - [V : Déclarations à souscrire pour chaque révision (art. 324 AH à 324 AJ)](#347)
-            - [VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties (art. 324 AK à 324 AL)](#348)
-        - [Chapitre III : Enregistrement (art. 328 D bis à 328 D ter)](#349)
-          - [Section unique : Taxe locale d'équipement (art. 328 D bis à 328 D ter)](#350)
-      - [Titre I bis : Impositions départementales (art. 328 E à 328 G)](#351)
-        - [Chapitre unique : Impôts directs et taxes assimilées (art. 328 E à 328 G)](#352)
-          - [I : Taxe foncière sur les propriétés bâties (art. 328 E à 328 G)](#353)
-      - [Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse (art. 328 H à 328 J)](#354)
-        - [Chapitre unique : Impôts directs et taxes assimilées (art. 328 H à 328 J)](#355)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 330 à 344 ter)](#356)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 330 à 331)](#357)
-          - [Section I : Taxe pour frais de chambres de commerce et d'industrie (art. 330 à 331)](#358)
-        - [Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées (art. 331 L à 331 V undecies)](#359)
-          - [Section I : Taxe sur l'édition des ouvrages de librairie (art. 331 L)](#360)
-          - [Section II : Redevance sur l'emploi de la reprographie (art. 331 M)](#361)
-          - [Section III : Taxe spéciale sur les huiles (art. 331 N à 331 V)](#362)
-          - [Section IV : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 331 V bis à 331 V undecies)](#363)
-        - [Chapitre II : Contributions indirectes (art. 333 H bis à 333 H ter)](#364)
-          - [Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles (art. 333 H bis à 333 H ter)](#365)
-        - [Chapitre III : Enregistrement (art. 336 bis à 344 ter)](#366)
-          - [Section I : Contribution alimentant le fonds commun des accidents du travail agricole (art. 336 bis à 336 ter)](#367)
-          - [Section III : Taxes perçues au profit de l'Office des migrations internationales (art. 344 bis à 344 ter)](#368)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 344-0 A à 350 terdecies)](#369)
-      - [Titre premier : Assiette et contrôle de l'impôt (art. 344-0 A à 344 L)](#370)
-        - [Chapitre premier : Obligations des contribuables (art. 344-0 A à 344 I)](#371)
-          - [00I : Déclarations souscrites auprès de la Direction des grandes entreprises (art. 344-0 A à 344-0 C)](#372)
-          - [0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger (art. 344 A à 344 C)](#373)
-          - [OI bis : Déclarations des avances remboursables ne portant pas d'intérêt. (art. 344 G bis à 344 G ter)](#374)
-          - [I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes (art. 344 GA à 344 GC)](#375)
-          - [II : Déclaration des ventes autres que les ventes au détail (art. 344 H à 344 I)](#376)
-        - [Chapitre I bis : Déclaration des transferts de sommes, titres ou valeurs (art. 344 I bis)](#377)
-        - [Chapitre I ter : Transmission des déclarations professionnelles par voie électronique (art. 344 I quater à 344 I ter)](#378)
-        - [Chapitre II : Centres de gestion agréés (art. 344 IA à 344 ID)](#379)
-        - [Chapitre IV : Agrément (art. 344 K à 344 L)](#380)
-      - [Titre II : Dispositions diverses (art. 345 à 350 terdecies)](#381)
-        - [Chapitre premier : Commissions administratives des impôts (art. 345 à 350 C)](#382)
-          - [I : Commission communale des impôts directs (art. 345)](#383)
-          - [II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires (art. 347 à 348)](#384)
-          - [III : Commission départementale de conciliation (art. 349 à 350 C)](#385)
-        - [Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées (art. 350 decies à 350 undecies)](#386)
-        - [Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques (art. 350 terdecies)](#387)
-  - [Livre II : Recouvrement de l'impôt (art. 357 A à 446 ter B)](#388)
-    - [Chapitre premier : Paiement de l'impôt (art. 357 A à 406 terdecies)](#389)
-      - [Section I : Impôts directs et taxes assimilées (art. 357 A à 383 ter)](#390)
-        - [II : Exigibilité de l'impôt (art. 357 A à 381 X)](#391)
-          - [2 : Impôt sur le revenu (art. 357 A à 357 H)](#392)
-          - [3 : Impôt sur les sociétés (art. 358 à 366 AA)](#393)
-          - [03 bis : Imposition forfaitaire annuelle des sociétés (art. 366 A bis)](#394)
-          - [3 bis : Contribution sur l'impôt sur les sociétés. (art. 366 B à 366 I)](#395)
-          - [3 quater : Contribution sociale sur l'impôt sur les sociétés (art. 366 L à 366 N)](#396)
-          - [6 : Taxe sur les salaires (art. 369 à 374)](#397)
-            - [a : Remise au Trésor de la taxe sur les salaires (art. 369)](#398)
-            - [d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques (art. 374)](#399)
-          - [7 : Contribution annuelle sur les revenus locatifs (art. 375 à 381 ter)](#400)
-          - [8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs (art. 381 A à 381 Q)](#401)
-          - [9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France (art. 381 R)](#402)
-          - [10 : Prélèvement sur les produits de placements à revenu fixe (art. 381 S)](#403)
-          - [11 : Précompte exigible sur certaines distributions. (art. 381 T)](#404)
-          - [12 : Participation des employeurs au développement de la formation professionnelle continue (art. 381 U à 381 X)](#405)
-        - [III : Paiement de l'impôt (art. 382 à 383 ter)](#406)
-          - [4 : Impôt sur le revenu et impositions figurant sur le même article de rôle (art. 383 bis à 383 ter)](#407)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 384 à 384 A bis)](#408)
-        - [I : Obligations cautionnées. (art. 384)](#409)
-        - [II bis : Dispositions particulières à certains transports (art. 384 A bis)](#410)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 bis A à 406 ter)](#411)
-        - [0I : Paiement sur états (art. 384 bis A)](#412)
-          - [Actes notariés (art. 384 bis A)](#413)
-        - [0II : Formalité fusionnée (art. 384 quinquies A)](#414)
-        - [I : Taxe spéciale sur les conventions d'assurances (art. 385 à 390)](#415)
-        - [III : Paiement fractionné ou différé des droits (art. 396 à 404 GD)](#416)
-          - [B : Mutations de propriété ou apports en société (art. 396 à 404 GD)](#417)
-            - [1 : Champ d'application (art. 396 à 397 A)](#418)
-              - [Transmissions d'entreprises (art. 397 A)](#419)
-            - [2 : Dispositions générales (art. 398 à 404)](#420)
-            - [3 : Dispositions particulières (art. 404 A à 404 GD)](#421)
-              - [1° : Mutations par décès (art. 404 A à 404 B)](#422)
-              - [2° : Apports en société (art. 404 C)](#423)
-              - [3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires (art. 404 D)](#424)
-              - [4° : Offices ministériels (art. 404 E)](#425)
-              - [5° : Rapatriés d'outre-mer et migrants ruraux (art. 404 F)](#426)
-              - [6° Transmissions d'entreprises (art. 404 GA à 404 GD)](#427)
-        - [V : Droits de timbre (art. 405 B à 406)](#428)
-          - [B : Paiement par emploi de machines à timbrer (art. 405 B)](#429)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 C à 405 F)](#430)
-          - [D : Paiement au moyen du visa pour timbre (art. 405 G)](#431)
-          - [E : Paiement de l'impôt sur états (art. 405 H à 406)](#432)
-        - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#433)
-          - [Taxes sur les véhicules des sociétés (art. 406 bis)](#434)
-        - [VII : Taxe locale d'équipement (art. 406 nonies à 406 ter)](#435)
-      - [Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 undecies à 406 undecies A)](#436)
-      - [Section V : Dispositions communes (art. 406 duodecies à 406 terdecies)](#437)
-    - [Chapitre I bis : Pénalités (art. 406 K à 406 A 27)](#438)
-      - [Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 K à 406 L)](#439)
-      - [Section II : Dispositions communes (art. 406 A 12 à 406 A 16 F)](#440)
-        - [II : Infractions aux règles de la facturation (art. 406 A 12 à 406 A 16)](#441)
-          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 12 à 406 A 16)](#442)
-        - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#443)
-      - [Section III : Dispositions particulières (art. 406 A 27)](#444)
-        - [III : Droits d'enregistrement (art. 406 A 27)](#445)
-    - [Chapitre II : Procédures (art. 415 à 416-0 bis)](#446)
-      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 415 à 416-0 bis)](#447)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#448)
-      - [Section I : Juridiction contentieuse (art. 416 E)](#449)
-        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#450)
-      - [Section II : Juridiction gracieuse (art. 426 à 445)](#451)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#452)
-          - [1 : Cotes irrécouvrables (art. 426 à 428)](#453)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#454)
-            - [a : Sursis de versement (art. 430 à 432)](#455)
-            - [b : Décharge de responsabilité (art. 433 à 438)](#456)
-            - [c : Dispositions communes (art. 439 à 444)](#457)
-        - [D : Dispositions particulières aux impôts directs (art. 445)](#458)
-    - [Chapitre III bis : Restitution de la prime pour l'emploi (art. 446 ter à 446 ter B)](#459)
+            - [6° bis : Réduction d'impôt au titre de souscriptions de parts de fonds d'investissement de proximité (art. 46 AI quinquies)](#105)
+            - [8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés. (art. 46 AM à 46 AO)](#106)
+            - [8° bis : Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet. (art. 46 AO bis)](#107)
+            - [10° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles (art. 46 AS à 46 AT)](#108)
+          - [Section IV : Obligations incombant à certaines sociétés immobilières (art. 46 B à 46 D)](#109)
+          - [Section V : Disposition applicable en cas de perte du statut fiscal des sociétés de personnes (art. 46 E)](#110)
+        - [Chapitre I bis : Impôt sur les sociétés (art. 46 bis à 46 quater-0 ZZ sexies)](#111)
+          - [Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires (art. 46 bis à 46 ter)](#112)
+          - [Section 0I bis : Exonération édictée en faveur des sociétés d'investissements immobiliers cotées (art. 46 ter A)](#113)
+          - [Section I bis : Entreprises créées en Corse (art. 46 quater)](#114)
+          - [Section I ter : Activités créées en Corse (art. 46 quater-00 A à 46 quater-00 A ter)](#115)
+          - [Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs (art. 46 quater-0 A)](#116)
+          - [Section III : Intérêts de livrets supplémentaires de caisses d'épargne (art. 46 quater-0 B)](#117)
+          - [Section III bis : Supplément d'impôt sur les sociétés (art. 46 quater-0 BA)](#118)
+          - [Section IV : Modalités d'application du précompte. (art. 46 quater-0 C à 46 quater-0 FA)](#119)
+          - [Section IV bis : Modalités de l'exonération de la retenue à la source ou du prélèvement applicable aux dividendes, intérêts et redevances distribués ou payées entre sociétés associées d'Etats membres de la Communauté européenne (art. 46 quater-0 FB à 46 quater-0 FD)](#120)
+          - [Section V : Profits de construction (art. 46 quater-0 G à 46 quater-0 R)](#121)
+            - [I : Entreprises de construction de logements. (art. 46 quater-0 I à 46 quater-0 K)](#122)
+            - [II : Entreprises dont la construction de logements ne constitue pas l'activité exclusive. (art. 46 quater-0 L à 46 quater-0 O)](#123)
+            - [III : Dispositions diverses (art. 46 quater-0 P à 46 quater-0 R)](#124)
+          - [Section V bis : Rachat d'une entreprise par ses salariés (art. 46 quater-0 RA à 46 quater-0 RG)](#125)
+          - [Section VI : Report en arrière des déficits (art. 46 quater-0 S à 46 quater-0 YC)](#126)
+            - [I : Sociétés agréées au régime du bénéfice consolidé (art. 46 quater-0 X à 46 quater-0 XB)](#127)
+            - [II : Sociétés agréées au régime de l'intégration fiscale. (art. 46 quater-0 Y à 46 quater-0 YC)](#128)
+          - [Section VI bis : Option de souscription, achat ou attribution gratuite d'actions (art. 46 quater-0 YD à 46 quater-0 YE)](#129)
+          - [Section VI ter : Crédit d'impôt pour investissement en faveur des entreprises implantées dans certains secteurs de la région Nord - Pas-de-Calais. (art. 46 quater-0 YF à 46 quater-0 YK)](#130)
+          - [Section VI quater : Crédit d'impôt pour dépenses dans la production d'oeuvres cinématographiques (art. 46 quater-0 YL à 46 quater-0 YR)](#131)
+          - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural (art. 46 quater-0 Z à 46 quater-0 ZC)](#132)
+          - [Section VIII : Régime des groupes de sociétés (art. 46 quater-0 ZD à 46 quater-0 ZS)](#133)
+          - [Section VIII bis : Régime de taxation au tonnage (art. 46 quater-0 ZS bis à 46 quater-0 ZS bis A)](#134)
+          - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies (art. 46 quater-0 ZU)](#135)
+          - [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital (art. 46 quater-0 ZZ à 46 quater-0 ZZ bis)](#136)
+          - [Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises (art. 46 quater-0 ZZ bis A)](#137)
+          - [Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées (art. 46 quater-0 ZZ bis B)](#138)
+          - [Section XIII : Déduction des investissements réalisés outre-mer (art. 46 quater-0 ZZ ter)](#139)
+          - [Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière (art. 46 quater-0 ZZ quater à 46 quater-0 ZZ quinquies)](#140)
+          - [Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural (art. 46 quater-0 ZZ sexies)](#141)
+        - [Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés (art. 46 quater A à 49 octies E)](#142)
+          - [Section 00I : Sociétés d'investissement (art. 46 quater A à 46 quater C)](#143)
+            - [Capital minimal exigé pour l'octroi des avantages fiscaux (art. 46 quater A à 46 quater C)](#144)
+          - [Section 0I : Sociétés de personnes et assimilées (art. 46 terdecies A à 46 terdecies H)](#145)
+            - [I : Sociétés à responsabilité limitée.   Option pour le régime fiscal des sociétés de personnes (art. 46 terdecies A à 46 terdecies D)](#146)
+            - [II : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes, un groupement d'intérêt économique, un groupement d'intérêt public ou un groupement européen d'intérêt économique (art. 46 terdecies E à 46 terdecies H)](#147)
+          - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble (art. 46 quaterdecies)](#148)
+          - [Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer (art. 46 quaterdecies BA à 46 quaterdecies X)](#149)
+          - [Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles (art. 46 quindecies A à 46 quindecies F)](#150)
+          - [Section 0I quinquies : Financement en capital de la pêche artisanale (art. 46 quindecies G à 46 quindecies L)](#151)
+          - [Section 0I sexies : Mécénat d'entreprises (art. 46 quindecies M à 46 quindecies Q)](#152)
+          - [Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur (art. 47 à 47 bis)](#153)
+          - [Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices (art. 48)](#154)
+          - [Section II bis : Déclarations concernant les revenus de capitaux mobiliers (art. 49 B à 49 I bis)](#155)
+            - [1° : Contrats de prêts (art. 49 B)](#156)
+            - [2° : Paiement de revenus de valeurs mobilières (art. 49 D à 49 I)](#157)
+            - [3° : Obligations des établissements auprès desquels ont été souscrits des bons, titres ou contrats nominatifs (art. 49 I bis)](#158)
+          - [Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts (art. 49 J)](#159)
+          - [Section II quater : Entreprises implantées dans les zones franches urbaines- territoires entrepreneurs (art. 49 K à 49 P)](#160)
+          - [Section II quinquies : Entreprises implantées en Corse (art. 49 Q à 49 T)](#161)
+          - [Section III : Restitution d'impôts consécutive au remboursement des sommes mentionnées au a de l'article 111 du code général des impôts (art. 49 bis à 49 ter)](#162)
+          - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles (art. 49 septies F à 49 septies N)](#163)
+          - [Section V bis : Crédit d'impôt pour dépenses de formation. (art. 49 septies S à 49 septies-0 T)](#164)
+          - [Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse (art. 49 septies WB à 49 septies WH)](#165)
+          - [Section V quinquies : Réduction d'impôt pour versement de dons aux oeuvres et organismes d'intérêt général prévue à l'article 238 bis du code général des impôts (art. 49 septies X à 49 septies XB)](#166)
+          - [Section VI : Indemnités de congé payé (art. 49 octies à 49 octies D)](#167)
+          - [Section VII : Opérations de crédit-bail (art. 49 octies E)](#168)
+        - [Chapitre III : Taxes diverses (art. 50-0 à 58 O)](#169)
+          - [Section 0I : Taxe d'apprentissage. (art. 50-0 à 50-0 bis)](#170)
+          - [Section I : Taxe sur les salaires (art. 50 à 53 ter)](#171)
+            - [I : Champ d'application. (art. 50)](#172)
+            - [II : Base de la taxe (art. 51)](#173)
+            - [III : Dispositions spéciales aux professions relevant du régime agricole au regard des lois sur la sécurité sociale (art. 53 à 53 ter)](#174)
+          - [Section III : Contribution annuelle sur les revenus locatifs (art. 58 A à 58-0 A)](#175)
+          - [Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction (art. 58 J)](#176)
+          - [Section V : Contribution des institutions financières. (art. 58 K à 58 O)](#177)
+        - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III (art. 64 bis à 65)](#178)
+          - [Section I : Impôt sur le revenu et impôt sur les sociétés (art. 64 bis à 64 ter)](#179)
+          - [Section II : Dispositions spéciales applicables aux opérations de nationalisation (art. 65)](#180)
+      - [Titre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 65 A à 111 quater R)](#181)
+        - [Chapitre premier : Taxe sur la valeur ajoutée (art. 65 A à 98 bis)](#182)
+          - [Section I : Champ d'application (art. 65 A à 74)](#183)
+            - [I : Opérations obligatoirement imposables (art. 65 A à 68)](#184)
+              - [A : Animaux de boucherie et de charcuterie (art. 65 A)](#185)
+              - [B : Prestations de transport (art. 68)](#186)
+            - [I bis : Opérations imposables sur option (art. 70 septies à 70 sexies)](#187)
+            - [II : Opérations exonérées (art. 72 à 74)](#188)
+              - [B : Presse et impression (art. 72 à 73)](#189)
+              - [C : Transports, opérations et services exonérés (art. 73 A à 73 H)](#190)
+              - [D : Exportation (art. 74)](#191)
+          - [Section II : Assiette de la taxe (art. 76)](#192)
+            - [Régime du chiffre d'affaires réel (art. 76)](#193)
+          - [Section III : Fait générateur et exigibilité de la taxe (art. 77 à 84)](#194)
+            - [I : Paiement de la taxe d'après les débits (art. 77)](#195)
+            - [II : Entrepreneurs de travaux immobiliers (art. 78 à 84)](#196)
+          - [Section IV : Liquidation de la taxe (art. 85 à 85 L)](#197)
+            - [OI : Déductions (art. 85 à 85 L)](#198)
+              - [I :  Régime suspensif (art. 85 à 85 L)](#199)
+                - [A : Ouverture d'un entrepôt fiscal (art. 85 à 85 A)](#200)
+                - [B : Modification du fonctionnement d'un entrepôt fiscal (art. 85 B)](#201)
+                - [C : Fermeture d'un entrepôt fiscal (art. 85 C)](#202)
+                - [D : Entrée et sortie des biens d'un entrepôt fiscal (art. 85 D)](#203)
+                - [E : Entrepôts nationaux d'importation et d'exportation (art. 85 E)](#204)
+                - [F : Biens admissibles sous un régime d'entrepôt fiscal (art. 85 F)](#205)
+                - [G : Définition des opérations effectuées en suspension du paiement de la taxe sur la valeur ajoutée (art. 85 G à 85 J)](#206)
+                - [H : Attestations et factures (art. 85 K à 85 L)](#207)
+          - [Section V : Calcul de la taxe (art. 85 bis à 89 ter)](#208)
+            - [I : Taux (art. 85 bis à 89 ter)](#209)
+              - [A : Taux réduit (art. 85 bis à 87 ter)](#210)
+                - [1 : Cantines d'entreprises (art. 85 bis)](#211)
+                - [3 : Concerts (art. 87 bis à 87 ter)](#212)
+              - [D : Taux particuliers (art. 89 ter)](#213)
+          - [Section VI : Obligations des redevables (art. 95 à 96 M)](#214)
+            - [1° : Entreprises de spectacles (art. 96 B à 96 D)](#215)
+            - [2° : Factures transmises par voie télématique (art. 96 F à 96 I)](#216)
+            - [3° : Déclaration des échanges de biens entre Etats membres de l'Union européenne (art. 96 J à 96 M)](#217)
+          - [Section VII bis : Identification des assujettis non établis dans la Communauté européenne fournissant des services par voie électronique (art. 97 bis à 97 ter)](#218)
+          - [Section VIII : Régimes spéciaux (art. 98 A à 98 C)](#219)
+            - [II : Biens d'occasion, oeuvres d'art, objets de collection et d'antiquité (art. 98 A)](#220)
+            - [III : Régime applicable à l'or d'investissement (art. 98 B)](#221)
+            - [IV : Services fournis par voie électronique (art. 98 C)](#222)
+          - [Section IX : Exploitants agricoles (art. 98 bis)](#223)
+        - [Chapitre IV : Redevance sanitaire d'abattage (art. 111 quater A à 111 quater I)](#224)
+        - [Chapitre V : Redevance sanitaire de découpage (art. 111 quater L à 111 quater R)](#225)
+      - [Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires (art. 111 novodecies à 111 sexdecies)](#226)
+        - [Chapitre II : Récépissé de consignation (art. 111 novodecies à 111 sexdecies)](#227)
+      - [Titre III : Contributions indirectes et taxes diverses (art. 111-0 A à 244 quinquedecies)](#228)
+        - [Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés (art. 111-0 A à 111 N)](#229)
+          - [Section 0I : Entrepositaires et opérateurs agréés (art. 111-0 A à 111-00 C)](#230)
+          - [Section II : Titres de mouvement (art. 111 H bis à 111 H ter)](#231)
+          - [Section III : Capsules représentatives de droits (art. 111 I à 111 N)](#232)
+        - [Chapitre premier : Boissons (art. 118 à 182)](#233)
+          - [Section I : Alcools (art. 118 à 169-0 A)](#234)
+            - [A : Production (art. 118 à 143)](#235)
+              - [II : Déduction spéciale accordée aux fabricants de mistelles (art. 118)](#236)
+              - [III : Fabrication des boissons de raisins secs. (art. 125 à 143)](#237)
+            - [B : Régime économique (art. 143 A à 144 bis)](#238)
+              - [I : Organisation de l'économie cidricole (art. 143 A à 143 Z)](#239)
+              - [II bis : Régime économique du rhum (art. 144 bis)](#240)
+            - [C : Régime fiscal (art. 169-0 A)](#241)
+          - [Section II : Vins et cidres (art. 169 bis à 178-0 bis)](#242)
+            - [A : Production (art. 169 bis)](#243)
+              - [Déclarations (art. 169 bis)](#244)
+            - [B : Régime fiscal (art. 172 à 178-0 bis)](#245)
+              - [Admission en décharge des déchets résultant de la concentration par le froid (art. 172 à 178-0 bis)](#246)
+          - [Section V : Régimes particuliers (art. 178 A à 182)](#247)
+            - [I : Réglementation des essences d'absinthe et produits assimilés ou susceptibles de les suppléer (art. 178 A à 178 Z)](#248)
+            - [II : Charbons activés et substances similaires. (art. 179 à 182)](#249)
+        - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 183 à 214)](#250)
+          - [Section I : Forme et apposition des poinçons (art. 183 à 186 ter)](#251)
+          - [Section II : Organisation des bureaux de garantie (art. 187 à 191)](#252)
+          - [Section III : Fonctionnement des bureaux de garantie (art. 203 à 208)](#253)
+          - [Section IV : Obligations des redevables (art. 209 à 211)](#254)
+          - [Section IV bis : Exportations ou livraisons à destination d'un autre Etat membre de l'Union européenne (art. 211 AA à 211 AC)](#255)
+          - [Section V : Ouvrages dorés, argentés ou platinés (art. 212 A)](#256)
+          - [Section VI : Frappe des médailles (art. 213 à 214)](#257)
+        - [Chapitre III bis : Régime économique du sucre. (art. 219 A à 219 O)](#258)
+        - [Chapitre III ter : Régime économique de l'isoglucose. (art. 219 P à 219 U)](#259)
+        - [Chapitre III ter A : Régime économique du sirop d'inuline. (art. 219 V bis à 219 V ter)](#260)
+        - [Chapitre VI : Tabacs (art. 244 decies à 244 vicies)](#261)
+        - [Chapitre VI : Tabac (art. 244 quinquedecies)](#262)
+      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 245 à 313-0 BR bis)](#263)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 245 à 299)](#264)
+          - [Section I : Dispositions générales (art. 245 à 263)](#265)
+            - [I : Des formalités (art. 245 à 260)](#266)
+              - [A : Champ d'application respectif de la formalité de l'enregistrement et de la formalité fusionnée - Délais (art. 245 à 250)](#267)
+                - [1 : Actes et mutations soumis à la formalité de l'enregistrement. Actes publics et sous seings privés (art. 245 à 248)](#268)
+                - [2 : Actes soumis à la formalité fusionnée de l'enregistrement et de la publicité foncière (art. 249)](#269)
+                - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 250)](#270)
+              - [B : Accomplissement des formalités (art. 250 A à 260)](#271)
+                - [1 : Bureaux compétents (art. 250 A à 251)](#272)
+                  - [a : Enregistrement (art. 250 A)](#273)
+                  - [b : Formalité fusionnée (art. 251)](#274)
+                - [2 : Modalités d'exécution (art. 251 A à 260)](#275)
+                  - [a : Enregistrement (art. 251 A à 252)](#276)
+                  - [b : Formalité fusionnée (art. 253 à 259)](#277)
+                  - [c : Interdictions (art. 260)](#278)
+            - [II : Des impositions (art. 263)](#279)
+              - [Assiette et liquidation (art. 263)](#280)
+          - [Section II : Les tarifs et leur application (art. 266 bis à 281 ter)](#281)
+            - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 266 bis à 267)](#282)
+              - [2 : Opérations concourant à la production ou à la livraison d'immeubles (art. 266 bis)](#283)
+              - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#284)
+            - [II : Mutations à titre gratuit (art. 280 à 281 ter)](#285)
+              - [A : Assiette des droits - Dispositions spéciales aux successions - Règles d'évaluation (art. 280 à 280 B)](#286)
+                - [2° : Biens frappés d'indisponibilité hors de France (art. 280)](#287)
+                - [3° : Fonds communs de placement (art. 280 A)](#288)
+                - [4° : Fonds communs de placement à risques (art. 280 B)](#289)
+              - [B : Régimes spéciaux et exonérations (art. 281 A à 281 ter)](#290)
+          - [Section III : Obligations diverses (art. 282 à 299)](#291)
+            - [I : Obligations des officiers publics et ministériels (art. 282 à 284)](#292)
+              - [Répertoire des notaires, huissiers et autorités administratives (art. 282 à 284)](#293)
+            - [II : Obligations des agents de l'administration : Salaires des conservateurs (art. 285 à 299)](#294)
+              - [1 : Généralités (art. 285)](#295)
+              - [2 : Salaires fixes (art. 286 à 292)](#296)
+              - [3 : Salaires proportionnels (art. 293 à 297)](#297)
+              - [4 : Minimum de perception (art. 298)](#298)
+              - [5 : Délivrance de renseignements urgents (art. 299)](#299)
+        - [Chapitre II : Droits de timbre (art. 301 à 313 BJ)](#300)
+          - [Section I : Droits de timbre proprement dits (art. 301 à 308)](#301)
+            - [I : Timbre de dimension (art. 301)](#302)
+            - [III : Timbre des quittances (art. 308)](#303)
+          - [Section II : Droits de délivrance de documents et perceptions diverses (art. 313 AR à 313 BG ter)](#304)
+            - [I : Cartes d'entrée dans les casinos. (art. 313 AR)](#305)
+            - [IV : Droits d'inscription à certains examens (art. 313 AV)](#306)
+            - [V : Formalités administratives (1) (art. 313 AW)](#307)
+            - [VI : Navigation intérieure et navigation maritime de plaisance (art. 313 AZ)](#308)
+            - [VII : Passeports et titres de voyage (1) (art. 313 BA)](#309)
+            - [IX : Véhicules à moteur (art. 313 BE à 313 BF)](#310)
+              - [Permis de conduire et certificats d'immatriculation (1) (art. 313 BE à 313 BF)](#311)
+            - [X : Régies de recettes des préfectures et sous-préfectures (art. 313 BG)](#312)
+            - [XI : Formules de chèques (art. 313 BG bis à 313 BG ter)](#313)
+          - [Section III : Dispositions communes aux sections I et II (art. 313 BH à 313 BJ)](#314)
+        - [Chapitre II bis : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques (art. 313-0 BR à 313-0 BR bis)](#315)
+    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 314 à 344 ter)](#316)
+      - [Titre premier : Impositions communales (art. 314 à 328 D ter)](#317)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 314 à 324 AL)](#318)
+          - [Section I : Taxes foncières sur les propriétés bâties et non bâties (art. 314 à 322 ter)](#319)
+            - [a : Exonérations temporaires (art. 314 à 315 sexies)](#320)
+              - [1° : Habitations à loyer modéré (art. 314)](#321)
+              - [2° : Constructions financées au moyen des prêts aidés par l'Etat (art. 315 à 315-0 bis C)](#322)
+              - [3° : Zones franches urbaines (art. 315 quater à 315 sexies)](#323)
+            - [b : Lieu d'imposition (art. 316 à 321 B)](#324)
+              - [Entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts (art. 316 à 321 B)](#325)
+            - [c : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation (art. 321 E à 321 G)](#326)
+            - [d : Majoration de la valeur locative cadastrale des terrains constructibles (art. 322 à 322 ter)](#327)
+          - [Section III : Taxe professionnelle (art. 322 FA à 323)](#328)
+            - [I : Exonération des gîtes ruraux (art. 322 FA)](#329)
+            - [I bis : Exonération temporaire accordée dans le cadre de l'aménagement du territoire (art. 322 G à 322 P)](#330)
+            - [II : Lieu d'imposition des entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts (art. 323)](#331)
+          - [Section III bis : Règles d'évaluation de la valeur locative des biens imposables (art. 324 A à 324 AL)](#332)
+            - [I : Dispositions communes à toutes les catégories de locaux (art. 324 A à 324 C)](#333)
+            - [II : Locaux d'habitation et locaux à usage professionnel (art. 324 D à 324 X)](#334)
+              - [A : Décomposition de chaque propriété ou fraction de propriété (art. 324 D à 324 F)](#335)
+              - [B : Classification communale des locaux (art. 324 G à 324 J)](#336)
+              - [C : Tarifs d'évaluation (art. 324 K à 324 V)](#337)
+                - [1 : Modalités d'établissement (art. 324 K)](#338)
+                - [2 : Détermination de la surface pondérée (art. 324 L à 324 V)](#339)
+              - [D : Evaluations individuelles (art. 324 W à 324 X)](#340)
+                - [1 : Evaluation des locaux de référence (art. 324 W)](#341)
+                - [2 : Evaluation des autres locaux (art. 324 X)](#342)
+            - [III : Locaux commerciaux et biens divers passibles de la taxe foncière sur les propriétés bâties (art. 324 Y à 324 AC)](#343)
+              - [A : Evaluation d'après les baux écrits ou les locations verbales (art. 324 Y)](#344)
+              - [B : Evaluation par comparaison (art. 324 AA à 324 Z)](#345)
+              - [C : Evaluation par voie d'appréciation directe (art. 324 AB à 324 AC)](#346)
+            - [IV : Etablissements industriels (art. 324 AE à 324 AG)](#347)
+            - [V : Déclarations à souscrire pour chaque révision (art. 324 AH à 324 AJ)](#348)
+            - [VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties (art. 324 AK à 324 AL)](#349)
+        - [Chapitre III : Enregistrement (art. 328 D bis à 328 D ter)](#350)
+          - [Section unique : Taxe locale d'équipement (art. 328 D bis à 328 D ter)](#351)
+      - [Titre I bis : Impositions départementales (art. 328 E à 328 G)](#352)
+        - [Chapitre unique : Impôts directs et taxes assimilées (art. 328 E à 328 G)](#353)
+          - [I : Taxe foncière sur les propriétés bâties (art. 328 E à 328 G)](#354)
+      - [Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse (art. 328 H à 328 J)](#355)
+        - [Chapitre unique : Impôts directs et taxes assimilées (art. 328 H à 328 J)](#356)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 330 à 344 ter)](#357)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 330 à 331)](#358)
+          - [Section I : Taxe pour frais de chambres de commerce et d'industrie (art. 330 à 331)](#359)
+        - [Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées (art. 331 L à 331 V undecies)](#360)
+          - [Section I : Taxe sur l'édition des ouvrages de librairie (art. 331 L)](#361)
+          - [Section II : Redevance sur l'emploi de la reprographie (art. 331 M)](#362)
+          - [Section III : Taxe spéciale sur les huiles (art. 331 N à 331 V)](#363)
+          - [Section IV : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 331 V bis à 331 V undecies)](#364)
+        - [Chapitre II : Contributions indirectes (art. 333 H bis à 333 H ter)](#365)
+          - [Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles (art. 333 H bis à 333 H ter)](#366)
+        - [Chapitre III : Enregistrement (art. 336 bis à 344 ter)](#367)
+          - [Section I : Contribution alimentant le fonds commun des accidents du travail agricole (art. 336 bis à 336 ter)](#368)
+          - [Section III : Taxes perçues au profit de l'Office des migrations internationales (art. 344 bis à 344 ter)](#369)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 344-0 A à 350 terdecies)](#370)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 344-0 A à 344 L)](#371)
+        - [Chapitre premier : Obligations des contribuables (art. 344-0 A à 344 I)](#372)
+          - [00I : Déclarations souscrites auprès de la Direction des grandes entreprises (art. 344-0 A à 344-0 C)](#373)
+          - [0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger (art. 344 A à 344 C)](#374)
+          - [OI bis : Déclarations des avances remboursables ne portant pas d'intérêt. (art. 344 G bis à 344 G ter)](#375)
+          - [I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes (art. 344 GA à 344 GC)](#376)
+          - [II : Déclaration des ventes autres que les ventes au détail (art. 344 H à 344 I)](#377)
+        - [Chapitre I bis : Déclaration des transferts de sommes, titres ou valeurs (art. 344 I bis)](#378)
+        - [Chapitre I ter : Transmission des déclarations professionnelles par voie électronique (art. 344 I quater à 344 I ter)](#379)
+        - [Chapitre II : Centres de gestion agréés (art. 344 IA à 344 ID)](#380)
+        - [Chapitre IV : Agrément (art. 344 K à 344 L)](#381)
+      - [Titre II : Dispositions diverses (art. 345 à 350 terdecies)](#382)
+        - [Chapitre premier : Commissions administratives des impôts (art. 345 à 350 C)](#383)
+          - [I : Commission communale des impôts directs (art. 345)](#384)
+          - [II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires (art. 347 à 348)](#385)
+          - [III : Commission départementale de conciliation (art. 349 à 350 C)](#386)
+        - [Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées (art. 350 decies à 350 undecies)](#387)
+        - [Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques (art. 350 terdecies)](#388)
+  - [Livre II : Recouvrement de l'impôt (art. 357 A à 446 ter B)](#389)
+    - [Chapitre premier : Paiement de l'impôt (art. 357 A à 406 terdecies)](#390)
+      - [Section I : Impôts directs et taxes assimilées (art. 357 A à 383 ter)](#391)
+        - [II : Exigibilité de l'impôt (art. 357 A à 381 X)](#392)
+          - [2 : Impôt sur le revenu (art. 357 A à 357 H)](#393)
+          - [3 : Impôt sur les sociétés (art. 358 à 366 AA)](#394)
+          - [03 bis : Imposition forfaitaire annuelle des sociétés (art. 366 A bis)](#395)
+          - [3 bis : Contribution sur l'impôt sur les sociétés. (art. 366 B à 366 I)](#396)
+          - [3 quater : Contribution sociale sur l'impôt sur les sociétés (art. 366 L à 366 N)](#397)
+          - [6 : Taxe sur les salaires (art. 369 à 374)](#398)
+            - [a : Remise au Trésor de la taxe sur les salaires (art. 369)](#399)
+            - [d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques (art. 374)](#400)
+          - [7 : Contribution annuelle sur les revenus locatifs (art. 375 à 381 ter)](#401)
+          - [8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs (art. 381 A à 381 Q)](#402)
+          - [9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France (art. 381 R)](#403)
+          - [10 : Prélèvement sur les produits de placements à revenu fixe (art. 381 S)](#404)
+          - [11 : Précompte exigible sur certaines distributions. (art. 381 T)](#405)
+          - [12 : Participation des employeurs au développement de la formation professionnelle continue (art. 381 U à 381 X)](#406)
+        - [III : Paiement de l'impôt (art. 382 à 383 ter)](#407)
+          - [4 : Impôt sur le revenu et impositions figurant sur le même article de rôle (art. 383 bis à 383 ter)](#408)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 384 à 384 A bis)](#409)
+        - [I : Obligations cautionnées. (art. 384)](#410)
+        - [II bis : Dispositions particulières à certains transports (art. 384 A bis)](#411)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 bis A à 406 ter)](#412)
+        - [0I : Paiement sur états (art. 384 bis A)](#413)
+          - [Actes notariés (art. 384 bis A)](#414)
+        - [0II : Formalité fusionnée (art. 384 quinquies A)](#415)
+        - [I : Taxe spéciale sur les conventions d'assurances (art. 385 à 390)](#416)
+        - [III : Paiement fractionné ou différé des droits (art. 396 à 404 GD)](#417)
+          - [B : Mutations de propriété ou apports en société (art. 396 à 404 GD)](#418)
+            - [1 : Champ d'application (art. 396 à 397 A)](#419)
+              - [Transmissions d'entreprises (art. 397 A)](#420)
+            - [2 : Dispositions générales (art. 398 à 404)](#421)
+            - [3 : Dispositions particulières (art. 404 A à 404 GD)](#422)
+              - [1° : Mutations par décès (art. 404 A à 404 B)](#423)
+              - [2° : Apports en société (art. 404 C)](#424)
+              - [3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires (art. 404 D)](#425)
+              - [4° : Offices ministériels (art. 404 E)](#426)
+              - [5° : Rapatriés d'outre-mer et migrants ruraux (art. 404 F)](#427)
+              - [6° Transmissions d'entreprises (art. 404 GA à 404 GD)](#428)
+        - [V : Droits de timbre (art. 405 B à 406)](#429)
+          - [B : Paiement par emploi de machines à timbrer (art. 405 B)](#430)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 C à 405 F)](#431)
+          - [D : Paiement au moyen du visa pour timbre (art. 405 G)](#432)
+          - [E : Paiement de l'impôt sur états (art. 405 H à 406)](#433)
+        - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#434)
+          - [Taxes sur les véhicules des sociétés (art. 406 bis)](#435)
+        - [VII : Taxe locale d'équipement (art. 406 nonies à 406 ter)](#436)
+      - [Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 undecies à 406 undecies A)](#437)
+      - [Section V : Dispositions communes (art. 406 duodecies à 406 terdecies)](#438)
+    - [Chapitre I bis : Pénalités (art. 406 K à 406 A 27)](#439)
+      - [Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 K à 406 L)](#440)
+      - [Section II : Dispositions communes (art. 406 A 12 à 406 A 16 F)](#441)
+        - [II : Infractions aux règles de la facturation (art. 406 A 12 à 406 A 16)](#442)
+          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 12 à 406 A 16)](#443)
+        - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#444)
+      - [Section III : Dispositions particulières (art. 406 A 27)](#445)
+        - [III : Droits d'enregistrement (art. 406 A 27)](#446)
+    - [Chapitre II : Procédures (art. 415 à 416-0 bis)](#447)
+      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 415 à 416-0 bis)](#448)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#449)
+      - [Section I : Juridiction contentieuse (art. 416 E)](#450)
+        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#451)
+      - [Section II : Juridiction gracieuse (art. 426 à 445)](#452)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#453)
+          - [1 : Cotes irrécouvrables (art. 426 à 428)](#454)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#455)
+            - [a : Sursis de versement (art. 430 à 432)](#456)
+            - [b : Décharge de responsabilité (art. 433 à 438)](#457)
+            - [c : Dispositions communes (art. 439 à 444)](#458)
+        - [D : Dispositions particulières aux impôts directs (art. 445)](#459)
+    - [Chapitre III bis : Restitution de la prime pour l'emploi (art. 446 ter à 446 ter B)](#460)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -11708,7 +11709,48 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### 8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés.<a id=105></a>
+##### 6° bis : Réduction d'impôt au titre de souscriptions de parts de fonds d'investissement de proximité<a id=105></a>
+
+###### Article 46 AI quinquies
+
+I. - La société de gestion d'un fonds d'investissement de proximité mentionné à l'article L. 214-41-1 du code monétaire et
+financier ou le dépositaire des actifs de ce fonds agissant pour le compte de la société de gestion est soumis aux
+obligations définies aux I à III de l'article 46 AI ter et à celles définies aux V à VII de ce même article lorsque les
+souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt prévue au VI bis de l'article 199
+terdecies-0 A du code général des impôts.
+
+II. - A chaque inventaire semestriel, la société de gestion d'un fonds d'investissement de proximité ou le dépositaire des
+actifs de ce fonds agissant pour le compte de la société de gestion s'assure que les sociétés dont les titres ou avances en
+compte courant sont retenus pour le calcul de la proportion mentionnée au 1 de l'article L. 214-41-1 du code monétaire et
+financier remplissent, à la date de clôture de leur dernier exercice précédant l'inventaire, les conditions posées à cet
+article L. 214-41-1.
+
+La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la direction des services fiscaux dont il relève,
+un état de chacun des inventaires semestriels de l'actif du fonds mentionnés au précédent alinéa, à l'appui du bilan et du
+compte de résultats.
+
+III. - Les dispositions de l'article 46 AI quater s'appliquent au contribuable qui entend bénéficier de la réduction d'impôt
+prévue au VI bis de l'article 199 terdecies-0 A du code général des impôts pour la souscription en numéraire de parts de
+fonds d'investissement de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 199 terdecies-0 A
+  - CGIAN3 46 AI ter, 46 AI quater
+  - Code monétaire et financier - art. L214-41-1 (M)
+
+_Créé par_:
+
+  - Décret n°2004-589 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2004
+
+
+##### 8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés.<a id=106></a>
 
 ###### Article 46 AM
 
@@ -11814,7 +11856,7 @@ _Codifié par_:
   - HISTO: Edition du 18 août 1993
 
 
-##### 8° bis : Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.<a id=106></a>
+##### 8° bis : Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.<a id=107></a>
 
 ###### Article 46 AO bis
 
@@ -11843,7 +11885,7 @@ _Codifié par_:
   - Décret n°2007-484 2007-03-30
 
 
-##### 10° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles<a id=107></a>
+##### 10° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles<a id=108></a>
 
 ###### Article 46 AS
 
@@ -11959,7 +12001,7 @@ _Créé par_:
   - HISTO: Edition du 1er janvier 2003
 
 
-##### Section IV : Obligations incombant à certaines sociétés immobilières<a id=108></a>
+##### Section IV : Obligations incombant à certaines sociétés immobilières<a id=109></a>
 
 ###### Article 46 B
 
@@ -12046,7 +12088,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 B (V)
 
 
-##### Section V : Disposition applicable en cas de perte du statut fiscal des sociétés de personnes<a id=109></a>
+##### Section V : Disposition applicable en cas de perte du statut fiscal des sociétés de personnes<a id=110></a>
 
 ###### Article 46 E
 
@@ -12081,9 +12123,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 39 (VT)
 
 
-#### Chapitre I bis : Impôt sur les sociétés<a id=110></a>
+#### Chapitre I bis : Impôt sur les sociétés<a id=111></a>
 
-##### Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires<a id=111></a>
+##### Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires<a id=112></a>
 
 ###### Article 46 bis
 
@@ -12151,7 +12193,7 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### Section 0I bis : Exonération édictée en faveur des sociétés d'investissements immobiliers cotées<a id=112></a>
+##### Section 0I bis : Exonération édictée en faveur des sociétés d'investissements immobiliers cotées<a id=113></a>
 
 ###### Article 46 ter A
 
@@ -12189,7 +12231,7 @@ _Créé par_:
   - HISTO: Edition du 31 août 2003
 
 
-##### Section I bis : Entreprises créées en Corse<a id=113></a>
+##### Section I bis : Entreprises créées en Corse<a id=114></a>
 
 ###### Article 46 quater
 
@@ -12227,7 +12269,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 208 sexies (V)
 
 
-##### Section I ter : Activités créées en Corse<a id=114></a>
+##### Section I ter : Activités créées en Corse<a id=115></a>
 
 ###### Article 46 quater-00 A
 
@@ -12360,7 +12402,7 @@ _Codifié par_:
   - HISTO: Edition du 4 juillet 1992
 
 
-##### Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs<a id=115></a>
+##### Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs<a id=116></a>
 
 ###### Article 46 quater-0 A
 
@@ -12376,7 +12418,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 206 (V)
 
 
-##### Section III : Intérêts de livrets supplémentaires de caisses d'épargne<a id=116></a>
+##### Section III : Intérêts de livrets supplémentaires de caisses d'épargne<a id=117></a>
 
 ###### Article 46 quater-0 B
 
@@ -12398,7 +12440,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 208 ter (V)
 
 
-##### Section III bis : Supplément d'impôt sur les sociétés<a id=117></a>
+##### Section III bis : Supplément d'impôt sur les sociétés<a id=118></a>
 
 ###### Article 46 quater-0 BA
 
@@ -12427,7 +12469,7 @@ _Codifié par_:
   - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1992
 
 
-##### Section IV : Modalités d'application du précompte.<a id=118></a>
+##### Section IV : Modalités d'application du précompte.<a id=119></a>
 
 ###### Article 46 quater-0 C
 
@@ -12580,7 +12622,7 @@ _Abrogé par_:
   - HISTO: Edition du 31 mars 2000
 
 
-##### Section IV bis : Modalités de l'exonération de la retenue à la source ou du prélèvement applicable aux dividendes, intérêts et redevances distribués ou payées entre sociétés associées d'Etats membres de la Communauté européenne<a id=119></a>
+##### Section IV bis : Modalités de l'exonération de la retenue à la source ou du prélèvement applicable aux dividendes, intérêts et redevances distribués ou payées entre sociétés associées d'Etats membres de la Communauté européenne<a id=120></a>
 
 ###### Article 46 quater-0 FB
 
@@ -12675,7 +12717,7 @@ _Créé par_:
   - HISTO: Edition du 22 avril 1998
 
 
-##### Section V : Profits de construction<a id=120></a>
+##### Section V : Profits de construction<a id=121></a>
 
 ###### Article 46 quater-0 G
 
@@ -12740,7 +12782,7 @@ _Codifié par_:
   - HISTO: Edition du 31 août 2004
 
 
-##### I : Entreprises de construction de logements.<a id=121></a>
+##### I : Entreprises de construction de logements.<a id=122></a>
 
 ###### Article 46 quater-0 I
 
@@ -12839,7 +12881,7 @@ _Codifié par_:
   - HISTO: Edition du 31 août 2004
 
 
-##### II : Entreprises dont la construction de logements ne constitue pas l'activité exclusive.<a id=122></a>
+##### II : Entreprises dont la construction de logements ne constitue pas l'activité exclusive.<a id=123></a>
 
 ###### Article 46 quater-0 L
 
@@ -12973,7 +13015,7 @@ _Codifié par_:
   - HISTO: Edition du 31 août 2004
 
 
-##### III : Dispositions diverses<a id=123></a>
+##### III : Dispositions diverses<a id=124></a>
 
 ###### Article 46 quater-0 P
 
@@ -13061,7 +13103,7 @@ _Cite_:
   - CGI 209 quater D, 238 octies, 223 sexies
 
 
-##### Section V bis : Rachat d'une entreprise par ses salariés<a id=124></a>
+##### Section V bis : Rachat d'une entreprise par ses salariés<a id=125></a>
 
 ###### Article 46 quater-0 RA
 
@@ -13280,7 +13322,7 @@ _Codifié par_:
   - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
 
 
-##### Section VI : Report en arrière des déficits<a id=125></a>
+##### Section VI : Report en arrière des déficits<a id=126></a>
 
 ###### Article 46 quater-0 S
 
@@ -13370,7 +13412,7 @@ _Modifié par_:
   - HISTO: Edition du 15 juin 1990
 
 
-##### I : Sociétés agréées au régime du bénéfice consolidé<a id=126></a>
+##### I : Sociétés agréées au régime du bénéfice consolidé<a id=127></a>
 
 ###### Article 46 quater-0 X
 
@@ -13466,7 +13508,7 @@ _Codifié par_:
   - HISTO: Edition du 4 juillet 1992
 
 
-##### II : Sociétés agréées au régime de l'intégration fiscale.<a id=127></a>
+##### II : Sociétés agréées au régime de l'intégration fiscale.<a id=128></a>
 
 ###### Article 46 quater-0 Y
 
@@ -13597,7 +13639,7 @@ _Modifié par_:
   - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 
-##### Section VI bis : Option de souscription, achat ou attribution gratuite d'actions<a id=128></a>
+##### Section VI bis : Option de souscription, achat ou attribution gratuite d'actions<a id=129></a>
 
 ###### Article 46 quater-0 YD
 
@@ -13664,7 +13706,7 @@ _Codifié par_:
   - HISTO: Edition du 22 avril 1998
 
 
-##### Section VI ter : Crédit d'impôt pour investissement en faveur des entreprises implantées dans certains secteurs de la région Nord - Pas-de-Calais.<a id=129></a>
+##### Section VI ter : Crédit d'impôt pour investissement en faveur des entreprises implantées dans certains secteurs de la région Nord - Pas-de-Calais.<a id=130></a>
 
 ###### Article 46 quater-0 YF
 
@@ -13851,7 +13893,7 @@ _Abrogé par_:
   - HISTO: Edition du 2 septembre 1994
 
 
-##### Section VI quater : Crédit d'impôt pour dépenses dans la production d'oeuvres cinématographiques<a id=130></a>
+##### Section VI quater : Crédit d'impôt pour dépenses dans la production d'oeuvres cinématographiques<a id=131></a>
 
 ###### Article 46 quater-0 YL
 
@@ -14094,7 +14136,7 @@ _Créé par_:
   - HISTO: Edition du 31 août 2004
 
 
-##### Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural<a id=131></a>
+##### Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural<a id=132></a>
 
 ###### Article 46 quater-0 Z
 
@@ -14201,7 +14243,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 39 (VT)
 
 
-##### Section VIII : Régime des groupes de sociétés<a id=132></a>
+##### Section VIII : Régime des groupes de sociétés<a id=133></a>
 
 ###### Article 46 quater-0 ZD
 
@@ -14221,7 +14263,8 @@ résultats pour la détermination du résultat d'ensemble.
 c) Le cas échéant, le document visé au premier alinéa du c du 6 de l'article 223 L du code général des impôts, qui comporte
 la liste et les attestations précédemment mentionnées.
 
-2. Avant la clôture de chacun des exercices arrêtés au cours de la période de validité de l'option :
+2. Au plus tard à l'expiration du délai de dépôt de la déclaration de résultat de chacun des exercices arrêtés au cours de la
+période de validité de l'option :
 
 a) La liste mentionnée au a du 1, mise à jour pour l'exercice suivant ;
 
@@ -14236,58 +14279,45 @@ l'origine de la détention en cause.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 223 A, 223 L
-
-**Liens**:
-
-  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
-  - HISTO: Edition du 27 octobre 1995
-
 _Modifié par_:
 
-  - Décret n°94-1063 du 6 décembre 1994 - art. 1 () JORF 13 décembre 1994
-  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
+  - Décret n°2004-591 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZE (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZM (V)
 
+**Liens**:
+
+  - HISTO: Edition du 31 août 2004
+
 
 ###### Article 46 quater-0 ZE
 
 Les sociétés filiales qui acceptent de faire partie du groupe défini à l'article 223 A du code général des impôts adressent
-l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles relèvent avant la date d'ouverture de l'exercice au
-titre duquel le régime défini à l'article 223 A déjà cité s'applique. L'accord est valable jusqu'à la sortie du groupe de la
-société filiale concernée. Il peut être dénoncé avant l'ouverture du premier exercice de la période couverte par le
+l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles relèvent au plus tard à l'expiration du délai de
+dépôt de la déclaration de résultat de l'exercice précédant celui au titre duquel le régime défini à l'article 223 A précité
+s'applique. L'accord est valable jusqu'à la sortie du groupe de la société filiale concernée. Il peut être dénoncé au plus
+tard à l'expiration du délai de dépôt de la déclaration de résultat du dernier exercice précédant la période couverte par le
 renouvellement de l'option prévu au cinquième alinéa de l'article 223 A précité.
 
 Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le résultat d'ensemble par
-décision de la société mère en informent le service des impôts dont elles relèvent avant l'ouverture de cet exercice.
+décision de la société mère en informent le service des impôts dont elles relèvent au plus tard à l'expiration du délai de
+dépôt de la déclaration de résultat de l'exercice précédent.
 
 Pour remplir les obligations prévues au présent article et à l'article 46 quater-0 ZD, la société doit utiliser des documents
 conformes aux modèles établis par l'administration.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 223 A
-  - CGIAN3 46 quater-0 ZD
-
 _Modifié par_:
 
-  - Décret n°2000-392 du 2 mai 2000 - art. 1 () JORF 10 mai 2000
+  - Décret n°2004-591 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 quater-0 ZF
@@ -14759,7 +14789,7 @@ _Abrogé par_:
   - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
 
 
-##### Section VIII bis : Régime de taxation au tonnage<a id=133></a>
+##### Section VIII bis : Régime de taxation au tonnage<a id=134></a>
 
 ###### Article 46 quater-0 ZS bis
 
@@ -14801,7 +14831,7 @@ _Créé par_:
   - HISTO: Edition du 1er janvier 2004
 
 
-##### Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies<a id=134></a>
+##### Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies<a id=135></a>
 
 ###### Article 46 quater-0 ZU
 
@@ -14830,7 +14860,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 septies (V)
 
 
-##### Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital<a id=135></a>
+##### Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital<a id=136></a>
 
 ###### Article 46 quater-0 ZZ
 
@@ -14880,7 +14910,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 219 (V)
 
 
-##### Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises<a id=136></a>
+##### Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises<a id=137></a>
 
 ###### Article 46 quater-0 ZZ bis A
 
@@ -14902,7 +14932,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 219 (V)
 
 
-##### Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées<a id=137></a>
+##### Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées<a id=138></a>
 
 ###### Article 46 quater-0 ZZ bis B
 
@@ -14926,7 +14956,7 @@ _Créé par_:
   - HISTO: Edition du 31 août 2003
 
 
-##### Section XIII : Déduction des investissements réalisés outre-mer<a id=138></a>
+##### Section XIII : Déduction des investissements réalisés outre-mer<a id=139></a>
 
 ###### Article 46 quater-0 ZZ ter
 
@@ -14953,7 +14983,7 @@ _Modifié par_:
   - HISTO: Edition du 1er janvier 2004
 
 
-##### Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière<a id=139></a>
+##### Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière<a id=140></a>
 
 ###### Article 46 quater-0 ZZ quater
 
@@ -15015,7 +15045,7 @@ _Créé par_:
   - Décret n°2002-292 du 22 février 2002 - art. 1 () JORF 1er mars 2002
 
 
-##### Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural<a id=140></a>
+##### Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural<a id=141></a>
 
 ###### Article 46 quater-0 ZZ sexies
 
@@ -15054,11 +15084,11 @@ _Créé par_:
   - HISTO: Edition du 31 août 2002
 
 
-#### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés<a id=141></a>
+#### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés<a id=142></a>
 
-##### Section 00I : Sociétés d'investissement<a id=142></a>
+##### Section 00I : Sociétés d'investissement<a id=143></a>
 
-##### Capital minimal exigé pour l'octroi des avantages fiscaux<a id=143></a>
+##### Capital minimal exigé pour l'octroi des avantages fiscaux<a id=144></a>
 
 ###### Article 46 quater A
 
@@ -15144,9 +15174,9 @@ _Codifié par_:
   - Décret n°2002-923 du 6 juin 2002
 
 
-##### Section 0I : Sociétés de personnes et assimilées<a id=144></a>
+##### Section 0I : Sociétés de personnes et assimilées<a id=145></a>
 
-##### I : Sociétés à responsabilité limitée.   Option pour le régime fiscal des sociétés de personnes<a id=145></a>
+##### I : Sociétés à responsabilité limitée.   Option pour le régime fiscal des sociétés de personnes<a id=146></a>
 
 ###### Article 46 terdecies A
 
@@ -15257,7 +15287,7 @@ _Codifié par_:
   - Décret n°82-881 1982-10-15
 
 
-##### II : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes, un groupement d'intérêt économique, un groupement d'intérêt public ou un groupement européen d'intérêt économique<a id=146></a>
+##### II : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes, un groupement d'intérêt économique, un groupement d'intérêt public ou un groupement européen d'intérêt économique<a id=147></a>
 
 ###### Article 46 terdecies E
 
@@ -15402,7 +15432,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies G (V)
 
 
-##### Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble<a id=147></a>
+##### Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble<a id=148></a>
 
 ###### Article 46 quaterdecies
 
@@ -15425,7 +15455,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 239 octies (VT)
 
 
-##### Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer<a id=148></a>
+##### Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer<a id=149></a>
 
 ###### Article 46 quaterdecies BA
 
@@ -15594,7 +15624,7 @@ _Créé par_:
   - HISTO: Edition du 1er janvier 2004
 
 
-##### Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles<a id=149></a>
+##### Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles<a id=150></a>
 
 ###### Article 46 quindecies A
 
@@ -15765,7 +15795,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-##### Section 0I quinquies : Financement en capital de la pêche artisanale<a id=150></a>
+##### Section 0I quinquies : Financement en capital de la pêche artisanale<a id=151></a>
 
 ###### Article 46 quindecies G
 
@@ -15907,7 +15937,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 nonies (V)
 
 
-##### Section 0I sexies : Mécénat d'entreprises<a id=151></a>
+##### Section 0I sexies : Mécénat d'entreprises<a id=152></a>
 
 ###### Article 46 quindecies M
 
@@ -16072,7 +16102,7 @@ _Créé par_:
   - HISTO: Edition du 1er janvier 2004
 
 
-##### Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur<a id=152></a>
+##### Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur<a id=153></a>
 
 ###### Article 47
 
@@ -16150,7 +16180,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 285 bis (V)
 
 
-##### Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices<a id=153></a>
+##### Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices<a id=154></a>
 
 ###### Article 48
 
@@ -16238,9 +16268,9 @@ _Cité par_:
   - HISTO: Edition du 31 mars 1999
 
 
-##### Section II bis : Déclarations concernant les revenus de capitaux mobiliers<a id=154></a>
+##### Section II bis : Déclarations concernant les revenus de capitaux mobiliers<a id=155></a>
 
-##### 1° : Contrats de prêts<a id=155></a>
+##### 1° : Contrats de prêts<a id=156></a>
 
 ###### Article 49 B
 
@@ -16299,7 +16329,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 23 L (V)
 
 
-##### 2° : Paiement de revenus de valeurs mobilières<a id=156></a>
+##### 2° : Paiement de revenus de valeurs mobilières<a id=157></a>
 
 ###### Article 49 D
 
@@ -16531,7 +16561,7 @@ _Codifié par_:
   - HISTO: Edition du 15 juillet 1985
 
 
-##### 3° : Obligations des établissements auprès desquels ont été souscrits des bons, titres ou contrats nominatifs<a id=157></a>
+##### 3° : Obligations des établissements auprès desquels ont été souscrits des bons, titres ou contrats nominatifs<a id=158></a>
 
 ###### Article 49 I bis
 
@@ -16581,7 +16611,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 990 A (V)
 
 
-##### Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts<a id=158></a>
+##### Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts<a id=159></a>
 
 ###### Article 49 J
 
@@ -16610,7 +16640,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 sexies (V)
 
 
-##### Section II quater : Entreprises implantées dans les zones franches urbaines- territoires entrepreneurs<a id=159></a>
+##### Section II quater : Entreprises implantées dans les zones franches urbaines- territoires entrepreneurs<a id=160></a>
 
 ###### Article 49 K
 
@@ -16740,7 +16770,7 @@ _Créé par_:
   - HISTO: Edition du 11 avril 1997
 
 
-##### Section II quinquies : Entreprises implantées en Corse<a id=160></a>
+##### Section II quinquies : Entreprises implantées en Corse<a id=161></a>
 
 ###### Article 49 Q
 
@@ -16851,7 +16881,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 44 decies
 
 
-##### Section III : Restitution d'impôts consécutive au remboursement des sommes mentionnées au a de l'article 111 du code général des impôts<a id=161></a>
+##### Section III : Restitution d'impôts consécutive au remboursement des sommes mentionnées au a de l'article 111 du code général des impôts<a id=162></a>
 
 ###### Article 49 bis
 
@@ -17028,7 +17058,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 quater (V)
 
 
-##### Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles<a id=162></a>
+##### Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles<a id=163></a>
 
 ###### Article 49 septies F
 
@@ -17337,7 +17367,7 @@ _Cite_:
   - Livre des procédures fiscales - art. R45 B-1 (V)
 
 
-##### Section V bis : Crédit d'impôt pour dépenses de formation.<a id=163></a>
+##### Section V bis : Crédit d'impôt pour dépenses de formation.<a id=164></a>
 
 ###### Article 49 septies S
 
@@ -17442,7 +17472,7 @@ _Codifié par_:
   - HISTO: Edition du 4 juillet 1992
 
 
-##### Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse<a id=164></a>
+##### Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse<a id=165></a>
 
 ###### Article 49 septies WB
 
@@ -17618,7 +17648,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 244 quater E (V)
 
 
-##### Section V quinquies : Réduction d'impôt pour versement de dons aux oeuvres et organismes d'intérêt général prévue à l'article 238 bis du code général des impôts<a id=165></a>
+##### Section V quinquies : Réduction d'impôt pour versement de dons aux oeuvres et organismes d'intérêt général prévue à l'article 238 bis du code général des impôts<a id=166></a>
 
 ###### Article 49 septies X
 
@@ -17690,7 +17720,7 @@ _Créé par_:
   - Décret n°2004-185 du 24 février 2004 - art. 1 () JORF 27 février 2004
 
 
-##### Section VI : Indemnités de congé payé<a id=166></a>
+##### Section VI : Indemnités de congé payé<a id=167></a>
 
 ###### Article 49 octies
 
@@ -17832,7 +17862,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 49 octies (V)
 
 
-##### Section VII : Opérations de crédit-bail<a id=167></a>
+##### Section VII : Opérations de crédit-bail<a id=168></a>
 
 ###### Article 49 octies E
 
@@ -17855,9 +17885,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 239 sexies B (V)
 
 
-#### Chapitre III : Taxes diverses<a id=168></a>
+#### Chapitre III : Taxes diverses<a id=169></a>
 
-##### Section 0I : Taxe d'apprentissage.<a id=169></a>
+##### Section 0I : Taxe d'apprentissage.<a id=170></a>
 
 ###### Article 50-0
 
@@ -17918,9 +17948,9 @@ _Codifié par_:
   - HISTO: Edition du 31 mars 1999
 
 
-##### Section I : Taxe sur les salaires<a id=170></a>
+##### Section I : Taxe sur les salaires<a id=171></a>
 
-##### I : Champ d'application.<a id=171></a>
+##### I : Champ d'application.<a id=172></a>
 
 ###### Article 50
 
@@ -17954,7 +17984,7 @@ _Codifié par_:
   - HISTO: Edition du 1er janvier 2007
 
 
-##### II : Base de la taxe<a id=172></a>
+##### II : Base de la taxe<a id=173></a>
 
 ###### Article 51
 
@@ -17997,7 +18027,7 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2002
 
 
-##### III : Dispositions spéciales aux professions relevant du régime agricole au regard des lois sur la sécurité sociale<a id=173></a>
+##### III : Dispositions spéciales aux professions relevant du régime agricole au regard des lois sur la sécurité sociale<a id=174></a>
 
 ###### Article 53
 
@@ -18095,7 +18125,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 53 ter (V)
 
 
-##### Section III : Contribution annuelle sur les revenus locatifs<a id=174></a>
+##### Section III : Contribution annuelle sur les revenus locatifs<a id=175></a>
 
 ###### Article 58 A
 
@@ -18150,7 +18180,7 @@ _Créé par_:
   - Décret n°2002-1322 du 29 octobre 2002 - art. 1 () JORF 6 novembre 2002
 
 
-##### Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction<a id=175></a>
+##### Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction<a id=176></a>
 
 ###### Article 58 J
 
@@ -18204,7 +18234,7 @@ _Codifié par_:
   - HISTO: Edition du 1er janvier 2003
 
 
-##### Section V : Contribution des institutions financières.<a id=176></a>
+##### Section V : Contribution des institutions financières.<a id=177></a>
 
 ###### Article 58 K
 
@@ -18385,9 +18415,9 @@ _Abrogé par_:
   - Loi - art. 15 (V) JORF 31 décembre 2002
 
 
-#### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III<a id=177></a>
+#### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III<a id=178></a>
 
-##### Section I : Impôt sur le revenu et impôt sur les sociétés<a id=178></a>
+##### Section I : Impôt sur le revenu et impôt sur les sociétés<a id=179></a>
 
 ###### Article 64 bis
 
@@ -18457,7 +18487,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 238 bis-0 I (V)
 
 
-##### Section II : Dispositions spéciales applicables aux opérations de nationalisation<a id=179></a>
+##### Section II : Dispositions spéciales applicables aux opérations de nationalisation<a id=180></a>
 
 ###### Article 65
 
@@ -18505,15 +18535,15 @@ _Codifié par_:
   - Décret n°2002-923 2002-06-06
 
 
-### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=180></a>
+### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=181></a>
 
-#### Chapitre premier : Taxe sur la valeur ajoutée<a id=181></a>
+#### Chapitre premier : Taxe sur la valeur ajoutée<a id=182></a>
 
-##### Section I : Champ d'application<a id=182></a>
+##### Section I : Champ d'application<a id=183></a>
 
-##### I : Opérations obligatoirement imposables<a id=183></a>
+##### I : Opérations obligatoirement imposables<a id=184></a>
 
-##### A : Animaux de boucherie et de charcuterie<a id=184></a>
+##### A : Animaux de boucherie et de charcuterie<a id=185></a>
 
 ###### Article 65 A
 
@@ -18537,7 +18567,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 298 quinquies (V)
 
 
-##### B : Prestations de transport<a id=185></a>
+##### B : Prestations de transport<a id=186></a>
 
 ###### Article 68
 
@@ -18561,7 +18591,7 @@ _Modifié par_:
   - HISTO: Edition du 18 août 1993
 
 
-##### I bis : Opérations imposables sur option<a id=186></a>
+##### I bis : Opérations imposables sur option<a id=187></a>
 
 ###### Article 70 septies
 
@@ -18605,9 +18635,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 260 B (V)
 
 
-##### II : Opérations exonérées<a id=187></a>
+##### II : Opérations exonérées<a id=188></a>
 
-##### B : Presse et impression<a id=188></a>
+##### B : Presse et impression<a id=189></a>
 
 ###### Article 72
 
@@ -18758,7 +18788,7 @@ _Modifié par_:
   - HISTO: Edition du 11 avril 1997
 
 
-##### C : Transports, opérations et services exonérés<a id=189></a>
+##### C : Transports, opérations et services exonérés<a id=190></a>
 
 ###### Article 73 A
 
@@ -19067,7 +19097,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 291 (V)
 
 
-##### D : Exportation<a id=190></a>
+##### D : Exportation<a id=191></a>
 
 ###### Article 74
 
@@ -19171,9 +19201,9 @@ _Modifié par_:
   - HISTO: Edition du 31 août 2004
 
 
-##### Section II : Assiette de la taxe<a id=191></a>
+##### Section II : Assiette de la taxe<a id=192></a>
 
-##### Régime du chiffre d'affaires réel<a id=192></a>
+##### Régime du chiffre d'affaires réel<a id=193></a>
 
 ###### Article 76
 
@@ -19195,9 +19225,9 @@ _Codifié par_:
   - HISTO: Edition du 4 juillet 1992
 
 
-##### Section III : Fait générateur et exigibilité de la taxe<a id=193></a>
+##### Section III : Fait générateur et exigibilité de la taxe<a id=194></a>
 
-##### I : Paiement de la taxe d'après les débits<a id=194></a>
+##### I : Paiement de la taxe d'après les débits<a id=195></a>
 
 ###### Article 77
 
@@ -19225,7 +19255,7 @@ _Modifié par_:
   - HISTO: Edition du 1er janvier 2004
 
 
-##### II : Entrepreneurs de travaux immobiliers<a id=195></a>
+##### II : Entrepreneurs de travaux immobiliers<a id=196></a>
 
 ###### Article 78
 
@@ -19351,13 +19381,13 @@ la date de cette renonciation.
 
 
 
-##### Section IV : Liquidation de la taxe<a id=196></a>
+##### Section IV : Liquidation de la taxe<a id=197></a>
 
-##### OI : Déductions<a id=197></a>
+##### OI : Déductions<a id=198></a>
 
-##### I :  Régime suspensif<a id=198></a>
+##### I :  Régime suspensif<a id=199></a>
 
-##### A : Ouverture d'un entrepôt fiscal<a id=199></a>
+##### A : Ouverture d'un entrepôt fiscal<a id=200></a>
 
 ###### Article 85
 
@@ -19433,7 +19463,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
 
 
-##### B : Modification du fonctionnement d'un entrepôt fiscal<a id=200></a>
+##### B : Modification du fonctionnement d'un entrepôt fiscal<a id=201></a>
 
 ###### Article 85 B
 
@@ -19459,7 +19489,7 @@ _Créé par_:
   - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
 
 
-##### C : Fermeture d'un entrepôt fiscal<a id=201></a>
+##### C : Fermeture d'un entrepôt fiscal<a id=202></a>
 
 ###### Article 85 C
 
@@ -19484,7 +19514,7 @@ _Créé par_:
   - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
 
 
-##### D : Entrée et sortie des biens d'un entrepôt fiscal<a id=202></a>
+##### D : Entrée et sortie des biens d'un entrepôt fiscal<a id=203></a>
 
 ###### Article 85 D
 
@@ -19527,7 +19557,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
 
 
-##### E : Entrepôts nationaux d'importation et d'exportation<a id=203></a>
+##### E : Entrepôts nationaux d'importation et d'exportation<a id=204></a>
 
 ###### Article 85 E
 
@@ -19584,7 +19614,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
 
 
-##### F : Biens admissibles sous un régime d'entrepôt fiscal<a id=204></a>
+##### F : Biens admissibles sous un régime d'entrepôt fiscal<a id=205></a>
 
 ###### Article 85 F
 
@@ -19658,7 +19688,7 @@ _Créé par_:
   - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
 
 
-##### G : Définition des opérations effectuées en suspension du paiement de la taxe sur la valeur ajoutée<a id=205></a>
+##### G : Définition des opérations effectuées en suspension du paiement de la taxe sur la valeur ajoutée<a id=206></a>
 
 ###### Article 85 G
 
@@ -19791,7 +19821,7 @@ _Créé par_:
   - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
 
 
-##### H : Attestations et factures<a id=206></a>
+##### H : Attestations et factures<a id=207></a>
 
 ###### Article 85 K
 
@@ -19859,13 +19889,13 @@ _Créé par_:
   - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
 
 
-##### Section V : Calcul de la taxe<a id=207></a>
+##### Section V : Calcul de la taxe<a id=208></a>
 
-##### I : Taux<a id=208></a>
+##### I : Taux<a id=209></a>
 
-##### A : Taux réduit<a id=209></a>
+##### A : Taux réduit<a id=210></a>
 
-##### 1 : Cantines d'entreprises<a id=210></a>
+##### 1 : Cantines d'entreprises<a id=211></a>
 
 ###### Article 85 bis
 
@@ -19910,7 +19940,7 @@ _Cite_:
   - TXT_ASSOCIE: Instruction 2001-03-21 3A-5-01
 
 
-##### 3 : Concerts<a id=211></a>
+##### 3 : Concerts<a id=212></a>
 
 ###### Article 87 bis
 
@@ -19967,7 +19997,7 @@ _Codifié par_:
   - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 97 (V) JORF 31 décembre 2006
 
 
-##### D : Taux particuliers<a id=212></a>
+##### D : Taux particuliers<a id=213></a>
 
 ###### Article 89 ter
 
@@ -20015,7 +20045,7 @@ _Créé par_:
   - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre 1985
 
 
-##### Section VI : Obligations des redevables<a id=213></a>
+##### Section VI : Obligations des redevables<a id=214></a>
 
 ###### Article 95
 
@@ -20203,7 +20233,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 261 B (V)
 
 
-##### 1° : Entreprises de spectacles<a id=214></a>
+##### 1° : Entreprises de spectacles<a id=215></a>
 
 ###### Article 96 B
 
@@ -20335,7 +20365,7 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-##### 2° : Factures transmises par voie télématique<a id=215></a>
+##### 2° : Factures transmises par voie télématique<a id=216></a>
 
 ###### Article 96 F
 
@@ -20476,7 +20506,7 @@ _Cite_:
   - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
 
 
-##### 3° : Déclaration des échanges de biens entre Etats membres de l'Union européenne<a id=216></a>
+##### 3° : Déclaration des échanges de biens entre Etats membres de l'Union européenne<a id=217></a>
 
 ###### Article 96 J
 
@@ -20710,7 +20740,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 96 L (V)
 
 
-##### Section VII bis : Identification des assujettis non établis dans la Communauté européenne fournissant des services par voie électronique<a id=217></a>
+##### Section VII bis : Identification des assujettis non établis dans la Communauté européenne fournissant des services par voie électronique<a id=218></a>
 
 ###### Article 97 bis
 
@@ -20746,9 +20776,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
 
 
-##### Section VIII : Régimes spéciaux<a id=218></a>
+##### Section VIII : Régimes spéciaux<a id=219></a>
 
-##### II : Biens d'occasion, oeuvres d'art, objets de collection et d'antiquité<a id=219></a>
+##### II : Biens d'occasion, oeuvres d'art, objets de collection et d'antiquité<a id=220></a>
 
 ###### Article 98 A
 
@@ -20806,7 +20836,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R382-1 (VD)
 
 
-##### III : Régime applicable à l'or d'investissement<a id=220></a>
+##### III : Régime applicable à l'or d'investissement<a id=221></a>
 
 ###### Article 98 B
 
@@ -20833,7 +20863,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 298 sexdecies A (V)
 
 
-##### IV : Services fournis par voie électronique<a id=221></a>
+##### IV : Services fournis par voie électronique<a id=222></a>
 
 ###### Article 98 C
 
@@ -20866,7 +20896,7 @@ _Cite_:
   - HISTO: Edition du 31 août 2003
 
 
-##### Section IX : Exploitants agricoles<a id=222></a>
+##### Section IX : Exploitants agricoles<a id=223></a>
 
 ###### Article 98 bis
 
@@ -20916,7 +20946,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L102 B (VT)
 
 
-#### Chapitre IV : Redevance sanitaire d'abattage<a id=223></a>
+#### Chapitre IV : Redevance sanitaire d'abattage<a id=224></a>
 
 ###### Article 111 quater A
 
@@ -21010,7 +21040,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 1999
 
 
-#### Chapitre V : Redevance sanitaire de découpage<a id=224></a>
+#### Chapitre V : Redevance sanitaire de découpage<a id=225></a>
 
 ###### Article 111 quater L
 
@@ -21288,9 +21318,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater Q (V)
 
 
-### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires<a id=225></a>
+### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires<a id=226></a>
 
-#### Chapitre II : Récépissé de consignation<a id=226></a>
+#### Chapitre II : Récépissé de consignation<a id=227></a>
 
 ###### Article 111 novodecies
 
@@ -21408,11 +21438,11 @@ _Modifié par_:
   - Décret n°86-959 1986-08-08 art. 3 JORF 15 août 1986 en vigueur le 1er septembre 1986
 
 
-### Titre III : Contributions indirectes et taxes diverses<a id=227></a>
+### Titre III : Contributions indirectes et taxes diverses<a id=228></a>
 
-#### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés<a id=228></a>
+#### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés<a id=229></a>
 
-##### Section 0I : Entrepositaires et opérateurs agréés<a id=229></a>
+##### Section 0I : Entrepositaires et opérateurs agréés<a id=230></a>
 
 ###### Article 111-0 A
 
@@ -21894,7 +21924,7 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2002
 
 
-##### Section II : Titres de mouvement<a id=230></a>
+##### Section II : Titres de mouvement<a id=231></a>
 
 ###### Article 111 H bis
 
@@ -22300,7 +22330,7 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### Section III : Capsules représentatives de droits<a id=231></a>
+##### Section III : Capsules représentatives de droits<a id=232></a>
 
 ###### Article 111 I
 
@@ -22441,13 +22471,13 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 L (V)
 
 
-#### Chapitre premier : Boissons<a id=232></a>
+#### Chapitre premier : Boissons<a id=233></a>
 
-##### Section I : Alcools<a id=233></a>
+##### Section I : Alcools<a id=234></a>
 
-##### A : Production<a id=234></a>
+##### A : Production<a id=235></a>
 
-##### II : Déduction spéciale accordée aux fabricants de mistelles<a id=235></a>
+##### II : Déduction spéciale accordée aux fabricants de mistelles<a id=236></a>
 
 ###### Article 118
 
@@ -22470,7 +22500,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 B (V)
 
 
-##### III : Fabrication des boissons de raisins secs.<a id=236></a>
+##### III : Fabrication des boissons de raisins secs.<a id=237></a>
 
 ###### Article 125
 
@@ -23106,9 +23136,9 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
 
 
-##### B : Régime économique<a id=237></a>
+##### B : Régime économique<a id=238></a>
 
-##### I : Organisation de l'économie cidricole<a id=238></a>
+##### I : Organisation de l'économie cidricole<a id=239></a>
 
 ###### Article 143 A
 
@@ -23296,7 +23326,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 143 H (V)
 
 
-##### II bis : Régime économique du rhum<a id=239></a>
+##### II bis : Régime économique du rhum<a id=240></a>
 
 ###### Article 144 bis
 
@@ -23333,7 +23363,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 362 (V)
 
 
-##### C : Régime fiscal<a id=240></a>
+##### C : Régime fiscal<a id=241></a>
 
 ###### Article 169-0 A
 
@@ -23365,11 +23395,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 403 (V)
 
 
-##### Section II : Vins et cidres<a id=241></a>
+##### Section II : Vins et cidres<a id=242></a>
 
-##### A : Production<a id=242></a>
+##### A : Production<a id=243></a>
 
-##### Déclarations<a id=243></a>
+##### Déclarations<a id=244></a>
 
 ###### Article 169 bis
 
@@ -23412,9 +23442,9 @@ _Abrogé par_:
   - Décret n°2015-1577 du 2 décembre 2015 - art. 5
 
 
-##### B : Régime fiscal<a id=244></a>
+##### B : Régime fiscal<a id=245></a>
 
-##### Admission en décharge des déchets résultant de la concentration par le froid<a id=245></a>
+##### Admission en décharge des déchets résultant de la concentration par le froid<a id=246></a>
 
 ###### Article 172
 
@@ -23549,9 +23579,9 @@ _Codifié par_:
   - HISTO: Edition du 31 août 2003
 
 
-##### Section V : Régimes particuliers<a id=246></a>
+##### Section V : Régimes particuliers<a id=247></a>
 
-##### I : Réglementation des essences d'absinthe et produits assimilés ou susceptibles de les suppléer<a id=247></a>
+##### I : Réglementation des essences d'absinthe et produits assimilés ou susceptibles de les suppléer<a id=248></a>
 
 ###### Article 178 A
 
@@ -24323,7 +24353,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
 
 
-##### II : Charbons activés et substances similaires.<a id=248></a>
+##### II : Charbons activés et substances similaires.<a id=249></a>
 
 ###### Article 179
 
@@ -24447,9 +24477,9 @@ _Modifié par_:
   - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
 
 
-#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=249></a>
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine<a id=250></a>
 
-##### Section I : Forme et apposition des poinçons<a id=250></a>
+##### Section I : Forme et apposition des poinçons<a id=251></a>
 
 ###### Article 183
 
@@ -24533,7 +24563,7 @@ _Créé par_:
   - HISTO: Edition du 31 mars 2002
 
 
-##### Section II : Organisation des bureaux de garantie<a id=251></a>
+##### Section II : Organisation des bureaux de garantie<a id=252></a>
 
 ###### Article 187
 
@@ -24589,7 +24619,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 56 J bis (V)
 
 
-##### Section III : Fonctionnement des bureaux de garantie<a id=252></a>
+##### Section III : Fonctionnement des bureaux de garantie<a id=253></a>
 
 ###### Article 203
 
@@ -24705,7 +24735,7 @@ Dans tous les cas, les cornets et boutons d'essai sont remis au propriétaire de
 
 
 
-##### Section IV : Obligations des redevables<a id=253></a>
+##### Section IV : Obligations des redevables<a id=254></a>
 
 ###### Article 209
 
@@ -24821,7 +24851,7 @@ _Modifié par_:
   - Loi n°94-6 1994-01-01 art. 26, 31 JORF 5 janvier 1994
 
 
-##### Section IV bis : Exportations ou livraisons à destination d'un autre Etat membre de l'Union européenne<a id=254></a>
+##### Section IV bis : Exportations ou livraisons à destination d'un autre Etat membre de l'Union européenne<a id=255></a>
 
 ###### Article 211 AA
 
@@ -24864,7 +24894,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 545 (V)
 
 
-##### Section V : Ouvrages dorés, argentés ou platinés<a id=255></a>
+##### Section V : Ouvrages dorés, argentés ou platinés<a id=256></a>
 
 ###### Article 212 A
 
@@ -24908,7 +24938,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 551 (V)
 
 
-##### Section VI : Frappe des médailles<a id=256></a>
+##### Section VI : Frappe des médailles<a id=257></a>
 
 ###### Article 213
 
@@ -24958,7 +24988,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 213 (V)
 
 
-#### Chapitre III bis : Régime économique du sucre.<a id=257></a>
+#### Chapitre III bis : Régime économique du sucre.<a id=258></a>
 
 ###### Article 219 A
 
@@ -25230,7 +25260,7 @@ _Cite_:
   - CGIAN3 219 A à 219 K
 
 
-#### Chapitre III ter : Régime économique de l'isoglucose.<a id=258></a>
+#### Chapitre III ter : Régime économique de l'isoglucose.<a id=259></a>
 
 ###### Article 219 P
 
@@ -25388,7 +25418,7 @@ _Codifié par_:
   - Décret n°2007-484 2007-03-30
 
 
-#### Chapitre III ter A : Régime économique du sirop d'inuline.<a id=259></a>
+#### Chapitre III ter A : Régime économique du sirop d'inuline.<a id=260></a>
 
 ###### Article 219 V bis
 
@@ -25536,7 +25566,7 @@ _Codifié par_:
   - Décret n°2007-484 2007-03-30
 
 
-#### Chapitre VI : Tabacs<a id=260></a>
+#### Chapitre VI : Tabacs<a id=261></a>
 
 ###### Article 244 decies
 
@@ -26282,7 +26312,7 @@ _Transféré par_:
   - HISTO: Edition du 31 août 2004
 
 
-#### Chapitre VI : Tabac<a id=261></a>
+#### Chapitre VI : Tabac<a id=262></a>
 
 ###### Article 244 quinquedecies
 
@@ -26441,17 +26471,17 @@ _Transféré par_:
   - HISTO: Edition du 31 août 2004
 
 
-### Titre IV : Enregistrement, publicité foncière, timbre<a id=262></a>
+### Titre IV : Enregistrement, publicité foncière, timbre<a id=263></a>
 
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=263></a>
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=264></a>
 
-##### Section I : Dispositions générales<a id=264></a>
+##### Section I : Dispositions générales<a id=265></a>
 
-##### I : Des formalités<a id=265></a>
+##### I : Des formalités<a id=266></a>
 
-##### A : Champ d'application respectif de la formalité de l'enregistrement et de la formalité fusionnée - Délais<a id=266></a>
+##### A : Champ d'application respectif de la formalité de l'enregistrement et de la formalité fusionnée - Délais<a id=267></a>
 
-##### 1 : Actes et mutations soumis à la formalité de l'enregistrement. Actes publics et sous seings privés<a id=267></a>
+##### 1 : Actes et mutations soumis à la formalité de l'enregistrement. Actes publics et sous seings privés<a id=268></a>
 
 ###### Article 245
 
@@ -26498,7 +26528,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 647 (V)
 
 
-##### 2 : Actes soumis à la formalité fusionnée de l'enregistrement et de la publicité foncière<a id=268></a>
+##### 2 : Actes soumis à la formalité fusionnée de l'enregistrement et de la publicité foncière<a id=269></a>
 
 ###### Article 249
 
@@ -26520,7 +26550,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 647 (V)
 
 
-##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=269></a>
+##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=270></a>
 
 ###### Article 250
 
@@ -26538,11 +26568,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 267 (V)
 
 
-##### B : Accomplissement des formalités<a id=270></a>
+##### B : Accomplissement des formalités<a id=271></a>
 
-##### 1 : Bureaux compétents<a id=271></a>
+##### 1 : Bureaux compétents<a id=272></a>
 
-##### a : Enregistrement<a id=272></a>
+##### a : Enregistrement<a id=273></a>
 
 ###### Article 250 A
 
@@ -26567,7 +26597,7 @@ _Cite_:
   - CGIAN4 60 A
 
 
-##### b : Formalité fusionnée<a id=273></a>
+##### b : Formalité fusionnée<a id=274></a>
 
 ###### Article 251
 
@@ -26577,9 +26607,9 @@ bureaux intéressés au choix du requérant ; il est indiqué dans chacune des e
 
 
 
-##### 2 : Modalités d'exécution<a id=274></a>
+##### 2 : Modalités d'exécution<a id=275></a>
 
-##### a : Enregistrement<a id=275></a>
+##### a : Enregistrement<a id=276></a>
 
 ###### Article 251 A
 
@@ -26649,7 +26679,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 647 (V)
 
 
-##### b : Formalité fusionnée<a id=276></a>
+##### b : Formalité fusionnée<a id=277></a>
 
 ###### Article 253
 
@@ -26792,7 +26822,7 @@ par la loi aux receveurs des impôts.
 
 
 
-##### c : Interdictions<a id=277></a>
+##### c : Interdictions<a id=278></a>
 
 ###### Article 260
 
@@ -26806,9 +26836,9 @@ _Cite_:
   - CGIAN3 249 2°
 
 
-##### II : Des impositions<a id=278></a>
+##### II : Des impositions<a id=279></a>
 
-##### Assiette et liquidation<a id=279></a>
+##### Assiette et liquidation<a id=280></a>
 
 ###### Article 263
 
@@ -26835,11 +26865,11 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 245 (V)
 
 
-##### Section II : Les tarifs et leur application<a id=280></a>
+##### Section II : Les tarifs et leur application<a id=281></a>
 
-##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles<a id=281></a>
+##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles<a id=282></a>
 
-##### 2 : Opérations concourant à la production ou à la livraison d'immeubles<a id=282></a>
+##### 2 : Opérations concourant à la production ou à la livraison d'immeubles<a id=283></a>
 
 ###### Article 266 bis
 
@@ -26890,7 +26920,7 @@ _Codifié par_:
   - Décret n°99-382 1999-05-18
 
 
-##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=283></a>
+##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=284></a>
 
 ###### Article 267
 
@@ -26918,11 +26948,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1595 (V)
 
 
-##### II : Mutations à titre gratuit<a id=284></a>
+##### II : Mutations à titre gratuit<a id=285></a>
 
-##### A : Assiette des droits - Dispositions spéciales aux successions - Règles d'évaluation<a id=285></a>
+##### A : Assiette des droits - Dispositions spéciales aux successions - Règles d'évaluation<a id=286></a>
 
-##### 2° : Biens frappés d'indisponibilité hors de France<a id=286></a>
+##### 2° : Biens frappés d'indisponibilité hors de France<a id=287></a>
 
 ###### Article 280
 
@@ -26944,7 +26974,7 @@ ainsi disponible ou de celle vendue cédée ou transférée.
 
 
 
-##### 3° : Fonds communs de placement<a id=287></a>
+##### 3° : Fonds communs de placement<a id=288></a>
 
 ###### Article 280 A
 
@@ -26991,7 +27021,7 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2002
 
 
-##### 4° : Fonds communs de placement à risques<a id=288></a>
+##### 4° : Fonds communs de placement à risques<a id=289></a>
 
 ###### Article 280 B
 
@@ -27017,7 +27047,7 @@ _Codifié par_:
   - HISTO: Edition du 15 juillet 1985
 
 
-##### B : Régimes spéciaux et exonérations<a id=289></a>
+##### B : Régimes spéciaux et exonérations<a id=290></a>
 
 ###### Article 281 A
 
@@ -27213,11 +27243,11 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-##### Section III : Obligations diverses<a id=290></a>
+##### Section III : Obligations diverses<a id=291></a>
 
-##### I : Obligations des officiers publics et ministériels<a id=291></a>
+##### I : Obligations des officiers publics et ministériels<a id=292></a>
 
-##### Répertoire des notaires, huissiers et autorités administratives<a id=292></a>
+##### Répertoire des notaires, huissiers et autorités administratives<a id=293></a>
 
 ###### Article 282
 
@@ -27286,9 +27316,9 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-##### II : Obligations des agents de l'administration : Salaires des conservateurs<a id=293></a>
+##### II : Obligations des agents de l'administration : Salaires des conservateurs<a id=294></a>
 
-##### 1 : Généralités<a id=294></a>
+##### 1 : Généralités<a id=295></a>
 
 ###### Article 285
 
@@ -27322,7 +27352,7 @@ _Abrogé par_:
   - Décret n°2012-1463 du 26 décembre 2012 - art. 4
 
 
-##### 2 : Salaires fixes<a id=295></a>
+##### 2 : Salaires fixes<a id=296></a>
 
 ###### Article 286
 
@@ -27626,7 +27656,7 @@ _Abrogé par_:
   - Décret n°2012-1463 du 26 décembre 2012 - art. 4
 
 
-##### 3 : Salaires proportionnels<a id=296></a>
+##### 3 : Salaires proportionnels<a id=297></a>
 
 ###### Article 293
 
@@ -27770,7 +27800,7 @@ _Abrogé par_:
   - Décret n°2012-1463 du 26 décembre 2012 - art. 4
 
 
-##### 4 : Minimum de perception<a id=297></a>
+##### 4 : Minimum de perception<a id=298></a>
 
 ###### Article 298
 
@@ -27797,7 +27827,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
 
 
-##### 5 : Délivrance de renseignements urgents<a id=298></a>
+##### 5 : Délivrance de renseignements urgents<a id=299></a>
 
 ###### Article 299
 
@@ -27827,11 +27857,11 @@ _Abrogé par_:
   - HISTO: Edition du 31 mars 1999
 
 
-#### Chapitre II : Droits de timbre<a id=299></a>
+#### Chapitre II : Droits de timbre<a id=300></a>
 
-##### Section I : Droits de timbre proprement dits<a id=300></a>
+##### Section I : Droits de timbre proprement dits<a id=301></a>
 
-##### I : Timbre de dimension<a id=301></a>
+##### I : Timbre de dimension<a id=302></a>
 
 ###### Article 301
 
@@ -27866,7 +27896,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 71 (V)
 
 
-##### III : Timbre des quittances<a id=302></a>
+##### III : Timbre des quittances<a id=303></a>
 
 ###### Article 308
 
@@ -27887,9 +27917,9 @@ _Codifié par_:
   - Décret n°2007-484 2007-03-30
 
 
-##### Section II : Droits de délivrance de documents et perceptions diverses<a id=303></a>
+##### Section II : Droits de délivrance de documents et perceptions diverses<a id=304></a>
 
-##### I : Cartes d'entrée dans les casinos.<a id=304></a>
+##### I : Cartes d'entrée dans les casinos.<a id=305></a>
 
 ###### Article 313 AR
 
@@ -27917,7 +27947,7 @@ _Codifié par_:
   - Décret n°2006-356 2006-03-24
 
 
-##### IV : Droits d'inscription à certains examens<a id=305></a>
+##### IV : Droits d'inscription à certains examens<a id=306></a>
 
 ###### Article 313 AV
 
@@ -27931,7 +27961,7 @@ _Abrogé par_:
   - Décret n°2018-1301 du 26 décembre 2018 - art. 1
 
 
-##### V : Formalités administratives (1)<a id=306></a>
+##### V : Formalités administratives (1)<a id=307></a>
 
 ###### Article 313 AW
 
@@ -27955,7 +27985,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BG (V)
 
 
-##### VI : Navigation intérieure et navigation maritime de plaisance<a id=307></a>
+##### VI : Navigation intérieure et navigation maritime de plaisance<a id=308></a>
 
 ###### Article 313 AZ
 
@@ -27969,7 +27999,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 963 (V)
 
 
-##### VII : Passeports et titres de voyage (1)<a id=308></a>
+##### VII : Passeports et titres de voyage (1)<a id=309></a>
 
 ###### Article 313 BA
 
@@ -27989,9 +28019,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 953 (V)
 
 
-##### IX : Véhicules à moteur<a id=309></a>
+##### IX : Véhicules à moteur<a id=310></a>
 
-##### Permis de conduire et certificats d'immatriculation (1)<a id=310></a>
+##### Permis de conduire et certificats d'immatriculation (1)<a id=311></a>
 
 ###### Article 313 BE
 
@@ -28040,7 +28070,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 198 sexies (V)
 
 
-##### X : Régies de recettes des préfectures et sous-préfectures<a id=311></a>
+##### X : Régies de recettes des préfectures et sous-préfectures<a id=312></a>
 
 ###### Article 313 BG
 
@@ -28063,7 +28093,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 121 KA (V)
 
 
-##### XI : Formules de chèques<a id=312></a>
+##### XI : Formules de chèques<a id=313></a>
 
 ###### Article 313 BG bis
 
@@ -28089,7 +28119,7 @@ soumise, de la mention " Droit de timbre payé sur état ".
 
 
 
-##### Section III : Dispositions communes aux sections I et II<a id=313></a>
+##### Section III : Dispositions communes aux sections I et II<a id=314></a>
 
 ###### Article 313 BH
 
@@ -28144,7 +28174,7 @@ A défaut de cette mention, l'écrit est considéré comme non timbré.
 
 
 
-#### Chapitre II bis : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques<a id=314></a>
+#### Chapitre II bis : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques<a id=315></a>
 
 ###### Article 313-0 BR
 
@@ -28196,17 +28226,17 @@ _Codifié par_:
   - HISTO: Edition du 18 août 1993
 
 
-## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=315></a>
+## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=316></a>
 
-### Titre premier : Impositions communales<a id=316></a>
+### Titre premier : Impositions communales<a id=317></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=317></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=318></a>
 
-##### Section I : Taxes foncières sur les propriétés bâties et non bâties<a id=318></a>
+##### Section I : Taxes foncières sur les propriétés bâties et non bâties<a id=319></a>
 
-##### a : Exonérations temporaires<a id=319></a>
+##### a : Exonérations temporaires<a id=320></a>
 
-##### 1° : Habitations à loyer modéré<a id=320></a>
+##### 1° : Habitations à loyer modéré<a id=321></a>
 
 ###### Article 314
 
@@ -28221,7 +28251,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1384 (V)
 
 
-##### 2° : Constructions financées au moyen des prêts aidés par l'Etat<a id=321></a>
+##### 2° : Constructions financées au moyen des prêts aidés par l'Etat<a id=322></a>
 
 ###### Article 315
 
@@ -28428,7 +28458,7 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2002
 
 
-##### 3° : Zones franches urbaines<a id=322></a>
+##### 3° : Zones franches urbaines<a id=323></a>
 
 ###### Article 315 quater
 
@@ -28477,6 +28507,57 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1383 B (V)
 
 
+###### Article 315 septies
+
+I. - Pour les immeubles mentionnés à l'article 1383 C du code général des impôts susceptibles d'être exonérés à compter du
+1er janvier 2004, le redevable de la taxe foncière sur les propriétés bâties désirant bénéficier de l'exonération prévue à
+l'article 1383 C précité doit souscrire une déclaration, comportant tous les éléments d'identification des immeubles
+concernés, sur un imprimé fourni par l'administration. Cette déclaration doit être adressée au centre des impôts foncier du
+lieu de situation des biens et indiquer :
+
+a) L'activité exercée ;
+
+b) Le nombre de salariés de l'entreprise exploitante au 1er janvier 2004 ou à la date de sa création si elle est
+postérieure ;
+
+c) Le cas échéant, l'option entre les exonérations prévues aux articles 1383 A, 1383 C et 1383 D du code général des impôts ;
+
+d) Le montant du chiffre d'affaires annuel hors taxes réalisé au cours de la période de référence retenue pour l'imposition
+de taxe professionnelle établie au titre de l'année 2004 pour l'établissement exploité dans l'immeuble susceptible de
+bénéficier de l'exonération ;
+
+e) Le total de bilan, au terme de la même période.
+
+Ces informations doivent être accompagnées d'une déclaration sur l'honneur de l'entreprise exploitante que ni son capital, ni
+ses droits de vote ne sont détenus, directement ou indirectement, pour 25 % ou plus, par une ou plusieurs entreprises ne
+répondant pas aux conditions prévues aux premier et deuxième alinéas du I quinquies de l'article 1466 A du code général des
+impôts.
+
+En cas de création de l'entreprise exploitante postérieure au 1er janvier 2004, les conditions mentionnées aux d et e
+s'apprécient au titre de la première année d'activité.
+
+II. - La déclaration mentionnée au I doit être souscrite avant le 1er janvier de la première année à compter de laquelle le
+redevable de la taxe foncière sur les propriétés bâties peut, au titre de l'immeuble concerné, bénéficier des dispositions de
+l'article 1383 C précité.
+
+Tout changement au cours d'une année relatif à l'exploitant ou à l'activité exercée doit être porté à la connaissance de
+l'administration avant le 1er janvier de l'année suivante.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1383 C, 1383 A, 1383 D, 1466 A
+
+_Créé par_:
+
+  - Décret n°2004-590 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2004
+
+
 ###### Article 315 sexies
 
 Pour les immeubles mentionnés à l'article 1383 B du code général des impôts, susceptibles d'être exonérés de taxe foncière,
@@ -28495,9 +28576,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1383 B (V)
 
 
-##### b : Lieu d'imposition<a id=323></a>
+##### b : Lieu d'imposition<a id=324></a>
 
-##### Entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts<a id=324></a>
+##### Entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts<a id=325></a>
 
 ###### Article 316
 
@@ -28690,7 +28771,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 320 (V)
 
 
-##### c : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation<a id=325></a>
+##### c : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation<a id=326></a>
 
 ###### Article 321 E
 
@@ -28723,7 +28804,7 @@ Les déclarations sont produites auprès du service des impôts du lieu de situa
 
 
 
-##### d : Majoration de la valeur locative cadastrale des terrains constructibles<a id=326></a>
+##### d : Majoration de la valeur locative cadastrale des terrains constructibles<a id=327></a>
 
 ###### Article 322
 
@@ -28847,9 +28928,9 @@ _Cite_:
   - TXT_ASSOCIE: Instruction 2003-03-06 6D-2-03
 
 
-##### Section III : Taxe professionnelle<a id=327></a>
+##### Section III : Taxe professionnelle<a id=328></a>
 
-##### I : Exonération des gîtes ruraux<a id=328></a>
+##### I : Exonération des gîtes ruraux<a id=329></a>
 
 ###### Article 322 FA
 
@@ -28880,7 +28961,7 @@ _Cité par_:
   - Code du tourisme. - art. D422-2 (V)
 
 
-##### I bis : Exonération temporaire accordée dans le cadre de l'aménagement du territoire<a id=329></a>
+##### I bis : Exonération temporaire accordée dans le cadre de l'aménagement du territoire<a id=330></a>
 
 ###### Article 322 G
 
@@ -29192,7 +29273,7 @@ _Abrogé par_:
   - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 
-##### II : Lieu d'imposition des entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts<a id=330></a>
+##### II : Lieu d'imposition des entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts<a id=331></a>
 
 ###### Article 323
 
@@ -29220,9 +29301,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1475 (V)
 
 
-##### Section III bis : Règles d'évaluation de la valeur locative des biens imposables<a id=331></a>
+##### Section III bis : Règles d'évaluation de la valeur locative des biens imposables<a id=332></a>
 
-##### I : Dispositions communes à toutes les catégories de locaux<a id=332></a>
+##### I : Dispositions communes à toutes les catégories de locaux<a id=333></a>
 
 ###### Article 324 A
 
@@ -29319,9 +29400,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 Y (M)
 
 
-##### II : Locaux d'habitation et locaux à usage professionnel<a id=333></a>
+##### II : Locaux d'habitation et locaux à usage professionnel<a id=334></a>
 
-##### A : Décomposition de chaque propriété ou fraction de propriété<a id=334></a>
+##### A : Décomposition de chaque propriété ou fraction de propriété<a id=335></a>
 
 ###### Article 324 D
 
@@ -29382,7 +29463,7 @@ propriété sont considérées dans tous les cas comme des dépendances bâties.
 
 
 
-##### B : Classification communale des locaux<a id=335></a>
+##### B : Classification communale des locaux<a id=336></a>
 
 ###### Article 324 G
 
@@ -30238,9 +30319,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 W (V)
 
 
-##### C : Tarifs d'évaluation<a id=336></a>
+##### C : Tarifs d'évaluation<a id=337></a>
 
-##### 1 : Modalités d'établissement<a id=337></a>
+##### 1 : Modalités d'établissement<a id=338></a>
 
 ###### Article 324 K
 
@@ -30266,7 +30347,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 W (V)
 
 
-##### 2 : Détermination de la surface pondérée<a id=338></a>
+##### 2 : Détermination de la surface pondérée<a id=339></a>
 
 ###### Article 324 L
 
@@ -31353,9 +31434,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 G (V)
 
 
-##### D : Evaluations individuelles<a id=339></a>
+##### D : Evaluations individuelles<a id=340></a>
 
-##### 1 : Evaluation des locaux de référence<a id=340></a>
+##### 1 : Evaluation des locaux de référence<a id=341></a>
 
 ###### Article 324 W
 
@@ -31374,7 +31455,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1503 (V)
 
 
-##### 2 : Evaluation des autres locaux<a id=341></a>
+##### 2 : Evaluation des autres locaux<a id=342></a>
 
 ###### Article 324 X
 
@@ -31392,9 +31473,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 L (V)
 
 
-##### III : Locaux commerciaux et biens divers passibles de la taxe foncière sur les propriétés bâties<a id=342></a>
+##### III : Locaux commerciaux et biens divers passibles de la taxe foncière sur les propriétés bâties<a id=343></a>
 
-##### A : Evaluation d'après les baux écrits ou les locations verbales<a id=343></a>
+##### A : Evaluation d'après les baux écrits ou les locations verbales<a id=344></a>
 
 ###### Article 324 Y
 
@@ -31415,7 +31496,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 Z (M)
 
 
-##### B : Evaluation par comparaison<a id=344></a>
+##### B : Evaluation par comparaison<a id=345></a>
 
 ###### Article 324 AA
 
@@ -31456,7 +31537,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 Y (V)
 
 
-##### C : Evaluation par voie d'appréciation directe<a id=345></a>
+##### C : Evaluation par voie d'appréciation directe<a id=346></a>
 
 ###### Article 324 AB
 
@@ -31498,7 +31579,7 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 333 C (Ab)
 
 
-##### IV : Etablissements industriels<a id=346></a>
+##### IV : Etablissements industriels<a id=347></a>
 
 ###### Article 324 AE
 
@@ -31548,7 +31629,7 @@ les dépenses nécessitées par cette édification ou cette création se sont é
 
 
 
-##### V : Déclarations à souscrire pour chaque révision<a id=347></a>
+##### V : Déclarations à souscrire pour chaque révision<a id=348></a>
 
 ###### Article 324 AH
 
@@ -31621,7 +31702,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 AL (V)
 
 
-##### VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties<a id=348></a>
+##### VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties<a id=349></a>
 
 ###### Article 324 AK
 
@@ -31660,9 +31741,9 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-#### Chapitre III : Enregistrement<a id=349></a>
+#### Chapitre III : Enregistrement<a id=350></a>
 
-##### Section unique : Taxe locale d'équipement<a id=350></a>
+##### Section unique : Taxe locale d'équipement<a id=351></a>
 
 ###### Article 328 D bis
 
@@ -31785,11 +31866,11 @@ _Abrogé par_:
   - Décret n°2012-88 du 25 janvier 2012 - art. 3
 
 
-### Titre I bis : Impositions départementales<a id=351></a>
+### Titre I bis : Impositions départementales<a id=352></a>
 
-#### Chapitre unique : Impôts directs et taxes assimilées<a id=352></a>
+#### Chapitre unique : Impôts directs et taxes assimilées<a id=353></a>
 
-##### I : Taxe foncière sur les propriétés bâties<a id=353></a>
+##### I : Taxe foncière sur les propriétés bâties<a id=354></a>
 
 ###### Article 328 E
 
@@ -31875,9 +31956,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 F (V)
 
 
-### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse<a id=354></a>
+### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse<a id=355></a>
 
-#### Chapitre unique : Impôts directs et taxes assimilées<a id=355></a>
+#### Chapitre unique : Impôts directs et taxes assimilées<a id=356></a>
 
 ###### Article 328 H
 
@@ -31969,11 +32050,11 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 I (P)
 
 
-### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=356></a>
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=357></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=357></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=358></a>
 
-##### Section I : Taxe pour frais de chambres de commerce et d'industrie<a id=358></a>
+##### Section I : Taxe pour frais de chambres de commerce et d'industrie<a id=359></a>
 
 ###### Article 330
 
@@ -32035,9 +32116,9 @@ _Cité par_:
   - HISTO: Edition du 31 juillet 1986
 
 
-#### Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées<a id=359></a>
+#### Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées<a id=360></a>
 
-##### Section I : Taxe sur l'édition des ouvrages de librairie<a id=360></a>
+##### Section I : Taxe sur l'édition des ouvrages de librairie<a id=361></a>
 
 ###### Article 331 L
 
@@ -32088,7 +32169,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1609 quindecies (Ab)
 
 
-##### Section II : Redevance sur l'emploi de la reprographie<a id=361></a>
+##### Section II : Redevance sur l'emploi de la reprographie<a id=362></a>
 
 ###### Article 331 M
 
@@ -32127,7 +32208,7 @@ _Codifié par_:
   - Décret n°91-883 1991-09-09
 
 
-##### Section III : Taxe spéciale sur les huiles<a id=362></a>
+##### Section III : Taxe spéciale sur les huiles<a id=363></a>
 
 ###### Article 331 N
 
@@ -32381,7 +32462,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 331 N (V)
 
 
-##### Section IV : Taxe spéciale sur le prix des places de spectacles cinématographiques.<a id=363></a>
+##### Section IV : Taxe spéciale sur le prix des places de spectacles cinématographiques.<a id=364></a>
 
 ###### Article 331 V bis
 
@@ -32658,9 +32739,9 @@ _Codifié par_:
   - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 104 (V) JORF 31 décembre 2006
 
 
-#### Chapitre II : Contributions indirectes<a id=364></a>
+#### Chapitre II : Contributions indirectes<a id=365></a>
 
-##### Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles<a id=365></a>
+##### Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles<a id=366></a>
 
 ###### Article 333 H bis
 
@@ -32770,9 +32851,9 @@ _Codifié par_:
   - PERIME: Décret n°2019-559 du 6 juin 2019 - art. 3
 
 
-#### Chapitre III : Enregistrement<a id=366></a>
+#### Chapitre III : Enregistrement<a id=367></a>
 
-##### Section I : Contribution alimentant le fonds commun des accidents du travail agricole<a id=367></a>
+##### Section I : Contribution alimentant le fonds commun des accidents du travail agricole<a id=368></a>
 
 ###### Article 336 bis
 
@@ -32831,7 +32912,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis (V)
 
 
-##### Section III : Taxes perçues au profit de l'Office des migrations internationales<a id=368></a>
+##### Section III : Taxes perçues au profit de l'Office des migrations internationales<a id=369></a>
 
 ###### Article 344 bis
 
@@ -32918,13 +32999,13 @@ _Cité par_:
   - HISTO: Edition du 31 août 2003
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=369></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=370></a>
 
-### Titre premier : Assiette et contrôle de l'impôt<a id=370></a>
+### Titre premier : Assiette et contrôle de l'impôt<a id=371></a>
 
-#### Chapitre premier : Obligations des contribuables<a id=371></a>
+#### Chapitre premier : Obligations des contribuables<a id=372></a>
 
-##### 00I : Déclarations souscrites auprès de la Direction des grandes entreprises<a id=372></a>
+##### 00I : Déclarations souscrites auprès de la Direction des grandes entreprises<a id=373></a>
 
 ###### Article 344-0 A
 
@@ -33090,7 +33171,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
 
 
-##### 0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger<a id=373></a>
+##### 0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger<a id=374></a>
 
 ###### Article 344 A
 
@@ -33217,7 +33298,7 @@ _Créé par_:
   - TXT_ASSOCIE: Instruction 1999-08-26 13L-9-99
 
 
-##### OI bis : Déclarations des avances remboursables ne portant pas d'intérêt.<a id=374></a>
+##### OI bis : Déclarations des avances remboursables ne portant pas d'intérêt.<a id=375></a>
 
 ###### Article 344 G bis
 
@@ -33280,7 +33361,7 @@ _Créé par_:
   - HISTO: Edition du 31 mars 1999
 
 
-##### I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes<a id=375></a>
+##### I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes<a id=376></a>
 
 ###### Article 344 GA
 
@@ -33361,7 +33442,7 @@ _Créé par_:
   - HISTO: Edition du 1er septembre 1982
 
 
-##### II : Déclaration des ventes autres que les ventes au détail<a id=376></a>
+##### II : Déclaration des ventes autres que les ventes au détail<a id=377></a>
 
 ###### Article 344 H
 
@@ -33402,7 +33483,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 H (V)
 
 
-#### Chapitre I bis : Déclaration des transferts de sommes, titres ou valeurs<a id=377></a>
+#### Chapitre I bis : Déclaration des transferts de sommes, titres ou valeurs<a id=378></a>
 
 ###### Article 344 I bis
 
@@ -33440,7 +33521,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies B (P)
 
 
-#### Chapitre I ter : Transmission des déclarations professionnelles par voie électronique<a id=378></a>
+#### Chapitre I ter : Transmission des déclarations professionnelles par voie électronique<a id=379></a>
 
 ###### Article 344 I quater
 
@@ -33510,7 +33591,7 @@ _Cité par_:
   - HISTO: Edition du 31 mars 2001
 
 
-#### Chapitre II : Centres de gestion agréés<a id=379></a>
+#### Chapitre II : Centres de gestion agréés<a id=380></a>
 
 ###### Article 344 IA
 
@@ -33660,7 +33741,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2001
 
 
-#### Chapitre IV : Agrément<a id=380></a>
+#### Chapitre IV : Agrément<a id=381></a>
 
 ###### Article 344 K
 
@@ -33728,11 +33809,11 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-### Titre II : Dispositions diverses<a id=381></a>
+### Titre II : Dispositions diverses<a id=382></a>
 
-#### Chapitre premier : Commissions administratives des impôts<a id=382></a>
+#### Chapitre premier : Commissions administratives des impôts<a id=383></a>
 
-##### I : Commission communale des impôts directs<a id=383></a>
+##### I : Commission communale des impôts directs<a id=384></a>
 
 ###### Article 345
 
@@ -33754,7 +33835,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1653 (VT)
 
 
-##### II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires<a id=384></a>
+##### II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires<a id=385></a>
 
 ###### Article 347
 
@@ -33908,7 +33989,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
 
 
-##### III : Commission départementale de conciliation<a id=385></a>
+##### III : Commission départementale de conciliation<a id=386></a>
 
 ###### Article 349
 
@@ -33980,7 +34061,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
 
 
-#### Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées<a id=386></a>
+#### Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées<a id=387></a>
 
 ###### Article 350 decies
 
@@ -34260,7 +34341,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 575 D (V)
 
 
-#### Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques<a id=387></a>
+#### Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques<a id=388></a>
 
 ###### Article 350 terdecies
 
@@ -34332,15 +34413,15 @@ _Modifié par_:
   - HISTO: Edition du 31 août 2004
 
 
-# Livre II : Recouvrement de l'impôt<a id=388></a>
+# Livre II : Recouvrement de l'impôt<a id=389></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=389></a>
+## Chapitre premier : Paiement de l'impôt<a id=390></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=390></a>
+### Section I : Impôts directs et taxes assimilées<a id=391></a>
 
-#### II : Exigibilité de l'impôt<a id=391></a>
+#### II : Exigibilité de l'impôt<a id=392></a>
 
-##### 2 : Impôt sur le revenu<a id=392></a>
+##### 2 : Impôt sur le revenu<a id=393></a>
 
 ###### Article 357 A
 
@@ -34511,7 +34592,7 @@ _Créé par_:
   - HISTO: Edition du 1er janvier 2004
 
 
-##### 3 : Impôt sur les sociétés<a id=393></a>
+##### 3 : Impôt sur les sociétés<a id=394></a>
 
 ###### Article 358
 
@@ -34829,7 +34910,7 @@ _Abrogé par_:
   - HISTO: Edition du 31 mars 2002
 
 
-##### 03 bis : Imposition forfaitaire annuelle des sociétés<a id=394></a>
+##### 03 bis : Imposition forfaitaire annuelle des sociétés<a id=395></a>
 
 ###### Article 366 A bis
 
@@ -34861,7 +34942,7 @@ _Cité par_:
   - HISTO: Edition du 11 avril 1997
 
 
-##### 3 bis : Contribution sur l'impôt sur les sociétés.<a id=395></a>
+##### 3 bis : Contribution sur l'impôt sur les sociétés.<a id=396></a>
 
 ###### Article 366 B
 
@@ -35093,7 +35174,7 @@ _Abrogé par_:
   - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 
-##### 3 quater : Contribution sociale sur l'impôt sur les sociétés<a id=396></a>
+##### 3 quater : Contribution sociale sur l'impôt sur les sociétés<a id=397></a>
 
 ###### Article 366 L
 
@@ -35174,9 +35255,9 @@ _Abrogé par_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### 6 : Taxe sur les salaires<a id=397></a>
+##### 6 : Taxe sur les salaires<a id=398></a>
 
-##### a : Remise au Trésor de la taxe sur les salaires<a id=398></a>
+##### a : Remise au Trésor de la taxe sur les salaires<a id=399></a>
 
 ###### Article 369
 
@@ -35256,7 +35337,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 2001-04-25 5L-3-01
 
 
-##### d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques<a id=399></a>
+##### d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques<a id=400></a>
 
 ###### Article 374
 
@@ -35292,7 +35373,7 @@ _Cité par_:
   - HISTO: Edition du 1er janvier 2004
 
 
-##### 7 : Contribution annuelle sur les revenus locatifs<a id=400></a>
+##### 7 : Contribution annuelle sur les revenus locatifs<a id=401></a>
 
 ###### Article 375
 
@@ -35732,7 +35813,7 @@ _Modifié par_:
   - HISTO: Edition du 1er janvier 2003
 
 
-##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs<a id=401></a>
+##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs<a id=402></a>
 
 ###### Article 381 A
 
@@ -36016,7 +36097,7 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
-##### 9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France<a id=402></a>
+##### 9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France<a id=403></a>
 
 ###### Article 381 R
 
@@ -36058,7 +36139,7 @@ _Cité par_:
   - HISTO: Edition du 15 juin 1990
 
 
-##### 10 : Prélèvement sur les produits de placements à revenu fixe<a id=403></a>
+##### 10 : Prélèvement sur les produits de placements à revenu fixe<a id=404></a>
 
 ###### Article 381 S
 
@@ -36102,7 +36183,7 @@ _Cité par_:
   - HISTO: Edition du 22 avril 1998
 
 
-##### 11 : Précompte exigible sur certaines distributions.<a id=404></a>
+##### 11 : Précompte exigible sur certaines distributions.<a id=405></a>
 
 ###### Article 381 T
 
@@ -36125,7 +36206,7 @@ _Abrogé par_:
   - HISTO: Edition du 1er janvier 2005
 
 
-##### 12 : Participation des employeurs au développement de la formation professionnelle continue<a id=405></a>
+##### 12 : Participation des employeurs au développement de la formation professionnelle continue<a id=406></a>
 
 ###### Article 381 U
 
@@ -36246,7 +36327,7 @@ _Cite_:
   - HISTO: Edition du 31 mars 2002
 
 
-#### III : Paiement de l'impôt<a id=406></a>
+#### III : Paiement de l'impôt<a id=407></a>
 
 ###### Article 382
 
@@ -36283,7 +36364,7 @@ _Abrogé par_:
   - Décret n°2011-1303 du 14 octobre 2011 - art. 13
 
 
-##### 4 : Impôt sur le revenu et impositions figurant sur le même article de rôle<a id=407></a>
+##### 4 : Impôt sur le revenu et impositions figurant sur le même article de rôle<a id=408></a>
 
 ###### Article 383 bis
 
@@ -36322,9 +36403,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 383 bis (V)
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=408></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=409></a>
 
-#### I : Obligations cautionnées.<a id=409></a>
+#### I : Obligations cautionnées.<a id=410></a>
 
 ###### Article 384
 
@@ -36358,7 +36439,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 26 () JORF 27 mars 2004
 
 
-#### II bis : Dispositions particulières à certains transports<a id=410></a>
+#### II bis : Dispositions particulières à certains transports<a id=411></a>
 
 ###### Article 384 A bis
 
@@ -36381,11 +36462,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1695 (V)
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=411></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=412></a>
 
-#### 0I : Paiement sur états<a id=412></a>
+#### 0I : Paiement sur états<a id=413></a>
 
-##### Actes notariés<a id=413></a>
+##### Actes notariés<a id=414></a>
 
 ###### Article 384 bis A
 
@@ -36414,7 +36495,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 60 (M)
 
 
-#### 0II : Formalité fusionnée<a id=414></a>
+#### 0II : Formalité fusionnée<a id=415></a>
 
 ###### Article 384 quinquies A
 
@@ -36425,7 +36506,7 @@ Le total des sommes perçues est inscrit en toutes lettres.
 
 
 
-#### I : Taxe spéciale sur les conventions d'assurances<a id=415></a>
+#### I : Taxe spéciale sur les conventions d'assurances<a id=416></a>
 
 ###### Article 385
 
@@ -36562,11 +36643,11 @@ _Modifié par_:
   - HISTO: Edition du 4 juillet 1992
 
 
-#### III : Paiement fractionné ou différé des droits<a id=416></a>
+#### III : Paiement fractionné ou différé des droits<a id=417></a>
 
-##### B : Mutations de propriété ou apports en société<a id=417></a>
+##### B : Mutations de propriété ou apports en société<a id=418></a>
 
-##### 1 : Champ d'application<a id=418></a>
+##### 1 : Champ d'application<a id=419></a>
 
 ###### Article 396
 
@@ -36649,7 +36730,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
 
 
-##### Transmissions d'entreprises<a id=419></a>
+##### Transmissions d'entreprises<a id=420></a>
 
 ###### Article 397 A
 
@@ -36680,7 +36761,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 1995-02-06 7A-1-95
 
 
-##### 2 : Dispositions générales<a id=420></a>
+##### 2 : Dispositions générales<a id=421></a>
 
 ###### Article 398
 
@@ -36851,9 +36932,9 @@ intérêts ne sont dus que jusqu'au jour du paiement des droits.
 
 
 
-##### 3 : Dispositions particulières<a id=421></a>
+##### 3 : Dispositions particulières<a id=422></a>
 
-##### 1° : Mutations par décès<a id=422></a>
+##### 1° : Mutations par décès<a id=423></a>
 
 ###### Article 404 A
 
@@ -36951,7 +37032,7 @@ _Cite_:
   - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
 
 
-##### 2° : Apports en société<a id=423></a>
+##### 2° : Apports en société<a id=424></a>
 
 ###### Article 404 C
 
@@ -36978,7 +37059,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 809 (V)
 
 
-##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires<a id=424></a>
+##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires<a id=425></a>
 
 ###### Article 404 D
 
@@ -36999,7 +37080,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
 
 
-##### 4° : Offices ministériels<a id=425></a>
+##### 4° : Offices ministériels<a id=426></a>
 
 ###### Article 404 E
 
@@ -37016,7 +37097,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
 
 
-##### 5° : Rapatriés d'outre-mer et migrants ruraux<a id=426></a>
+##### 5° : Rapatriés d'outre-mer et migrants ruraux<a id=427></a>
 
 ###### Article 404 F
 
@@ -37041,7 +37122,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 D (V)
 
 
-##### 6° Transmissions d'entreprises<a id=427></a>
+##### 6° Transmissions d'entreprises<a id=428></a>
 
 ###### Article 404 GA
 
@@ -37144,9 +37225,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 397 A (V)
 
 
-#### V : Droits de timbre<a id=428></a>
+#### V : Droits de timbre<a id=429></a>
 
-##### B : Paiement par emploi de machines à timbrer<a id=429></a>
+##### B : Paiement par emploi de machines à timbrer<a id=430></a>
 
 ###### Article 405 B
 
@@ -37166,7 +37247,7 @@ _Cite_:
   - CGIAN4 71, 72, 73, 74, 75
 
 
-##### C : Paiement par apposition de timbres mobiles<a id=430></a>
+##### C : Paiement par apposition de timbres mobiles<a id=431></a>
 
 ###### Article 405 C
 
@@ -37255,7 +37336,7 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982
 
 
-##### D : Paiement au moyen du visa pour timbre<a id=431></a>
+##### D : Paiement au moyen du visa pour timbre<a id=432></a>
 
 ###### Article 405 G
 
@@ -37266,7 +37347,7 @@ timbres mobiles.
 
 
 
-##### E : Paiement de l'impôt sur états<a id=432></a>
+##### E : Paiement de l'impôt sur états<a id=433></a>
 
 ###### Article 405 H
 
@@ -37348,9 +37429,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 405 H (V)
 
 
-#### VI : Taxes sur les véhicules à moteur<a id=433></a>
+#### VI : Taxes sur les véhicules à moteur<a id=434></a>
 
-##### Taxes sur les véhicules des sociétés<a id=434></a>
+##### Taxes sur les véhicules des sociétés<a id=435></a>
 
 ###### Article 406 bis
 
@@ -37400,7 +37481,7 @@ _Codifié par_:
   - HISTO: Edition du 24 juin 1991
 
 
-#### VII : Taxe locale d'équipement<a id=435></a>
+#### VII : Taxe locale d'équipement<a id=436></a>
 
 ###### Article 406 nonies
 
@@ -37460,7 +37541,7 @@ _Codifié par_:
   - Décret n°90-798 1990-09-10
 
 
-### Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=436></a>
+### Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=437></a>
 
 ###### Article 406 undecies
 
@@ -37523,7 +37604,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2002
 
 
-### Section V : Dispositions communes<a id=437></a>
+### Section V : Dispositions communes<a id=438></a>
 
 ###### Article 406 duodecies
 
@@ -37605,9 +37686,9 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02
 
 
-## Chapitre I bis : Pénalités<a id=438></a>
+## Chapitre I bis : Pénalités<a id=439></a>
 
-### Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=439></a>
+### Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=440></a>
 
 ###### Article 406 K
 
@@ -37649,11 +37730,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1825 (V)
 
 
-### Section II : Dispositions communes<a id=440></a>
+### Section II : Dispositions communes<a id=441></a>
 
-#### II : Infractions aux règles de la facturation<a id=441></a>
+#### II : Infractions aux règles de la facturation<a id=442></a>
 
-##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=442></a>
+##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=443></a>
 
 ###### Article 406 A 12
 
@@ -37723,7 +37804,7 @@ domicile ou du siège social de la personne physique ou morale intéressée.
 
 
 
-#### III : Intérêts excédentaires.<a id=443></a>
+#### III : Intérêts excédentaires.<a id=444></a>
 
 ###### Article 406 A 16 A
 
@@ -37834,9 +37915,9 @@ des impôts et du directeur du Trésor.
 
 
 
-### Section III : Dispositions particulières<a id=444></a>
+### Section III : Dispositions particulières<a id=445></a>
 
-#### III : Droits d'enregistrement<a id=445></a>
+#### III : Droits d'enregistrement<a id=446></a>
 
 ###### Article 406 A 27
 
@@ -37849,9 +37930,9 @@ hypothèques et sa présentation à l'enregistrement lorsque celle-ci intervient
 
 
 
-## Chapitre II : Procédures<a id=446></a>
+## Chapitre II : Procédures<a id=447></a>
 
-### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=447></a>
+### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=448></a>
 
 ###### Article 415
 
@@ -37947,11 +38028,11 @@ _Modifié par_:
   - Loi n°94-6 1994-01-01 art. 7, art. 31 JORF 5 janvier 1994
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=448></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=449></a>
 
-### Section I : Juridiction contentieuse<a id=449></a>
+### Section I : Juridiction contentieuse<a id=450></a>
 
-#### B : Disposition particulière aux droits d'enregistrement<a id=450></a>
+#### B : Disposition particulière aux droits d'enregistrement<a id=451></a>
 
 ###### Article 416 E
 
@@ -37960,11 +38041,11 @@ d'enregistrement régulièrement perçus.
 
 
 
-### Section II : Juridiction gracieuse<a id=451></a>
+### Section II : Juridiction gracieuse<a id=452></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=452></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=453></a>
 
-##### 1 : Cotes irrécouvrables<a id=453></a>
+##### 1 : Cotes irrécouvrables<a id=454></a>
 
 ###### Article 426
 
@@ -38017,7 +38098,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2000
 
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=454></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=455></a>
 
 ###### Article 429
 
@@ -38040,7 +38121,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 435 (V)
 
 
-##### a : Sursis de versement<a id=455></a>
+##### a : Sursis de versement<a id=456></a>
 
 ###### Article 430
 
@@ -38083,7 +38164,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 433 (V)
 
 
-##### b : Décharge de responsabilité<a id=456></a>
+##### b : Décharge de responsabilité<a id=457></a>
 
 ###### Article 433
 
@@ -38219,7 +38300,7 @@ _Abrogé par_:
   - HISTO: Edition du 15 juillet 1988
 
 
-##### c : Dispositions communes<a id=457></a>
+##### c : Dispositions communes<a id=458></a>
 
 ###### Article 439
 
@@ -38398,7 +38479,7 @@ _Abrogé par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-#### D : Dispositions particulières aux impôts directs<a id=458></a>
+#### D : Dispositions particulières aux impôts directs<a id=459></a>
 
 ###### Article 445
 
@@ -38422,7 +38503,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°99-889 du 21 octobre 1999 - art. 8 (V)
 
 
-## Chapitre III bis : Restitution de la prime pour l'emploi<a id=459></a>
+## Chapitre III bis : Restitution de la prime pour l'emploi<a id=460></a>
 
 ###### Article 446 ter
 
