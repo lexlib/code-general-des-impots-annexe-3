@@ -1,34 +1,37 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1977-12-30
+Version Consolidée au 1977-12-31
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 252)](#1)
-    - [Première partie : Impôts d'État (art. 10 B à 252)](#2)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 267)](#1)
+    - [Première partie : Impôts d'État (art. 10 B à 267)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 10 B)](#3)
         - [Chapitre Ier : Impôt sur le revenu (art. 10 B)](#4)
           - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 10 B)](#5)
             - [III : Bénéfices industriels et commerciaux (art. 10 B)](#6)
               - [D : Provisions pour reconstitution des gisements (art. 10 B)](#7)
                 - [a : Entreprises de recherches et d'exploitation d'hydrocarbures. (art. 10 B)](#8)
-      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252)](#9)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252)](#10)
+      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252 à 267)](#9)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252 à 267)](#10)
           - [Section I : Dispositions générales (art. 252)](#11)
             - [I : Des formalités (art. 252)](#12)
               - [B : Accomplissement des formalités (art. 252)](#13)
                 - [2 : Modalités d'exécution (art. 252)](#14)
                   - [a : Enregistrement (art. 252)](#15)
-  - [Livre II : Recouvrement de l'impôt (art. 405 D à 442)](#16)
-    - [Chapitre premier : Paiement de l'impôt (art. 405 D)](#17)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#18)
-        - [V : Droits de timbre (art. 405 D)](#19)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#20)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 442)](#21)
-      - [Section II : Juridiction gracieuse (art. 442)](#22)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#23)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#24)
-            - [c : Dispositions communes (art. 442)](#25)
-  - [RECOUVREMENT DE L'IMPOT (art. 361)](#26)
-    - [PAIEMENT DE L'IMPOT (art. 361)](#27)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 361)](#28)
+          - [Section II : Les tarifs et leur application (art. 267)](#16)
+            - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 267)](#17)
+              - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#18)
+  - [Livre II : Recouvrement de l'impôt (art. 361 à 442)](#19)
+    - [Chapitre premier : Paiement de l'impôt (art. 361 à 405 D)](#20)
+      - [Section I : Impôts directs et taxes assimilées (art. 361)](#21)
+        - [II : Exigibilité de l'impôt (art. 361)](#22)
+          - [3 : Impôt sur les sociétés (art. 361)](#23)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#24)
+        - [V : Droits de timbre (art. 405 D)](#25)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#26)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 442)](#27)
+      - [Section II : Juridiction gracieuse (art. 442)](#28)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#29)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#30)
+            - [c : Dispositions communes (art. 442)](#31)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -155,15 +158,77 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1723 ter (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=16></a>
+##### Section II : Les tarifs et leur application<a id=16></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=17></a>
+##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles<a id=17></a>
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=18></a>
+##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=18></a>
 
-#### V : Droits de timbre<a id=19></a>
+###### Article 267
 
-##### C : Paiement par apposition de timbres mobiles<a id=20></a>
+I. Sauf en ce qui concerne les baux et autres actes visés à l'article 28 1° b du décret n° 55-22 du 4 janvier 1955, les
+mutations entre vifs à titre gratuit [*donations*] et les acquisitions immobilières qui donnent lieu au paiement de la taxe
+sur la valeur ajoutée [*TVA*], les droits dûs en application de l'article 250 sont perçus aux taux et selon les modalités
+prévus au chapitre 1er section II [*art. 677 à art. 848*] , et au chapitre IV [*art. 1020 à art. 1134*] du titre IV de la
+première partie du livre Ier du code général des impôts ainsi qu'aux articles 1584, 1595 et 1595 bis dudit code.
+
+II. (Devenu sans objet).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1584, 1595, 1595 bis, 250
+  - Décret n°55-22 1955-01-04 art. 28
+
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01
+
+_Modifié par_:
+
+  - Loi n°77-1468 du 30 décembre 1977 - art. 1 (V) JORF 31 décembre 1977
+
+
+# Livre II : Recouvrement de l'impôt<a id=19></a>
+
+## Chapitre premier : Paiement de l'impôt<a id=20></a>
+
+### Section I : Impôts directs et taxes assimilées<a id=21></a>
+
+#### II : Exigibilité de l'impôt<a id=22></a>
+
+##### 3 : Impôt sur les sociétés<a id=23></a>
+
+###### Article 361
+
+En ce qui concerne les sociétés nouvelles chaque acompte est égal au quart de l'impôt calculé sur le produit évalué à 5 % du
+capital social appelé.
+
+Pour les sociétés en commandite simple et les sociétés en participation passibles de l'impôt sur les sociétés en vertu de
+l'article 206 4 du code général des impôts, les acomptes sont calculés en fonction de la part de bénéfices correspondant soit
+aux droits des commanditaires soit à ceux des associés dont les noms et adresses n'ont pas été indiqués à l'administration.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 206 4
+
+_Modifié par_:
+
+  - Loi n°77-1467 du 30 décembre 1977 - art. 73 (P) JORF 31 décembre 1977
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+
+### Section III : Enregistrement, publicité foncière, timbre<a id=24></a>
+
+#### V : Droits de timbre<a id=25></a>
+
+##### C : Paiement par apposition de timbres mobiles<a id=26></a>
 
 ###### Article 405 D
 
@@ -193,15 +258,15 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=21></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=27></a>
 
-### Section II : Juridiction gracieuse<a id=22></a>
+### Section II : Juridiction gracieuse<a id=28></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=23></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=29></a>
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=24></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=30></a>
 
-##### c : Dispositions communes<a id=25></a>
+##### c : Dispositions communes<a id=31></a>
 
 ###### Article 442
 
@@ -227,32 +292,5 @@ _Abrogé par_:
 **Liens**:
 
   - HISTO: Edition du 15 juillet 1988
-
-
-# RECOUVREMENT DE L'IMPOT<a id=26></a>
-
-## PAIEMENT DE L'IMPOT<a id=27></a>
-
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=28></a>
-
-###### Article 361
-
-En ce qui concerne les sociétés nouvelles [*création d'entreprises*] chaque acompte est égal [*montant*] au quart de l'impôt
-calculé sur le produit évalué à 5 % du capital social appelé.
-
-Pour les sociétés en commandite simple  sociétés en participation et sociétés de copropriétaires de navires passibles de
-l'impôt sur les sociétés en vertu de l'article 206-4 du code général des impôts les acomptes sont calculés en fonction de la
-part de bénéfices correspondant soit aux droits des commanditaires  soit à ceux des associés ou copropriétaires dont les noms
-et adresses n'ont pas été indiqués à l'administration.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 206 4
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
