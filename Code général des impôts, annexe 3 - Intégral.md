@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -353,7 +353,7 @@ Version Consolidée au 1985-12-31
             - [a : Remise au Trésor de la taxe sur les salaires (art. 369)](#350)
             - [b : Disposition spéciale aux professions relevant du régime agricole au regard des lois sur la sécurité sociale. (art. 370)](#351)
             - [d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques (art. 374)](#352)
-          - [8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs (art. 381 KA à 381 Q)](#353)
+          - [8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs (art. 381 K à 381 Q)](#353)
           - [10 : Prélèvement sur les produits de placements à revenu fixes. (art. 381 S)](#354)
           - [11 : Précompte exigible sur certaines distributions. (art. 381 T)](#355)
           - [12 : Participation des employeurs au développement de la formation professionnelle continue (art. 381 U à 381 W)](#356)
@@ -20356,6 +20356,57 @@ _Cité par_:
 
 ##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs<a id=353></a>
 
+###### Article 381 K
+
+En ce qui concerne les emprunts à revenu fixe visés aux articles 118 et 119 du code général des impôts  l'impôt  avancé sur
+les produits courus pendant chaque trimestre  conformément à l'article 1673 du code général des impôts  est versé dans les
+vingt premiers jours des mois de janvier  avril  juillet et octobre de chaque année à la recette des impôts compétente.
+
+L'impôt est versé aux mêmes dates et à la même recette pour les lots et primes de remboursement mis en paiement au cours du
+trimestre précédent.
+
+La retenue à la source est payée aux dates et lieux prévus au premier alinéa sur le montant couru de l'annuité d'intérêt ou
+de prime de remboursement définie au I de l'article 238 septies B du code précité.
+
+A l'appui du versement  il est remis :
+
+a. Un état indiquant [*mentions*] :
+
+1o Le nombre des titres amortis;
+
+2o Le taux d'émission de ces titres déterminé conformément aux dispositions des articles 41 octies à 41 duodecies ci-dessus;
+
+3o Le cas échéant  le prix de rachat en bourse de ces mêmes titres;
+
+4o Le montant des lots et des primes revenant aux titres amortis;
+
+5o La somme sur laquelle la retenue à la source est exigible.
+
+b. Et  s'il y a lieu  une copie du procès-verbal de tirage au sort des titres amortis.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 118
+  - CGI 119
+  - CGI 1673
+  - CGIAN3 41 octies A CGIAN3 41 duodecies CGIAN3 238 septies b
+
+_Modifié par_:
+
+  - Décret n°86-91 1986-01-21 art. 1 JORF 22 janvier 1986
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 381 KB (VT)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 188 J (VD)
+
+
 ###### Article 381 KA
 
 Les revenus des obligations qui font l'objet d'une gestion collective selon les modalités prévues à l'article 3 du décret n°
@@ -22727,54 +22778,6 @@ visée à l'article 364, sera appliquée aux sommes qui n'auront pas été vers�
 _Cite_:
 
   - CGIAN3 364
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-###### Article 381 K
-
-En ce qui concerne les emprunts à revenu fixe visés aux articles 118 et 119 du code général des impôts  l'impôt  avancé sur
-les produits courus pendant chaque trimestre  conformément à l'article 1673 du code général des impôts  est versé dans les
-vingt premiers jours des mois de janvier  avril  juillet et octobre de chaque année à la recette des impôts compétente.
-
-L'impôt est versé aux mêmes dates et à la même recette pour les lots et primes de remboursement mis en paiement au cours du
-trimestre précédent.
-
-A l'appui du versement  il est remis :
-
-a. Un état indiquant [*mentions*] :
-
-1o Le nombre des titres amortis;
-
-2o Le taux d'émission de ces titres déterminé conformément aux dispositions des articles 41 octies à 41 duodecies ci-dessus;
-
-3o Le cas échéant  le prix de rachat en bourse de ces mêmes titres;
-
-4o Le montant des lots et des primes revenant aux titres amortis;
-
-5o La somme sur laquelle la retenue à la source est exigible.
-
-b. Et  s'il y a lieu  une copie du procès-verbal de tirage au sort des titres amortis.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 118
-  - CGI 119
-  - CGI 1673
-  - CGIAN3 41 octies A CGIAN3 41 duodecies
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 381 KB (VT)
-  - Code général des impôts, annexe 4, CGIAN4. - art. 188 J (VD)
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
 
 **Liens**:
 
