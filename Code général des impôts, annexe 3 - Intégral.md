@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-06-18
+Version Consolidée au 1987-07-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -25,7 +25,7 @@ Version Consolidée au 1987-06-18
               - [L : Déclarations et documents (art. 38 A)](#22)
               - [M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts (art. 38 quater à 38 terdecies A)](#23)
                 - [2 : Définitions (art. 38 quater à 38 ter)](#24)
-                - [3 : Règles d'évaluation (art. 38 decies à 38 septies)](#25)
+                - [3 : Règles d'évaluation (art. 38 decies à 38 sexies)](#25)
                 - [4 : Dispositions diverses (art. 38 quaterdecies à 38 terdecies A)](#26)
               - [N : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 54 octies du code général des impôts (art. 38 quindecies A à 38 quindecies D)](#27)
               - [O : Opérations de crédit-bail (art. 38 quindecies E)](#28)
@@ -238,7 +238,7 @@ Version Consolidée au 1987-06-18
               - [Assiette et liquidation (art. 263 à 264)](#235)
           - [Section II : Les tarifs et leur application (art. 265 à 281 C)](#236)
             - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 265 à 267)](#237)
-              - [1 : Régimes spéciaux institués en faveur du commerce et de l'industrie. (art. 265)](#238)
+              - [1 : Régimes spéciaux institués en faveur du commerce et de l'industrie. (art. 265 à 266)](#238)
               - [2 : Opérations concourant à la production ou à la livraison d'immeubles (art. 266 bis)](#239)
               - [2 bis : Régimes spéciaux institués en faveur de l'agriculture. (art. 266 quater à 266 ter)](#240)
               - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#241)
@@ -429,11 +429,10 @@ Version Consolidée au 1987-06-18
             - [c : Dispositions communes (art. 439 à 444)](#426)
         - [D : Dispositions particulières aux impôts directs (art. 445)](#427)
   - [RECOUVREMENT DE L'IMPOT (art. 360 à 443)](#428)
-    - [PAIEMENT DE L'IMPOT (art. 360 à 403)](#429)
+    - [PAIEMENT DE L'IMPOT (art. 360 à 363)](#429)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360 à 363)](#430)
-      - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 403)](#431)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 434 à 443)](#432)
-      - [JURIDICTION GRACIEUSE. (art. 434 à 443)](#433)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 434 à 443)](#431)
+      - [JURIDICTION GRACIEUSE. (art. 434 à 443)](#432)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -2737,6 +2736,27 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°83-1 1983-01-03 art. 47 JORF 4 janvier 1983
+
+
+###### Article 38 sexies
+
+La dépréciation des immobilisations qui ne se déprécient pas de manière irréversible, notamment les terrains, les fonds de
+commerce, les titres de participation, donne lieu à la constitution de provisions dans les conditions prévues au 5° du 1 de
+l'article 39 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 5 I 2° JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 39 (VT)
 
 
 ##### 4 : Dispositions diverses<a id=26></a>
@@ -9023,6 +9043,54 @@ employeurs appartenant aux professions qui relèvent du régime agricole au rega
 
 
 
+###### Article 53 bis
+
+Doivent acquitter la taxe sur les salaires visée à l'article 231 du code général des impôts, dans les conditions et délais et
+sous les sanctions prévus par les articles 1679, 1679 bis, 1727, 1728, 1729, 1731 et 1736 dudit code et 50, 51, 369 et 374-I,
+les organismes coopératifs, mutualistes et professionnels agricoles énumérés ci-après :
+
+Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à
+l'article 1235 du code rural ;
+
+Caisses de crédit agricole mutuel ;
+
+Sociétés coopératives agricoles ;
+
+Sociétés d'intérêt collectif agricoles ;
+
+Syndicats agricoles ;
+
+Chambres d'agriculture ;
+
+Unions ou fédérations des organismes précités et, généralement, tous groupements coopératifs mutualistes et professionnels
+agricoles régulièrement constitués.
+
+Toutefois, le présent article n'est applicable à l'égard des sociétés coopératives de culture en commun et des sociétés
+coopératives d'utilisation en commun de matériel agricole qu'en ce qui concerne les salariés occupés dans leurs services
+administratifs et leurs ateliers de réparation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 231, 1679, 1679 bis, 1727, 1728, 1729, 1731, 1736
+  - CGIAN3 50, 51, 369, 374 1
+  - Code rural 1235
+
+_Modifié par_:
+
+  - Loi n°86-1317 1986-12-30 art. 81 II Finances pour 1987 JORF 31 décembre 1986
+  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 53 quater (V)
+
+
 ###### Article 53 quater
 
 Les dispositions des articles 53 bis et 53 ter ne sont pas applicables aux organismes professionnels et autres employeurs
@@ -14662,6 +14730,38 @@ _Abrogé par_:
 _Codifié par_:
 
   - Décret n°90-798 1990-09-10
+
+
+###### Article 266
+
+Sous réserve des dispositions de l'article 300 de l'annexe II au code général des impôts, l'application des dispositions de
+l'article 265 est subordonnée à l'agrément préalable à l'acquisition par le ministre du budget. L'agrément est délivré dans
+les conditions prévues à l'article 1649 nonies du code précité.
+
+L'agrément préalable n'est pas exigé lorsque, une demande d'agrément ayant été déposée, l'acquéreur prend l'engagement dans
+l'acte d'acquisition d'acquitter le complément de taxe et l'intérêt de retard ainsi que la majoration prévue à l'article 1727
+du code général des impôts, si l'agrément ouvrant droit à la réduction du droit de mutation n'était pas délivré.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1649 nonies
+  - CGI 1727
+  - CGIAN2 300
+  - CGIAN3 265
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 JORF 9 juillet 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20 Décret 90-798 1990-09-10
+
+_Abrogé par_:
+
+  - Loi n°89-935 1989-12-29 art. 20 Finances pour 1990 JORF 30 décembre 1989
 
 
 ##### 2 : Opérations concourant à la production ou à la livraison d'immeubles<a id=239></a>
@@ -23459,6 +23559,42 @@ _Cité par_:
   - HISTO: Edition du 15 juillet 1985
 
 
+###### Article 403
+
+Le redevable est déchu du bénéfice du crédit :
+
+en cas de défaut de constitution des garanties ou du complément de garanties dans les délais respectivement impartis à
+l'article 400 ;
+
+en cas de retard dans le paiement de l'un quelconque des termes échus.
+
+La déchéance entraîne l'exigibilité immédiate des droits en suspens, majorés des pénalités prévues à l'article 1731 du code
+général des impôts. Ces pénalités sont exclusives de l'intérêt prévu à l'article 401.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1731
+  - CGIAN3 400, 401
+
+_Modifié par_:
+
+  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-07-15
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 404
 
 Les droits ayant fait l'objet de l'octroi du crédit peuvent être acquittés par anticipation. Dans cette hypothèse, les
@@ -24759,38 +24895,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT - PUBLICITE FONCIERE.<a id=431></a>
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=431></a>
 
-###### Article 403
-
-Le redevable est déchu du bénéfice du crédit [*déchéance*] :
-
-en cas de défaut de constitution des garanties ou du complément de garanties dans les délais respectivement impartis à
-l'article 400;     en cas de retard dans le paiement de l'un quelconque des termes échus.
-
-La déchéance entraîne l'exigibilité immédiate des droits en suspens  majorés de l'indemnité de retard prévue à l'article 1727
-du code général des impôts. Cette indemnité est exclusive de l'intérêt prévu à l'article 401.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1727
-  - CGIAN3 400
-  - CGIAN3 401
-
-_Cité par_:
-
-  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=432></a>
-
-### JURIDICTION GRACIEUSE.<a id=433></a>
+### JURIDICTION GRACIEUSE.<a id=432></a>
 
 ###### Article 434
 
