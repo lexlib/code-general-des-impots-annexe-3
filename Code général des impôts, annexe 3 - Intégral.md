@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1981-02-04
+Version Consolidée au 1981-04-17
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
