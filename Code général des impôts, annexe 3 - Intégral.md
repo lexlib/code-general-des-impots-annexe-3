@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-03-18
+Version Consolidée au 1986-03-19
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -401,25 +401,25 @@ Version Consolidée au 1986-03-18
         - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#398)
       - [Section III : Dispositions particulières (art. 406 A 27)](#399)
         - [III : Droits d'enregistrement (art. 406 A 27)](#400)
-    - [Chapitre II : Procédures (art. 416)](#401)
-      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 416)](#402)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#403)
-      - [Section I : Juridiction contentieuse (art. 416 E)](#404)
-        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#405)
-      - [Section II : Juridiction gracieuse (art. 426 à 445)](#406)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#407)
-          - [1 : Cotes irrécouvrables (art. 426 à 428)](#408)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#409)
-            - [a : Sursis de versement (art. 430 à 432)](#410)
-            - [b : Décharge de responsabilité (art. 433 à 437)](#411)
-            - [c : Dispositions communes (art. 439 à 444)](#412)
-        - [D : Dispositions particulières aux impôts directs (art. 445)](#413)
-  - [RECOUVREMENT DE L'IMPOT (art. 360 à 443)](#414)
-    - [PAIEMENT DE L'IMPOT (art. 360 à 403)](#415)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360 à 381 X)](#416)
-      - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 403)](#417)
-    - [PENALITES. (art. 406 A 12)](#418)
-    - [PROCEDURES. (art. 415)](#419)
+    - [Chapitre II : Procédures (art. 415 à 416)](#401)
+      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor et de la direction générale des impôts. (art. 415)](#402)
+      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 416)](#403)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#404)
+      - [Section I : Juridiction contentieuse (art. 416 E)](#405)
+        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#406)
+      - [Section II : Juridiction gracieuse (art. 426 à 445)](#407)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#408)
+          - [1 : Cotes irrécouvrables (art. 426 à 428)](#409)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#410)
+            - [a : Sursis de versement (art. 430 à 432)](#411)
+            - [b : Décharge de responsabilité (art. 433 à 437)](#412)
+            - [c : Dispositions communes (art. 439 à 444)](#413)
+        - [D : Dispositions particulières aux impôts directs (art. 445)](#414)
+  - [RECOUVREMENT DE L'IMPOT (art. 360 à 443)](#415)
+    - [PAIEMENT DE L'IMPOT (art. 360 à 403)](#416)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360 à 381 X)](#417)
+      - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 403)](#418)
+    - [PENALITES. (art. 406 A 12)](#419)
     - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 434 à 443)](#420)
       - [JURIDICTION GRACIEUSE. (art. 434 à 443)](#421)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
@@ -22593,7 +22593,62 @@ hypothèques et sa présentation à l'enregistrement lorsque celle-ci intervient
 
 ## Chapitre II : Procédures<a id=401></a>
 
-### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=402></a>
+### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor et de la direction générale des impôts.<a id=402></a>
+
+###### Article 415
+
+Sont à la charge des redevables poursuivis les frais accessoires ci-après :
+
+Frais d'ouverture des portes;
+
+Notification au saisi en cas de saisie-exécution hors de son domicile et en son absence;
+
+Notification au maire, au parquet ou par procès-verbal dans les cas prévus par les articles 656, 659, 660, 684 et 691 du
+nouveau code de procédure civile;
+
+Remise des actes sous enveloppe;
+
+Copie supplémentaire au mari en cas de poursuites contre la femme;
+
+Levée des états d'inscriptions grevant les fonds de commerce;
+
+Dénonciation de la saisie-exécution aux créanciers inscrits sur les fonds de commerce;
+
+Dénonciation de la saisie-brandon au garde-champêtre non présent à la saisie;
+
+Récolement lorsque le gardien a obtenu décharge et qu'un nouveau gardien est établi;
+
+Sommation au saisissant de faire vendre dans la huitaine les objets saisis;
+
+Frais de garde des meubles ou récoltes saisis;
+
+Frais de transport des objets saisis;
+
+Honoraires du commissaire-priseur sur le produit de la vente;
+
+Allocation due  en dehors du cas de saisie interrompue  lorsque après déplacement de l'agent de poursuites  l'acte de
+poursuites n'est pas effectué à raison d'un incident provenant du fait de la partie qui devait être poursuivie.
+
+Ces frais sont comptés aux redevables en conformité du tarif des huissiers de justice  des agents huissiers du Trésor ou des
+commissaires-priseurs suivant que les poursuites sont faites par un huissier de justice  un agent huissier du Trésor ou un
+commissaire-priseur.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°86-585 1986-03-14 art. 4 JORF 19 mars 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cite_:
+
+  - Code de procédure civile 659 NOUVEAU
+
+
+### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=403></a>
 
 ###### Article 416
 
@@ -22603,11 +22658,11 @@ exercées.
 
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=403></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=404></a>
 
-### Section I : Juridiction contentieuse<a id=404></a>
+### Section I : Juridiction contentieuse<a id=405></a>
 
-#### B : Disposition particulière aux droits d'enregistrement<a id=405></a>
+#### B : Disposition particulière aux droits d'enregistrement<a id=406></a>
 
 ###### Article 416 E
 
@@ -22616,11 +22671,11 @@ d'enregistrement régulièrement perçus.
 
 
 
-### Section II : Juridiction gracieuse<a id=406></a>
+### Section II : Juridiction gracieuse<a id=407></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=407></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=408></a>
 
-##### 1 : Cotes irrécouvrables<a id=408></a>
+##### 1 : Cotes irrécouvrables<a id=409></a>
 
 ###### Article 426
 
@@ -22673,7 +22728,7 @@ _Modifié par_:
   - Décret n°85-1318 du 12 décembre 1985 - art. 2 (V) JORF 14 décembre 1985
 
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=409></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=410></a>
 
 ###### Article 429
 
@@ -22696,7 +22751,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 435 (V)
 
 
-##### a : Sursis de versement<a id=410></a>
+##### a : Sursis de versement<a id=411></a>
 
 ###### Article 430
 
@@ -22733,7 +22788,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 433 (V)
 
 
-##### b : Décharge de responsabilité<a id=411></a>
+##### b : Décharge de responsabilité<a id=412></a>
 
 ###### Article 433
 
@@ -22783,7 +22838,7 @@ _Abrogé par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-##### c : Dispositions communes<a id=412></a>
+##### c : Dispositions communes<a id=413></a>
 
 ###### Article 439
 
@@ -22879,7 +22934,7 @@ _Abrogé par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-#### D : Dispositions particulières aux impôts directs<a id=413></a>
+#### D : Dispositions particulières aux impôts directs<a id=414></a>
 
 ###### Article 445
 
@@ -22901,11 +22956,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# RECOUVREMENT DE L'IMPOT<a id=414></a>
+# RECOUVREMENT DE L'IMPOT<a id=415></a>
 
-## PAIEMENT DE L'IMPOT<a id=415></a>
+## PAIEMENT DE L'IMPOT<a id=416></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=416></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=417></a>
 
 ###### Article 360
 
@@ -23007,7 +23062,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-### ENREGISTREMENT - PUBLICITE FONCIERE.<a id=417></a>
+### ENREGISTREMENT - PUBLICITE FONCIERE.<a id=418></a>
 
 ###### Article 403
 
@@ -23036,7 +23091,7 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-## PENALITES.<a id=418></a>
+## PENALITES.<a id=419></a>
 
 ###### Article 406 A 12
 
@@ -23054,56 +23109,6 @@ _Cite_:
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 1751 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-## PROCEDURES.<a id=419></a>
-
-###### Article 415
-
-Sont à la charge des redevables poursuivis les frais accessoires ci-après :
-
-Frais d'ouverture des portes;
-
-Notification au saisi en cas de saisie-exécution hors de son domicile et en son absence;
-
-Notification au maire ou au parquet dans les cas prévus par les articles 656, 659, 660, 684 et 691 du nouveau code de
-procédure civile;
-
-Remise des actes sous enveloppe;
-
-Copie supplémentaire au mari en cas de poursuites contre la femme;    Levée des états d'inscriptions grevant les fonds de
-commerce;
-
-Dénonciation de la saisie-exécution aux créanciers inscrits sur les fonds de commerce;
-
-Dénonciation de la saisie-brandon au garde-champêtre non présent à la saisie;
-
-Récolement lorsque le gardien a obtenu décharge et qu'un nouveau gardien est établi;
-
-Sommation au saisissant de faire vendre dans la huitaine les objets saisis;
-
-Frais de garde des meubles ou récoltes saisis;
-
-Frais de transport des objets saisis;
-
-Honoraires du commissaire-priseur sur le produit de la vente;
-
-Allocation due  en dehors du cas de saisie interrompue  lorsque après déplacement de l'agent de poursuites  l'acte de
-poursuites n'est pas effectué à raison d'un incident provenant du fait de la partie qui devait être poursuivie.
-
-Ces frais sont comptés aux redevables en conformité du tarif des huissiers de justice  des agents huissiers du Trésor ou des
-commissaires-priseurs suivant que les poursuites sont faites par un huissier de justice  un agent huissier du Trésor ou un
-commissaire-priseur.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de procédure civile 684 NOUVEAU
 
 **Liens**:
 
