@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-12-31
+Version Consolidée au 1984-01-07
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -330,7 +330,7 @@ Version Consolidée au 1983-12-31
   - [REGIME ECONOMIQUE (art. 143 A)](#327)
     - [ORGANISATION DE L'ECONOMIE CIDRICOLE. (art. 143 A)](#328)
   - [Livre II : Recouvrement de l'impôt (art. 351 à 445)](#329)
-    - [Chapitre premier : Paiement de l'impôt (art. 351 à 406 bis)](#330)
+    - [Chapitre premier : Paiement de l'impôt (art. 351 à 406 ter)](#330)
       - [Section I : Impôts directs et taxes assimilées (art. 351 à 383 ter)](#331)
         - [I : Rôles et avis d'imposition (art. 351)](#332)
           - [1 : Rôles auxiliaires. (art. 351)](#333)
@@ -351,7 +351,7 @@ Version Consolidée au 1983-12-31
         - [I : Obligations cautionnées. (art. 384)](#348)
         - [II : Régime spécial du forfait. (art. 384 A)](#349)
         - [II bis : Dispositions particulières à certains transports (art. 384 A bis)](#350)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 bis A à 406 bis)](#351)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 bis A à 406 ter)](#351)
         - [0I : Paiement sur états (art. 384 bis A à 384 quinquies)](#352)
           - [Actes notariés (art. 384 bis A)](#353)
           - [Actes extra-judiciaires. (art. 384 quinquies)](#354)
@@ -377,31 +377,31 @@ Version Consolidée au 1983-12-31
           - [E : Paiement de l'impôt sur états (art. 405 H à 406)](#374)
         - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#375)
           - [Taxes sur les véhicules des sociétés (art. 406 bis)](#376)
-    - [Chapitre I bis : Pénalités (art. 406 A 13 à 406 A 27)](#377)
-      - [Section II : Dispositions communes (art. 406 A 13 à 406 A 16 F)](#378)
-        - [II : Infractions aux règles de la facturation (art. 406 A 13 à 406 A 16)](#379)
-          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 13 à 406 A 16)](#380)
-        - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#381)
-      - [Section III : Dispositions particulières (art. 406 A 27)](#382)
-        - [III : Droits d'enregistrement (art. 406 A 27)](#383)
-    - [Chapitre II : Procédures (art. 416)](#384)
-      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 416)](#385)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#386)
-      - [Section I : Juridiction contentieuse (art. 416 E)](#387)
-        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#388)
-      - [Section II : Juridiction gracieuse (art. 426 à 445)](#389)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#390)
-          - [1 : Cotes irrécouvrables (art. 426 à 427)](#391)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#392)
-            - [a : Sursis de versement (art. 430 à 432)](#393)
-            - [b : Décharge de responsabilité (art. 433 à 437)](#394)
-            - [c : Dispositions communes (art. 439 à 444)](#395)
-        - [D : Dispositions particulières aux impôts directs (art. 445)](#396)
-  - [RECOUVREMENT DE L'IMPOT (art. 360 à 443)](#397)
-    - [PAIEMENT DE L'IMPOT (art. 360 à 406 ter)](#398)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360 à 381 X)](#399)
-      - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 396 à 404 CA)](#400)
-      - [DROITS DE TIMBRE. (art. 406 ter)](#401)
+        - [VII : Taxe locale d'équipement (art. 406 nonies à 406 ter)](#377)
+    - [Chapitre I bis : Pénalités (art. 406 A 13 à 406 A 27)](#378)
+      - [Section II : Dispositions communes (art. 406 A 13 à 406 A 16 F)](#379)
+        - [II : Infractions aux règles de la facturation (art. 406 A 13 à 406 A 16)](#380)
+          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 13 à 406 A 16)](#381)
+        - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#382)
+      - [Section III : Dispositions particulières (art. 406 A 27)](#383)
+        - [III : Droits d'enregistrement (art. 406 A 27)](#384)
+    - [Chapitre II : Procédures (art. 416)](#385)
+      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 416)](#386)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#387)
+      - [Section I : Juridiction contentieuse (art. 416 E)](#388)
+        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#389)
+      - [Section II : Juridiction gracieuse (art. 426 à 445)](#390)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#391)
+          - [1 : Cotes irrécouvrables (art. 426 à 427)](#392)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#393)
+            - [a : Sursis de versement (art. 430 à 432)](#394)
+            - [b : Décharge de responsabilité (art. 433 à 437)](#395)
+            - [c : Dispositions communes (art. 439 à 444)](#396)
+        - [D : Dispositions particulières aux impôts directs (art. 445)](#397)
+  - [RECOUVREMENT DE L'IMPOT (art. 360 à 443)](#398)
+    - [PAIEMENT DE L'IMPOT (art. 360 à 404 CA)](#399)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360 à 381 X)](#400)
+      - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 396 à 404 CA)](#401)
     - [PENALITES. (art. 406 A 12 à 406 A 16 C)](#402)
     - [PROCEDURES. (art. 415)](#403)
     - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 428 à 443)](#404)
@@ -19420,13 +19420,72 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## Chapitre I bis : Pénalités<a id=377></a>
+#### VII : Taxe locale d'équipement<a id=377></a>
 
-### Section II : Dispositions communes<a id=378></a>
+###### Article 406 nonies
 
-#### II : Infractions aux règles de la facturation<a id=379></a>
+Les réclamations des redevables de la taxe locale d'équipement sont recevables jusqu'au 31 décembre [*date limite*] de la
+deuxième année  suivant celle du versement de la taxe ou de la notification d'un avis de mise en recouvrement s'il a été
+procédé à cette notification.
 
-##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=380></a>
+Dans les situations définies à l'article 1723 quinquies du code général des impôts  les réclamations sont recevables jusqu'au
+31 décembre de la deuxième année suivant celle soit de la péremption du permis de construire soit de la démolition des
+constructions en vertu d'une décision de justice soit de la modification apportée au permis de construire ou à l'autorisation
+tacite de construire.
+
+Les réclamations relatives au recouvrement de la taxe sont adressées au service des impôts. Toutes les autres réclamations
+sont adressées au responsable du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas d'application de
+l'article R424-1 du code de l'urbanisme, au maire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1723 quinquies
+  - Code de l'urbanisme R424-1
+
+_Modifié par_:
+
+  - Loi n°77-1453 du 29 décembre 1977 - art. 22 (V) JORF 30 décembre 1977
+  - Décret n°83-1261 1983-12-30 art. 38 JORF 7 janvier 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+
+###### Article 406 ter
+
+(Devenu sans objet)    Les redevables tenus solidairement au paiement de la taxe locale d'équipement en vertu de l'article
+1929-4 du code général des impôts sont recherchés en paiement soit par voie d'avis de mise en recouvrement collectif soit par
+voie de mise en demeure dans les conditions fixées au titre IV du livre des procédures fiscales pour les impôts recouvrés par
+les comptables de la direction générale des impôts.
+
+Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible la taxe locale
+d'équipement, elle doit en informer sans délai le directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1929 4
+
+_Modifié par_:
+
+  - Décret n°83-1261 1983-12-30 art. 38 JORF 7 janvier 1984
+
+_Codifié par_:
+
+  - Décret n°85-1007 1985-09-24
+
+
+## Chapitre I bis : Pénalités<a id=378></a>
+
+### Section II : Dispositions communes<a id=379></a>
+
+#### II : Infractions aux règles de la facturation<a id=380></a>
+
+##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=381></a>
 
 ###### Article 406 A 13
 
@@ -19474,7 +19533,7 @@ domicile ou du siège social de la personne physique ou morale intéressée.
 
 
 
-#### III : Intérêts excédentaires.<a id=381></a>
+#### III : Intérêts excédentaires.<a id=382></a>
 
 ###### Article 406 A 16 A
 
@@ -19551,9 +19610,9 @@ des impôts et du directeur du Trésor.
 
 
 
-### Section III : Dispositions particulières<a id=382></a>
+### Section III : Dispositions particulières<a id=383></a>
 
-#### III : Droits d'enregistrement<a id=383></a>
+#### III : Droits d'enregistrement<a id=384></a>
 
 ###### Article 406 A 27
 
@@ -19566,9 +19625,9 @@ hypothèques et sa présentation à l'enregistrement lorsque celle-ci intervient
 
 
 
-## Chapitre II : Procédures<a id=384></a>
+## Chapitre II : Procédures<a id=385></a>
 
-### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=385></a>
+### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=386></a>
 
 ###### Article 416
 
@@ -19578,11 +19637,11 @@ exercées.
 
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=386></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=387></a>
 
-### Section I : Juridiction contentieuse<a id=387></a>
+### Section I : Juridiction contentieuse<a id=388></a>
 
-#### B : Disposition particulière aux droits d'enregistrement<a id=388></a>
+#### B : Disposition particulière aux droits d'enregistrement<a id=389></a>
 
 ###### Article 416 E
 
@@ -19591,11 +19650,11 @@ d'enregistrement régulièrement perçus.
 
 
 
-### Section II : Juridiction gracieuse<a id=389></a>
+### Section II : Juridiction gracieuse<a id=390></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=390></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=391></a>
 
-##### 1 : Cotes irrécouvrables<a id=391></a>
+##### 1 : Cotes irrécouvrables<a id=392></a>
 
 ###### Article 426
 
@@ -19623,7 +19682,7 @@ _Abrogé par_:
   - Décret n°99-889 du 21 octobre 1999 - art. 2 () JORF 22 octobre 1999
 
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=392></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=393></a>
 
 ###### Article 429
 
@@ -19646,7 +19705,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 435 (V)
 
 
-##### a : Sursis de versement<a id=393></a>
+##### a : Sursis de versement<a id=394></a>
 
 ###### Article 430
 
@@ -19683,7 +19742,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 433 (V)
 
 
-##### b : Décharge de responsabilité<a id=394></a>
+##### b : Décharge de responsabilité<a id=395></a>
 
 ###### Article 433
 
@@ -19733,7 +19792,7 @@ _Abrogé par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-##### c : Dispositions communes<a id=395></a>
+##### c : Dispositions communes<a id=396></a>
 
 ###### Article 439
 
@@ -19829,7 +19888,7 @@ _Abrogé par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-#### D : Dispositions particulières aux impôts directs<a id=396></a>
+#### D : Dispositions particulières aux impôts directs<a id=397></a>
 
 ###### Article 445
 
@@ -19851,11 +19910,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-# RECOUVREMENT DE L'IMPOT<a id=397></a>
+# RECOUVREMENT DE L'IMPOT<a id=398></a>
 
-## PAIEMENT DE L'IMPOT<a id=398></a>
+## PAIEMENT DE L'IMPOT<a id=399></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=399></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=400></a>
 
 ###### Article 360
 
@@ -20062,7 +20121,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### ENREGISTREMENT - PUBLICITE FONCIERE.<a id=400></a>
+### ENREGISTREMENT - PUBLICITE FONCIERE.<a id=401></a>
 
 ###### Article 396
 
@@ -20296,33 +20355,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°85-356 du 23 mars 1985 - art. 9 (V) JORF 24 mars 1985
-
-
-### DROITS DE TIMBRE.<a id=401></a>
-
-###### Article 406 ter
-
-Un avis établi par le service de l'équipement est adresssé par le service des impôts au titulaire initial de l'autorisation
-de construire, redevable de la taxe locale d'équipement. Cet avis mentionne les bases de calcul le montant et les dates
-limites de paiement de la taxe.
-
-Les redevables tenus solidairement au paiement de la taxe en vertu de l'article 1929-4 du code général des impôts sont
-recherchés en paiement  soit par voie d'avis de mise en recouvrement collectif soit par voie de mise en demeure dans les
-conditions fixées au titre IV du livre des procédures fiscales pour les impôts recouvrés par les comptables de la direction
-générale des impôts.
-
-Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible la taxe locale
-d'équipement, elle doit en informer sans délai le directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1929 4
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
 
 
 ## PENALITES.<a id=402></a>
