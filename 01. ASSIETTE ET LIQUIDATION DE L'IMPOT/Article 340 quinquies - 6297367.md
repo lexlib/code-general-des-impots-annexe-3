@@ -5,7 +5,7 @@ fixés comme suit :
 
 Contribution des sociétés d'assurances : 10 % de la totalité des charges du fonds de garantie;
 
-Contribution des assurés : 1 % des primes.
+Contribution des assurés : 1,40 % des primes.
 
 2. La contribution des assurés est perçue sur les primes émises postérieurement au 30 septembre 1952, nettes d'annulation.
 
@@ -20,6 +20,10 @@ _Cite_:
 
   - CGIAN4 159 quinquies
 
-**Liens**:
+_Codifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°84-875 1984-10-01
+
+_Modifié par_:
+
+  - Décret n°83-1073 du 13 décembre 1983 - art. 1 (V) JORF 15 décembre 1983
