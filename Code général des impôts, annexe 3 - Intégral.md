@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2001-04-10
+Version Consolidée au 2001-05-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BR bis)](#2)
@@ -405,71 +405,70 @@ Version Consolidée au 2001-04-10
           - [3 : Impôt sur les sociétés (art. 358 à 366 AA)](#402)
           - [03 bis : Imposition forfaitaire annuelle des sociétés (art. 366 A bis)](#403)
           - [3 bis : Contribution sur l'impôt sur les sociétés. (art. 366 B à 366 I)](#404)
-          - [3 ter : Contribution temporaire sur l'impôt sur les sociétés. (art. 366 L)](#405)
-          - [3 quater : Contribution sociale sur l'impôt sur les sociétés (art. 366 M à 366 N)](#406)
-          - [6 : Taxe sur les salaires (art. 369 à 374)](#407)
-            - [a : Remise au Trésor de la taxe sur les salaires (art. 369)](#408)
-            - [b : Disposition spéciale aux professions relevant du régime agricole au regard des lois sur la sécurité sociale. (art. 370)](#409)
-            - [d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques (art. 374)](#410)
-          - [7 : Contribution annuelle représentative du droit de bail et contribution additionnelle à la contribution annuelle représentative du droit de bail. (art. 375 à 381 ter)](#411)
-          - [8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs (art. 381 A à 381 Q)](#412)
-          - [9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France (art. 381 R)](#413)
-          - [10 : Prélèvement sur les produits de placements à revenu fixe (art. 381 S)](#414)
-          - [11 : Précompte exigible sur certaines distributions. (art. 381 T)](#415)
-          - [12 : Participation des employeurs au développement de la formation professionnelle continue (art. 381 U à 381 X)](#416)
-        - [III : Paiement de l'impôt (art. 382 à 383 ter)](#417)
-          - [4 : Impôt sur le revenu et impositions figurant sur le même article de rôle (art. 383 bis à 383 ter)](#418)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 384 à 384 A bis)](#419)
-        - [I : Obligations cautionnées. (art. 384)](#420)
-        - [II bis : Dispositions particulières à certains transports (art. 384 A bis)](#421)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 bis A à 406 ter)](#422)
-        - [0I : Paiement sur états (art. 384 bis A)](#423)
-          - [Actes notariés (art. 384 bis A)](#424)
-        - [0II : Formalité fusionnée (art. 384 quinquies A)](#425)
-        - [I : Taxe spéciale sur les conventions d'assurances (art. 385 à 390)](#426)
-        - [III : Paiement fractionné ou différé des droits (art. 396 à 404 GD)](#427)
-          - [B : Mutations de propriété ou apports en société (art. 396 à 404 GD)](#428)
-            - [1 : Champ d'application (art. 396 à 397 A)](#429)
-              - [Transmissions d'entreprises (art. 397 A)](#430)
-            - [2 : Dispositions générales (art. 398 à 404)](#431)
-            - [3 : Dispositions particulières (art. 404 A à 404 GD)](#432)
-              - [1° : Mutations par décès (art. 404 A à 404 B)](#433)
-              - [2° : Apports en société (art. 404 C)](#434)
-              - [3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires (art. 404 D)](#435)
-              - [4° : Offices ministériels (art. 404 E)](#436)
-              - [5° : Rapatriés d'outre-mer et migrants ruraux (art. 404 F)](#437)
-              - [6° Transmissions d'entreprises (art. 404 GA à 404 GD)](#438)
-        - [V : Droits de timbre (art. 405 B à 406)](#439)
-          - [B : Paiement par emploi de machines à timbrer (art. 405 B)](#440)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 C à 405 F)](#441)
-          - [D : Paiement au moyen du visa pour timbre (art. 405 G)](#442)
-          - [E : Paiement de l'impôt sur états (art. 405 H à 406)](#443)
-        - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#444)
-          - [Taxes sur les véhicules des sociétés (art. 406 bis)](#445)
-        - [VII : Taxe locale d'équipement (art. 406 nonies à 406 ter)](#446)
-      - [Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 undecies à 406 undecies A)](#447)
-      - [Section V : Dispositions communes (art. 406 duodecies à 406 terdecies)](#448)
-    - [Chapitre I bis : Pénalités (art. 406 K à 406 A 27)](#449)
-      - [Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 K à 406 L)](#450)
-      - [Section II : Dispositions communes (art. 406 A 12 à 406 A 16 F)](#451)
-        - [II : Infractions aux règles de la facturation (art. 406 A 12 à 406 A 16)](#452)
-          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 12 à 406 A 16)](#453)
-        - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#454)
-      - [Section III : Dispositions particulières (art. 406 A 27)](#455)
-        - [III : Droits d'enregistrement (art. 406 A 27)](#456)
-    - [Chapitre II : Procédures (art. 415 à 416-0 bis)](#457)
-      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 415 à 416-0 bis)](#458)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#459)
-      - [Section I : Juridiction contentieuse (art. 416 E)](#460)
-        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#461)
-      - [Section II : Juridiction gracieuse (art. 426 à 445)](#462)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#463)
-          - [1 : Cotes irrécouvrables (art. 426 à 428)](#464)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#465)
-            - [a : Sursis de versement (art. 430 à 432)](#466)
-            - [b : Décharge de responsabilité (art. 433 à 438)](#467)
-            - [c : Dispositions communes (art. 439 à 444)](#468)
-        - [D : Dispositions particulières aux impôts directs (art. 445)](#469)
+          - [3 quater : Contribution sociale sur l'impôt sur les sociétés (art. 366 M à 366 N)](#405)
+          - [6 : Taxe sur les salaires (art. 369 à 374)](#406)
+            - [a : Remise au Trésor de la taxe sur les salaires (art. 369)](#407)
+            - [b : Disposition spéciale aux professions relevant du régime agricole au regard des lois sur la sécurité sociale. (art. 370)](#408)
+            - [d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques (art. 374)](#409)
+          - [7 : Contribution annuelle représentative du droit de bail et contribution additionnelle à la contribution annuelle représentative du droit de bail. (art. 375 à 381 ter)](#410)
+          - [8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs (art. 381 A à 381 Q)](#411)
+          - [9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France (art. 381 R)](#412)
+          - [10 : Prélèvement sur les produits de placements à revenu fixe (art. 381 S)](#413)
+          - [11 : Précompte exigible sur certaines distributions. (art. 381 T)](#414)
+          - [12 : Participation des employeurs au développement de la formation professionnelle continue (art. 381 U à 381 X)](#415)
+        - [III : Paiement de l'impôt (art. 382 à 383 ter)](#416)
+          - [4 : Impôt sur le revenu et impositions figurant sur le même article de rôle (art. 383 bis à 383 ter)](#417)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 384 à 384 A bis)](#418)
+        - [I : Obligations cautionnées. (art. 384)](#419)
+        - [II bis : Dispositions particulières à certains transports (art. 384 A bis)](#420)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 bis A à 406 ter)](#421)
+        - [0I : Paiement sur états (art. 384 bis A)](#422)
+          - [Actes notariés (art. 384 bis A)](#423)
+        - [0II : Formalité fusionnée (art. 384 quinquies A)](#424)
+        - [I : Taxe spéciale sur les conventions d'assurances (art. 385 à 390)](#425)
+        - [III : Paiement fractionné ou différé des droits (art. 396 à 404 GD)](#426)
+          - [B : Mutations de propriété ou apports en société (art. 396 à 404 GD)](#427)
+            - [1 : Champ d'application (art. 396 à 397 A)](#428)
+              - [Transmissions d'entreprises (art. 397 A)](#429)
+            - [2 : Dispositions générales (art. 398 à 404)](#430)
+            - [3 : Dispositions particulières (art. 404 A à 404 GD)](#431)
+              - [1° : Mutations par décès (art. 404 A à 404 B)](#432)
+              - [2° : Apports en société (art. 404 C)](#433)
+              - [3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires (art. 404 D)](#434)
+              - [4° : Offices ministériels (art. 404 E)](#435)
+              - [5° : Rapatriés d'outre-mer et migrants ruraux (art. 404 F)](#436)
+              - [6° Transmissions d'entreprises (art. 404 GA à 404 GD)](#437)
+        - [V : Droits de timbre (art. 405 B à 406)](#438)
+          - [B : Paiement par emploi de machines à timbrer (art. 405 B)](#439)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 C à 405 F)](#440)
+          - [D : Paiement au moyen du visa pour timbre (art. 405 G)](#441)
+          - [E : Paiement de l'impôt sur états (art. 405 H à 406)](#442)
+        - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#443)
+          - [Taxes sur les véhicules des sociétés (art. 406 bis)](#444)
+        - [VII : Taxe locale d'équipement (art. 406 nonies à 406 ter)](#445)
+      - [Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 undecies à 406 undecies A)](#446)
+      - [Section V : Dispositions communes (art. 406 duodecies à 406 terdecies)](#447)
+    - [Chapitre I bis : Pénalités (art. 406 K à 406 A 27)](#448)
+      - [Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 K à 406 L)](#449)
+      - [Section II : Dispositions communes (art. 406 A 12 à 406 A 16 F)](#450)
+        - [II : Infractions aux règles de la facturation (art. 406 A 12 à 406 A 16)](#451)
+          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 12 à 406 A 16)](#452)
+        - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#453)
+      - [Section III : Dispositions particulières (art. 406 A 27)](#454)
+        - [III : Droits d'enregistrement (art. 406 A 27)](#455)
+    - [Chapitre II : Procédures (art. 415 à 416-0 bis)](#456)
+      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 415 à 416-0 bis)](#457)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#458)
+      - [Section I : Juridiction contentieuse (art. 416 E)](#459)
+        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#460)
+      - [Section II : Juridiction gracieuse (art. 426 à 445)](#461)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#462)
+          - [1 : Cotes irrécouvrables (art. 426 à 428)](#463)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#464)
+            - [a : Sursis de versement (art. 430 à 432)](#465)
+            - [b : Décharge de responsabilité (art. 433 à 438)](#466)
+            - [c : Dispositions communes (art. 439 à 444)](#467)
+        - [D : Dispositions particulières aux impôts directs (art. 445)](#468)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -6586,9 +6585,13 @@ _Cite_:
   - CGI 88, 158, 204, 182 A
   - Livre des procédures fiscales R81 A-1
 
+_Codifié par_:
+
+  - Décret n°2001-435 2001-04-21
+
 _Modifié par_:
 
-  - Décret n°2000-339 du 17 avril 2000 - art. 2 () JORF 19 avril 2000
+  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 
 
 ###### Article 39 B
@@ -31895,39 +31898,7 @@ _Abrogé par_:
   - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 
-##### 3 ter : Contribution temporaire sur l'impôt sur les sociétés.<a id=405></a>
-
-###### Article 366 L
-
-Les versements anticipés prévus au I de l'article 1668 D du code général des impôts sont calculés et versés dans les
-conditions fixées au premier alinéa de l'article 360.
-
-Chaque versement anticipé est égal à 0,825 % du montant de l'impôt sur les sociétés calculé sur les résultats imposables aux
-taux mentionnés au I de l'article 219 du code général des impôts du plus récent exercice clos ou de la dernière période
-d'imposition arrêtée à la date de son échéance et diminué du montant de l'abattement défini au premier alinéa du I de
-l'article 235 ter ZC du code précité. Lorsque cet exercice ou cette période d'imposition est supérieur ou inférieur à douze
-mois, l'impôt de référence ainsi calculé est, en tant que de besoin, rapporté à une période de douze mois.
-
-Le versement anticipé dont l'échéance est comprise entre la date de clôture d'un exercice ou la fin d'une période
-d'imposition et l'expiration du délai de déclaration fixé au deuxième alinéa du 1 de l'article 223 du code général des impôts
-est calculé et régularisé, au taux de 0,825 %, dans les conditions fixées au quatrième alinéa de l'article 360.
-
-Sont dispensées des versements anticipés les sociétés pour lesquelles le montant de la contribution sociale calculée sur
-l'impôt sur les sociétés de référence n'excède pas 1 000 F.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1668 D, 235 ter ZC, 219, 223
-  - CGIAN3 360
-
-_Créé par_:
-
-  - Décret n°2000-498 du 6 juin 2000 - art. 1 () JORF 8 juin 2000
-
-
-##### 3 quater : Contribution sociale sur l'impôt sur les sociétés<a id=406></a>
+##### 3 quater : Contribution sociale sur l'impôt sur les sociétés<a id=405></a>
 
 ###### Article 366 M
 
@@ -31973,9 +31944,9 @@ _Abrogé par_:
   - HISTO: Edition du 31 mars 2001
 
 
-##### 6 : Taxe sur les salaires<a id=407></a>
+##### 6 : Taxe sur les salaires<a id=406></a>
 
-##### a : Remise au Trésor de la taxe sur les salaires<a id=408></a>
+##### a : Remise au Trésor de la taxe sur les salaires<a id=407></a>
 
 ###### Article 369
 
@@ -32029,7 +32000,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
 
 
-##### b : Disposition spéciale aux professions relevant du régime agricole au regard des lois sur la sécurité sociale.<a id=409></a>
+##### b : Disposition spéciale aux professions relevant du régime agricole au regard des lois sur la sécurité sociale.<a id=408></a>
 
 ###### Article 370
 
@@ -32053,7 +32024,7 @@ _Abrogé par_:
   - HISTO: Edition du 1er janvier 2004
 
 
-##### d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques<a id=410></a>
+##### d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques<a id=409></a>
 
 ###### Article 374
 
@@ -32081,7 +32052,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
 
 
-##### 7 : Contribution annuelle représentative du droit de bail et contribution additionnelle à la contribution annuelle représentative du droit de bail.<a id=411></a>
+##### 7 : Contribution annuelle représentative du droit de bail et contribution additionnelle à la contribution annuelle représentative du droit de bail.<a id=410></a>
 
 ###### Article 375
 
@@ -32473,7 +32444,7 @@ _Créé par_:
   - HISTO: Edition du 31 mars 2000
 
 
-##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs<a id=412></a>
+##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs<a id=411></a>
 
 ###### Article 381 A
 
@@ -32757,7 +32728,7 @@ _Codifié par_:
   - HISTO: Edition du 20 juillet 1984
 
 
-##### 9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France<a id=413></a>
+##### 9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France<a id=412></a>
 
 ###### Article 381 R
 
@@ -32799,7 +32770,7 @@ _Cité par_:
   - HISTO: Edition du 15 juin 1990
 
 
-##### 10 : Prélèvement sur les produits de placements à revenu fixe<a id=414></a>
+##### 10 : Prélèvement sur les produits de placements à revenu fixe<a id=413></a>
 
 ###### Article 381 S
 
@@ -32843,7 +32814,7 @@ _Cité par_:
   - HISTO: Edition du 22 avril 1998
 
 
-##### 11 : Précompte exigible sur certaines distributions.<a id=415></a>
+##### 11 : Précompte exigible sur certaines distributions.<a id=414></a>
 
 ###### Article 381 T
 
@@ -32866,7 +32837,7 @@ _Abrogé par_:
   - HISTO: Edition du 1er janvier 2005
 
 
-##### 12 : Participation des employeurs au développement de la formation professionnelle continue<a id=416></a>
+##### 12 : Participation des employeurs au développement de la formation professionnelle continue<a id=415></a>
 
 ###### Article 381 U
 
@@ -32981,7 +32952,7 @@ _Codifié par_:
   - HISTO: Edition du 31 juillet 1986
 
 
-#### III : Paiement de l'impôt<a id=417></a>
+#### III : Paiement de l'impôt<a id=416></a>
 
 ###### Article 382
 
@@ -33018,7 +32989,7 @@ _Abrogé par_:
   - Décret n°2011-1303 du 14 octobre 2011 - art. 13
 
 
-##### 4 : Impôt sur le revenu et impositions figurant sur le même article de rôle<a id=418></a>
+##### 4 : Impôt sur le revenu et impositions figurant sur le même article de rôle<a id=417></a>
 
 ###### Article 383 bis
 
@@ -33057,9 +33028,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 383 bis (V)
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=419></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=418></a>
 
-#### I : Obligations cautionnées.<a id=420></a>
+#### I : Obligations cautionnées.<a id=419></a>
 
 ###### Article 384
 
@@ -33093,7 +33064,7 @@ _Abrogé par_:
   - Ordonnance n°2004-281 du 25 mars 2004 - art. 26 () JORF 27 mars 2004
 
 
-#### II bis : Dispositions particulières à certains transports<a id=421></a>
+#### II bis : Dispositions particulières à certains transports<a id=420></a>
 
 ###### Article 384 A bis
 
@@ -33116,11 +33087,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1695 (V)
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=422></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=421></a>
 
-#### 0I : Paiement sur états<a id=423></a>
+#### 0I : Paiement sur états<a id=422></a>
 
-##### Actes notariés<a id=424></a>
+##### Actes notariés<a id=423></a>
 
 ###### Article 384 bis A
 
@@ -33149,7 +33120,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 60 (M)
 
 
-#### 0II : Formalité fusionnée<a id=425></a>
+#### 0II : Formalité fusionnée<a id=424></a>
 
 ###### Article 384 quinquies A
 
@@ -33160,7 +33131,7 @@ Le total des sommes perçues est inscrit en toutes lettres.
 
 
 
-#### I : Taxe spéciale sur les conventions d'assurances<a id=426></a>
+#### I : Taxe spéciale sur les conventions d'assurances<a id=425></a>
 
 ###### Article 385
 
@@ -33297,11 +33268,11 @@ _Modifié par_:
   - HISTO: Edition du 4 juillet 1992
 
 
-#### III : Paiement fractionné ou différé des droits<a id=427></a>
+#### III : Paiement fractionné ou différé des droits<a id=426></a>
 
-##### B : Mutations de propriété ou apports en société<a id=428></a>
+##### B : Mutations de propriété ou apports en société<a id=427></a>
 
-##### 1 : Champ d'application<a id=429></a>
+##### 1 : Champ d'application<a id=428></a>
 
 ###### Article 396
 
@@ -33384,7 +33355,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
 
 
-##### Transmissions d'entreprises<a id=430></a>
+##### Transmissions d'entreprises<a id=429></a>
 
 ###### Article 397 A
 
@@ -33415,7 +33386,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 1995-02-06 7A-1-95
 
 
-##### 2 : Dispositions générales<a id=431></a>
+##### 2 : Dispositions générales<a id=430></a>
 
 ###### Article 398
 
@@ -33586,9 +33557,9 @@ intérêts ne sont dus que jusqu'au jour du paiement des droits.
 
 
 
-##### 3 : Dispositions particulières<a id=432></a>
+##### 3 : Dispositions particulières<a id=431></a>
 
-##### 1° : Mutations par décès<a id=433></a>
+##### 1° : Mutations par décès<a id=432></a>
 
 ###### Article 404 A
 
@@ -33686,7 +33657,7 @@ _Cite_:
   - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
 
 
-##### 2° : Apports en société<a id=434></a>
+##### 2° : Apports en société<a id=433></a>
 
 ###### Article 404 C
 
@@ -33713,7 +33684,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 809 (V)
 
 
-##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires<a id=435></a>
+##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires<a id=434></a>
 
 ###### Article 404 D
 
@@ -33734,7 +33705,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
 
 
-##### 4° : Offices ministériels<a id=436></a>
+##### 4° : Offices ministériels<a id=435></a>
 
 ###### Article 404 E
 
@@ -33751,7 +33722,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
 
 
-##### 5° : Rapatriés d'outre-mer et migrants ruraux<a id=437></a>
+##### 5° : Rapatriés d'outre-mer et migrants ruraux<a id=436></a>
 
 ###### Article 404 F
 
@@ -33776,7 +33747,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 D (V)
 
 
-##### 6° Transmissions d'entreprises<a id=438></a>
+##### 6° Transmissions d'entreprises<a id=437></a>
 
 ###### Article 404 GA
 
@@ -33879,9 +33850,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 397 A (V)
 
 
-#### V : Droits de timbre<a id=439></a>
+#### V : Droits de timbre<a id=438></a>
 
-##### B : Paiement par emploi de machines à timbrer<a id=440></a>
+##### B : Paiement par emploi de machines à timbrer<a id=439></a>
 
 ###### Article 405 B
 
@@ -33901,7 +33872,7 @@ _Cite_:
   - CGIAN4 71, 72, 73, 74, 75
 
 
-##### C : Paiement par apposition de timbres mobiles<a id=441></a>
+##### C : Paiement par apposition de timbres mobiles<a id=440></a>
 
 ###### Article 405 C
 
@@ -33970,7 +33941,7 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982
 
 
-##### D : Paiement au moyen du visa pour timbre<a id=442></a>
+##### D : Paiement au moyen du visa pour timbre<a id=441></a>
 
 ###### Article 405 G
 
@@ -33981,7 +33952,7 @@ timbres mobiles.
 
 
 
-##### E : Paiement de l'impôt sur états<a id=443></a>
+##### E : Paiement de l'impôt sur états<a id=442></a>
 
 ###### Article 405 H
 
@@ -34063,9 +34034,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 405 H (V)
 
 
-#### VI : Taxes sur les véhicules à moteur<a id=444></a>
+#### VI : Taxes sur les véhicules à moteur<a id=443></a>
 
-##### Taxes sur les véhicules des sociétés<a id=445></a>
+##### Taxes sur les véhicules des sociétés<a id=444></a>
 
 ###### Article 406 bis
 
@@ -34115,7 +34086,7 @@ _Codifié par_:
   - HISTO: Edition du 24 juin 1991
 
 
-#### VII : Taxe locale d'équipement<a id=446></a>
+#### VII : Taxe locale d'équipement<a id=445></a>
 
 ###### Article 406 nonies
 
@@ -34175,7 +34146,7 @@ _Codifié par_:
   - Décret n°90-798 1990-09-10
 
 
-### Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=447></a>
+### Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=446></a>
 
 ###### Article 406 undecies
 
@@ -34239,7 +34210,7 @@ _Codifié par_:
   - HISTO: Edition du 2 septembre 1994
 
 
-### Section V : Dispositions communes<a id=448></a>
+### Section V : Dispositions communes<a id=447></a>
 
 ###### Article 406 duodecies
 
@@ -34313,9 +34284,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
 
 
-## Chapitre I bis : Pénalités<a id=449></a>
+## Chapitre I bis : Pénalités<a id=448></a>
 
-### Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=450></a>
+### Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=449></a>
 
 ###### Article 406 K
 
@@ -34357,11 +34328,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1825 (V)
 
 
-### Section II : Dispositions communes<a id=451></a>
+### Section II : Dispositions communes<a id=450></a>
 
-#### II : Infractions aux règles de la facturation<a id=452></a>
+#### II : Infractions aux règles de la facturation<a id=451></a>
 
-##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=453></a>
+##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=452></a>
 
 ###### Article 406 A 12
 
@@ -34431,7 +34402,7 @@ domicile ou du siège social de la personne physique ou morale intéressée.
 
 
 
-#### III : Intérêts excédentaires.<a id=454></a>
+#### III : Intérêts excédentaires.<a id=453></a>
 
 ###### Article 406 A 16 A
 
@@ -34542,9 +34513,9 @@ des impôts et du directeur du Trésor.
 
 
 
-### Section III : Dispositions particulières<a id=455></a>
+### Section III : Dispositions particulières<a id=454></a>
 
-#### III : Droits d'enregistrement<a id=456></a>
+#### III : Droits d'enregistrement<a id=455></a>
 
 ###### Article 406 A 27
 
@@ -34557,9 +34528,9 @@ hypothèques et sa présentation à l'enregistrement lorsque celle-ci intervient
 
 
 
-## Chapitre II : Procédures<a id=457></a>
+## Chapitre II : Procédures<a id=456></a>
 
-### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=458></a>
+### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=457></a>
 
 ###### Article 415
 
@@ -34658,11 +34629,11 @@ _Modifié par_:
   - Loi n°94-6 1994-01-01 art. 7, art. 31 JORF 5 janvier 1994
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=459></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=458></a>
 
-### Section I : Juridiction contentieuse<a id=460></a>
+### Section I : Juridiction contentieuse<a id=459></a>
 
-#### B : Disposition particulière aux droits d'enregistrement<a id=461></a>
+#### B : Disposition particulière aux droits d'enregistrement<a id=460></a>
 
 ###### Article 416 E
 
@@ -34671,11 +34642,11 @@ d'enregistrement régulièrement perçus.
 
 
 
-### Section II : Juridiction gracieuse<a id=462></a>
+### Section II : Juridiction gracieuse<a id=461></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=463></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=462></a>
 
-##### 1 : Cotes irrécouvrables<a id=464></a>
+##### 1 : Cotes irrécouvrables<a id=463></a>
 
 ###### Article 426
 
@@ -34728,7 +34699,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2000
 
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=465></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=464></a>
 
 ###### Article 429
 
@@ -34751,7 +34722,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 435 (V)
 
 
-##### a : Sursis de versement<a id=466></a>
+##### a : Sursis de versement<a id=465></a>
 
 ###### Article 430
 
@@ -34794,7 +34765,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 433 (V)
 
 
-##### b : Décharge de responsabilité<a id=467></a>
+##### b : Décharge de responsabilité<a id=466></a>
 
 ###### Article 433
 
@@ -34933,7 +34904,7 @@ _Abrogé par_:
   - HISTO: Edition du 15 juillet 1988
 
 
-##### c : Dispositions communes<a id=468></a>
+##### c : Dispositions communes<a id=467></a>
 
 ###### Article 439
 
@@ -35112,7 +35083,7 @@ _Abrogé par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-#### D : Dispositions particulières aux impôts directs<a id=469></a>
+#### D : Dispositions particulières aux impôts directs<a id=468></a>
 
 ###### Article 445
 
