@@ -9,21 +9,18 @@ de l'entraide agricole, des subventions et primes d'équipement, des redevances 
 et des recettes accessoires provenant d'activités n'ayant pas un caractère agricole.
 
 En outre, un abattement de 30 % est appliqué au montant des recettes provenant d'élevages pour lesquels le pourcentage moyen
-du bénéfice brut par rapport aux recettes est inférieur à 20 %. Un arrêté du ministre de l'économie et des finances fixe la
-liste des élevages qui peuvent bénéficier de cette disposition (1).
+du bénéfice brut par rapport aux recettes est inférieur à 20 %. Un arrêté du ministre chargé du budget fixe la liste des
+élevages qui peuvent bénéficier de cette disposition (1).
 
-(1) Annexe IV, art. 4 M.
+**Nota:**
+
+(1) Voir l'article 4 M de l'annexe IV.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 69
-  - CGIAN4 4 M
-
 _Modifié par_:
 
-  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+  - Décret n°2005-1 du 3 janvier 2005 - art. 2 () JORF 4 janvier 2005
 
 _Cité par_:
 
@@ -31,10 +28,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies B (Ab)
   - Code général des impôts, annexe 4, CGIAN4. - art. 4 M (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°84-875 1984-10-01
-
-**Liens**:
-
-  - HISTO: Edition du 20 juillet 1984
+  - Code général des impôts, CGI. - art. 69 (V)
