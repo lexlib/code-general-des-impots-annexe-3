@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-10-19
+Version Consolidée au 1985-12-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -402,7 +402,7 @@ Version Consolidée au 1985-10-19
         - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#399)
       - [Section II : Juridiction gracieuse (art. 426 à 445)](#400)
         - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#401)
-          - [1 : Cotes irrécouvrables (art. 426 à 427)](#402)
+          - [1 : Cotes irrécouvrables (art. 426 à 428)](#402)
           - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#403)
             - [a : Sursis de versement (art. 430 à 432)](#404)
             - [b : Décharge de responsabilité (art. 433 à 437)](#405)
@@ -414,8 +414,8 @@ Version Consolidée au 1985-10-19
       - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 403)](#411)
     - [PENALITES. (art. 406 A 12)](#412)
     - [PROCEDURES. (art. 415)](#413)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 428 à 443)](#414)
-      - [JURIDICTION GRACIEUSE. (art. 428 à 443)](#415)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 434 à 443)](#414)
+      - [JURIDICTION GRACIEUSE. (art. 434 à 443)](#415)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -19490,8 +19490,7 @@ Ils obtiennent le remboursement de leurs frais réels de transport aux tarifs ap
 ###### Article 143 A
 
 La production des fruits à cidre et à poiré est réservée en priorité à la fabrication de produits alimentaires destinés tant
-au marché national qu'à l'exportation. Seul le surplus disponible peut être livré à la distillation d'alcool réservé à
-l'Etat.
+au marché national qu'à l'exportation.
 
 Sont considérés comme produits cidricoles alimentaires [*définition*] pour l'application de cette disposition :
 
@@ -19508,13 +19507,17 @@ _Cite_:
 
   - Décret n°53-978 du 30 septembre 1953 - art. 9 (M)
 
+_Modifié par_:
+
+  - Décret n°85-1319 du 12 décembre 1985 - art. 1 (V) JORF 14 décembre 1985
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
+
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 143 A 1 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
 
 
 # Livre II : Recouvrement de l'impôt<a id=336></a>
@@ -22044,6 +22047,31 @@ _Abrogé par_:
   - Décret n°99-889 du 21 octobre 1999 - art. 2 () JORF 22 octobre 1999
 
 
+###### Article 428
+
+Le pouvoir de statuer est dévolu :
+
+au directeur des services fiscaux [*autorité compétente*] lorsque les sommes dont l'admission en non-valeurs est demandée
+n'excèdent pas 750.000 F par cote;
+
+au directeur général des impôts  d'accord avec le directeur de  a la comptabilité publique  lorsqu'il s'agit de sommes
+excédant les limites de compétence du directeur des services fiscaux;
+
+au ministre, en cas de désaccord entre le directeur général des impôts et le directeur de la comptabilité publique.
+
+Les décisions sont notifiées au service du recouvrement par le directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°85-1318 du 12 décembre 1985 - art. 2 (V) JORF 14 décembre 1985
+
+
 ##### 2 : Sursis de versement et décharge de responsabilité<a id=403></a>
 
 ###### Article 429
@@ -22532,35 +22560,6 @@ _Cite_:
 ## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=414></a>
 
 ### JURIDICTION GRACIEUSE.<a id=415></a>
-
-###### Article 428
-
-Le pouvoir de statuer est dévolu :
-
-au directeur des services fiscaux [*autorité compétente*] lorsque les sommes dont l'admission en non-valeurs est demandée
-n'excèdent pas 400.000 F par cote;
-
-au directeur général des impôts  d'accord avec le directeur de  a la comptabilité publique  lorsqu'il s'agit de sommes
-excédant les limites de compétence du directeur des services fiscaux;
-
-au ministre, en cas de désaccord entre le directeur général des impôts et le directeur de la comptabilité publique.
-
-Les décisions sont notifiées au service du recouvrement par le directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°82-881 1982-10-15
-
-_Cité par_:
-
-  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
-
-_Modifié par_:
-
-  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
-
 
 ###### Article 434
 
