@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-06-24
+Version Consolidée au 2004-07-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -255,7 +255,7 @@ Version Consolidée au 2004-06-24
           - [Section II : Organisation des bureaux de garantie (art. 187 à 191)](#252)
           - [Section III : Fonctionnement des bureaux de garantie (art. 203 à 208)](#253)
           - [Section IV : Obligations des redevables (art. 209 à 211)](#254)
-          - [Section IV bis : Exportations ou livraisons à destination d'un autre Etat membre de l'Union européenne (art. 211 AA à 211 AC)](#255)
+          - [Section IV bis : Exportations ou livraisons à destination d'un autre Etat membre de l'Union européenne (art. 211 AC)](#255)
           - [Section V : Ouvrages dorés, argentés ou platinés (art. 212 A)](#256)
           - [Section VI : Frappe des médailles (art. 213 à 214)](#257)
         - [Chapitre III bis : Régime économique du sucre. (art. 219 A à 219 O)](#258)
@@ -24726,25 +24726,25 @@ _Modifié par_:
 
 ###### Article 209-0 A
 
-La déclaration mensuelle prévue à l'article 527 du code général des impôts est souscrite auprès de la recette des douanes et
-droits indirects dans le ressort de laquelle le redevable est établi, dans le délai fixé par arrêté (1), sur un imprimé
-conforme au modèle prescrit par l'administration.
-
-La déclaration indique les poids respectifs, exprimés en grammes, des ouvrages en platine, en or ou contenant de l'or et en
-argent et le montant de la taxe correspondant.
-
-(1) Voir les articles 56 J ter et 56 J quater de l'annexe IV.
+La déclaration prévue à l'article 527 du code général des impôts mentionne le nombre des ouvrages en platine, en or ou
+contenant de l'or et en argent poinçonnés le mois précédent par le bureau de garantie, la date de l'apport à la marque et le
+montant de la contribution correspondant. Elle doit être accompagnée des fiches d'apport à la marque de ces ouvrages,
+établies par l'opérateur et visées par le bureau de garantie lors du dépôt des ouvrages en métaux précieux auprès de ce
+bureau pour être marqués des poinçons de titre légaux. Cette déclaration est envoyée ou déposée auprès de la recette des
+douanes et droits indirects territorialement compétente dans le ressort de laquelle est établi le bureau de garantie dont
+dépend le redevable. Lorsque les redevables paient la contribution au comptant, les ouvrages en métaux précieux ne leur sont
+restitués que sur présentation de la quittance de paiement. La forme et le contenu des fiches d'apport à la marque sont
+définis par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 527
-  - CGIAN4 56 J ter, 54 J quater
 
 _Modifié par_:
 
-  - Décret n°94-433 du 24 mai 1994 - art. 3 () JORF 1er juin 1994
+  - Décret n°2004-588 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 _Cité par_:
 
@@ -24752,7 +24752,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
+  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 209-0 B
@@ -24827,27 +24827,6 @@ _Modifié par_:
 
 
 ##### Section IV bis : Exportations ou livraisons à destination d'un autre Etat membre de l'Union européenne<a id=255></a>
-
-###### Article 211 AA
-
-Le remboursement du droit spécifique mentionné à l'article 527 du code général des impôts, prévu à l'article 542 du même
-code, peut être effectué par voie d'imputation sur les droits dus au titre des opérations taxables si le redevable est placé
-sous le régime du paiement mensuel.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 527, 542
-
-_Abrogé par_:
-
-  - Décret n°2004-588 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
-
-_Modifié par_:
-
-  - Loi n°94-6 1994-01-01 art. 26, 31 JORF 5 janvier 1994
-
 
 ###### Article 211 AC
 
@@ -37514,33 +37493,26 @@ _Cite_:
 
 ###### Article 406 undecies A
 
-L'option pour le paiement au comptant du droit spécifique sur les ouvrages mentionnés à l'article 522 du code général des
-impôts lors de la mise sur le marché national des ouvrages en métaux précieux, prévue par le dixième alinéa de l'article 527
-du code précité, doit être exercée par les redevables, avant le 15 décembre de l'année précédant celle au titre de laquelle
-elle est sollicitée, par lettre recommandée avec avis de réception adressée au receveur des douanes et droits indirects
+L'option pour le paiement au comptant de la contribution sur les ouvrages mentionnés à l'article 522 du code général des
+impôts lors de l'apposition du poinçon de garantie par les bureaux de garantie, prévue par l'article 527 du code précité,
+doit être exercée par les redevables, avant le 15 décembre de l'année précédant celle au titre de laquelle elle est
+sollicitée, par lettre recommandée avec avis de réception adressée au receveur des douanes et droits indirects
 territorialement compétent. Cette option est reconduite tacitement, sauf avis contraire notifié audit receveur dans les mêmes
-conditions.
+conditions. 
 
 Toutefois, les receveurs des douanes et droits indirects ont la faculté d'autoriser un redevable à opter, en cours d'année,
-pour le paiement au comptant du droit spécifique en suite d'une demande dûment motivée.
+pour le paiement au comptant de la contribution en suite d'une demande dûment motivée.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 522, 527
-
-_Codifié par_:
-
-  - Décret n°2002-923 2002-06-06
-
 _Modifié par_:
 
-  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+  - Décret n°2004-588 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2002
+  - Code général des impôts, CGI. - art. 522 (V)
+  - Code général des impôts, CGI. - art. 527 (V)
 
 
 ### Section V : Dispositions communes<a id=438></a>
@@ -37549,8 +37521,8 @@ _Modifié par_:
 
 Les comptables publics mentionnés à l'article 1724 A du code général des impôts sont les comptables de la direction générale
 des impôts et ceux de la direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les
-contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et le droit spécifique
-mentionné à l'article 527 du code général des impôts.
+contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution mentionnée à
+l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -37558,17 +37530,13 @@ _Cite_:
 
   - CGI 1724 A, 527
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°2004-588 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
-
-_Modifié par_:
-
-  - Loi n°94-6 1994-01-01 art. 7, art. 31 JORF 5 janvier 1994
+  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 406 terdecies
@@ -37944,8 +37912,8 @@ exercées.
 
 Les comptables publics mentionnés à l'article 1917 du code général des impôts sont les comptables de la direction générale
 des impôts et ceux de la direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les
-contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et le droit spécifique prévu
-par l'article 527 du code général des impôts.
+contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution prévue par
+l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -37953,17 +37921,17 @@ _Cite_:
 
   - CGI 1917, 527
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°2004-588 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
+
+_Abrogé par_:
+
+  - Décret n°2011-276 du 16 mars 2011 - art. 2
 
 **Liens**:
 
-  - HISTO: Edition du 2 septembre 1994
-
-_Modifié par_:
-
-  - Loi n°94-6 1994-01-01 art. 7, art. 31 JORF 5 janvier 1994
+  - HISTO: Edition du 31 août 2004
 
 
 ## Chapitre III : Dégrèvements et restitutions d'impôts<a id=449></a>
