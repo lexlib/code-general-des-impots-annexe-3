@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-01-12
+Version Consolidée au 1983-01-20
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -388,9 +388,9 @@ Version Consolidée au 1983-01-12
             - [b : Décharge de responsabilité (art. 433 à 437)](#385)
             - [c : Dispositions communes (art. 439 à 444)](#386)
         - [D : Dispositions particulières aux impôts directs (art. 445)](#387)
-  - [RECOUVREMENT DE L'IMPOT (art. 359 à 443)](#388)
-    - [PAIEMENT DE L'IMPOT (art. 359 à 406 ter)](#389)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 359 à 381 X)](#390)
+  - [RECOUVREMENT DE L'IMPOT (art. 360 à 443)](#388)
+    - [PAIEMENT DE L'IMPOT (art. 360 à 406 ter)](#389)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360 à 381 X)](#390)
       - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 396 à 404 CA)](#391)
       - [DROITS DE TIMBRE. (art. 406 ter)](#392)
     - [PENALITES. (art. 406 A 12 à 406 A 16 C)](#393)
@@ -16274,6 +16274,31 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
+###### Article 359
+
+L'impôt sur les sociétés donne lieu au versement d'acomptes pour chaque période servant de base aux impositions,dans les
+conditions fixées par l'article 1668 du code général des impôts,le premier de ces acomptes étant celui dont
+l'échéance,consécutive au commencement de ladite période,en est le plus rapprochée.
+
+Sont dispensées de verser les acomptes prévus à l'alinéa ci-dessus les sociétés pour lesquelles le montant de l'impôt sur les
+sociétés correspondant aux bénéfices de référence définis à l'article 360 n'excède pas 1.000 F.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1668
+  - CGIAN3 360
+
+_Modifié par_:
+
+  - Décret n°82-1248 du 31 décembre 1982 - art. 1 (V) JORF 20 janvier 1983
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 366 M (V)
+
+
 ###### Article 361
 
 En ce qui concerne les sociétés nouvelles chaque acompte est égal au quart de l'impôt calculé sur le produit évalué à 5 % du
@@ -18146,31 +18171,6 @@ _Codifié par_:
 ## PAIEMENT DE L'IMPOT<a id=389></a>
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=390></a>
-
-###### Article 359
-
-L'impôt sur les sociétés donne lieu au versement d'acomptes pour chaque période servant de base aux impositions  dans les
-conditions fixées par l'article 1668 du code général des impôts  le premier de ces acomptes étant celui dont l'échéance
-consécutive au commencement de ladite période  en est le plus rapprochée.
-
-Sont dispensées de verser les acomptes prévus à l'alinéa ci-dessus  les sociétés pour lesquelles le montant de l'impôt sur
-les sociétés correspondant aux bénéfices de référence définis à l'article 360 n'excède pas 100 F.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1668
-  - CGIAN3 360
-
-_Cité par_:
-
-  - Code général des impôts, annexe 3, CGIAN3. - art. 366 M (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 360
 
