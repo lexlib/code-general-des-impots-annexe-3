@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1975-07-01
+Version Consolidée au 1975-07-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 252)](#1)
     - [Première partie : Impôts d'État (art. 252)](#2)
