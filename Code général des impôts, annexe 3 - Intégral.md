@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1992-04-01
+Version Consolidée au 1992-05-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -128,7 +128,7 @@ Version Consolidée au 1992-04-01
             - [I : Sociétés à responsabilité limitée.   Option pour le régime fiscal des sociétés de personnes (art. 46 terdecies A à 46 terdecies D)](#125)
           - [Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble (art. 46 quaterdecies)](#126)
           - [Section 0I ter : Déductions fiscales en faveur de certains investissements réalisés outre-mer. (art. 46 quaterdecies A à 46 quaterdecies I)](#127)
-          - [Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer (art. 46 quaterdecies C à 46 quaterdecies H)](#128)
+          - [Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer (art. 46 quaterdecies B à 46 quaterdecies H)](#128)
           - [Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles (art. 46 quindecies A à 46 quindecies F)](#129)
           - [Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur (art. 47 à 47 A)](#130)
           - [Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices (art. 48)](#131)
@@ -10869,6 +10869,10 @@ des établissements exploités dans les départements d'outre-mer [*DOM*] et app
 de la pêche, de l'h<cb>tellerie, du tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics,
 des transports et de l'artisanat.
 
+Les dispositions de l'alinéa précédent sont applicables aux investissements productifs réalisés à compter du 1er janvier 1992
+dans le secteur de la maintenance au profit d'activités industrielles et dans celui de la production et de la diffusion
+audiovisuelles et cinématographiques.
+
 </cb>
 
 **Liens relatifs à cet article**
@@ -10879,34 +10883,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
-
-
-###### Article 46 quaterdecies B
-
-Les activités qui relèvent du secteur industriel sont celles qui concourent directement à l'élaboration ou à la
-transformation de biens corporels mobiliers. Est assimilée à de telles activités l'extraction des minerais figurant sur une
-liste fixée par arrêté du ministre du budget (1).
-
-(1) Ann. IV 23 L ter
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN4 23 L ter
-
-_Créé par_:
-
-  - Décret n°80-450 du 23 juin 1980 - art. 2 (V) JORF 25 JUIN 1980
-
-_Codifié par_:
-
-  - Décret n°81-866 1981-09-15
+  - Décret n°92-440 du 19 mai 1992 - art. 1 () JORF 20 mai 1992
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
 ###### Article 46 quaterdecies E
@@ -10918,6 +10896,10 @@ sociétés exploitées dans les départements d'outre-mer et qui exercent exclus
 au sens de l'article 46 quaterdecies B ou dans les secteurs de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelle,
 de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat.
 
+Les dispositions de l'alinéa précédent sont applicables aux souscriptions réalisées à compter du 1er janvier 1992 dans le
+secteur de la maintenance au profit d'activités industrielles et dans celui de la production et de la diffusion
+audiovisuelles et cinématographiques.
+
 La valeur d'origine des éléments d'actif autres que ceux nécessaires à l'exercice de l'activité ouvrant droit à déduction ne
 doit pas excéder 10 % du montant total de l'actif brut de la société.
 
@@ -10925,17 +10907,12 @@ doit pas excéder 10 % du montant total de l'actif brut de la société.
 
 _Cite_:
 
-  - CGI 199 undecies
-  - CGI 238 bis HA II
-  - CGIAN3 46 quaterdecies B
+  - CGI 238 bis HA, 199 undecies, 46 quaterdecies B
 
 _Modifié par_:
 
-  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet  1986
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
+  - Décret n°92-440 du 19 mai 1992 - art. 2 () JORF 20 mai 1992
+  - Modification directe incorporée dans l'édition du 4 juillet 1992
 
 
 ###### Article 46 quaterdecies G
@@ -11002,6 +10979,75 @@ _Codifié par_:
 
 
 ##### Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer<a id=128></a>
+
+###### Article 46 quaterdecies B
+
+Les activités qui relèvent du secteur industriel sont celles qui concourent directement à l'élaboration ou à la
+transformation de biens corporels mobiliers. Est assimilée à de telles activités l'extraction des minerais figurant sur une
+liste fixée par arrêté du ministre du budget (1).
+
+Les activités qui relèvent du secteur de la maintenance au profit d'activités industrielles sont celles qui concourent à
+l'entretien ou à la réparation du matériel de production exploité dans le secteur industriel défini à l'alinéa précédent.
+
+**Nota:**
+
+(1) Ann. IV 23 L ter.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN4 23 L ter
+
+_Modifié par_:
+
+  - Décret n°92-440 du 19 mai 1992 - art. 2 () JORF 20 mai 1992
+
+_Codifié par_:
+
+  - Décret n°98-400 1998-05-22
+
+**Liens**:
+
+  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quaterdecies BA
+
+Les activités qui relèvent du secteur de la production audiovisuelle et cinématographique sont celles qui concourent
+directement à la création ou à l'extension dans un département d'outre-mer soit d'établissements qui y assurent la production
+d'oeuvres audiovisuelles et cinématographiques, soit d'industries techniques de production de telles oeuvres. Le secteur de
+la diffusion comprend les activités qui concourent directement à la création ou à l'extension d'établissements implantés
+outre-mer et qui y assurent la diffusion d'oeuvres audiovisuelles et cinématographiques, quel que soit le support technique
+utilisé, à l'exclusion des activités d'achat-revente et de la location des supports techniques.
+
+En ce qui concerne les théâtres cinématographiques, la déduction fiscale est subordonnée à leur conformité à la norme
+française NF S 27.001 d'avril 1974, homologuée par arrêté ministériel du 25 mars 1974.
+
+Dans les secteurs d'activités définis au premier alinéa, les investissements productifs s'entendent des immobilisations
+corporelles qui répondent à la définition donnée à l'article 46 quaterdecies A.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er du décret n° 2002-582 du 24 avril 2002.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 1974-03-25
+  - CGIAN3 46 quaterdecies A
+
+_Créé par_:
+
+  - Décret n°92-440 du 19 mai 1992 - art. 4 () JORF 20 mai 1992
+
+**Liens**:
+
+  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
+  - HISTO: Edition du 4 juillet 1992
+
 
 ###### Article 46 quaterdecies C
 
