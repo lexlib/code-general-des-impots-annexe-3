@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-01-25
+Version Consolidée au 1984-02-05
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -224,7 +224,7 @@ Version Consolidée au 1984-01-25
             - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 265 à 267)](#221)
               - [1 : Régimes spéciaux institués en faveur du commerce et de l'industrie. (art. 265)](#222)
               - [2 : Opérations concourant à la production ou à la livraison d'immeubles (art. 266 bis)](#223)
-              - [2 bis : Régimes spéciaux institués en faveur de l'agriculture. (art. 266 quater à 266 sexies)](#224)
+              - [2 bis : Régimes spéciaux institués en faveur de l'agriculture. (art. 266 quater à 266 ter)](#224)
               - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#225)
             - [II : Mutations à titre gratuit (art. 268 à 280 A)](#226)
               - [A : Assiette des droits - Dispositions spéciales aux successions - Règles d'évaluation (art. 268 à 280 A)](#227)
@@ -11630,6 +11630,41 @@ _Modifié par_:
 
   - Décret n°83-212 du 16 mars 1983 - art. 3 (Ab) JORF 22 mars 1983
   - Décret n°83-212 du 16 mars 1983 - art. 4 (V) JORF 22 mars 1983
+
+**Liens**:
+
+  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 39 I 4 Finances pour 1999 JORF 31 décembre 1998
+
+
+###### Article 266 ter
+
+Sont considérées comme susceptibles d'améliorer la rentabilité des exploitations agricoles au sens de l'article 702 du code
+général des impôts les acquisitions de fonds agricoles :
+
+a. Réalisées pour leur propre compte par des exploitants agricoles à titre principal, au sens de l'article 2 du décret n°
+84-84 du 1er février 1984 concernant l'octroi d'une indemnité annuelle de départ et d'une indemnité viagère de départ ayant
+le caractère d'un complément de retraite aux chefs d'exploitation agricole âgés cessant leur activité et
+
+b. Destinées à agrandir leur exploitation, à condition que celle-ci atteigne déjà la surface minimum susceptible d'ouvrir
+droit à l'indemnité viagère de départ ayant le caractère d'un complément de retraite prévu à l'article 27 modifié de la loi
+n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 702
+  - Loi n°62-933 1962-08-08 art. 27
+  - Décret n°84-84 1984-02-01
+
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01
+  - Décret n°99-382 1999-05-18
+
+_Modifié par_:
+
+  - Décret n°84-84 1984-02-01 art. 21 JORF 5 février 1984
 
 **Liens**:
 
