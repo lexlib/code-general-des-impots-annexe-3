@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-03-17
+Version Consolidée au 1984-03-31
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -95,7 +95,7 @@ Version Consolidée au 1984-03-17
           - [Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs (art. 46 quater-0 A)](#92)
           - [Section III : Intérêts de livrets supplémentaires de caisses d'épargne (art. 46 quater-0 B)](#93)
           - [Section IV : Modalités d'application du précompte. (art. 46 quater-0 C à 46 quater-0 F)](#94)
-          - [Section V : Profits de construction (art. 46 quater-0 H à 46 quater-0 R)](#95)
+          - [Section V : Profits de construction (art. 46 quater-0 G à 46 quater-0 R)](#95)
             - [I : Entreprises de construction de logements. (art. 46 quater-0 I à 46 quater-0 K)](#96)
             - [II : Entreprises dont la construction de logements ne constitue pas l'activité exclusive. (art. 46 quater-0 L à 46 quater-0 O)](#97)
             - [III : Dispositions diverses (art. 46 quater-0 P à 46 quater-0 R)](#98)
@@ -5989,6 +5989,45 @@ _Abrogé par_:
 
 
 ##### Section V : Profits de construction<a id=95></a>
+
+###### Article 46 quater-0 G
+
+I. Pour l'application des articles 209 quater A et 209 quater B du code général des impôts, les immeubles sont considérés
+comme achevés à la date de réception par le maire de la lettre recommandée prévue à l'article R. 460-2 du code de
+l'urbanisme.
+
+II. Les ventes d'immeubles à construire définies à l'article 1601-1 du code civil sont assimilées à des ventes d'immeubles
+achevés au sens du I lorsque les conditions prévues aux articles L. 261-1 à L. 261-22 et R. 261-1 à R. 261-33 du code de la
+construction et de l'habitation ont été respectées. Il en est de même des cessions d'actions ou de parts de sociétés visées à
+l'article 1655 ter du code général des impôts effectuées en conformité avec les articles 167 et 168 de l'annexe II à ce code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 209 quater A, 209 quater B, 1655 ter
+  - CGIAN2 167, 168
+  - Code civil - art. 1601-1 (V)
+  - Code de l'urbanisme - art. R460-2 (M)
+  - Code de la construction et de l'habitation L261-1 à L261-22, R261-1 à R261-33
+
+_Modifié par_:
+
+  - Décret n°84-225 1984-03-29 art. 2 JORF 31 mars 1984
+
+_Codifié par_:
+
+  - Décret n°2004-1070 2004-10-08
+
+**Liens**:
+
+  - HISTO: Edition du 20 juillet 1992
+  - HISTO: Edition du 31 août 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
 
 ###### Article 46 quater-0 H
 
