@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1992-05-20
+Version Consolidée au 1992-06-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -8684,17 +8684,17 @@ _Cite_:
 
 ###### Article 46 quater-0 D
 
-I  Les distributions qui n'ouvrent pas droit à l'avoir fiscal prévu à l'article 158 bis du code général des impôts sont
+I. Les distributions qui n'ouvrent pas droit à l'avoir fiscal prévu à l'article 158 bis du code général des impôts sont
 prélevés, par priorité, sur les bénéfices soumis à l'impôt sur les sociétés ou exonérés de cet impôt au titre du dernier
 exercice clos et, en cas d'insuffisance de ces bénéfices, sur ceux des exercices antérieurs les plus récents.
 
-II  Les distributions qui ouvrent droit à l'avoir fiscal sont prélevées ensuite dans l'ordre suivant :
+II. Les distributions qui ouvrent droit à l'avoir fiscal sont prélevées ensuite dans l'ordre suivant :
 
 D'abord, sur les bénéfices disponibles qui ont été soumis à l'impôt sur les sociétés au taux normal prévu au deuxième alinéa
 du I de l'article 219 du code déjà cité au titre du dernier exercice clos;
 
 Puis, sur les bénéfices disponibles qui ont été imposés à ce même taux au titre d'exercices antérieurs clos depuis cinq ans
-au plus;
+au plus ;
 
 Enfin, sur tous autres bénéfices ou réserves disponibles.
 
@@ -8702,27 +8702,21 @@ Toutefois, si la personne morale a encaissé, au cours d'exercices clos depuis c
 participations ouvrant droit au régime des sociétés mères, les distributions peuvent être librement imputées sur ces
 produits.
 
-III Les distributions provenant de résultats qui ont été compris dans le résultat d'ensemble, mentionnés à l'article 223 H du
-code déjà cité, sont prélevés en suivant l'ordre prévu au II.
+III Abrogé.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 158 bis
-  - CGI 219 I al. 2 CGI 223 H
-
-**Liens**:
-
-  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+  - CGI 158 bis, 219 I
 
 _Modifié par_:
 
-  - Décret n°88-318 du 28 mars 1988 - art. 6 () JORF 8 avril 1988
+  - Décret n°92-527 du 15 juin 1992 - art. 4 () JORF 17 juin 1992
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°88-1001 1988-10-20
+  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 46 quater-0 E
@@ -9949,32 +9943,25 @@ _Codifié par_:
 
 ###### Article 46 quater-0 ZG
 
-La subvention indirecte mentionnée au cinquième alinéa de l'article 223 B du code général des impôts s'entend des
-renonciations à recettes qui proviennent des prêts ou d'avances sans intérêt ou à un taux d'intérêt inférieur au taux du
-marché. Elle s'entend également de la remise de biens ou de la prestation de services sans contrepartie ou pour un prix
-inférieur à leur prix de revient.
+La subvention indirecte mentionnée au cinquième alinéa de l'article 223 B et au premier alinéa de l'article 223 R du code
+général des impôts s'entend des renonciations à recettes qui proviennent des prêts ou d'avances sans intérêt ou à un taux
+d'intérêt inférieur au taux du marché. Elle s'entend également de la livraison de biens ou de la prestation de services sans
+contrepartie ou pour un prix inférieur à leur prix de revient ou, s'agissant de biens composant l'actif immobilisé, pour un
+prix inférieur à leur valeur réelle.
 
-" Constituent également une subvention indirecte au sens de l'article 223 B déjà cité les excédents de charges qui
-proviennent des emprunts contractés, des avances reçues ou des achats de biens ou de services, qui sont assortis d'un taux
-d'intérêt ou d'un prix plus élevé que celui qui aurait été fixé entre deux sociétés indépendantes. "
+Constituent également une subvention indirecte au sens des articles 223 B et 223 R déjà cités les excédents de charges qui
+proviennent des emprunts contractés, des avances reçues qui sont assortis d'un taux d'intérêt plus élevé que celui du marché.
+Il en est de même des achats de biens ou de services pour un prix plus élevé que leur valeur réelle.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 223 B al. 5
+  - CGI 223 B, 223 R
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
-
-_Créé par_:
-
-  - Décret n°88-318 du 28 mars 1988 - art. 4 (V) JORF 8 avril 1988
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Décret n°92-527 du 15 juin 1992 - art. 1 () JORF 17 juin 1992
 
 
 ###### Article 46 quater-0 ZH
@@ -10040,47 +10027,33 @@ _Cité par_:
 
 ###### Article 46 quater-0 ZI
 
-I. - L'imposition forfaitaire annuelle due par les sociétés du groupe et dont la société mère est redevable en application de
+I. L'imposition forfaitaire annuelle due par les sociétés du groupe et dont la société mère est redevable en application de
 l'article 223 A du code général des impôts est payée au comptable du Trésor du lieu d'imposition de cette dernière société.
 Chaque paiement est accompagné d'un document conforme à un modèle fixé par l'administration et qui comporte notamment le
 montant de l'imposition forfaitaire annuelle dû par chaque société du groupe.
 
-" II. - En cas de sortie du groupe d'une société, le montant de l'imposition forfaitaire annuelle de cette société payé par
-la société mère au titre des deux années antérieures à celle de la sortie du groupe qui n'a pu être imputé sur l'impôt sur
-les sociétés dû sur le résultat d'ensemble du fait des résultats dégagés par la société qui sort du groupe peut être imputé,
-dans les conditions prévues à l'article 220 A du code général des impôts, sur l'impôt dû par cette société.
+II. (Abrogé).
 
-" III. - La société mère doit joindre à la déclaration du résultat d'ensemble un état, conforme à un modèle établi par
+III. La société mère doit joindre à la déclaration du résultat d'ensemble un état, conforme à un modèle établi par
 l'administration, qui fait apparaître les cotisations d'imposition forfaitaire annuelle payées au titre de l'année de clôture
-de l'exercice, le montant imputable de celles-ci, celui des cotisations des deux années antérieures et le montant
-effectivement imputé sur l'impôt dû sur le résultat d'ensemble de l'exercice.
+de l'exercice, le montant des cotisations des deux années antérieures et le montant imputé sur l'impôt dû sur le résultat
+d'ensemble de l'exercice.
 
-" Cet état mentionne le montant de l'imposition forfaitaire annuelle de la ou des sociétés qui sortent du groupe qui a été
-payé par la société mère et qui est susceptible d'être imputé sur l'impôt dû par ces sociétés.
-
-" Cet état est également transmis par la société mère au comptable du Trésor de son lieu d'imposition.
-
-" Le même état est joint par la société qui est sortie du groupe en annexe à la déclaration de résultats de l'exercice de
-sortie. "
+Cet état est également transmis par la société mère au comptable du Trésor de son lieu d'imposition.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 220
   - CGI 223 A
+
+_Modifié par_:
+
+  - Décret n°92-527 du 15 juin 1992 - art. 2 () JORF 17 juin 1992
 
 **Liens**:
 
-  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
-
-_Créé par_:
-
-  - Décret n°88-318 du 28 mars 1988 - art. 7 (V) JORF 8 avril 1988
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 46 quater-0 ZJ
