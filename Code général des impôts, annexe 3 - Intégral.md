@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-03-22
+Version Consolidée au 1991-04-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -6536,15 +6536,15 @@ Les terrains à usage agricole ou forestier et les terrains supportant une const
 articles 150 A à 150 T du code général des impôts lorsque le prix de cession ou l'indemnité d'expropriation n'excède pas au
 mètre carré :
 
-- 33 F pour les vignobles à appellation contrôlée et les cultures florales;
+26 F pour les vignobles à appellation contrôlée et les cultures florales;
 
-- 11 F pour les cultures fruitières et maraîchères;
+9 F pour les cultures fruitières et maraîchères;
 
-- 9 F pour les vignobles produisant des vins délimités de qualité supérieure;
+7 F pour les vignobles produisant des vins délimités de qualité supérieure;
 
-- 6 F pour les vignobles autres qu'à appellation contrôlée;
+5 F pour les vignobles autres qu'à appellation contrôlée;
 
-- 5 F pour les autres terrains agricoles.
+4 F pour les autres terrains agricoles.
 
 **Liens relatifs à cet article**
 
@@ -6552,9 +6552,9 @@ _Cite_:
 
   - CGI 150 A à CGI 150 T
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°91-334 du 4 avril 1991 - art. 1 () JORF 6 avril 1991
 
 
 ##### XI : Dispositions communes aux différentes catégories de revenus<a id=81></a>
