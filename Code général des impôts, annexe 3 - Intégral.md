@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1985-10-17
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -331,7 +331,7 @@ Version Consolidée au 1985-10-01
       - [Titre II : Dispositions diverses (art. 345 à 350 C)](#328)
         - [Chapitre premier : Commissions administratives des impôts (art. 345 à 350 C)](#329)
           - [I : Commission communale des impôts directs (art. 345 à 346)](#330)
-          - [III : Commission départementale de conciliation (art. 350 C)](#331)
+          - [III : Commission départementale de conciliation (art. 349 à 350 C)](#331)
   - [REGIME ECONOMIQUE (art. 143 A)](#332)
     - [ORGANISATION DE L'ECONOMIE CIDRICOLE. (art. 143 A)](#333)
   - [Livre II : Recouvrement de l'impôt (art. 351 à 445)](#334)
@@ -19075,6 +19075,27 @@ _Cite_:
 
 
 ##### III : Commission départementale de conciliation<a id=331></a>
+
+###### Article 349
+
+Dans les départements où il existe plusieurs directions des services fiscaux  les représentants de l'administration appelés à
+faire partie de la commission de conciliation instituée par l'article 1653 A du code général des impôts sont désignés par le
+directeur régional des impôts territorialement compétent.
+
+Plusieurs commissions peuvent  s'il est nécessaire  être instituées dans un même département par un arrêté du ministre de
+l'économie et des finances qui fixe leur siège et leur circonscription. Les membres fonctionnaires de ces commissions sont
+désignés par le directeur régional des impôts territorialement compétent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1653 A
+
+_Modifié par_:
+
+  - Décret n°85-1101 du 9 octobre 1985 - art. 1 (V) JORF 17 octobre 1985
+
 
 ###### Article 350 C
 
