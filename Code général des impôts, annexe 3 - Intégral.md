@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-01-18
+Version Consolidée au 2004-01-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -390,7 +390,7 @@ Version Consolidée au 2004-01-18
     - [Chapitre premier : Paiement de l'impôt (art. 357 A à 406 terdecies)](#387)
       - [Section I : Impôts directs et taxes assimilées (art. 357 A à 383 ter)](#388)
         - [II : Exigibilité de l'impôt (art. 357 A à 381 X)](#389)
-          - [2 : Impôt sur le revenu (art. 357 A à 357 G)](#390)
+          - [2 : Impôt sur le revenu (art. 357 A à 357 H)](#390)
           - [3 : Impôt sur les sociétés (art. 358 à 366 AA)](#391)
           - [03 bis : Imposition forfaitaire annuelle des sociétés (art. 366 A bis)](#392)
           - [3 bis : Contribution sur l'impôt sur les sociétés. (art. 366 B à 366 I)](#393)
@@ -33485,6 +33485,46 @@ modérations,dans les conditions qui ont été prévues pour la remise ou la mod
 _Cite_:
 
   - CGI 1762 1, 1912 3
+
+
+###### Article 357 H
+
+I. - Les contribuables qui perçoivent des revenus entrant dans la catégorie des traitements, salaires, indemnités, pensions
+et rentes viagères mentionnés au septième alinéa de l'article 1er du code général des impôts bénéficient, sur leur demande,
+de délais de paiement pour l'impôt sur le revenu dû par le foyer fiscal au titre de l'année précédente.
+
+Les comptables du Trésor sont tenus d'accorder ces délais de paiement si une baisse de plus de 30 % est constatée entre le
+montant des revenus mentionnés au premier alinéa et perçus au titre du mois où est formulée la demande et un montant de
+référence égal à la moyenne de ces mêmes revenus perçus par le foyer fiscal au cours des trois derniers mois précédents.
+
+Si le foyer fiscal dispose d'autres catégories de revenus, la baisse constatée au deuxième alinéa est rapportée au montant de
+référence majoré du montant mensuel moyen des autres revenus déclarés l'année précédente pour apprécier si le taux de 30 %
+est atteint.
+
+II. - Pour bénéficier des délais de paiement mentionnés au I, les contribuables doivent produire à l'appui de leur demande
+les pièces justifiant le montant des revenus.
+
+Les contribuables qui ont fait l'objet d'une procédure d'imposition d'office en ce qui concerne l'impôt sur le revenu faisant
+l'objet de la demande de délais de paiement ne peuvent bénéficier des dispositions de cet article.
+
+III. - Les délais de paiement prévus au I courent à compter du mois de la demande et jusqu'au 31 mars de l'année suivant
+celle de la mise en recouvrement de l'imposition.
+
+Le comptable du Trésor établit un contrat en double exemplaire qui fixe l'échéancier accordé au contribuable.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1
+
+_Créé par_:
+
+  - Décret n°2004-77 du 21 janvier 2004 - art. 1 () JORF 22 janvier 2004
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2004
 
 
 ##### 3 : Impôt sur les sociétés<a id=391></a>
