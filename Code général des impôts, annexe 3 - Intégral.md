@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-12-29
+Version Consolidée au 2004-12-31
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -45,7 +45,7 @@ Version Consolidée au 2004-12-29
               - [A : Détermination du régime réel d'imposition (art. 38 sexdecies A à 38 sexdecies B)](#42)
               - [B : Détermination et imposition du bénéfice des exploitants soumis à un régime réel (art. 38 sexdecies C à 38 sexdecies JD)](#43)
                 - [Régime réel simplifié (art. 38 sexdecies JC à 38 sexdecies JD)](#44)
-              - [C : Option pour l'un des régimes réels (art. 38 sexdecies JE à 38 sexdecies JF)](#45)
+              - [C : Option pour l'un des régimes réels (art. 38 sexdecies JE)](#45)
               - [C bis : Régime transitoire d'imposition (art. 38 sexdecies JH à 38 sexdecies JJ)](#46)
               - [D : Dispositions applicables en cas de changement de régime d'imposition (art. 38 sexdecies K à 38 sexdecies OJ)](#47)
                 - [1° : Passage du régime des micro-exploitations à un régime réel (art. 38 sexdecies K à 38 sexdecies-0 K)](#48)
@@ -5861,28 +5861,6 @@ _Modifié par_:
   - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
 
 
-###### Article 38 sexdecies JF
-
-L'option souscrite en application du III de l'article 69 du code général des impôts par les exploitants qui relèvent de plein
-droit du régime simplifié d'imposition d'après le bénéfice réel et qui désirent être placés sous le régime normal est valable
-pour cinq exercices. Elle se reconduit tacitement par période de cinq exercices sauf renonciation adressée au service des
-impôts, dans le délai de déclaration des résultats du dernier exercice de chaque période quinquennale.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-_Abrogé par_:
-
-  - Décret n°2005-1 du 3 janvier 2005 - art. 2
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 69 (V)
-
-
 ##### C bis : Régime transitoire d'imposition<a id=46></a>
 
 ###### Article 38 sexdecies JH
@@ -8139,41 +8117,6 @@ _Cité par_:
 **Liens**:
 
   - HISTO: Edition du 1er juillet 1981
-
-
-###### Article 41 sexdecies B
-
-La liste constatant la propriété des parts prévue à l'article 1er du décret n° 83-357 du 2 mai 1983 fixant les conditions
-d'application de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement doit mentionner : 
-
-Si le souscripteur est une personne physique : les nom, prénoms, date de naissance et domicile fiscal de celle-ci ; 
-
-S'il s'agit d'une personne morale : les dénomination ou raison sociale, forme juridique, numéro SIRET et lieu du siège social
-de cette dernière ; 
-
-S'il s'agit d'un fonds commun de placement : la dénomination de ce fonds ainsi que l'identité et le domicile fiscal de son
-gérant.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°79-594 1979-07-13
-  - Décret n°83-357 du 2 mai 1983 - art. 1, v. init.
-
-_Modifié par_:
-
-  - Décret n°83-357 du 2 mai 1983 - art. 1 (V) JORF 3 mai 1983
-  - Décret n°83-357 du 2 mai 1983 - art. 43 (Ab) JORF 3 mai 1983
-
-_Abrogé par_:
-
-  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
-
-**Liens**:
-
-  - HISTO: Edition du 10 juillet 1983
-  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 41 sexdecies C
