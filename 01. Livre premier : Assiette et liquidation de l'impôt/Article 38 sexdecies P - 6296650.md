@@ -1,41 +1,32 @@
 # Article 38 sexdecies P
 
-I. Les exploitants placés sous un régime d'imposition d'après le bénéfice réel doivent tenir et présenter aux agents de
-l'administration :
+I. Les exploitants placés sous un régime réel d'imposition doivent tenir et présenter aux agents de l'administration : 
 
-a. Un livre-journal servi au jour le jour et enregistrant le détail de leurs opérations ;
+a. Un livre-journal servi au jour le jour et enregistrant le détail de leurs opérations ; 
 
-b. Un livre d'inventaire ;
+b. Un livre d'inventaire ; 
 
-c. Les factures et autres pièces justificatives relatives aux recettes, aux dépenses et aux stocks.
+c. Les factures et autres pièces justificatives relatives aux recettes, aux dépenses et aux stocks. 
 
 II. Quelle que soit leur situation au regard de la taxe sur la valeur ajoutée, les éleveurs d'animaux de boucherie ou de
 charcuterie doivent se conformer aux obligations définies au I de l'article 267 quater de l'annexe II au code général des
-impôts.
+impôts. 
 
 III. Les documents comptables et pièces justificatives énumérés ci-dessus doivent être conservés selon les modalités prévues
 au I de l'article L. 102 B du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGIAN2 267 quater I
-  - Livre des procédures fiscales - art. L102 B (M)
-
 _Modifié par_:
 
-  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+  - Décret n°2005-1 du 3 janvier 2005 - art. 2 () JORF 4 janvier 2005
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°90-798 1990-09-10
+  - Code général des impôts, annexe 2, CGIAN2. - art. 267 quater (V)
+  - Livre des procédures fiscales - art. L102 B (VT)
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 72 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies RB (V)
-
-**Liens**:
-
-  - HISTO: Edition du 15 juin 1990
