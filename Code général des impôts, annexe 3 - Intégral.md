@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-01-12
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -296,7 +296,7 @@ Version Consolidée au 1982-01-01
           - [Section II : Redevance sur l'emploi de la reprographie. (art. 331 M)](#293)
         - [Chapitre II : Contributions indirectes (art. 332 à 333 ter)](#294)
           - [Section I : Taxe sur les produits des exploitations forestières. (art. 332)](#295)
-          - [Section I bis : Taxe spéciale sur les huiles. (art. 333 A à 333 G)](#296)
+          - [Section I bis : Taxe spéciale sur les huiles. (art. 333 A à 333 G bis)](#296)
           - [Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles. (art. 333 H)](#297)
           - [Section II : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 333 bis A à 333 ter)](#298)
         - [Chapitre III : Enregistrement (art. 335 à 339 bis)](#299)
@@ -15169,6 +15169,43 @@ _Transféré par_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 G bis
+
+La taxe spéciale ayant grevé les huiles qui ont effectivement été utilisées pour un usage autre qu'alimentaire ou qui ont été
+incorporées à des produits non destinés à l'alimentation humaine peut faire l'objet d'un remboursement. 
+
+Ce remboursement est accordé mensuellement aux personnes astreintes aux obligations énoncées à l'article 333 A.
+
+A cet effet, les intéressés doivent souscrire une demande et apporter les justifications nécessaires, notamment en ce qui
+concerne la destination des produits, les quantités utilisées et le paiement antérieur de la taxe afférente à ces quantités.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - CGIAN3 331 V
+
+_Cite_:
+
+  - CGIAN3 333 A
+
+_Créé par_:
+
+  - Décret n°82-1234 du 31 décembre 1982 - art. 1 (V) JORF 12 janvier 1982
+
+_Codifié par_:
+
+  - Décret n°93-1127 1993-09-24
+
+_Transféré par_:
+
+  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+**Liens**:
+
   - HISTO: Edition du 18 août 1993
 
 
