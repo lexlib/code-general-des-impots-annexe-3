@@ -2,7 +2,7 @@
 
 I.-Sous réserve des dispositions des articles 409 et 410 de l'annexe II au code général des impôts, seuls les fonctionnaires
 de la direction générale des impôts appartenant à des corps des catégories A et B peuvent fixer les bases d'imposition et
-liquider les impôts, taxes et redevances ainsi que notifier les redressements.
+liquider les impôts, taxes et redevances ainsi que proposer les rectifications.
 
 Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour les opérations de contrôle par des
 fonctionnaires stagiaires et par tout autre fonctionnaire des impôts affecté ou non dans le même service déconcentré ou
@@ -51,6 +51,10 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 350 quaterdecies (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 409 (V)
 
+_Modifié par_:
+
+  - Décret n°2004-283 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
+
 _Cite_:
 
   - CGIAN2 409, 410
@@ -59,10 +63,6 @@ _Cite_:
   - Livre des procédures fiscales - art. L47 (M)
   - Livre des procédures fiscales - art. R213-4 (M)
 
-_Modifié par_:
-
-  - Décret n°2000-1037 du 23 octobre 2000 - art. 2 () JORF 25 octobre 2000
-
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 août 2004
