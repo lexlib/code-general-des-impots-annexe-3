@@ -10,7 +10,7 @@ du code général des impôts ; cette liste indique le taux de détention direct
 b) L'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble.
 
 c) L'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
-III de l'article 44 octies et du cinquième alinéa du I de l'article 44 decies du code général des impôts.
+III de l'article 44 octies et du neuvième alinéa du I de l'article 44 decies du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -18,9 +18,13 @@ _Cite_:
 
   - CGI 53 A, 223 A, 44 octies, 44 decies
 
+_Codifié par_:
+
+  - Décret n°2002-923 2002-06-06
+
 _Modifié par_:
 
-  - Décret n°2000-392 du 2 mai 2000 - art. 1 () JORF 10 mai 2000
+  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 _Cité par_:
 
@@ -28,4 +32,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2001
+  - HISTO: Edition du 31 mars 2002
