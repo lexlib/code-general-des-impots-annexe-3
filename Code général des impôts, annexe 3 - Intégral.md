@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-01-02
+Version Consolidée au 2005-01-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -47,7 +47,7 @@ Version Consolidée au 2005-01-02
               - [B : Détermination et imposition du bénéfice des exploitants soumis à un régime réel (art. 38 sexdecies C à 38 sexdecies JD)](#44)
                 - [Régime réel simplifié (art. 38 sexdecies JC à 38 sexdecies JD)](#45)
               - [C : Option pour l'un des régimes réels (art. 38 sexdecies JE)](#46)
-              - [C bis : Régime transitoire d'imposition (art. 38 sexdecies JH à 38 sexdecies JJ)](#47)
+              - [C bis : Régime transitoire d'imposition (art. 38 sexdecies JH à 38 sexdecies JI)](#47)
               - [D : Dispositions applicables en cas de changement de régime d'imposition (art. 38 sexdecies K à 38 sexdecies OJ)](#48)
                 - [1° : Passage du régime des micro-exploitations à un régime réel (art. 38 sexdecies K à 38 sexdecies-0 K)](#49)
                 - [3° : Passage d'un régime réel au régime des micro-exploitations (art. 38 sexdecies OC à 38 sexdecies OD)](#50)
@@ -5928,33 +5928,6 @@ _Abrogé par_:
 
   - HISTO: Edition du 10 août 1987
   - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 38 sexdecies JJ
-
-Les dispositions de l'article 38 sexdecies JE s'appliquent aux exploitants relevant du régime transitoire pour l'application
-du IV de l'article 69 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 69
-  - CGIAN3 38 sexdecies JE
-
-_Créé par_:
-
-  - Décret n°87-642 du 6 août 1987 - art. 8 (V) JORF 8 août 1987
-
-_Abrogé par_:
-
-  - Décret n°2005-1 du 3 janvier 2005 - art. 2 () JORF 4 janvier 2005
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
-  - HISTO: Edition du 2 septembre 1994
-  - PEREMPTION: Loi n°93-1352 du 30 décembre 1993 - art. 30 (V) JORF 31 décembre 1993
 
 
 ##### D : Dispositions applicables en cas de changement de régime d'imposition<a id=48></a>
