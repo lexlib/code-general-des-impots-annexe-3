@@ -8,18 +8,18 @@ des sociétés concernées ainsi que la nature et la date des opérations d'éch
 
 **Liens relatifs à cet article**
 
-_Abrogé par_:
-
-  - Article incorporé dans l'édition du 2 septembre 1994
-
 _Cite_:
 
   - CGI 92 B, 97
 
-_Créé par_:
-
-  - Décret n°94-456 du 31 mai 1994 - art. 1 () JORF 7 juin 1994
-
 _Codifié par_:
 
-  - Décret n°94-899 1994-10-17
+  - Décret n°95-1281 1995-12-11
+
+_Créé par_:
+
+  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+
+**Liens**:
+
+  - HISTO: Edition du 27 octobre 1995
