@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-06-14
+Version Consolidée au 1983-07-10
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -104,7 +104,7 @@ Version Consolidée au 1983-06-14
           - [Section II bis : Déclarations concernant les revenus de capitaux mobiliers (art. 49 B)](#101)
             - [1° : Contrats de prêts (art. 49 B)](#102)
           - [Section III : Restitution d'impôts consécutive au remboursement des sommes mentionnées au a de l'article 111 du code général des impôts (art. 49 bis à 49 ter)](#103)
-          - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles (art. 49 septies L)](#104)
+          - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles (art. 49 septies F à 49 septies N)](#104)
           - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales. (art. 49 septies J à 49 septies K)](#105)
         - [Chapitre III : Taxes diverses (art. 50 à 58 J)](#106)
           - [Section I : Taxe sur les salaires (art. 50 à 53 ter)](#107)
@@ -312,11 +312,11 @@ Version Consolidée au 1983-06-14
             - [I : Contribution des employeurs assurés. (art. 335)](#309)
             - [III : Dispositions communes. (art. 339 bis)](#310)
     - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 344 GA à 350 C)](#311)
-      - [Titre premier : Assiette et contrôle de l'impôt (art. 344 GA à 344 IC)](#312)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 344 GA à 344 ID)](#312)
         - [Chapitre premier : Obligations des contribuables (art. 344 GA à 344 I)](#313)
           - [I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes (art. 344 GA à 344 GC)](#314)
           - [II : Déclaration des ventes autres que les ventes au détail (art. 344 H à 344 I)](#315)
-        - [Chapitre II : Centres de gestion agréés (art. 344 IC)](#316)
+        - [Chapitre II : Centres de gestion agréés (art. 344 IA à 344 ID)](#316)
       - [Titre II : Dispositions diverses (art. 345 à 350 C)](#317)
         - [Chapitre premier : Commissions administratives des impôts (art. 345 à 350 C)](#318)
           - [I : Commission communale des impôts directs (art. 345 à 346)](#319)
@@ -4407,6 +4407,41 @@ _Cité par_:
   - HISTO: Edition du 1er juillet 1981
 
 
+###### Article 41 sexdecies B
+
+La liste constatant la propriété des parts prévue à l'article 1er du décret n° 83-357 du 2 mai 1983 fixant les conditions
+d'application de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement doit mentionner : 
+
+Si le souscripteur est une personne physique : les nom, prénoms, date de naissance et domicile fiscal de celle-ci ; 
+
+S'il s'agit d'une personne morale : les dénomination ou raison sociale, forme juridique, numéro SIRET et lieu du siège social
+de cette dernière ; 
+
+S'il s'agit d'un fonds commun de placement : la dénomination de ce fonds ainsi que l'identité et le domicile fiscal de son
+gérant.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°79-594 1979-07-13
+  - Décret n°83-357 du 2 mai 1983 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Décret n°83-357 du 2 mai 1983 - art. 1 (V) JORF 3 mai 1983
+  - Décret n°83-357 du 2 mai 1983 - art. 43 (Ab) JORF 3 mai 1983
+
+_Abrogé par_:
+
+  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+
+**Liens**:
+
+  - HISTO: Edition du 10 juillet 1983
+  - HISTO: Edition du 1er janvier 2005
+
+
 ###### Article 41 sexdecies C
 
 Le gérant d'un fonds commun de placement doit, dans les trente jours de la date de mise en distribution des produits des
@@ -5973,6 +6008,112 @@ _Cité par_:
 
 ##### Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles<a id=104></a>
 
+###### Article 49 septies F
+
+Pour l'application des dispositions de l'article 244 quater B du code général des impôts, sont considérées comme opérations
+de recherche scientifique ou technique : 
+
+a. Les activités ayant un caractère de recherche fondamentale, qui pour apporter une contribution théorique ou expérimentale
+à la résolution des problèmes techniques, concourent à l'analyse des propriétés, des structures, des phénomènes physiques et
+naturels, en vue d'organiser, au moyen de schémas explicatifs ou de théories interprétatives, les faits dégagés de cette
+analyse ; 
+
+b. Les activités ayant le caractère de recherche appliquée qui visent à discerner les applications possibles des résultats
+d'une recherche fondamentale ou à trouver des solutions nouvelles permettant à l'entreprise d'atteindre un objectif déterminé
+choisi à l'avance. 
+
+Le résultat d'une recherche appliquée consiste en un modèle probatoire de produit, d'opération ou de méthode ; 
+
+c. Les activités ayant le caractère d'opérations de développement expérimental effectuées, au moyen de prototypes ou
+d'installations pilotes, dans le but de réunir toutes les informations nécessaires pour fournir les éléments techniques des
+décisions, en vue de la production de nouveaux matériaux, dispositifs, produits, procédés, systèmes, services ou en vue de
+leur amélioration substantielle. Par amélioration substantielle, on entend les modifications qui ne découlent pas d'une
+simple utilisation de l'état des techniques existantes et qui présentent un caractère de nouveauté.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 244 quater B (V)
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Créé par_:
+
+  - Décret n°83-475 du 10 juin 1983 - art. 1 (V) JORF 12 juin 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
+
+
+###### Article 49 septies G
+
+Le personnel de recherche comprend : 
+
+1. Les chercheurs qui sont les scientifiques ou les ingénieurs travaillant à la conception ou à la création de connaissances,
+de produits, de procédés, de méthodes ou de systèmes nouveaux. Sont assimilés aux ingénieurs les salariés qui, sans posséder
+un diplôme, ont acquis cette qualification au sein de leur entreprise.
+
+2. Les techniciens, qui sont les personnels travaillant en étroite collaboration avec les chercheurs, pour assurer le soutien
+technique indispensable aux travaux de recherche et de développement expérimental. 
+
+Notamment : 
+
+Ils préparent les substances, les matériaux et les appareils pour la réalisation d'expériences ; 
+
+Ils prêtent leur concours aux chercheurs pendant le déroulement des expériences ou les effectuent sous le contrôle de ceux-
+ci ; 
+
+Ils ont la charge de l'entretien et du fonctionnement des appareils et des équipements nécessaires à la recherche et au
+développement expérimental. 
+
+Dans le cas des entreprises qui ne disposent pas d'un département de recherche, les rémunérations prises en compte pour le
+calcul du crédit d'impôt sont exclusivement les rémunérations versées aux chercheurs et techniciens à l'occasion d'opérations
+de recherche.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Créé par_:
+
+  - Décret n°83-475 du 10 juin 1983 - art. 2 (V) JORF 12 juin 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
+
+
+###### Article 49 septies H
+
+Ouvrent droit au crédit d'impôt mentionné à l'article 244 quater B du code général des impôts les dépenses correspondant à
+des opérations réalisées en France.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 244 quater B
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Créé par_:
+
+  - Décret n°83-475 du 10 juin 1983 - art. 3 (V) JORF 12 juin 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
+  - HISTO: Edition du 10 juillet 1983
+
+
 ###### Article 49 septies L
 
 Le crédit d'impôt en faveur de la recherche est imputé sur l'impôt dû après les prélèvements non libératoires et les autres
@@ -5996,6 +6137,30 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°83-899 1983-10-06
+
+
+###### Article 49 septies N
+
+La réalité de l'affectation à la recherche des dépenses prises en compte pour le calcul du crédit d'impôt peut être vérifiée
+dans les conditions prévues à l'article R. 45 B-1 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Créé par_:
+
+  - Décret n°83-475 du 10 juin 1983 - art. 9 (V) JORF 12 juin 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R45 B-1 (V)
 
 
 ##### Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.<a id=105></a>
@@ -16443,6 +16608,69 @@ _Cite_:
 
 #### Chapitre II : Centres de gestion agréés<a id=316></a>
 
+###### Article 344 IA
+
+Les centres de gestion agréés qui, en application du IV de l'article 1649 quater D du code général des impôts, désirent tenir
+ou centraliser les documents comptables de leurs adhérents imposés dans la catégorie des bénéfices industriels et commerciaux
+et placés sous le régime simplifié d'imposition doivent demander à être habilités à cet effet. 
+
+La demande d'habilitation est présentée, instruite et renouvelée dans les mêmes conditions et délais que la demande
+d'agrément. Les dispositions du cinquième alinéa de l'article 371 I de l'annexe II au même code sont également applicables.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1649 quater D IV
+  - CGIAN2 371 I
+
+_Créé par_:
+
+  - Décret n°83-388 du 11 mai 1983 - art. 1 (V) JORF 17 mai 1983
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IC (P)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies A (P)
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+**Liens**:
+
+  - HISTO: Edition du 10 juillet 1983
+
+
+###### Article 344 IB
+
+La demande d'habilitation n'est recevable que si elle est accompagnée des documents suivants : 
+
+1° Un exemplaire des statuts ou une copie de la délibération qui a complété l'objet statutaire du centre ; 
+
+2° Les engagements énumérés à l'article 344 IC ainsi que les pièces justificatives relatives à la qualification des
+responsables du service comptable et au contrat d'assurance destiné à couvrir les conséquences pécuniaires de la
+responsabilité civile encourue en raison des travaux effectués.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IC
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Créé par_:
+
+  - Décret n°83-388 du 11 mai 1983 - art. 2 (V) JORF 17 mai 1983
+
+**Liens**:
+
+  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+
 ###### Article 344 IC
 
 Les centres de gestion mentionnés à l'article 344 IA doivent prendre et respecter les engagements suivants : 
@@ -16499,6 +16727,32 @@ _Créé par_:
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 IB (P)
+
+
+###### Article 344 ID
+
+Après consultation de la commission mentionnée à l'article 371 G de l'annexe II au code général des impôts, le directeur
+régional des impôts peut retirer l'habilitation si les engagements pris ne sont pas respectés. 
+
+Le centre de gestion agréé doit informer ses adhérents de cette décision dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 371 G
+
+_Codifié par_:
+
+  - Décret n°83-899 1983-10-06
+
+_Créé par_:
+
+  - Décret n°83-388 du 11 mai 1983 - art. 4 (V) JORF 17 mai 1983
+
+**Liens**:
+
+  - HISTO: Edition du 10 juillet 1983
 
 
 ### Titre II : Dispositions diverses<a id=317></a>
