@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1993-01-20
+Version Consolidée au 1993-02-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -266,7 +266,7 @@ Version Consolidée au 1993-01-20
           - [Section II : Allumettes. (art. 221 bis à 221 ter)](#263)
           - [Section III : Régime fiscal des allumettes et des briquets. (art. 222 à 227)](#264)
       - [Titre IV : Enregistrement, publicité foncière, timbre (art. 245 à 313 BJ)](#265)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 245 à 298)](#266)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 245 à 290)](#266)
           - [Section I : Dispositions générales (art. 245 à 264)](#267)
             - [I : Des formalités (art. 245 à 260)](#268)
               - [A : Champ d'application respectif de la formalité de l'enregistrement et de la formalité fusionnée - Délais (art. 245 à 250)](#269)
@@ -295,18 +295,18 @@ Version Consolidée au 1993-01-20
                 - [3° : Fonds communs de placement (art. 280 A)](#292)
                 - [4° : Fonds communs de placement à risques (art. 280 B)](#293)
               - [B : Régimes spéciaux et exonérations (art. 281 A à 281 C)](#294)
-          - [Section III : Obligations diverses (art. 282 à 298)](#295)
+          - [Section III : Obligations diverses (art. 282 à 290)](#295)
             - [I : Obligations des officiers publics et ministériels (art. 282 à 284)](#296)
               - [Répertoire des notaires, huissiers et autorités administratives (art. 282 à 284)](#297)
             - [II : Obligations des agents de l'administration : Salaires des conservateurs (art. 285 à 299)](#298)
               - [1 : Généralités (art. 285)](#299)
-              - [2 : Salaires fixes (art. 291 à 292)](#300)
+              - [2 : Salaires fixes (art. 286 à 292)](#300)
               - [3 : Salaires proportionnels (art. 293 à 297)](#301)
-              - [5 : Délivrance de renseignements urgents (art. 299)](#302)
-            - [II : Obligations des agents de l'administration (art. 286 à 298)](#303)
-              - [Salaires des conservateurs (art. 286 à 298)](#304)
-                - [2 : Salaires fixes. (art. 286 à 290)](#305)
-                - [4 : Minimum de perception. (art. 298)](#306)
+              - [4 : Minimum de perception (art. 298)](#302)
+              - [5 : Délivrance de renseignements urgents (art. 299)](#303)
+            - [II : Obligations des agents de l'administration (art. 287 à 290)](#304)
+              - [Salaires des conservateurs (art. 287 à 290)](#305)
+                - [2 : Salaires fixes. (art. 287 à 290)](#306)
         - [Chapitre II : Droits de timbre (art. 301 à 313 BJ)](#307)
           - [Section I : Droits de timbre proprement dits (art. 301 à 313 AI)](#308)
             - [I : Timbre de dimension (art. 301)](#309)
@@ -21984,6 +21984,31 @@ _Modifié par_:
 
 ##### 2 : Salaires fixes<a id=300></a>
 
+###### Article 286
+
+Il est alloué un salaire fixe de 50 F pour tout bordereau rectificatif ou tout complément de bordereau déposé en application
+du 3 de l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°55-1350 du 14 octobre 1955 - art. 34 (M)
+
+_Cité par_:
+
+  - Décret n°81-721 du 24 juillet 1981 - art. 4 (V)
+
+_Modifié par_:
+
+  - Décret n°92-1324 du 15 décembre 1992 - art. 1 (V) JORF 19 décembre 1992 en vigueur le 1er février 1993
+  - Décret n°92-1324 du 15 décembre 1992 - art. 2 (V) JORF 19 décembre 1992 en vigueur le 1er février 1993
+
+**Liens**:
+
+  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 291
 
 Le tarif des salaires exigibles pour la délivrance des extraits prévus par le 2 de l'article 40, le III de l'article 42-1 et
@@ -22168,7 +22193,30 @@ _Abrogé par_:
   - Décret n°2012-1463 du 26 décembre 2012 - art. 4
 
 
-##### 5 : Délivrance de renseignements urgents<a id=302></a>
+##### 4 : Minimum de perception<a id=302></a>
+
+###### Article 298
+
+Le salaire ne peut être inférieur à :
+
+a. 50 F par inscription mentionnée à l'article 293 ou par déclaration mentionnée à l'article 294 ;
+
+b. 100 F par radiation mentionnée à l'article 295 ou par acte pour les publications visées à l'article 296.
+
+Ce dernier salaire est également exigible lorsque les publications ne donnent pas ouverture au salaire proportionnel.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 293, 294, 295, 296
+
+_Modifié par_:
+
+  - Décret n°92-1324 du 15 décembre 1992 - art. 1 (V) JORF 19 décembre 1992 en vigueur le 1er février 1993
+
+
+##### 5 : Délivrance de renseignements urgents<a id=303></a>
 
 ###### Article 299
 
@@ -22201,39 +22249,15 @@ _Codifié par_:
   - HISTO: Edition du 4 juillet 1992
 
 
-##### II : Obligations des agents de l'administration<a id=303></a>
+##### II : Obligations des agents de l'administration<a id=304></a>
 
-##### Salaires des conservateurs<a id=304></a>
+##### Salaires des conservateurs<a id=305></a>
 
-##### 2 : Salaires fixes.<a id=305></a>
-
-###### Article 286
-
-Il est alloué un salaire fixe de 25 F pour tout bordereau rectificatif ou tout complément de bordereau déposé en application
-du 3 de l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°55-1350 1955-10-14 art. 34 3
-
-_Cité par_:
-
-  - Décret n°81-721 du 24 juillet 1981 - art. 4 (V)
-
-_Créé par_:
-
-  - Décret n°85-842 du 5 août 1985 - art. 1 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
-
-**Liens**:
-
-  - HISTO: Edition du 31 juillet 1986
-
+##### 2 : Salaires fixes.<a id=306></a>
 
 ###### Article 287
 
-Il est alloué un salaire fixe de 50 F :
+Il est alloué un salaire fixe de 100 F :
 
 Pour chaque publication ne donnant pas ouverture au salaire proportionnel, notamment :
 
@@ -22259,8 +22283,10 @@ procédure civile) ;
 9° Pour la publication de chaque état descriptif de division et de chaque acte modificatif d'état descriptif de division ;
 
 10° Pour la publication de chaque convention passée en application de l'article L. 351-2 du code de la construction et de
-l'habitation ;    11° Pour la publication des actes constatant la modification de la forme juridique de personnes morales,
-lorsque cette modification n'emporte pas création d'un être moral nouveau ;
+l'habitation ;
+
+11° Pour la publication des actes constatant la modification de la forme juridique de personnes morales, lorsque cette
+modification n'emporte pas création d'un être moral nouveau ;
 
 12° Pour la publication des demandes en justice mentionnées à l'article 28-4°-c du décret du 4 janvier 1955 ainsi que des
 demandes en justice, procès-verbaux et déclarations visées au 2 de l'article 37 du même décret ;
@@ -22279,7 +22305,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°85-842 du 5 août 1985 - art. 2 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+  - Décret n°92-1324 du 15 décembre 1992 - art. 1 (V) JORF 19 décembre 1992 en application le 1er février 1993
+  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 288
@@ -22401,30 +22428,6 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°91-883 1991-09-09
-
-
-##### 4 : Minimum de perception.<a id=306></a>
-
-###### Article 298
-
-Le salaire ne peut être inférieur à :
-
-1° - 25 F par inscription mentionnée à l'article 293 ou par déclaration mentionnée à l'article 294 ;
-
-2° - 50 F par radiation mentionnée à l'article 295 ou par acte pour les publications visées à l'article 296.
-
-Ce dernier salaire est également exigible lorsque les publications ne donnent pas ouverture au salaire proportionnel.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 288, 289, 290, 291, 292, 293, 294, 295, 296
-  - Décret n°55-1350 1955-10-14 ART. 42 1 III
-
-_Modifié par_:
-
-  - Décret n°85-842 du 5 août 1985 - art. 9 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
 
 
 #### Chapitre II : Droits de timbre<a id=307></a>
