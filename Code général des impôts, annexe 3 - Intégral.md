@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1980-11-23
+Version Consolidée au 1980-12-09
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -337,48 +337,49 @@ Version Consolidée au 1980-11-23
             - [2 : Dispositions générales (art. 398 à 404)](#334)
             - [3 : Dispositions particulières (art. 404 B à 404 G)](#335)
               - [1° : Mutations par décès (art. 404 B)](#336)
-              - [3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires (art. 404 D)](#337)
-              - [4° : Offices ministériels (art. 404 E)](#338)
-              - [5° : Rapatriés d'outre-mer et migrants ruraux (art. 404 F à 404 G)](#339)
-        - [V : Droits de timbre (art. 405 B à 406)](#340)
-          - [B : Paiement par emploi de machines à timbrer (art. 405 B)](#341)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 C à 405 E)](#342)
-          - [D : Paiement au moyen du visa pour timbre (art. 405 G)](#343)
-          - [E : Paiement de l'impôt sur états (art. 405 H à 406)](#344)
-        - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#345)
-          - [Taxes sur les véhicules des sociétés (art. 406 bis)](#346)
-    - [Chapitre I bis : Pénalités (art. 406 A 13 à 406 A 27)](#347)
-      - [Section II : Dispositions communes (art. 406 A 13 à 406 A 16 F)](#348)
-        - [II : Infractions aux règles de la facturation (art. 406 A 13 à 406 A 16)](#349)
-          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 13 à 406 A 16)](#350)
-        - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#351)
-      - [Section III : Dispositions particulières (art. 406 A 27)](#352)
-        - [III : Droits d'enregistrement (art. 406 A 27)](#353)
-    - [Chapitre II : Procédures (art. 416)](#354)
-      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 416)](#355)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 444)](#356)
-      - [Section I : Juridiction contentieuse (art. 416 E)](#357)
-        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#358)
-      - [Section II : Juridiction gracieuse (art. 426 à 444)](#359)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#360)
-          - [1 : Cotes irrécouvrables (art. 426 à 427)](#361)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 430 à 444)](#362)
-            - [a : Sursis de versement (art. 430 à 431)](#363)
-            - [b : Décharge de responsabilité (art. 433 à 436)](#364)
-            - [c : Dispositions communes (art. 439 à 444)](#365)
-  - [RECOUVREMENT DE L'IMPOT (art. 359 à 448)](#366)
-    - [PAIEMENT DE L'IMPOT (art. 359 à 405 F)](#367)
-      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 359 à 383 sexies)](#368)
-      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 384 C)](#369)
-      - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 396 à 404 C)](#370)
-      - [DROITS DE TIMBRE. (art. 405 F)](#371)
-    - [PENALITES. (art. 406 A 12 à 406 A 16 E)](#372)
-    - [PROCEDURES. (art. 415)](#373)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 416 A à 446)](#374)
-      - [JURIDICTION CONTENTIEUSE. (art. 416 A à 416 D)](#375)
-      - [JURIDICTION GRACIEUSE. (art. 417 à 446)](#376)
-    - [DROIT DE COMMUNICATION. (art. 446 quater)](#377)
-    - [SECRET PROFESSIONNEL. (art. 447 à 448)](#378)
+              - [Apports en société. (art. 404 C)](#337)
+              - [3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires (art. 404 D)](#338)
+              - [4° : Offices ministériels (art. 404 E)](#339)
+              - [5° : Rapatriés d'outre-mer et migrants ruraux (art. 404 F à 404 G)](#340)
+        - [V : Droits de timbre (art. 405 B à 406)](#341)
+          - [B : Paiement par emploi de machines à timbrer (art. 405 B)](#342)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 C à 405 E)](#343)
+          - [D : Paiement au moyen du visa pour timbre (art. 405 G)](#344)
+          - [E : Paiement de l'impôt sur états (art. 405 H à 406)](#345)
+        - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#346)
+          - [Taxes sur les véhicules des sociétés (art. 406 bis)](#347)
+    - [Chapitre I bis : Pénalités (art. 406 A 13 à 406 A 27)](#348)
+      - [Section II : Dispositions communes (art. 406 A 13 à 406 A 16 F)](#349)
+        - [II : Infractions aux règles de la facturation (art. 406 A 13 à 406 A 16)](#350)
+          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 13 à 406 A 16)](#351)
+        - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#352)
+      - [Section III : Dispositions particulières (art. 406 A 27)](#353)
+        - [III : Droits d'enregistrement (art. 406 A 27)](#354)
+    - [Chapitre II : Procédures (art. 416)](#355)
+      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 416)](#356)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 444)](#357)
+      - [Section I : Juridiction contentieuse (art. 416 E)](#358)
+        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#359)
+      - [Section II : Juridiction gracieuse (art. 426 à 444)](#360)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#361)
+          - [1 : Cotes irrécouvrables (art. 426 à 427)](#362)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 430 à 444)](#363)
+            - [a : Sursis de versement (art. 430 à 431)](#364)
+            - [b : Décharge de responsabilité (art. 433 à 436)](#365)
+            - [c : Dispositions communes (art. 439 à 444)](#366)
+  - [RECOUVREMENT DE L'IMPOT (art. 359 à 448)](#367)
+    - [PAIEMENT DE L'IMPOT (art. 359 à 405 F)](#368)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 359 à 383 sexies)](#369)
+      - [TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES. (art. 384 C)](#370)
+      - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 396 à 404 CA)](#371)
+      - [DROITS DE TIMBRE. (art. 405 F)](#372)
+    - [PENALITES. (art. 406 A 12 à 406 A 16 E)](#373)
+    - [PROCEDURES. (art. 415)](#374)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 416 A à 446)](#375)
+      - [JURIDICTION CONTENTIEUSE. (art. 416 A à 416 D)](#376)
+      - [JURIDICTION GRACIEUSE. (art. 417 à 446)](#377)
+    - [DROIT DE COMMUNICATION. (art. 446 quater)](#378)
+    - [SECRET PROFESSIONNEL. (art. 447 à 448)](#379)
 # ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=1></a>
 
 ## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES<a id=2></a>
@@ -15955,7 +15956,36 @@ _Cite_:
   - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
 
 
-##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires<a id=337></a>
+##### Apports en société.<a id=337></a>
+
+###### Article 404 C
+
+Les droits et taxes exigibles sur les apports en société et dont le paiement est fractionné en application des dispositions
+de l'article 396-2° sont acquittés :
+
+- en trois annuités égales lorsqu'il s'agit d'opérations prévues aux articles 809-II et 812-I-1° et 2° du code général des
+impôts ;
+
+- en cinq annuités égales lorsqu'il s'agit d'apports prévus à l'article 809-I-3° du même code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 809 II, I 3°
+  - CGI 812 I 1°, 2°
+  - CGIAN3 396 2 °
+
+_Modifié par_:
+
+  - Décret n°80-986 du 8 décembre 1980 - art. 3 (V) JORF 9 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+
+##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires<a id=338></a>
 
 ###### Article 404 D
 
@@ -15976,7 +16006,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
 
 
-##### 4° : Offices ministériels<a id=338></a>
+##### 4° : Offices ministériels<a id=339></a>
 
 ###### Article 404 E
 
@@ -15993,7 +16023,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
 
 
-##### 5° : Rapatriés d'outre-mer et migrants ruraux<a id=339></a>
+##### 5° : Rapatriés d'outre-mer et migrants ruraux<a id=340></a>
 
 ###### Article 404 F
 
@@ -16047,9 +16077,9 @@ _Abrogé par_:
   - HISTO: Edition du 11 avril 1997
 
 
-#### V : Droits de timbre<a id=340></a>
+#### V : Droits de timbre<a id=341></a>
 
-##### B : Paiement par emploi de machines à timbrer<a id=341></a>
+##### B : Paiement par emploi de machines à timbrer<a id=342></a>
 
 ###### Article 405 B
 
@@ -16069,7 +16099,7 @@ _Cite_:
   - CGIAN4 71, 72, 73, 74, 75
 
 
-##### C : Paiement par apposition de timbres mobiles<a id=342></a>
+##### C : Paiement par apposition de timbres mobiles<a id=343></a>
 
 ###### Article 405 C
 
@@ -16131,7 +16161,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-##### D : Paiement au moyen du visa pour timbre<a id=343></a>
+##### D : Paiement au moyen du visa pour timbre<a id=344></a>
 
 ###### Article 405 G
 
@@ -16142,7 +16172,7 @@ timbres mobiles.
 
 
 
-##### E : Paiement de l'impôt sur états<a id=344></a>
+##### E : Paiement de l'impôt sur états<a id=345></a>
 
 ###### Article 405 H
 
@@ -16225,9 +16255,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 405 H (V)
 
 
-#### VI : Taxes sur les véhicules à moteur<a id=345></a>
+#### VI : Taxes sur les véhicules à moteur<a id=346></a>
 
-##### Taxes sur les véhicules des sociétés<a id=346></a>
+##### Taxes sur les véhicules des sociétés<a id=347></a>
 
 ###### Article 406 bis
 
@@ -16268,13 +16298,13 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## Chapitre I bis : Pénalités<a id=347></a>
+## Chapitre I bis : Pénalités<a id=348></a>
 
-### Section II : Dispositions communes<a id=348></a>
+### Section II : Dispositions communes<a id=349></a>
 
-#### II : Infractions aux règles de la facturation<a id=349></a>
+#### II : Infractions aux règles de la facturation<a id=350></a>
 
-##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=350></a>
+##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=351></a>
 
 ###### Article 406 A 13
 
@@ -16322,7 +16352,7 @@ domicile ou du siège social de la personne physique ou morale intéressée.
 
 
 
-#### III : Intérêts excédentaires.<a id=351></a>
+#### III : Intérêts excédentaires.<a id=352></a>
 
 ###### Article 406 A 16 A
 
@@ -16353,9 +16383,9 @@ des impôts et du directeur du Trésor.
 
 
 
-### Section III : Dispositions particulières<a id=352></a>
+### Section III : Dispositions particulières<a id=353></a>
 
-#### III : Droits d'enregistrement<a id=353></a>
+#### III : Droits d'enregistrement<a id=354></a>
 
 ###### Article 406 A 27
 
@@ -16368,9 +16398,9 @@ hypothèques et sa présentation à l'enregistrement lorsque celle-ci intervient
 
 
 
-## Chapitre II : Procédures<a id=354></a>
+## Chapitre II : Procédures<a id=355></a>
 
-### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=355></a>
+### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects<a id=356></a>
 
 ###### Article 416
 
@@ -16380,11 +16410,11 @@ exercées.
 
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=356></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=357></a>
 
-### Section I : Juridiction contentieuse<a id=357></a>
+### Section I : Juridiction contentieuse<a id=358></a>
 
-#### B : Disposition particulière aux droits d'enregistrement<a id=358></a>
+#### B : Disposition particulière aux droits d'enregistrement<a id=359></a>
 
 ###### Article 416 E
 
@@ -16393,11 +16423,11 @@ d'enregistrement régulièrement perçus.
 
 
 
-### Section II : Juridiction gracieuse<a id=359></a>
+### Section II : Juridiction gracieuse<a id=360></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=360></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=361></a>
 
-##### 1 : Cotes irrécouvrables<a id=361></a>
+##### 1 : Cotes irrécouvrables<a id=362></a>
 
 ###### Article 426
 
@@ -16425,9 +16455,9 @@ _Abrogé par_:
   - Décret n°99-889 du 21 octobre 1999 - art. 2 () JORF 22 octobre 1999
 
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=362></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=363></a>
 
-##### a : Sursis de versement<a id=363></a>
+##### a : Sursis de versement<a id=364></a>
 
 ###### Article 430
 
@@ -16449,7 +16479,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 432 (V)
 
 
-##### b : Décharge de responsabilité<a id=364></a>
+##### b : Décharge de responsabilité<a id=365></a>
 
 ###### Article 433
 
@@ -16475,7 +16505,7 @@ _Cite_:
   - Loi n°1925-03-10 art. 51
 
 
-##### c : Dispositions communes<a id=365></a>
+##### c : Dispositions communes<a id=366></a>
 
 ###### Article 439
 
@@ -16551,11 +16581,11 @@ _Abrogé par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-# RECOUVREMENT DE L'IMPOT<a id=366></a>
+# RECOUVREMENT DE L'IMPOT<a id=367></a>
 
-## PAIEMENT DE L'IMPOT<a id=367></a>
+## PAIEMENT DE L'IMPOT<a id=368></a>
 
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=368></a>
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=369></a>
 
 ###### Article 359
 
@@ -16836,7 +16866,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=369></a>
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.<a id=370></a>
 
 ###### Article 384 C
 
@@ -16874,7 +16904,7 @@ _Cite_:
   - SPEC_APPLI: LE TITRE  : IMPUTATION SUR LA TAXE SUR LA VALEUR AJOUTEE DE LA  DEDUCTION FISCALE POUR INVESTISSEMENT EST SUPPRIME
 
 
-### ENREGISTREMENT - PUBLICITE FONCIERE.<a id=370></a>
+### ENREGISTREMENT - PUBLICITE FONCIERE.<a id=371></a>
 
 ###### Article 396
 
@@ -16886,24 +16916,24 @@ d'enregistrement, à la taxe de publicité foncière et aux taxes additionnelles
 2° des apports en société prévus aux articles 809-I-3° 809-II et 812-I-1° et 2° du code précité ;
 
 3° des acquisitions effectuées dans le cadre des dispositions de l'article 88 de la loi n° 67-563 du 13 juillet 1967 sur le
-règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes; 4° des paiements d'indemnités
-entre officiers publics et ministériels par suite de suppression d'offices ;
+règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes ;
+
+4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices ;
 
 5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article
 30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis
 dans le cadre des dispositions de l'article 686 du code rural au profit d'agriculteurs dont la qualité de migrant a été
 reconnue par le ministre de l'agriculture.
 
+6° Des donations d'entreprises portant :
+
+- soit sur l'ensemble des biens meubles et immeubles, corporels ou incorporels affectés à l'exploitation d'une entreprise
+individuelle ;
+
+- soit sur les parts sociales ou les actions d'une société non cotée en bourse à la condition que le bénéficiaire reçoive la
+majorité du capital social.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1717
-  - CGI 809 I 3°, II
-  - CGI 812 I 1°, 2
-  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
-  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
-  - Code rural 686
 
 _Cité par_:
 
@@ -16916,9 +16946,22 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 E (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: EDITION 1979-07-01
+  - CGI 1717
+  - CGI 809 I 3°, II
+  - CGI 812 I 1°, 2
+  - Code rural 686
+  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
+  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
+
+_Modifié par_:
+
+  - Décret n°80-986 du 8 décembre 1980 - art. 1 (V) JORF 9 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 
 ###### Article 401
@@ -17008,78 +17051,96 @@ _Cité par_:
 
 ###### Article 404 A
 
-Les garanties fournies en contrepartie du fractionnement prévu à l'article 396-1o peuvent  outre les formes énumérées à
+I.-Les garanties fournies en contrepartie du fractionnement prévu a l'article 396-1° peuvent outre les formes énumérées à
 l'article 400, revêtir celle de l'hypothèque légale prévue à l'article 1929-2 du code général des impôts.
 
-Les droits sont acquittés en plusieurs versements égaux  dont le premier a lieu dans les conditions fixées à l'article 402 et
+Les droits sont acquittés en plusieurs versements égaux dont le premier a lieu dans les conditions fixées à l'article 402 et
 le dernier au plus tard cinq ans après l'expiration du délai imparti pour souscrire la déclaration de succession.
 
 Les versements sont fixés au nombre de deux lorsque les droits n'excèdent pas 5 % du montant taxable des parts recueillies
-soit par tous les cohéritiers solidaires  soit pour chacun des légataires ou donataires; de quatre  lorsque ces droits
+soit par tous les cohéritiers solidaires soit pour chacun des légataires ou donataires; de quatre lorsque ces droits
 n'excèdent pas 10 % du même montant et ainsi de suite en augmentant de deux le nombre des versements chaque fois que les
-droits dépassent un nouveau multiple de 5 %, mais sans que le nombre des versements  à intervalle de six mois au plus  puisse
+droits dépassent un nouveau multiple de 5 %, mais sans que le nombre des versements à intervalle de six mois au plus puisse
 être supérieur à dix.
 
-Pour les droits à la charge des héritiers en ligne directe et du conjoint du défunt  le délai maximal prévu au deuxième
-alinéa est porté à dix ans  et le nombre des versements est doublé sans pouvoir toutefois dépasser vingt  lorsque l'actif
-héréditaire comprend  à concurrence de 50 % au moins  des biens non liquides énumérés ci-après :
+Pour les droits à la charge des héritiers en ligne directe et du conjoint du défunt le délai maximal prévu au deuxième alinéa
+est porté à dix ans et le nombre des versements est doublé sans pouvoir toutefois dépasser vingt lorsque l'actif héréditaire
+comprend à concurrence de 50 % au moins des biens non liquides énumérés ci-après :
 
-Brevets d'invention;
+Brevets d'invention ;
 
-Clientèles;
+Clientèles ;
 
-Créances non exigibles au décès;
+Créances non exigibles au décès ;
 
-Droits d'auteur;
+Droits d'auteur ;
 
-Fonds de commerce y compris le matériel et les marchandises qui en dépendent;
+Fonds de commerce y compris le matériel et les marchandises qui en dépendent ;
 
-Immeubles;
+Immeubles ;
 
-Matériels agricoles  bestiaux et récoltes;
+Matériels agricoles bestiaux et récoltes ;
 
-Offices ministériels;
+Offices ministériels ;
 
-Parts d'intér ts dans des sociétés dont le capital n'est pas divisé en actions;
+Parts d'intérêts dans des sociétés dont le capital n'est pas divisé en actions ;
 
 Valeurs mobilières non cotées en Bourse.
+
+II.-La possibilité d'étaler sur une période maximale de dix ans le paiement ds droits de succession prévue pour les héritiers
+en ligne directe par le quatrième alinéa du I est étendue, sous les mêmes conditions, à tous les héritiers et légataires pour
+les biens mentionnés à l'article 396-6°.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1929 2
-  - CGIAN3 396 1°
-  - CGIAN3 400
-  - CGIAN3 402
+  - CGIAN3 396 6°
+
+_Modifié par_:
+
+  - Décret n°80-986 du 8 décembre 1980 - art. 2 (V) JORF 9 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 402 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
 
-**Liens**:
 
-  - HISTO: EDITION 1979-07-01
+###### Article 404 CA
 
+Les droits exigibles sur les donations d'entreprises et dont le paiement est fractionné en application de l'article 396-6°
+sont acquittés en plusieurs versements égaux dont le premier a lieu dans les conditions fixées à l'article 402 et le dernier
+au plus tard cinq ans après l'expiration du délai prévu pour l'enregistrement de la donation. 
 
-###### Article 404 C
-
-Les droits et taxes exigibles sur les apports en société et dont le paiement est fractionné en application des dispositions
-de l'article 396-2o sont acquittés en trois annuités égales.
+Les dispositions prévues au troisième alinéa de l'article 404 A sont applicables.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGIAN3 396 2°
+  - CGIAN3 396 6°
+  - CGIAN3 402
+  - CGIAN3 404 A AL. 3
 
-**Liens**:
+_Créé par_:
 
-  - HISTO: EDITION 1979-07-01
+  - Décret n°80-986 du 8 décembre 1980 - art. 1 (V) JORF 8 ET 9 DECEMBRE 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Abrogé par_:
+
+  - Décret n°85-356 du 23 mars 1985 - art. 9 (V) JORF 24 mars 1985
 
 
-### DROITS DE TIMBRE.<a id=371></a>
+### DROITS DE TIMBRE.<a id=372></a>
 
 ###### Article 405 F
 
@@ -17105,7 +17166,7 @@ du texte.
   - HISTO: EDITION 1979-07-01
 
 
-## PENALITES.<a id=372></a>
+## PENALITES.<a id=373></a>
 
 ###### Article 406 A 12
 
@@ -17239,7 +17300,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## PROCEDURES.<a id=373></a>
+## PROCEDURES.<a id=374></a>
 
 ###### Article 415
 
@@ -17289,9 +17350,9 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=374></a>
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=375></a>
 
-### JURIDICTION CONTENTIEUSE.<a id=375></a>
+### JURIDICTION CONTENTIEUSE.<a id=376></a>
 
 ###### Article 416 A
 
@@ -17403,7 +17464,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales, art. R277-5
 
 
-### JURIDICTION GRACIEUSE.<a id=376></a>
+### JURIDICTION GRACIEUSE.<a id=377></a>
 
 ###### Article 417
 
@@ -18006,7 +18067,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## DROIT DE COMMUNICATION.<a id=377></a>
+## DROIT DE COMMUNICATION.<a id=378></a>
 
 ###### Article 446 quater
 
@@ -18028,7 +18089,7 @@ _Cite_:
   - HISTO: EDITION 1979-07-01
 
 
-## SECRET PROFESSIONNEL.<a id=378></a>
+## SECRET PROFESSIONNEL.<a id=379></a>
 
 ###### Article 447
 
