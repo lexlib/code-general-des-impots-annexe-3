@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-08-29
+Version Consolidée au 1991-10-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -28069,21 +28069,25 @@ _Créé par_:
 Les établissements chargés de la gestion collective des obligations visées à l'article 381 KA fournissent aux établissements
 émetteurs à l'échéance des intérêts afférents à ces obligations, pour chaque emprunt :
 
-- le nombre des obligations faisant l'objet d'une gestion collective ;
+Le nombre des obligations faisant l'objet d'une gestion collective ;
 
-- le montant des intérêts échus afférents à ces obligations.
+Le montant des intérêts échus afférents à ces obligations.
 
 Les établissements émetteurs des obligations visées à l'article précité déposent à la recette des impôts dont ils dépendent,
-dans les vingt jours suivant le trimestre civil au cours duquel les intérêts ont été payés, un état mentionnant pour chaque
+dans les quinze jours suivant le mois civil (1) au cours duquel les intérêt ont été payés, un état mentionnant pour chaque
 emprunt :
 
-- le nombre d'obligations faisant l'objet à l'échéance d'une gestion collective et le taux de l'emprunt correspondant ;
+Le nombre d'obligations faisant l'objet à l'échéance d'une gestion collective et le taux de l'emprunt correspondant ;
 
-- le montant total des intérêts payés lors de cette échéance ;
+Le montant total des intérêts payés lors de cette échéance ;
 
-- le nombre d'obligations faisant l'objet d'une gestion collective à l'échéance précédente ;
+Le nombre d'obligations faisant l'objet d'une gestion collective à l'échéance précédente ;
 
-- le montant de la retenue à la source à verser au Trésor ou restituable.
+Le montant de la retenue à la source à verser au Trésor ou restituable.
+
+**Nota:**
+
+(1) NOTA : Ces dispositions s'appliquent aux retenues effectuées à partir de la date d'entrée en vigueur du décret.
 
 **Liens relatifs à cet article**
 
@@ -28091,13 +28095,14 @@ _Cite_:
 
   - CGIAN3 381 KA
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°84-875 1984-10-01
+  - Décret n°91-1117 du 28 octobre 1991 - art. 3 (V) JORF 29 octobre 1991
+  - Décret n°91-1117 du 28 octobre 1991 - art. 4 (V) JORF 29 octobre 1991
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°84-121 du 22 février 1984 - art. 5 (V) JORF 23 février 1984
+  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 381 Q
@@ -28597,24 +28602,38 @@ Le total des sommes perçues est inscrit en toutes lettres.
 ###### Article 385
 
 Pour les conventions conclues avec des assureurs français ou avec des assureurs étrangers ayant en France un établissement
-une agence une succursale ou un représentant responsable  la taxe est perçue pour le compte du Trésor  par l'assureur ou par
+une agence une succursale ou un représentant responsable la taxe est perçue pour le compte du Trésor par l'assureur ou par
 son représentant responsable [*redevable*] ou par l'apériteur de la police si le contrat est souscrit par plusieurs assureurs
 et versée par lui à la recette des impôts du lieu de son principal établissement.
 
 La taxe est liquidée sur le montant des primes et autres sommes stipulées au profit de l'assureur qui font l'objet d'une
-émission de quittance au cours de chaque période de deux mois  déduction faite des annulations et remboursements constatés au
-cours de la même période. Elle est versée dans les quarante-cinq jours qui suivent la fin du deuxième mois (1).
+émission de quittance au cours de chaque mois, déduction faite des annulations et remboursements constatés au cours du même
+mois. Elle est versée dans les quinze jours qui suivent la fin du mois considéré.
+
+Toutefois, dans le même délai, les entreprises peuvent verser la taxe provisoirement liquidée sur le montant des primes et
+autres sommes stipulées au profit de l'assureur qui ont fait l'objet d'une émission de quittance au cours du mois précédant
+le mois considéré, déduction faite des annulations et remboursements constatés au cours du même mois. Le solde qui, le cas
+échéant, reste dû est perçu le 15 du deuxième mois suivant le mois considéré. Si la taxe provisoirement liquidée est
+supérieure à la taxe due, l'excédent est reporté (1).
 
 Un arrêté du ministre de l'économie et des finances précise les documents à fournir par les assureurs à l'appui de leurs
-versements (1).
+versements (2).
 
-(1) Annexe IV, art. 196 A.
+(1) Ces dispositions s'appliquent respectivement aux primes qui fon l'objet d'une émission de quittance, aux conventions
+conclues et aux sommes dont l'échéance intervient à compter du 1er novembre 1991.
+
+(2) Annexe IV, art. 196 A.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGIAN4 196 A
+
+_Modifié par_:
+
+  - Décret n°91-1119 du 28 octobre 1991 - art. 1 (V) JORF 29 octobre 1991
+  - Décret n°91-1119 du 28 octobre 1991 - art. 4 (V) JORF 29 octobre 1991
 
 _Cité par_:
 
@@ -28623,7 +28642,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 387
@@ -28678,28 +28697,29 @@ _Cité par_:
 Dans les autres cas que ceux visés aux articles 385 à 388, ainsi que pour les années ou périodes pour lesquelles  dans les
 cas visés à l'article 388, l'intermédiaire n'est pas tenu au paiement de la taxe la taxe est versée par l'assuré à la recette
 des impôts du lieu de son domicile ou de sa résidence ou du lieu de la situation matérielle ou présumée du risque suivant les
-distinctions résultant de l'article 1000 du code général des impôts dans les trois premiers mois de l'année qui suit celle où
-se place chaque échéance des sommes stipulées au profit de l'assureur [*délai, date de paiement*] sur déclaration faisant
-connaître la date la nature et la durée de la convention l'assureur le montant du capital assuré celui des sommes stipulées
-au profit de l'assureur et de leurs accessoires et la date de leurs échéances.
+distinctions résultant de l'article 1000 du code général des impôts dans les quinze premiers jours du mois (1) qui suit celui
+où se place chaque échéance des sommes stipulée au profit de l'assureur sur déclaration faisant connaître la date la nature
+et la durée de la convention l'assureur le montant du capital assuré celui des sommes stipulées au profit de l'assureur et de
+leurs accessoires et la date de leurs échéances.
+
+(1) Ces dispositions s'appliquent respectivement aux primes qui font l'objet d'une émission de quittance, aux conventions
+conclues et aux sommes dont l'échéance intervient à compter du 1er novembre 1991.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 1000
-  - CGIAN3 385
-  - CGIAN3 386
-  - CGIAN3 387
-  - CGIAN3 388
+  - CGIAN3 385, 386, 387, 388
 
 _Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
+  - Décret n°91-1119 du 28 octobre 1991 - art. 3 (V) JORF 29 octobre 1991
+  - Décret n°91-1119 du 28 octobre 1991 - art. 4 (V) JORF 29 octobre 1991
 
-_Codifié par_:
+**Liens**:
 
-  - Décret n°90-798 1990-09-10
+  - HISTO: Edition du 4 juillet 1992
 
 
 #### II : Paiement en valeurs du Trésor<a id=419></a>
