@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-12-27
+Version Consolidée au 1983-12-28
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -782,14 +782,21 @@ _Cite_:
 
 ###### Article 333 decies
 
-Le prix à retenir pour l'application du tarif s'entend du prix effectif du billet d'entrée tous droits et taxes compris à
-l'exclusion de la taxe spéciale elle-même.
+Le prix à retenir pour l'application du tarif s'entend du prix effectif du billet d'entrée tous droits et taxes compris.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01 Décret 86-1086 1986-10-07
+
+_Modifié par_:
+
+  - Loi n°83-1159 du 24 décembre 1983 - art. 19 (V)
+
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: cet article devient sans objet)
 
 
 ###### Article 333 duodecies
@@ -835,7 +842,7 @@ _Codifié par_:
 
 ###### Article 333 octies
 
-Les organisateurs de manifestations sportives pour lesquelles il est délivré des billets d'entrée d'un montant supérieur à 25
+Les organisateurs de manifestations sportives pour lesquelles il est délivré des billets d'entrée d'un montant supérieur à 34
 F doivent en faire la déclaration  vingt-quatre heures à l'avance [*délai*] au bureau de déclaration de la direction générale
 des impôts le plus proche du lieu de la réunion.
 
@@ -846,9 +853,17 @@ Toutefois  les organisateurs permanents peuvent  sur autorisation de l'administr
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°84-875 1984-10-01 Décret 86-1086 1986-10-07
+
+_Modifié par_:
+
+  - Loi n°83-1159 du 24 décembre 1983 - art. 19 (V) JORF 28 décembre 1983
+
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: cet article devient sans objet)
 
 
 ###### Article 333 undecies
