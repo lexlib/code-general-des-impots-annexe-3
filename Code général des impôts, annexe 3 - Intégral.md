@@ -1,7 +1,7 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1978-01-24
+Version Consolidée au 1978-04-07
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 267)](#1)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 333 H)](#1)
     - [Première partie : Impôts d'État (art. 10 B à 267)](#2)
       - [Titre premier : Impôts directs et taxes assimilées (art. 10 B)](#3)
         - [Chapitre Ier : Impôt sur le revenu (art. 10 B)](#4)
@@ -19,19 +19,23 @@ Version Consolidée au 1978-01-24
           - [Section II : Les tarifs et leur application (art. 267)](#16)
             - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 267)](#17)
               - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#18)
-  - [Livre II : Recouvrement de l'impôt (art. 361 à 442)](#19)
-    - [Chapitre premier : Paiement de l'impôt (art. 361 à 405 D)](#20)
-      - [Section I : Impôts directs et taxes assimilées (art. 361)](#21)
-        - [II : Exigibilité de l'impôt (art. 361)](#22)
-          - [3 : Impôt sur les sociétés (art. 361)](#23)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#24)
-        - [V : Droits de timbre (art. 405 D)](#25)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#26)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 442)](#27)
-      - [Section II : Juridiction gracieuse (art. 442)](#28)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#29)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#30)
-            - [c : Dispositions communes (art. 442)](#31)
+    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 333 H)](#19)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 333 H)](#20)
+        - [Chapitre II : Contributions indirectes (art. 333 H)](#21)
+          - [Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles. (art. 333 H)](#22)
+  - [Livre II : Recouvrement de l'impôt (art. 361 à 442)](#23)
+    - [Chapitre premier : Paiement de l'impôt (art. 361 à 405 D)](#24)
+      - [Section I : Impôts directs et taxes assimilées (art. 361)](#25)
+        - [II : Exigibilité de l'impôt (art. 361)](#26)
+          - [3 : Impôt sur les sociétés (art. 361)](#27)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#28)
+        - [V : Droits de timbre (art. 405 D)](#29)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#30)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 442)](#31)
+      - [Section II : Juridiction gracieuse (art. 442)](#32)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#33)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#34)
+            - [c : Dispositions communes (art. 442)](#35)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -190,15 +194,47 @@ _Modifié par_:
   - Loi n°77-1468 du 30 décembre 1977 - art. 1 (V) JORF 31 décembre 1977
 
 
-# Livre II : Recouvrement de l'impôt<a id=19></a>
+## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=19></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=20></a>
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=20></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=21></a>
+#### Chapitre II : Contributions indirectes<a id=21></a>
 
-#### II : Exigibilité de l'impôt<a id=22></a>
+##### Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles.<a id=22></a>
 
-##### 3 : Impôt sur les sociétés<a id=23></a>
+###### Article 333 H
+
+Les farines, semoules et gruaux exportés ainsi que les farines utilisées pour la fabrication d'amidon sont exonérés de la
+taxe visée à l'article 1618 septies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1618 septies
+
+_Créé par_:
+
+  - Décret n°78-525 1978-03-20 art. 1 JORF 7 avril 1978 rectificatif JORF 24 juin 1978
+
+**Liens**:
+
+  - PEREMPTION: Loi n°90-1169 du 29 décembre 1990 - art. 50 (V) JORF 30 décembre 1990
+
+_Abrogé par_:
+
+  - Décret n°91-866 du 4 septembre 1991 - art. 5 () JORF 6 septembre 1991
+
+
+# Livre II : Recouvrement de l'impôt<a id=23></a>
+
+## Chapitre premier : Paiement de l'impôt<a id=24></a>
+
+### Section I : Impôts directs et taxes assimilées<a id=25></a>
+
+#### II : Exigibilité de l'impôt<a id=26></a>
+
+##### 3 : Impôt sur les sociétés<a id=27></a>
 
 ###### Article 361
 
@@ -224,11 +260,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=24></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=28></a>
 
-#### V : Droits de timbre<a id=25></a>
+#### V : Droits de timbre<a id=29></a>
 
-##### C : Paiement par apposition de timbres mobiles<a id=26></a>
+##### C : Paiement par apposition de timbres mobiles<a id=30></a>
 
 ###### Article 405 D
 
@@ -258,15 +294,15 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=27></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=31></a>
 
-### Section II : Juridiction gracieuse<a id=28></a>
+### Section II : Juridiction gracieuse<a id=32></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=29></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=33></a>
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=30></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=34></a>
 
-##### c : Dispositions communes<a id=31></a>
+##### c : Dispositions communes<a id=35></a>
 
 ###### Article 442
 
