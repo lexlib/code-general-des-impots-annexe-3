@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-07-09
+Version Consolidée au 1987-07-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -6421,6 +6421,47 @@ _Codifié par_:
   - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
   - HISTO: Edition du 10 août 1987
   - HISTO: Edition du 31 mars 2002
+
+
+###### Article 46 AC
+
+Les sociétés citées au premier alinéa du I de l'article 199 decies du code général des impôts fournissent en double
+exemplaire aux souscripteurs des parts ou actions l'attestation prévue au troisième alinéa du I du même article qui, en plus
+des mentions énumérées par la loi, comporte les éléments suivants :
+
+Identité et adresse des souscripteurs ;
+
+Date de souscription des parts ou actions et du versement des fonds ;
+
+Adresse et date d'achèvement de chaque immeuble acquis ou construit au moyen des parts ou actions souscrites ;
+
+Montant du capital souscrit ;
+
+Nombre de parts ou actions souscrites ;
+
+Numéro des parts ou actions.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 199 decies
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+  - Décret n°2002-923 2002-06-06
+
+**Liens**:
+
+  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+  - HISTO: Edition du 10 août 1987
+  - HISTO: Edition du 31 mars 2002
+
+_Modifié par_:
+
+  - Loi n°87-1317 1987-12-30 art. 23 Finances pour 1987 JORF 31 décembre 1986
+  - Loi n°87-416 du 17 juin 1987 - art. 14 (V) JORF 18 juillet 1987
 
 
 ###### Article 46 AD
