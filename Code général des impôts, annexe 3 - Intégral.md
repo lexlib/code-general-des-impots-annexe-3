@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1992-02-07
+Version Consolidée au 1992-02-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -292,7 +292,7 @@ Version Consolidée au 1992-02-07
               - [3 : Salaires proportionnels (art. 293 à 297)](#289)
             - [II : Obligations des agents de l'administration (art. 286 à 299)](#290)
               - [Salaires des conservateurs (art. 286 à 299)](#291)
-                - [2 : Salaires fixes. (art. 286 à 291 bis)](#292)
+                - [2 : Salaires fixes. (art. 286 à 290)](#292)
                 - [4 : Minimum de perception. (art. 298)](#293)
                 - [5 : Délivrance de renseignements urgents. (art. 299)](#294)
         - [Chapitre II : Droits de timbre (art. 301 à 313 BJ)](#295)
@@ -20873,38 +20873,6 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°91-883 1991-09-09
-
-
-###### Article 291 bis
-
-Le tarif des salaires exigibles lors de la demande de délivrance des copies et des extraits de fiches personnelles de
-propriétaire ou de fiches d'immeuble est fixé à :
-
-1° Copies et extraits de fiches personnelles de propriétaires :
-
-- 40 F par personne individuellement désignée.
-
-2° Copies et extraits de fiches d'immeuble :
-
-- 40 F par immeuble indiqué.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°55-1350 1955-10-14 ART. 85-1 2
-
-_Modifié par_:
-
-  - Décret n°85-842 du 5 août 1985 - art. 7 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°92-155 1992-02-20 art. 4
-
-_Abrogé par_:
-
-  - Décret n°92-155 du 20 février 1992 - art. 2 (V) JORF 22 février 1992
 
 
 ##### 4 : Minimum de perception.<a id=293></a>
