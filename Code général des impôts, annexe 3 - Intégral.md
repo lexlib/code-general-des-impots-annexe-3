@@ -1,52 +1,76 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1977-12-31
+Version Consolidée au 1978-01-23
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 267)](#1)
-    - [Première partie : Impôts d'État (art. 10 B à 267)](#2)
-      - [Titre premier : Impôts directs et taxes assimilées (art. 10 B)](#3)
-        - [Chapitre Ier : Impôt sur le revenu (art. 10 B)](#4)
-          - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 10 B)](#5)
-            - [III : Bénéfices industriels et commerciaux (art. 10 B)](#6)
-              - [D : Provisions pour reconstitution des gisements (art. 10 B)](#7)
-                - [a : Entreprises de recherches et d'exploitation d'hydrocarbures. (art. 10 B)](#8)
-      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252 à 267)](#9)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252 à 267)](#10)
-          - [Section I : Dispositions générales (art. 252)](#11)
-            - [I : Des formalités (art. 252)](#12)
-              - [B : Accomplissement des formalités (art. 252)](#13)
-                - [2 : Modalités d'exécution (art. 252)](#14)
-                  - [a : Enregistrement (art. 252)](#15)
-          - [Section II : Les tarifs et leur application (art. 267)](#16)
-            - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 267)](#17)
-              - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#18)
-  - [Livre II : Recouvrement de l'impôt (art. 361 à 442)](#19)
-    - [Chapitre premier : Paiement de l'impôt (art. 361 à 405 D)](#20)
-      - [Section I : Impôts directs et taxes assimilées (art. 361)](#21)
-        - [II : Exigibilité de l'impôt (art. 361)](#22)
-          - [3 : Impôt sur les sociétés (art. 361)](#23)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#24)
-        - [V : Droits de timbre (art. 405 D)](#25)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#26)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 442)](#27)
-      - [Section II : Juridiction gracieuse (art. 442)](#28)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#29)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#30)
-            - [c : Dispositions communes (art. 442)](#31)
-# Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 313 AU)](#1)
+    - [IMPOTS D'ETAT (art. 313 AU)](#2)
+      - [TIMBRE (art. 313 AU)](#3)
+        - [DROITS DE TIMBRE (art. 313 AU)](#4)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 267)](#5)
+    - [Première partie : Impôts d'État (art. 10 B à 267)](#6)
+      - [Titre premier : Impôts directs et taxes assimilées (art. 10 B)](#7)
+        - [Chapitre Ier : Impôt sur le revenu (art. 10 B)](#8)
+          - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 10 B)](#9)
+            - [III : Bénéfices industriels et commerciaux (art. 10 B)](#10)
+              - [D : Provisions pour reconstitution des gisements (art. 10 B)](#11)
+                - [a : Entreprises de recherches et d'exploitation d'hydrocarbures. (art. 10 B)](#12)
+      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252 à 267)](#13)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252 à 267)](#14)
+          - [Section I : Dispositions générales (art. 252)](#15)
+            - [I : Des formalités (art. 252)](#16)
+              - [B : Accomplissement des formalités (art. 252)](#17)
+                - [2 : Modalités d'exécution (art. 252)](#18)
+                  - [a : Enregistrement (art. 252)](#19)
+          - [Section II : Les tarifs et leur application (art. 267)](#20)
+            - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 267)](#21)
+              - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#22)
+  - [Livre II : Recouvrement de l'impôt (art. 361 à 442)](#23)
+    - [Chapitre premier : Paiement de l'impôt (art. 361 à 405 D)](#24)
+      - [Section I : Impôts directs et taxes assimilées (art. 361)](#25)
+        - [II : Exigibilité de l'impôt (art. 361)](#26)
+          - [3 : Impôt sur les sociétés (art. 361)](#27)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#28)
+        - [V : Droits de timbre (art. 405 D)](#29)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#30)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 442)](#31)
+      - [Section II : Juridiction gracieuse (art. 442)](#32)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#33)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#34)
+            - [c : Dispositions communes (art. 442)](#35)
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=1></a>
 
-## Première partie : Impôts d'État<a id=2></a>
+## IMPOTS D'ETAT<a id=2></a>
 
-### Titre premier : Impôts directs et taxes assimilées<a id=3></a>
+### TIMBRE<a id=3></a>
 
-#### Chapitre Ier : Impôt sur le revenu<a id=4></a>
+#### DROITS DE TIMBRE<a id=4></a>
 
-##### Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus<a id=5></a>
+###### Article 313 AU
 
-##### III : Bénéfices industriels et commerciaux<a id=6></a>
+(Abrogé).
 
-##### D : Provisions pour reconstitution des gisements<a id=7></a>
+**Liens relatifs à cet article**
 
-##### a : Entreprises de recherches et d'exploitation d'hydrocarbures.<a id=8></a>
+_Abrogé par_:
+
+  - Loi n°77-1468 1977-12-30 ART. 10 JORF 31 DECEMBRE 1977
+  - Décret n°78-62 1978-01-20 ART. 9 JORF 24 JANVIER 1978
+
+
+# Livre premier : Assiette et liquidation de l'impôt<a id=5></a>
+
+## Première partie : Impôts d'État<a id=6></a>
+
+### Titre premier : Impôts directs et taxes assimilées<a id=7></a>
+
+#### Chapitre Ier : Impôt sur le revenu<a id=8></a>
+
+##### Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus<a id=9></a>
+
+##### III : Bénéfices industriels et commerciaux<a id=10></a>
+
+##### D : Provisions pour reconstitution des gisements<a id=11></a>
+
+##### a : Entreprises de recherches et d'exploitation d'hydrocarbures.<a id=12></a>
 
 ###### Article 10 B
 
@@ -100,19 +124,19 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
 
 
-### Titre IV : Enregistrement, publicité foncière, timbre<a id=9></a>
+### Titre IV : Enregistrement, publicité foncière, timbre<a id=13></a>
 
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=10></a>
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=14></a>
 
-##### Section I : Dispositions générales<a id=11></a>
+##### Section I : Dispositions générales<a id=15></a>
 
-##### I : Des formalités<a id=12></a>
+##### I : Des formalités<a id=16></a>
 
-##### B : Accomplissement des formalités<a id=13></a>
+##### B : Accomplissement des formalités<a id=17></a>
 
-##### 2 : Modalités d'exécution<a id=14></a>
+##### 2 : Modalités d'exécution<a id=18></a>
 
-##### a : Enregistrement<a id=15></a>
+##### a : Enregistrement<a id=19></a>
 
 ###### Article 252
 
@@ -158,11 +182,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1723 ter (V)
 
 
-##### Section II : Les tarifs et leur application<a id=16></a>
+##### Section II : Les tarifs et leur application<a id=20></a>
 
-##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles<a id=17></a>
+##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles<a id=21></a>
 
-##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=18></a>
+##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=22></a>
 
 ###### Article 267
 
@@ -190,15 +214,15 @@ _Modifié par_:
   - Loi n°77-1468 du 30 décembre 1977 - art. 1 (V) JORF 31 décembre 1977
 
 
-# Livre II : Recouvrement de l'impôt<a id=19></a>
+# Livre II : Recouvrement de l'impôt<a id=23></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=20></a>
+## Chapitre premier : Paiement de l'impôt<a id=24></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=21></a>
+### Section I : Impôts directs et taxes assimilées<a id=25></a>
 
-#### II : Exigibilité de l'impôt<a id=22></a>
+#### II : Exigibilité de l'impôt<a id=26></a>
 
-##### 3 : Impôt sur les sociétés<a id=23></a>
+##### 3 : Impôt sur les sociétés<a id=27></a>
 
 ###### Article 361
 
@@ -224,11 +248,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=24></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=28></a>
 
-#### V : Droits de timbre<a id=25></a>
+#### V : Droits de timbre<a id=29></a>
 
-##### C : Paiement par apposition de timbres mobiles<a id=26></a>
+##### C : Paiement par apposition de timbres mobiles<a id=30></a>
 
 ###### Article 405 D
 
@@ -258,15 +282,15 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=27></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=31></a>
 
-### Section II : Juridiction gracieuse<a id=28></a>
+### Section II : Juridiction gracieuse<a id=32></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=29></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=33></a>
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=30></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=34></a>
 
-##### c : Dispositions communes<a id=31></a>
+##### c : Dispositions communes<a id=35></a>
 
 ###### Article 442
 
