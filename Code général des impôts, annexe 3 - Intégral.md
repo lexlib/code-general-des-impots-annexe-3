@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1978-04-07
+Version Consolidée au 1978-12-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 333 H)](#1)
     - [Première partie : Impôts d'État (art. 10 B à 267)](#2)
