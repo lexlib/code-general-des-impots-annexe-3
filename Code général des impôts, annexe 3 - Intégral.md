@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1999-07-24
+Version Consolidée au 1999-09-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 duodecies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 duodecies à 313 BR bis)](#2)
@@ -6524,8 +6524,8 @@ suivantes :
 
 1° Concernant le déclarant :
 
-a) Les nom et prénoms ou raison sociale, adresse et numéro SIRET. Les entreprises à établissements multiples indiquent
-l'établissement qui a déposé la déclaration de résultats ;
+a) ((Les noms et prénoms ou raison sociale, adresse, numéro SIRET et code APE (Activité principale exercée).)) (M) Les
+entreprises à établissements multiples indiquent l'établissement qui a déposé la déclaration de résultats ;
 
 b) L'effectif au dernier jour ouvrable de l'année précédente ;
 
@@ -6537,7 +6537,8 @@ a) Son identification : nom patronymique, le cas échéant nom de l'époux, pré
 
 b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
 
-c) La nature, la période et les conditions d'exercice de l'emploi ;
+c) La nature, la période et les conditions d'exercice de l'emploi ((ainsi que le code emploi PCS (nomenclature des
+Professions et catégories socioprofessionnelles) ;)) (M)
 
 d) Le montant des sommes payées pendant l'année en distinguant ;
 
@@ -6570,6 +6571,8 @@ d'une même entreprise ;
 
 3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise des sommes mentionnées au 2° ci-dessus.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -6578,11 +6581,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°87-1159 du 24 décembre 1987 - art. 1 (V) JORF 31 décembre 1987
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Décret n°99-769 1999-09-07 art. 1 JORF 9 septembre 1999
 
 _Cité par_:
 
@@ -6591,10 +6590,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 39-0 A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 M bis (V)
-
-**Liens**:
-
-  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 39 A
