@@ -2,7 +2,7 @@
 
 I.-La direction générale des douanes et droits indirects exerce les compétences prévues :
 
-1° Aux articles 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies du code général des impôts ;
+1° Aux articles 306,321,412,426,427,450,454,1562,1565 septies du code général des impôts ;
 
 2° Au premier alinéa de l'article 444 du code général des impôts ;
 
@@ -30,27 +30,34 @@ des impôts ;
 
 2° Pour requérir la représentation du registre mentionné à l'article 330 du code général des impôts ;
 
-3° Pour recevoir après saisie les ouvrages d'or ou contenant de l'or, d'argent et de platine en application de l'article 541
-du code général des impôts.
+3° (sans objet).
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies, 444, 570, 625, 319, 568, 304, 330, 541
-
 _Modifié par_:
 
-  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 13 () JORF 27 mars 2004
 
 _Codifié par_:
 
-  - Décret n°2003-298 2003-03-31
+  - Décret n°2004-1070 2004-10-08
 
 _Cité par_:
 
   - Code général des impôts, CGI. - art. 303 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2003
+  - Code général des impôts, CGI. - art. 1562 (V)
+  - Code général des impôts, CGI. - art. 1565 septies (V)
+  - Code général des impôts, CGI. - art. 304 (V)
+  - Code général des impôts, CGI. - art. 306 (V)
+  - Code général des impôts, CGI. - art. 319 (V)
+  - Code général des impôts, CGI. - art. 321 (V)
+  - Code général des impôts, CGI. - art. 412 (V)
+  - Code général des impôts, CGI. - art. 426 (V)
+  - Code général des impôts, CGI. - art. 444 (V)
+  - Code général des impôts, CGI. - art. 450 (V)
+  - Code général des impôts, CGI. - art. 454 (V)
+  - Code général des impôts, CGI. - art. 570 (V)
+  - Code général des impôts, CGI. - art. 625 (V)
