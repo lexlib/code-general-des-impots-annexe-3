@@ -32,19 +32,31 @@ II. Il est souscrit un état par opération et par exercice tant qu'il existe, a
 auxquels est attaché un sursis d'imposition prévu par l'un des régimes mentionnés au I de l'article 54 septies du code
 général des impôts.
 
+III. L'état dont la production est prévue au III de l'article 54 septies du code général des impôts mentionne, pour chaque
+opération de scission, la dénomination et l'adresse de la société scindée ainsi que la date de l'approbation de la scission
+par les assemblées générales et, pour chaque associé :
+
+1° Son nom ou sa dénomination ;
+
+2° Son adresse ;
+
+3° Le nombre de titres grevés de l'engagement de conservation :
+
+a) Attribués à la suite de l'opération de scission ;
+
+b) Détenus sur toute la période couverte par l'exercice ;
+
+c) Le cas échéant, cédés au cours de l'exercice.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 54 septies
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-941 du 16 juillet 1993 - art. 1 (V) JORF 23 juillet 1993
-
-_Codifié par_:
-
-  - Décret n°93-1127 1993-09-24
+  - Décret n°2000-740 du 1 août 2000 - art. 1 () JORF 4 août 2000
 
 _Cité par_:
 
@@ -52,4 +64,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 18 août 1993
+  - HISTO: Edition du 31 mars 2001
