@@ -8,7 +8,7 @@ Ils prévoient également qu'aucune aide ne peut être consentie au profit d'une
 avec les donateurs, les membres ou le personnel de l'organisme qui est associé à la prise de décision.
 
 Ils prévoient en outre que les organismes s'engagent à accorder des aides compatibles avec le règlement (CE) n° 70/2001 de la
-Commission du 12 janvier 2001 susvisé. Ce règlement est annexé à leurs statuts.
+Commission du 12 janvier 2001. Ce règlement est annexé à leurs statuts.
 
 **Liens relatifs à cet article**
 
@@ -16,9 +16,13 @@ _Cite_:
 
   - CGI 238 bis
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°2004-213 du 9 mars 2004 - art. 1 () JORF 12 mars 2004
+  - Décret n°2004-1070 2004-10-08
+
+_Modifié par_:
+
+  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 _Cité par_:
 
@@ -27,4 +31,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2004
+  - HISTO: Edition du 31 août 2004
