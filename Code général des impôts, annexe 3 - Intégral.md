@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-02-28
+Version Consolidée au 1988-03-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -58,7 +58,7 @@ Version Consolidée au 1988-02-28
                 - [2° : Obligations particulières au régime normal d'imposition d'après le bénéfice réel. (art. 38 sexdecies R à 38 sexdecies RA)](#55)
                 - [3° : Obligations particulières au régime simplifié d'imposition d'après le bénéfice réel. (art. 38 sexdecies RB à 38 sexdecies RC)](#56)
                 - [Obligations particulières au régime transitoire d'imposition. (art. 38 sexdecies RD)](#57)
-              - [F : Cultures agréées dans les départements d'outre-mer (art. 38 sexdecies T)](#58)
+              - [F : Cultures agréées dans les départements d'outre-mer (art. 38 sexdecies S à 38 sexdecies T)](#58)
             - [VI : Traitements, salaires, pensions et rentes viagères (art. 38 septdecies à 39 D)](#59)
               - [Détermination du revenu imposable. (art. 38 septdecies)](#60)
               - [B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires (art. 38 septdecies B à 38 septdecies E)](#61)
@@ -440,14 +440,12 @@ Version Consolidée au 1988-02-28
           - [1 : Cotes irrécouvrables (art. 426 à 428)](#437)
           - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#438)
             - [a : Sursis de versement (art. 430 à 432)](#439)
-            - [b : Décharge de responsabilité (art. 433 à 437)](#440)
+            - [b : Décharge de responsabilité (art. 433 à 438)](#440)
             - [c : Dispositions communes (art. 439 à 444)](#441)
         - [D : Dispositions particulières aux impôts directs (art. 445)](#442)
-  - [RECOUVREMENT DE L'IMPOT (art. 360 à 443)](#443)
+  - [RECOUVREMENT DE L'IMPOT (art. 360 à 363)](#443)
     - [PAIEMENT DE L'IMPOT (art. 360 à 363)](#444)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360 à 363)](#445)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 434 à 443)](#446)
-      - [JURIDICTION GRACIEUSE. (art. 434 à 443)](#447)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -4378,6 +4376,46 @@ _Codifié par_:
 
 
 ##### F : Cultures agréées dans les départements d'outre-mer<a id=58></a>
+
+###### Article 38 sexdecies S
+
+I. Sont réputés non encore cultivés, au sens de l'article 76 bis du code général des impôts, les terrains en friche depuis
+quinze ans au moins.
+
+Dans le département de la Guyane, pour l'application de l'alinéa ci-dessus, sont également réputés terrains en friche les
+terrains qui font l'objet d'une exploitation forestière et ceux qui sont exploités de façon temporaire sur abattis.
+
+II. Sous réserve des dispositions du III, les cultures susceptibles d'être agréées s'entendent de celles qui, dans le cadre
+des objectifs du Plan, sont de nature soit à réduire les importations, soit à ouvrir de nouveaux marchés, soit à assurer le
+développement économique et social du département considéré.
+
+III. Un arrêté du préfet pris sur avis de la commission d'aménagement foncier, fixe la liste des cultures agréées dans le
+département ainsi que, pour chacune d'elles, l'aire géographique dans laquelle celle-ci est agréée. Cet arrêté précise, en
+outre, en tant que de besoin, les caractéristiques que doivent présenter les cultures au regard de la densité des
+plantations, des variétés de plants recommandés ou tolérés et des conditions d'entretien.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 76 bis
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies T (V)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
 
 ###### Article 38 sexdecies T
 
@@ -18619,6 +18657,45 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 321 B (V)
 
 
+###### Article 321
+
+Dans le cas où la notification prévue à l'article 320 n'a pas été faite avant le 1er novembre, la valeur locative des
+installations définies à l'article 316 est imposée en totalité dans la commune où est située l'usine utilisant la force
+motrice et il est procédé à la répartition des cotisations correspondantes entre les communes visées audit article.
+
+Si ces communes sont situées dans le même département, la répartition est réglée par arrêté du préfet rendu sur les
+propositions du directeur des services fiscaux et après avis de l'ingénieur en chef du contrôle, dans les trois mois suivant
+celui de la mise en recouvrement du rôle.
+
+Si les communes intéressées sont situées dans des départements différents, la répartition est réglée par arrêté du ministre
+de l'économie et des finances, du ministre de l'intérieur sur les propositions du directeur général des impôts et après avis
+du ministre de l'industrie.
+
+L'arrêté préfectoral ou ministériel fixe notamment les conditions de l'attribution, à chacune des collectivités
+bénéficiaires, de la part lui revenant dans le produit des cotisations dont il s'agit.
+
+Les impositions dues au titre de l'année de la mise en service sont établies et réparties selon la procédure définie aux
+alinéas précédents.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 320, 316
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 321 B
 
 Les pourcentages de répartition visés aux articles 320 et 321 sont inscrits dans le cahier des charges de la concession ou
@@ -21275,6 +21352,88 @@ _Abrogé par_:
   - Décret n°2012-88 du 25 janvier 2012 - art. 3
 
 
+###### Article 328 D quater
+
+I. Sont exclues du champ d'application de la taxe locale d'équipement les constructions édifiées à l'intérieur :
+
+1° Des zones à urbaniser par priorité créées avant le 1er janvier 1969 ;
+
+2° Des zones de rénovation urbaine qui ont fait l'objet :
+
+a. D'une convention approuvée avant le 1er octobre 1968;
+
+b. D'une convention approuvée après accord du ministre de l'équipement et du logement entre le 1er octobre 1968 et le 1er
+janvier 1969 ;
+
+3° Des zones ayant fait l'objet  avant le 1er janvier 1969, d'un bilan financier approuvé par le conseil de direction du
+fonds de développement économique et social ;
+
+4° Des périmètres destinés à recevoir une ou plusieurs implantations industrielles ou commerciales ayant fait l'objet d'une
+décision administrative avant le 1er janvier 1969 et qui  par leur situation ou leur dimension  imposent la réalisation
+d'équipements publics nouveaux d'une importance exceptionnelle par rapport aux ouvrages existants.
+
+Ces périmètres, dans lesquels le coût de tout ou partie des équipements est mis à la charge des aménageurs ou des
+constructeurs, sont définis par un arrêté du ministre de l'équipement et du logement (1). Le montant et les modalités de la
+participation éventuellement demandée sont également approuvés par un arrêté du ministre de l'équipement et du logement.
+
+II. Peuvent être exclues du champ d'application de la taxe locale d'équipement les constructions édifiées à l'intérieur :
+
+1° Des zones ayant fait l'objet soit d'une avance du fonds national d'aménagement et d'urbanisme  soit de l'octroi  avant le
+1er janvier 1969, d'une bonification d'intérêt du même fonds ;
+
+2° Des zones dont l'aménagement et l'équipement ont été entrepris en France métropolitaine avant le 1er janvier 1969  ou dans
+les départements d'outre-mer avant la date d'entrée en vigueur de l'article 51-I de la loi no 75-1328 du 31 décembre 1975
+portant réforme de la politique foncière  selon l'une des modalités suivantes :
+
+a. Réalisation conduite directement par la collectivité publique ou l'établissement public qui a pris l'initiative de la
+création ;
+
+b. Réalisation confiée à un établissement public ou concédée à une société d'économie mixte constituée en application de
+l'article 60 de la loi n° 76-1285 du 31 décembre 1976 ;
+
+c. Réalisation confiée par la collectivité publique ou l'établissement public qui a pris l'initiative de sa création à un
+organisme public ou privé dans le cadre d'une convention :
+
+Approuvée par le préfet si cette convention est conforme à une convention type approuvée par décret en conseil d'Etat ;
+
+Approuvée par arrêté conjoint du ministre de l'équipement et du logement et du ministre de l'intérieur dans les autres cas.
+
+III. Dans chaque département les zones dans lesquelles les constructions sont exclues du champ d'application de la taxe
+locale d'équipement  en vertu des I et II, sont inscrites sur une liste arrêtée par le commissaire de la République et
+publiée au recueil des actes administratifs du département.
+
+L'inscription des zones visées au I est de droit. Pour les zones visées au II, le préfet apprécie  dans chaque cas  si les
+équipements prévus à l'article 317 quater de l'annexe II au code général des impôts sont bien mis à la charge des
+constructeurs.
+
+(1) Annexe IV, art. 155 A et 155 B.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN2 317 quater
+  - CGIAN4 155 A, 155 B
+  - Loi n°75-1328 1975-12-31 art. 51 I
+  - Loi n°76-1285 du 31 décembre 1976 - art. 60, v. init.
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, annexe 4, CGIAN4. - art. 155 B (P)
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 328 D ter
 
 Dans le cas où le terrain faisant l'objet d'une autorisation de construire est issu d'un lotissement autorisé  en France
@@ -22920,6 +23079,35 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°85-1101 du 9 octobre 1985 - art. 1 (V) JORF 17 octobre 1985
+
+
+###### Article 350 A
+
+1. Dans le département de la Corse et dans les départements d'outre-mer [*DOM*] les inspecteurs principaux des impôts appelés
+à faire partie de la commission départementale de conciliation instituée par l'article 1653 A du code général des impôts
+peuvent être remplacés par des inspecteurs des impôts.
+
+2. A défaut de chambre de notaires et d'organismes professionnels ou syndicaux visés au 5° du I de l'article 1653 A du code
+général des impôts le notaire et les représentants des contribuables à la commission départementale de conciliation sont
+désignés par le préfet.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1653 A I 5°
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 350 C
@@ -25746,6 +25934,65 @@ Peuvent seules faire l'objet de demandes en décharge ou en atténuation de resp
 
 
 
+###### Article 434
+
+Le préfet statue sur les demandes en décharge ou en atténuation de responsabilité à moins que la cote visée ou l'une des
+cotes visées s'il s'agit d'un contribuable pour lequel plusieurs cotes sont en cause n'excède la somme de 100.000 F.
+
+Il se prononce au vu des avis émis par le trésorier-payeur général et par le directeur des services fiscaux, lorsque ces avis
+sont concordants et, dans le cas contraire, après avoir pris l'avis de la commission départementale prévue à l'article 443.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Arrêté du 12 février 2015 - art. 3 (V)
+
+_Cite_:
+
+  - CGIAN3 443
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 435
+
+Le ministre de l'économie et des finances statue sur les demandes en décharge ou en atténuation de responsabilité lorsqu'il
+s'agit de cotes dont le montant excède les limites de la compétence du préfet telle qu'elle est fixée à l'article 434.
+
+Il se prononce au vu des avis émis par la direction générale des impôts et la direction de la comptabilité publique  lorsque
+ces avis sont concordants et  dans le cas contraire  après avoir pris l'avis de la commission centrale prévue à l'article
+444.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 434, 444
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 436
 
 La responsabilité du comptable du Trésor chargé du recouvrement des impôts directs peut être dégagée en totalité ou en
@@ -25787,6 +26034,36 @@ _Abrogé par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
+###### Article 438
+
+Les décisions des préfets prises sur les demandes en décharge ou en atténuation de responsabilité et qui n'auront pas fait
+l'objet d'un recours dans les conditions fixées à l'article 440, deviendront définitives si, dans les six mois de leur
+notification au comptable du Trésor, elles n'ont pas été annulées ou réformées par le ministre statuant dans les formes
+prévues au deuxième alinéa de l'article 435.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 435, 440
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Abrogé par_:
+
+  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
 ##### c : Dispositions communes<a id=441></a>
 
 ###### Article 439
@@ -25800,6 +26077,36 @@ suspensif.
 _Abrogé par_:
 
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+
+###### Article 440
+
+Les comptables du Trésor chargés du recouvrement des impôts directs, ainsi que les comptables centralisateurs dont la
+responsabilité pécuniaire est en jeu, sont admis à se pourvoir devant le ministre du budget contre les décisions des préfets
+rejetant les demandes en décharge ou en atténuation de responsabilité.
+
+Le recours a un effet suspensif et est instruit comme les demandes initiales relevant directement de la compétence du
+ministre du budget.
+
+La décision du ministre est notifiée par la voie hiérarchique aux comptables intéressés et au directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Abrogé par_:
+
+  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 441
@@ -25838,6 +26145,50 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°76-394 1976-05-06 art. 1 JORF 7 mai 1976
+
+_Abrogé par_:
+
+  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 443
+
+La commission départementale appelée à donner son avis sur les demandes en décharge ou en atténuation de responsabilité est
+composée ainsi qu'il suit :
+
+Le préfet ou son représentant, président ;
+
+Le trésorier-payeur général ou le receveur général des finances trésorier-payeur général de la région d'Ile-de-France ou son
+représentant ;
+
+Le directeur des services fiscaux  ou son représentant ;
+
+Un inspecteur des impôts désigné par le directeur des services fiscaux ;
+
+Un comptable du Trésor chargé du recouvrement des impôts directs désigné par le receveur général des finances  trésorier-
+payeur général de la région parisienne  ou par le trésorier-payeur général.
+
+En cas de partage égal des voix  la voix du président est prépondérante.
+
+Un inspecteur de la trésorerie générale remplit les fonctions de secrétaire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 432, 434
+
+_Modifié par_:
+
+  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
 
 _Abrogé par_:
 
@@ -25989,145 +26340,5 @@ _Cite_:
 **Liens**:
 
   - HISTO: EDITION 1979-07-01
-
-
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=446></a>
-
-### JURIDICTION GRACIEUSE.<a id=447></a>
-
-###### Article 434
-
-Le commissaire de la République [*autorité compétente*] statue sur les demandes en décharge ou en atténuation de
-responsabilité à moins que la cote visée ou l'une des cotes visées s'il s'agit d'un contribuable pour lequel plusieurs cotes
-sont en cause n'excède la somme de 100.000 F.
-
-Il se prononce au vu des avis émis par le trésorier-payeur général et par le directeur des services fiscaux  lorsque ces avis
-sont concordants et  dans le cas contraire  après avoir pris l'avis de la commission départementale prévue à l'article 443.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°82-389 1982-05-10 art. 1 JONC 11 mai 1982
-
-_Cité par_:
-
-  - Arrêté du 12 février 2015 - art. 3 (V)
-
-_Cite_:
-
-  - CGIAN3 443
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
-
-###### Article 435
-
-Le ministre de l'économie et des finances [*autorité compétente*] statue sur les demandes en décharge ou en atténuation de
-responsabilité lorsqu'il s'agit de cotes dont le montant excède les limites de la compétence du commissaire de la République
-telle qu'elle est fixée à l'article 434.
-
-Il se prononce au vu des avis émis par la direction générale des impôts et la direction de la comptabilité publique  lorsque
-ces avis sont concordants et  dans le cas contraire  après avoir pris l'avis de la commission centrale prévue à l'article
-444.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 434
-  - CGIAN3 444
-
-_Modifié par_:
-
-  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
-
-_Codifié par_:
-
-  - Décret n°87-940 1987-11-23
-
-
-###### Article 438
-
-Les décisions des commissaires de la République prises sur les demandes en décharge ou en atténuation de responsabilité et
-qui n'auront pas fait l'objet d'un recours dans les conditions fixées à l'article 440, deviendront définitives si dans les
-six mois de leur notification au comptable du Trésor elles n'ont pas été annulées ou réformées par le ministre statuant dans
-les formes prévues à l'article 435, deuxième alinéa.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 435 AL. 2
-  - CGIAN3 440
-
-_Modifié par_:
-
-  - Décret n°82-389 1982-05-10 art. 1 JONC 11 mai 1982
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
-
-###### Article 440
-
-Les comptables du Trésor chargés du recouvrement des impôts directs, ainsi que les comptables centralisateurs dont la
-responsabilité pécuniaire est en jeu, sont admis à se pourvoir devant le ministre du budget contre les décisions des
-commissaires de la République rejetant les demandes en décharge ou en atténuation de responsabilité.
-
-Le recours a un effet suspensif et est instruit comme les demandes initiales relevant directement de la compétence du
-ministre du budget.
-
-La décision du ministre est notifiée par la voie hiérarchique aux comptables intéressés et au directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°82-389 1982-05-10 art. 1 JONC 11 mai 1982
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
-
-
-###### Article 443
-
-La commission départementale appelée à donner son avis sur les demandes en décharge ou en atténuation de responsabilité est
-composée ainsi qu'il suit :
-
-Le commissaire de la République ou son représentant, président ;
-
-Le trésorier-payeur général ou le receveur général des finances trésorier-payeur général de la région d'Ile-de-France ou son
-représentant;
-
-Le directeur des services fiscaux  ou son représentant;
-
-Un inspecteur des impôts désigné par le directeur des services fiscaux;
-
-Un comptable du Trésor chargé du recouvrement des impôts directs désigné par le receveur général des finances  trésorier-
-payeur général de la région parisienne  ou par le trésorier-payeur général.
-
-En cas de partage égal des voix  la voix du président est prépondérante.
-
-Un inspecteur de la trésorerie générale remplit les fonctions de secrétaire.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 432
-  - CGIAN3 434
-
-_Modifié par_:
-
-  - Décret n°82-389 1982-05-10 art. 1 JONC 11 mai 1982
-
-_Codifié par_:
-
-  - Décret n°83-899 1983-10-06
 
 
