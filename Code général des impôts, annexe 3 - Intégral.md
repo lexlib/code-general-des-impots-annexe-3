@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-03-21
+Version Consolidée au 1987-03-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -288,7 +288,7 @@ Version Consolidée au 1987-03-21
             - [X : Régies de recettes des préfectures et sous-préfectures (art. 313 BG)](#285)
             - [XI : Formules de chèques (art. 313 BG bis à 313 BG ter)](#286)
           - [Section III : Dispositions communes aux sections I et II (art. 313 BH à 313 BJ)](#287)
-    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 314 à 344 bis)](#288)
+    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 314 à 344 ter)](#288)
       - [Titre premier : Impositions communales (art. 314 à 328 D ter)](#289)
         - [Chapitre premier : Impôts directs et taxes assimilées (art. 314 à 324 AL)](#290)
           - [Section I : Taxes foncières sur les propriétés bâties et non bâties (art. 314 à 321 G)](#291)
@@ -326,7 +326,7 @@ Version Consolidée au 1987-03-21
           - [Section I : Licence des débitants de boissons. (art. 327 à 328)](#323)
         - [Chapitre III : Enregistrement (art. 328 D bis à 328 D ter)](#324)
           - [Section unique : Taxe locale d'équipement (art. 328 D bis à 328 D ter)](#325)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 330 à 344 bis)](#326)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 330 à 344 ter)](#326)
         - [Chapitre premier : Impôts directs et taxes assimilées (art. 330 à 331-0 D)](#327)
           - [Section I : Taxe pour frais de chambres de commerce et d'industrie (art. 330 à 331)](#328)
           - [Section I B : Taxe perçue au profit du budget annexe des prestations sociales agricoles (art. 331-0 D)](#329)
@@ -338,12 +338,12 @@ Version Consolidée au 1987-03-21
           - [Section I bis : Taxe spéciale sur les huiles. (art. 333 A à 333 G bis)](#335)
           - [Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles. (art. 333 H)](#336)
           - [Section II : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 333 bis à 333 ter)](#337)
-        - [Chapitre III : Enregistrement (art. 334 à 344 bis)](#338)
+        - [Chapitre III : Enregistrement (art. 334 à 344 ter)](#338)
           - [Section I : Contributions pour l'alimentation du fonds commun des accidents du travail agricole (art. 334 à 339 bis)](#339)
             - [I : Contribution des employeurs assurés. (art. 334 à 336)](#340)
             - [III : Dispositions communes. (art. 339 bis)](#341)
           - [Section 1 quater : Fonds de garantie contre les accidents de circulation et de chasse. (art. 340 quinquies à 340 sexies)](#342)
-          - [Section III : Taxe perçue au profit de l'office des migrations internationales. (art. 344 bis)](#343)
+          - [Section III : Taxe perçue au profit de l'office des migrations internationales. (art. 344 bis à 344 ter)](#343)
     - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 344 GA à 350 C)](#344)
       - [Titre premier : Assiette et contrôle de l'impôt (art. 344 GA à 344 K)](#345)
         - [Chapitre premier : Obligations des contribuables (art. 344 GA à 344 I)](#346)
@@ -21272,6 +21272,30 @@ _Codifié par_:
 **Liens**:
 
   - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 344 ter
+
+Le montant de la taxe prévue à l'article 344 bis est fixé à 212 F.    La taxe est perçue au taux de 12 F pour les
+ressortissants des parties contractantes à la charte sociale européenne.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 344 bis
+
+_Modifié par_:
+
+  - Décret n°87-195 du 19 mars 1987 - art. 1 (V) JORF 25 mars 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cité par_:
+
+  - Code du travail - art. D5221-38 (Ab)
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties<a id=344></a>
