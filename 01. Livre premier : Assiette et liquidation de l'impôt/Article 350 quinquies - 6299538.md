@@ -4,7 +4,7 @@ La direction générale des douanes et droits indirects reçoit :
 
 1° La déclaration et les renseignements mentionnés à l'article 303 du code général des impôts ;
 
-2° La déclaration prévue à l'article 344 ter du code général des impôts et exerce les compétences prévues à cet article ;
+2° (Sans objet) (M) ;
 
 3° Les déclarations prévues au premier alinéa de l'article 413 et au deuxième alinéa de l'article 481 du code général des
 impôts ainsi qu'aux articles 312, 327, 329, 345, 501, 511 et 626 du même code ;
@@ -41,12 +41,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi - art. 27 (V) JORF 30 décembre 1997
-  - Loi n°97-1239 1997-12-29 art. 27 III, VIII Finances rectificative pour 1997, JORF 30 décembre 1997
+  - Loi - art. 47 (V) JORF 31 décembre 1998
 
 _Codifié par_:
 
-  - Décret n°98-400 1998-05-22
+  - Décret n°99-382 1999-05-18
 
 _Cité par_:
 
@@ -54,4 +53,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 22 avril 1998
+  - HISTO: Edition du 31 mars 1999
