@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1978-12-30
+Version Consolidée au 1979-03-11
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 333 H)](#1)
     - [Première partie : Impôts d'État (art. 10 B à 267)](#2)
@@ -9,33 +9,43 @@ Version Consolidée au 1978-12-30
             - [III : Bénéfices industriels et commerciaux (art. 10 B)](#6)
               - [D : Provisions pour reconstitution des gisements (art. 10 B)](#7)
                 - [a : Entreprises de recherches et d'exploitation d'hydrocarbures. (art. 10 B)](#8)
-      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252 à 267)](#9)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252 à 267)](#10)
-          - [Section I : Dispositions générales (art. 252)](#11)
-            - [I : Des formalités (art. 252)](#12)
-              - [B : Accomplissement des formalités (art. 252)](#13)
-                - [2 : Modalités d'exécution (art. 252)](#14)
-                  - [a : Enregistrement (art. 252)](#15)
-          - [Section II : Les tarifs et leur application (art. 267)](#16)
-            - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 267)](#17)
-              - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#18)
-    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 333 H)](#19)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 333 H)](#20)
-        - [Chapitre II : Contributions indirectes (art. 333 H)](#21)
-          - [Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles. (art. 333 H)](#22)
-  - [Livre II : Recouvrement de l'impôt (art. 361 à 442)](#23)
-    - [Chapitre premier : Paiement de l'impôt (art. 361 à 405 D)](#24)
-      - [Section I : Impôts directs et taxes assimilées (art. 361)](#25)
-        - [II : Exigibilité de l'impôt (art. 361)](#26)
-          - [3 : Impôt sur les sociétés (art. 361)](#27)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#28)
-        - [V : Droits de timbre (art. 405 D)](#29)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#30)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 442)](#31)
-      - [Section II : Juridiction gracieuse (art. 442)](#32)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#33)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#34)
-            - [c : Dispositions communes (art. 442)](#35)
+      - [Titre III : Contributions indirectes et taxes diverses (art. 138)](#9)
+        - [Chapitre premier : Boissons (art. 138)](#10)
+          - [Section I : Alcools (art. 138)](#11)
+            - [A : Production (art. 138)](#12)
+              - [III : Fabrication des boissons de raisins secs. (art. 138)](#13)
+      - [Titre III : Contributions indirectes et monopoles fiscaux - Taxes diverses (art. 120)](#14)
+        - [Chapitre premier : Boissons (art. 120)](#15)
+          - [Section I : Alcools (art. 120)](#16)
+            - [A : Production (art. 120)](#17)
+              - [II : Déduction spéciale accordée aux fabricants de mistelles. (art. 120)](#18)
+      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252 à 267)](#19)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252 à 267)](#20)
+          - [Section I : Dispositions générales (art. 252)](#21)
+            - [I : Des formalités (art. 252)](#22)
+              - [B : Accomplissement des formalités (art. 252)](#23)
+                - [2 : Modalités d'exécution (art. 252)](#24)
+                  - [a : Enregistrement (art. 252)](#25)
+          - [Section II : Les tarifs et leur application (art. 267)](#26)
+            - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 267)](#27)
+              - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#28)
+    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 333 H)](#29)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 333 H)](#30)
+        - [Chapitre II : Contributions indirectes (art. 333 H)](#31)
+          - [Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles. (art. 333 H)](#32)
+  - [Livre II : Recouvrement de l'impôt (art. 361 à 442)](#33)
+    - [Chapitre premier : Paiement de l'impôt (art. 361 à 405 D)](#34)
+      - [Section I : Impôts directs et taxes assimilées (art. 361)](#35)
+        - [II : Exigibilité de l'impôt (art. 361)](#36)
+          - [3 : Impôt sur les sociétés (art. 361)](#37)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#38)
+        - [V : Droits de timbre (art. 405 D)](#39)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#40)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 442)](#41)
+      - [Section II : Juridiction gracieuse (art. 442)](#42)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#43)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#44)
+            - [c : Dispositions communes (art. 442)](#45)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -104,19 +114,124 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
 
 
-### Titre IV : Enregistrement, publicité foncière, timbre<a id=9></a>
+### Titre III : Contributions indirectes et taxes diverses<a id=9></a>
 
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=10></a>
+#### Chapitre premier : Boissons<a id=10></a>
 
-##### Section I : Dispositions générales<a id=11></a>
+##### Section I : Alcools<a id=11></a>
 
-##### I : Des formalités<a id=12></a>
+##### A : Production<a id=12></a>
 
-##### B : Accomplissement des formalités<a id=13></a>
+##### III : Fabrication des boissons de raisins secs.<a id=13></a>
 
-##### 2 : Modalités d'exécution<a id=14></a>
+###### Article 138
 
-##### a : Enregistrement<a id=15></a>
+Le compte général de fabrication est suivi pour le volume et pour le titre alcoométrique volumique.
+
+Il est chargé au minimum :
+
+1° D'une quantité de boissons de raisins secs correspondant à la quantité de raisins secs mis en oeuvre, à raisin de 3
+hectolitres de boissons par 100 kilogrammes de raisins secs ;
+
+2° D'une quantité d'alcool correspondant à la quantité de raisins secs mis en oeuvre, à raison de 30 litres d'alcool pur par
+100 kilogrammes de raisins secs.
+
+Les excédents en volume ou en alcool constatés dans les cuves de fermentation ou à l'entonnement sont ajoutés aux charges.
+
+Le compte général est déchargé :
+
+a. En ce qui concerne le volume :
+
+1° Des quantités de boissons, excédents compris, qui, dès l'achèvement de chaque fabrication, sont portées à l'état de
+produits comme passibles du droit de fabrication ;
+
+2° Des pertes matérielles dûment constatées.
+
+b. En ce qui concerne les titres alcoométriques volumiques :
+
+1° Des quantités d'alcool qui, après l'achèvement de chaque fabrication, sont prises en charge au compte définitif des
+produits achevés ;
+
+2° Des manquants constatés, soit à l'entonnement, soit en cours de fabrication et qui ont donné lieu à la constatation
+immédiate du droit de consommation sur l'alcool ;
+
+3° Des quantités d'alcool correspondant aux pertes matérielles dûment constatées.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°79-200 1979-03-05 art. 3 JORF 11 mars 1979
+
+**Liens**:
+
+  - HISTO: Edition du 31 août 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+_Codifié par_:
+
+  - Décret n°2004-1070 2004-10-08
+
+
+### Titre III : Contributions indirectes et monopoles fiscaux - Taxes diverses<a id=14></a>
+
+#### Chapitre premier : Boissons<a id=15></a>
+
+##### Section I : Alcools<a id=16></a>
+
+##### A : Production<a id=17></a>
+
+##### II : Déduction spéciale accordée aux fabricants de mistelles.<a id=18></a>
+
+###### Article 120
+
+La déclaration que tout fabricant de mistelles doit souscrire au bureau de déclarations de la direction générale des impôts,
+en exécution de l'article 343 du code général des impôts, doit indiquer, en dehors des renseignements exigés par d'autres
+lois ou règlements :
+
+1° L'heure du commencement et l'heure approximative de l'achèvement des opérations;
+
+2° L'espèce (blanche ou rouge) des mistelles qui doivent être fabriquées;
+
+3° Le numéro d'ordre des vaisseaux dans lesquels les vendanges, moûts et esprits doivent être versés;
+
+4° Le poids ou le volume, le titre alcoométrique volumique et la richesse saccharine des vendanges ou moûts mis en oeuvre;
+
+5° Le volume et le titre alcoométrique volumique de l'alcool versé ;
+
+6° Le volume et la richesse alcoolique des mistelles à obtenir.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 343
+
+_Modifié par_:
+
+  - Décret n°79-200 1979-03-05 ART. 4 JORF 11 MARS 1979
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+
+### Titre IV : Enregistrement, publicité foncière, timbre<a id=19></a>
+
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=20></a>
+
+##### Section I : Dispositions générales<a id=21></a>
+
+##### I : Des formalités<a id=22></a>
+
+##### B : Accomplissement des formalités<a id=23></a>
+
+##### 2 : Modalités d'exécution<a id=24></a>
+
+##### a : Enregistrement<a id=25></a>
 
 ###### Article 252
 
@@ -162,11 +277,11 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1723 ter (V)
 
 
-##### Section II : Les tarifs et leur application<a id=16></a>
+##### Section II : Les tarifs et leur application<a id=26></a>
 
-##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles<a id=17></a>
+##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles<a id=27></a>
 
-##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=18></a>
+##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin<a id=28></a>
 
 ###### Article 267
 
@@ -194,13 +309,13 @@ _Modifié par_:
   - Loi n°77-1468 du 30 décembre 1977 - art. 1 (V) JORF 31 décembre 1977
 
 
-## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=19></a>
+## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=29></a>
 
-### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=20></a>
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=30></a>
 
-#### Chapitre II : Contributions indirectes<a id=21></a>
+#### Chapitre II : Contributions indirectes<a id=31></a>
 
-##### Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles.<a id=22></a>
+##### Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles.<a id=32></a>
 
 ###### Article 333 H
 
@@ -226,15 +341,15 @@ _Abrogé par_:
   - Décret n°91-866 du 4 septembre 1991 - art. 5 () JORF 6 septembre 1991
 
 
-# Livre II : Recouvrement de l'impôt<a id=23></a>
+# Livre II : Recouvrement de l'impôt<a id=33></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=24></a>
+## Chapitre premier : Paiement de l'impôt<a id=34></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=25></a>
+### Section I : Impôts directs et taxes assimilées<a id=35></a>
 
-#### II : Exigibilité de l'impôt<a id=26></a>
+#### II : Exigibilité de l'impôt<a id=36></a>
 
-##### 3 : Impôt sur les sociétés<a id=27></a>
+##### 3 : Impôt sur les sociétés<a id=37></a>
 
 ###### Article 361
 
@@ -260,11 +375,11 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=28></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=38></a>
 
-#### V : Droits de timbre<a id=29></a>
+#### V : Droits de timbre<a id=39></a>
 
-##### C : Paiement par apposition de timbres mobiles<a id=30></a>
+##### C : Paiement par apposition de timbres mobiles<a id=40></a>
 
 ###### Article 405 D
 
@@ -294,15 +409,15 @@ _Codifié par_:
   - Décret n°81-866 1981-09-15
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=31></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=41></a>
 
-### Section II : Juridiction gracieuse<a id=32></a>
+### Section II : Juridiction gracieuse<a id=42></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=33></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=43></a>
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=34></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=44></a>
 
-##### c : Dispositions communes<a id=35></a>
+##### c : Dispositions communes<a id=45></a>
 
 ###### Article 442
 
