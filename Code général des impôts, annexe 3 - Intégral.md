@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2000-04-19
+Version Consolidée au 2000-06-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BR bis)](#2)
@@ -403,7 +403,7 @@ Version Consolidée au 2000-04-19
           - [3 : Impôt sur les sociétés (art. 358 à 366 AA)](#400)
           - [03 bis : Imposition forfaitaire annuelle des sociétés (art. 366 A bis)](#401)
           - [3 bis : Contribution sur l'impôt sur les sociétés. (art. 366 B à 366 I)](#402)
-          - [3 ter : Contribution temporaire sur l'impôt sur les sociétés. (art. 366 J à 366 K)](#403)
+          - [3 ter : Contribution temporaire sur l'impôt sur les sociétés. (art. 366 J à 366 L)](#403)
           - [6 : Taxe sur les salaires (art. 369 à 374)](#404)
             - [a : Remise au Trésor de la taxe sur les salaires (art. 369)](#405)
             - [b : Disposition spéciale aux professions relevant du régime agricole au regard des lois sur la sécurité sociale. (art. 370)](#406)
@@ -32118,6 +32118,36 @@ _Codifié par_:
   - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
   - HISTO: Edition du 22 avril 1998
   - HISTO: Edition du 31 mars 2001
+
+
+###### Article 366 L
+
+Les versements anticipés prévus au I de l'article 1668 D du code général des impôts sont calculés et versés dans les
+conditions fixées au premier alinéa de l'article 360.
+
+Chaque versement anticipé est égal à 0,825 % du montant de l'impôt sur les sociétés calculé sur les résultats imposables aux
+taux mentionnés au I de l'article 219 du code général des impôts du plus récent exercice clos ou de la dernière période
+d'imposition arrêtée à la date de son échéance et diminué du montant de l'abattement défini au premier alinéa du I de
+l'article 235 ter ZC du code précité. Lorsque cet exercice ou cette période d'imposition est supérieur ou inférieur à douze
+mois, l'impôt de référence ainsi calculé est, en tant que de besoin, rapporté à une période de douze mois.
+
+Le versement anticipé dont l'échéance est comprise entre la date de clôture d'un exercice ou la fin d'une période
+d'imposition et l'expiration du délai de déclaration fixé au deuxième alinéa du 1 de l'article 223 du code général des impôts
+est calculé et régularisé, au taux de 0,825 %, dans les conditions fixées au quatrième alinéa de l'article 360.
+
+Sont dispensées des versements anticipés les sociétés pour lesquelles le montant de la contribution sociale calculée sur
+l'impôt sur les sociétés de référence n'excède pas 1 000 F.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1668 D, 235 ter ZC, 219, 223
+  - CGIAN3 360
+
+_Créé par_:
+
+  - Décret n°2000-498 du 6 juin 2000 - art. 1 () JORF 8 juin 2000
 
 
 ##### 6 : Taxe sur les salaires<a id=404></a>
