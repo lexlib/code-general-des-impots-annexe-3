@@ -1,37 +1,60 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1972-08-30
+Version Consolidée au 1975-06-30
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 252)](#1)
-    - [Première partie : Impôts d'État (art. 252)](#2)
-      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252)](#3)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252)](#4)
-          - [Section I : Dispositions générales (art. 252)](#5)
-            - [I : Des formalités (art. 252)](#6)
-              - [B : Accomplissement des formalités (art. 252)](#7)
-                - [2 : Modalités d'exécution (art. 252)](#8)
-                  - [a : Enregistrement (art. 252)](#9)
-  - [Livre II : Recouvrement de l'impôt (art. 405 D)](#10)
-    - [Chapitre premier : Paiement de l'impôt (art. 405 D)](#11)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#12)
-        - [V : Droits de timbre (art. 405 D)](#13)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#14)
-# Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
+  - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 313 BB et 313 BC)](#1)
+    - [IMPOTS D'ETAT (art. 313 BB et 313 BC)](#2)
+      - [TIMBRE (art. 313 BB et 313 BC)](#3)
+        - [DROITS DE TIMBRE (art. 313 BB et 313 BC)](#4)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 252)](#5)
+    - [Première partie : Impôts d'État (art. 252)](#6)
+      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252)](#7)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252)](#8)
+          - [Section I : Dispositions générales (art. 252)](#9)
+            - [I : Des formalités (art. 252)](#10)
+              - [B : Accomplissement des formalités (art. 252)](#11)
+                - [2 : Modalités d'exécution (art. 252)](#12)
+                  - [a : Enregistrement (art. 252)](#13)
+  - [Livre II : Recouvrement de l'impôt (art. 405 D)](#14)
+    - [Chapitre premier : Paiement de l'impôt (art. 405 D)](#15)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#16)
+        - [V : Droits de timbre (art. 405 D)](#17)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#18)
+# ASSIETTE ET LIQUIDATION DE L'IMPOT<a id=1></a>
 
-## Première partie : Impôts d'État<a id=2></a>
+## IMPOTS D'ETAT<a id=2></a>
 
-### Titre IV : Enregistrement, publicité foncière, timbre<a id=3></a>
+### TIMBRE<a id=3></a>
 
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=4></a>
+#### DROITS DE TIMBRE<a id=4></a>
 
-##### Section I : Dispositions générales<a id=5></a>
+###### Article 313 BB et 313 BC
 
-##### I : Des formalités<a id=6></a>
+(Abrogés).
 
-##### B : Accomplissement des formalités<a id=7></a>
+**Liens relatifs à cet article**
 
-##### 2 : Modalités d'exécution<a id=8></a>
+_Abrogé par_:
 
-##### a : Enregistrement<a id=9></a>
+  - Décret n°75-544 du 30 juin 1975 - art. 15 (Ab) JORF 1 JUILLET 1975
+
+
+# Livre premier : Assiette et liquidation de l'impôt<a id=5></a>
+
+## Première partie : Impôts d'État<a id=6></a>
+
+### Titre IV : Enregistrement, publicité foncière, timbre<a id=7></a>
+
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=8></a>
+
+##### Section I : Dispositions générales<a id=9></a>
+
+##### I : Des formalités<a id=10></a>
+
+##### B : Accomplissement des formalités<a id=11></a>
+
+##### 2 : Modalités d'exécution<a id=12></a>
+
+##### a : Enregistrement<a id=13></a>
 
 ###### Article 252
 
@@ -77,15 +100,15 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1723 ter (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=10></a>
+# Livre II : Recouvrement de l'impôt<a id=14></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=11></a>
+## Chapitre premier : Paiement de l'impôt<a id=15></a>
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=12></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=16></a>
 
-#### V : Droits de timbre<a id=13></a>
+#### V : Droits de timbre<a id=17></a>
 
-##### C : Paiement par apposition de timbres mobiles<a id=14></a>
+##### C : Paiement par apposition de timbres mobiles<a id=18></a>
 
 ###### Article 405 D
 
