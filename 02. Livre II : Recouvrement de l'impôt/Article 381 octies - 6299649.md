@@ -7,12 +7,16 @@ l'article 381 sexies.
 
 _Cite_:
 
-  - CGI 379, 381, 380, 381 sexies
+  - CGIAN3 379, 381, 380, 381 sexies
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
+  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
+
+_Abrogé par_:
+
+  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2000
+  - HISTO: Edition du 31 mars 2002
