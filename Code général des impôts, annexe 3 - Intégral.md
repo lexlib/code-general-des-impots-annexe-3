@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1990-07-07
+Version Consolidée au 1990-12-07
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -413,20 +413,20 @@ Version Consolidée au 1990-07-07
         - [I : Taxe spéciale sur les conventions d'assurances (art. 385 à 390)](#410)
         - [II : Paiement en valeurs du Trésor (art. 391 à 394)](#411)
           - [Droits de mutation à titre gratuit et à titre onéreux. (art. 391 à 394)](#412)
-        - [III : Paiement fractionné ou différé des droits (art. 395 à 404 GC)](#413)
+        - [III : Paiement fractionné ou différé des droits (art. 395 à 404 GD)](#413)
           - [A : Mutations de jouissance. (art. 395 à 395 ter)](#414)
-          - [B : Mutations de propriété ou apports en société (art. 396 à 404 GC)](#415)
+          - [B : Mutations de propriété ou apports en société (art. 396 à 404 GD)](#415)
             - [1 : Champ d'application (art. 396 à 397 A)](#416)
               - [Transmissions d'entreprises (art. 397 A)](#417)
             - [2 : Dispositions générales (art. 398 à 404)](#418)
-            - [3 : Dispositions particulières (art. 404 A à 404 GC)](#419)
+            - [3 : Dispositions particulières (art. 404 A à 404 GD)](#419)
               - [1° : Mutations par décès (art. 404 A à 404 B)](#420)
               - [Apports en société. (art. 404 C)](#421)
               - [3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires (art. 404 D)](#422)
               - [4° : Offices ministériels (art. 404 E)](#423)
               - [5° : Rapatriés d'outre-mer et migrants ruraux (art. 404 F à 404 G)](#424)
-              - [Transmissions d'entreprises. (art. 404 GA à 404 GD)](#425)
-              - [6° Transmissions d'entreprises (art. 404 GB à 404 GC)](#426)
+              - [Transmissions d'entreprises. (art. 404 GA)](#425)
+              - [6° Transmissions d'entreprises (art. 404 GB à 404 GD)](#426)
         - [V : Droits de timbre (art. 405 B à 406)](#427)
           - [B : Paiement par emploi de machines à timbrer (art. 405 B)](#428)
           - [C : Paiement par apposition de timbres mobiles (art. 405 C à 405 F)](#429)
@@ -28348,27 +28348,6 @@ _Cité par_:
   - HISTO: Edition du 15 juillet 1985
 
 
-###### Article 404 GD
-
-La cession de plus du tiers des biens bénéficiant du paiement différé et fractionné prévu à l'article 397 A entraîne pour le
-cédant l'exigibilité immédiate des droits en suspens. Pour le calcul de cette proportion, la valeur des biens est appréciée
-au jour de la cession.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 397 A
-
-_Créé par_:
-
-  - Décret n°85-356 du 23 mars 1985 - art. 7 (V) JORF 24 mars 1985
-
-_Codifié par_:
-
-  - Décret n°85-1007 1985-09-24
-
-
 ##### 6° Transmissions d'entreprises<a id=426></a>
 
 ###### Article 404 GB
@@ -28419,6 +28398,29 @@ _Codifié par_:
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 401 (VD)
+
+
+###### Article 404 GD
+
+La cession de plus du tiers des biens bénéficiant du paiement différé et fractionné prévu à l'article 397 A entraîne pour le
+cédant l'exigibilité immédiate des droits en suspens. Pour le calcul de cette proportion, la valeur des biens est appréciée
+au jour de la cession. 
+
+L'apport à une société des biens visés ci-dessus n'entraîne pas l'exigibilité des droits lorsque le bénéficiaire prend dans
+l'acte d'apport l'engagement de conserver les titres reçus en contrepartie de son apport jusqu'à l'échéance du dernier terme
+du paiement fractionné. 
+
+Lorsque l'engagement n'est pas respecté, les dispositions du premier alinéa s'appliquent.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°90-1081 du 3 décembre 1990 - art. 1 (V) JORF 7 décembre 1990
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 397 A (V)
 
 
 #### V : Droits de timbre<a id=427></a>
