@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-03-25
+Version Consolidée au 1987-06-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -86,7 +86,7 @@ Version Consolidée au 1987-03-25
             - [III : Présentation et contenu des déclarations (art. 42 à 46)](#83)
           - [Section III : Calcul de l'impôt (art. 46 AA à 46 AG)](#84)
             - [Réduction d'impôt pour certains investissements dans l'immobilier locatif - Obligations. (art. 46 AA)](#85)
-            - [2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme (art. 46 AD à 46 AG)](#86)
+            - [2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme (art. 46 AB à 46 AG)](#86)
           - [Section IV : Obligations incombant à certaines sociétés immobilières (art. 46 B à 46 D)](#87)
         - [Chapitre I bis : Impôt sur les sociétés (art. 46 bis à 46 quater-0 ZC)](#88)
           - [Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires (art. 46 bis à 46 ter)](#89)
@@ -97,7 +97,7 @@ Version Consolidée au 1987-03-25
             - [I : Entreprises de construction de logements. (art. 46 quater-0 I à 46 quater-0 K)](#94)
             - [II : Entreprises dont la construction de logements ne constitue pas l'activité exclusive. (art. 46 quater-0 L à 46 quater-0 O)](#95)
             - [III : Dispositions diverses (art. 46 quater-0 P à 46 quater-0 R)](#96)
-          - [Section VI : Report en arrière des déficits (art. 46 quater-0 T à 46 quater-0 Y)](#97)
+          - [Section VI : Report en arrière des déficits (art. 46 quater-0 S à 46 quater-0 Y)](#97)
             - [Sociétés agréées au régime du bénéfice consolidé. (art. 46 quater-0 X à 46 quater-0 XB)](#98)
             - [I : Sociétés agréées au régime du bénéfice consolidé (art. 46 quater-0 XA)](#99)
             - [II : Sociétés agréées au régime de l'intégration fiscale. (art. 46 quater-0 YA à 46 quater-0 YC)](#100)
@@ -6377,6 +6377,43 @@ _Codifié par_:
 
 ##### 2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme<a id=86></a>
 
+###### Article 46 AB
+
+I. L'engagement prévu au deuxième alinéa du I de l'article 199 decies du code général des impôts est constaté lors du dépôt
+de la déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé. Le
+contribuable joint à cette déclaration l'attestation prévue au troisième alinéa du I du même article après l'avoir signée.
+
+II. Les action et parts souscrites pour lesquelles la réduction d'impôt est demandée sont déposées dans un compte ouvert au
+nom du contribuable par la société dans les trente jours suivant la date limite du dépôt de la déclaration des revenus
+mentionnée au I.
+
+III. Pendant la durée de leur engagement, les souscripteurs de parts ou actions joignent à chacune de leurs déclarations de
+revenus un exemplaire du relevé prévu à l'article 46 AD.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 199 decies
+  - CGIAN3 46 AD
+
+_Modifié par_:
+
+  - Loi n°86-1317 du 30 décembre 1986 - art. 23 () JORF 31 décembre 1986
+  - Loi n°87-416 du 17 juin 1987 - art. 14 (V) JORF 18 juin 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+  - Décret n°2002-923 2002-06-06
+
+**Liens**:
+
+  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+  - HISTO: Edition du 10 août 1987
+  - HISTO: Edition du 31 mars 2002
+
+
 ###### Article 46 AD
 
 Les sociétés citées à l'article 199 decies du code général des impôts adressent aux contribuables et à la direction des
@@ -6409,6 +6446,37 @@ _Codifié par_:
 
   - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
   - HISTO: Edition du 31 juillet 1986
+  - HISTO: Edition du 31 mars 2002
+
+
+###### Article 46 AE
+
+En cas de rupture de l'engagement défini au troisième alinéa du I de l'article 199 decies du code général des impôts, les
+sociétés mentionnent sur le relevé prévu à l'article 46 AD, pour chaque souscripteur de parts ou actions qui ouvraient droit
+à réduction d'impôt, les numéros et le montant des ces titres lors de la souscription initiale et les mêmes renseignements
+pour les titres retenus lors de la rupture de l'engagement pris par la société.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 199 decies
+  - CGIAN3 46 AD
+
+_Modifié par_:
+
+  - Loi n°86-1317 du 30 décembre 1986 - art. 23 () JORF 31 décembre 1986
+  - Loi n°87-416 du 17 juin 1987 - art. 14 (V) JORF 18 juin 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+  - Décret n°2002-923 2002-06-06
+
+**Liens**:
+
+  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+  - HISTO: Edition du 10 août 1987
   - HISTO: Edition du 31 mars 2002
 
 
@@ -7128,6 +7196,38 @@ _Cite_:
 
 
 ##### Section VI : Report en arrière des déficits<a id=97></a>
+
+###### Article 46 quater-0 S
+
+Pour l'application des premier et deuxième alinéas du I de l'article 220 quinquies du code général des impôts :
+
+1° Le bénéfice ou le déficit constaté au titre d'un exercice s'entend du résultat fiscal déclaré passible de l'impôt sur les
+sociétés au taux normal prévu au deuxième alinéa du I de l'article 219 du code précité ;    2° La fraction non distribuée du
+bénéfice défini au 1° est obtenue en déduisant de ce bénéfice le montant des distributions effectuées par prélèvement sur ce
+même bénéfice ;
+
+3° Seule la fraction du déficit qui n'a pu être imputée sur les bénéfices des exercices précédant l'exercice déficitaire
+continue d'être reportable dans les conditions prévues au I de l'article 209 du code général des impôts.
+
+**Nota:**
+
+[*Nota : article modifié par le décret 90-315 du 9 avril 1990 art. 1 JORF 10 avril 1990*]
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 209 I
+  - CGI 220 quinquies I al. 1, al. 2
+
+_Modifié par_:
+
+  - Loi n°87-416 du 17 juin 1987 - art. 66 (V) JORF 18 juin 1987
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
 
 ###### Article 46 quater-0 T
 
