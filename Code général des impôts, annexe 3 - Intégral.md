@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2001-07-04
+Version Consolidée au 2001-09-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BR bis)](#2)
@@ -28908,33 +28908,23 @@ _Codifié par_:
 
 ###### Article 344 ter
 
-Le montant de la taxe prévue à l'article 344 bis est fixé à ((300 F)) (M).
+Le montant de la taxe prévue à l'article 1635 bis du code général des impôts est fixé à 350 F.
 
-La taxe est perçue au taux de 12 F pour les ressortissants des parties contractantes à la charte sociale européenne.
-
-(M) Modification.
+Les ressortissants des Etats parties contractantes à la Charte sociale européenne sont exonérés du versement de cette taxe.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGIAN3 344 bis
+  - CGI 1635 bis
 
 _Modifié par_:
 
-  - Décret n°95-358 du 4 avril 1995 - art. 1 (V) JORF 6 avril 1995
-
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
+  - Décret n°2001-890 du 28 septembre 2001 - art. 2 () JORF 29 septembre 2001
 
 _Cité par_:
 
   - Code du travail - art. D5221-38 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 27 octobre 1995
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties<a id=359></a>
