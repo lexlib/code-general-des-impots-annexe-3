@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1975-12-31
+Version Consolidée au 1976-05-07
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 252)](#1)
     - [Première partie : Impôts d'État (art. 10 B à 252)](#2)
@@ -16,11 +16,16 @@ Version Consolidée au 1975-12-31
               - [B : Accomplissement des formalités (art. 252)](#13)
                 - [2 : Modalités d'exécution (art. 252)](#14)
                   - [a : Enregistrement (art. 252)](#15)
-  - [Livre II : Recouvrement de l'impôt (art. 405 D)](#16)
+  - [Livre II : Recouvrement de l'impôt (art. 405 D à 442)](#16)
     - [Chapitre premier : Paiement de l'impôt (art. 405 D)](#17)
       - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#18)
         - [V : Droits de timbre (art. 405 D)](#19)
           - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#20)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 442)](#21)
+      - [Section II : Juridiction gracieuse (art. 442)](#22)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#23)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#24)
+            - [c : Dispositions communes (art. 442)](#25)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -183,5 +188,41 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°81-866 1981-09-15
+
+
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=21></a>
+
+### Section II : Juridiction gracieuse<a id=22></a>
+
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=23></a>
+
+##### 2 : Sursis de versement et décharge de responsabilité<a id=24></a>
+
+##### c : Dispositions communes<a id=25></a>
+
+###### Article 442
+
+Le receveur général des finances, trésorier-payeur général de la région d'Ile-de-France,les trésoriers-payeurs généraux et
+receveurs particuliers des finances,font de leurs deniers personnels dans un délai de trois mois à compter de la notification
+qui leur est faite de la décision l'avance des sommes laissées définitivement à la charge de leurs subordonnés et que ceux-ci
+n'auraient pas versées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°82-881 1982-10-15
+
+_Modifié par_:
+
+  - Loi n°76-394 1976-05-06 art. 1 JORF 7 mai 1976
+
+_Abrogé par_:
+
+  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+**Liens**:
+
+  - HISTO: Edition du 15 juillet 1988
 
 
