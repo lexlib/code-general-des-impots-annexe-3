@@ -18,6 +18,11 @@ d) La nature et la date de l'événement ayant entraîné la modification de ce 
 
 e) L'indication du régime de report d'imposition applicable à l'opération d'échange.
 
+((f) Le cas échéant, la désignation de la société ou du groupement interposé qui a réalisé l'opération d'échange de titres
+ainsi que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange)) (M).
+
+(M) Modification du décret 97-666.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -25,14 +30,10 @@ _Cite_:
   - CGI 170
   - CGIAN3 41 quatervicies
 
-_Codifié par_:
-
-  - Décret n°95-1281 1995-12-11
-
 _Modifié par_:
 
-  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+  - Décret n°97-666 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 **Liens**:
 
-  - HISTO: Edition du 27 octobre 1995
+  - HISTO: Edition du 22 avril 1998
