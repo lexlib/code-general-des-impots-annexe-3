@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-07-24
+Version Consolidée au 1987-08-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -166,8 +166,8 @@ Version Consolidée au 1987-07-24
             - [A : Production (art. 118 à 141)](#163)
               - [II : Déduction spéciale accordée aux fabricants de mistelles (art. 118 à 124)](#164)
               - [III : Fabrication des boissons de raisins secs. (art. 126 à 141)](#165)
-            - [B : Régime économique (art. 143 A 1 à 146)](#166)
-              - [I : Organisation de l'économie cidricole (art. 143 A 1 à 143 H)](#167)
+            - [B : Régime économique (art. 143 A à 146)](#166)
+              - [I : Organisation de l'économie cidricole (art. 143 A à 143 H)](#167)
               - [III : Dispositions diverses (art. 144 A à 146)](#168)
                 - [1° : Construction d'usines nouvelles (1). (art. 144 A à 144 C)](#169)
                 - [2° : Distributeurs et utilisateurs d'alcools d'Etat. (art. 145 à 146)](#170)
@@ -11733,6 +11733,51 @@ _Codifié par_:
 ##### B : Régime économique<a id=166></a>
 
 ##### I : Organisation de l'économie cidricole<a id=167></a>
+
+###### Article 143 A
+
+La production des fruits à cidre et à poiré est réservée en priorité à la fabrication de produits alimentaires destinés tant
+au marché national qu'à l'exportation. 
+
+Sont considérés comme produits cidricoles alimentaires pour l'application de cette disposition : 
+
+a) Les cidres, poirés et boissons alcooliques similaires répondant aux définitions et caractéristiques figurant aux titre II
+et annexes du décret n° 53-978 du 30 septembre 1953, modifié par le décret n° 87-600 du 29 juillet 1987 ; 
+
+b) Les boissons alcoolisées aromatisées à base de pomme répondant à la définition donnée par les articles 3 et 4 du décret n°
+87-599 du 29 juillet 1987 ; 
+
+c) Les jus de pomme ou de poire et les concentrés de jus de pomme ou de poire ; 
+
+d) Les calvados et eaux-de-vie de cidre ou de poiré ayant reçu une appellation d'origine dans les conditions prévues par les
+textes applicables en la matière ; 
+
+e) Les apéritifs à base de cidre et de poiré répondant à la définition donnée par les articles 1er et 2 du décret n° 86-208
+du 11 février 1986.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°53-978 du 30 septembre 1953 (V)
+  - Décret n°86-208 du 11 février 1986 - art. 1 (V)
+  - Décret du 9 septembre 1987 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°86-208 du 11 février 1986 - art. 1 (V) JORF 16 février 1986
+  - Décret n°86-208 du 11 février 1986 - art. 2 (V) JORF 16 février 1986
+  - Décret n°87-600 1987-07-29 art. 4 JORF 1er août 1987
+  - Décret n°87-599 1987-07-29 art. 3 JORF 1er août 1987
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 143 A 1 (V)
+
 
 ###### Article 143 A 1
 
