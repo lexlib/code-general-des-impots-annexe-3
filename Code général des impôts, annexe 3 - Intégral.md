@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1976-05-07
+Version Consolidée au 1977-12-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 252)](#1)
     - [Première partie : Impôts d'État (art. 10 B à 252)](#2)
@@ -26,6 +26,9 @@ Version Consolidée au 1976-05-07
         - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 442)](#23)
           - [2 : Sursis de versement et décharge de responsabilité (art. 442)](#24)
             - [c : Dispositions communes (art. 442)](#25)
+  - [RECOUVREMENT DE L'IMPOT (art. 361)](#26)
+    - [PAIEMENT DE L'IMPOT (art. 361)](#27)
+      - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 361)](#28)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -224,5 +227,32 @@ _Abrogé par_:
 **Liens**:
 
   - HISTO: Edition du 15 juillet 1988
+
+
+# RECOUVREMENT DE L'IMPOT<a id=26></a>
+
+## PAIEMENT DE L'IMPOT<a id=27></a>
+
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.<a id=28></a>
+
+###### Article 361
+
+En ce qui concerne les sociétés nouvelles [*création d'entreprises*] chaque acompte est égal [*montant*] au quart de l'impôt
+calculé sur le produit évalué à 5 % du capital social appelé.
+
+Pour les sociétés en commandite simple  sociétés en participation et sociétés de copropriétaires de navires passibles de
+l'impôt sur les sociétés en vertu de l'article 206-4 du code général des impôts les acomptes sont calculés en fonction de la
+part de bénéfices correspondant soit aux droits des commanditaires  soit à ceux des associés ou copropriétaires dont les noms
+et adresses n'ont pas été indiqués à l'administration.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 206 4
+
+**Liens**:
+
+  - HISTO: EDITION 1979-07-01
 
 
