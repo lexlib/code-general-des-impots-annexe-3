@@ -18,8 +18,7 @@ habitation principale ;
 
 2° Une copie du bail ;
 
-3° Une attestation de conformité du logement aux normes définies en annexe au décret n° 99-244 du 29 mars 1999 ou, à défaut,
-une déclaration sur l'honneur du respect de ces normes ;
+3° Alinéa abrogé.
 
 4° Une copie de l'avis d'imposition ou de non-imposition du locataire établi au titre de l'avant-dernière année précédant
 celle de la signature du contrat de location.
@@ -37,13 +36,9 @@ _Cite_:
   - CGIAN3 2 duodecies
   - Décret n°99-244 1999-03-29
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°2002-923 2002-06-06
-
-_Modifié par_:
-
-  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+  - Décret n°2002-1296 du 24 octobre 2002 - art. 2 () JORF 27 octobre 2002
 
 _Cité par_:
 
@@ -52,4 +47,4 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 mars 2002
+  - HISTO: Edition du 1er janvier 2003
