@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-12-30
+Version Consolidée au 1983-12-31
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -664,10 +664,8 @@ _Cite_:
 I. La perception des taxes sur les produits forestiers visées aux articles 1613 et 1618 bis du code général des impôts est
 suspendue jusqu'à décision contraire sur les produits suivants :
 
-1° Bois de trituration feuillus et chutes de scieries de toutes essences, destinés à la fabrication des pâtes et des
-panneaux ;
-
-2° Petits bois de conifères non écorcés, dont le diamètre à une distance du gros bout au plus égale à 1,60 m n'excède pas 11
+1°  Bois de trituration feuillus et chutes de scierie de toutes essences,destinés à la fabrication des pâtes et des panneaux.
+2°  Petits bois de conifères non écorcés, dont le diamètre à une distance du gros bout au plus égale à 1,60 m n'excède pas 11
 cm sur écorce, destinés à la fabrication des pâtes et des panneaux.
 
 II. (Abrogé).
@@ -699,7 +697,7 @@ VI. Pour bénéficier de la suspension des taxes sur les bois provenant d'import
 tenue d'une comptabilité matières, de l'origine et de l'espèce des bois dont il s'agit.
 
 VII. A. La perception de la taxe prévue à l'article 1613 du code général des impôts est suspendue en totalité jusqu'au 31
-décembre 1983 sur les produits ci-dessous énumérés, par référence à la nomenclature tarifaire de la direction générale des
+décembre 1984 sur les produits ci-dessous énumérés, par référence à la nomenclature tarifaire de la direction générale des
 douanes et droits indirects, lorsqu'ils sont destinés à l'exportation :
 
 1° Bois de mine de conifères et de feuillus (44-03-510 et 44-03-910) ;
@@ -708,8 +706,11 @@ douanes et droits indirects, lorsqu'ils sont destinés à l'exportation :
 
 3° Merrains, même sciés sur les deux faces principales, mais non autrement travaillés (44-22-200).
 
-B. La perception de la taxe prévue à l'article 1613 du même code est suspendue partiellement jusqu'au 31 décembre 1983 et le
-taux de celle-ci est ramené à 1 % sur les sciages de conifères et de feuillus destinés à l'exportation.
+B. La perception de la taxe prévue à l'article 1613 du même code est suspendue partiellement :
+
+- sur les sciages de feuillus destinés à l'exportation, le taux de celle-ci étant ramenée à 1 p. 100 jusqu'au 31 décembre
+1984 ; - sur les grumes et sciages de résineux destinés à l'exportation, le taux de celle-ci étant ramenée à 0,5 p. 100
+jusqu'au 31 décembre 1984.
 
 VIII. Les dispositions du VII sont applicables aux exportations effectuées par des négociants ou des imprégnateurs, sous
 réserve que ceux-ci adressent aux bénéficiaires des dispositions susvisées l'attestation prévue par l'article 275 du code
@@ -729,9 +730,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°82-1162 du 30 décembre 1982 - art. 1 (V) JORF 31 décembre 1982
-  - Décret n°82-1162 du 30 décembre 1982 - art. 2 (V) JORF 31 décembre 1982
-  - Décret n°82-1162 du 30 décembre 1982 - art. 3 (V) JORF 31 décembre 1982
+  - Décret n°83-1208 du 29 décembre 1983 - art. 1 (V) JORF 31 décembre 1983
+  - Décret n°83-1208 du 29 décembre 1983 - art. 2 (V) JORF 31 décembre 1983
 
 
 #### TAXE ADDITIONNELLE AU PRIX DES PLACES DANS LES SALLES DE SPECTACLES CINEMATOGRAPHIQUES.<a id=12></a>
