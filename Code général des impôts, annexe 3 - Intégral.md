@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1993-08-18
+Version Consolidée au 1993-09-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 undecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -386,7 +386,7 @@ Version Consolidée au 1993-08-18
         - [Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées (art. 331 L à 331 V undecies)](#383)
           - [Section I : Taxe sur l'édition des ouvrages de librairie (art. 331 L)](#384)
           - [Section II : Redevance sur l'emploi de la reprographie (art. 331 M)](#385)
-          - [Section III : Taxe spéciale sur les huiles (art. 331 O à 331 V)](#386)
+          - [Section III : Taxe spéciale sur les huiles (art. 331 N à 331 V)](#386)
           - [Section IV : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 331 V bis à 331 V undecies)](#387)
         - [Chapitre II : Contributions indirectes (art. 333 H bis à 333 I)](#388)
           - [Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles (art. 333 H bis à 333 H ter)](#389)
@@ -27958,6 +27958,40 @@ _Codifié par_:
 
 
 ##### Section III : Taxe spéciale sur les huiles<a id=386></a>
+
+###### Article 331 N
+
+Toute personne qui intervient dans la fabrication ou la distribution des huiles végétales, fluides ou concrètes, des huiles
+d'animaux marins ou des produits dans lesquels sont incorporées ces huiles est astreinte à la tenue d'une comptabilité
+matières d'un modèle agréé par l'administration chargée de l'assiette et du recouvrement de la taxe spéciale visée à
+l'article 1609 vicies du code général des impôts. 
+
+La comptabilité matières devra permettre de suivre chronologiquement et par produit, en quantité et en valeur les huiles
+taxables et les huiles exonérées ou exclues du champ d'application de la taxe spéciale, les huiles utilisées dans la
+fabrication de produits alimentaires et de produits non destinés à l'alimentation humaine ainsi que la provenance et la
+destination de ces marchandises. 
+
+Cette comptabilité devra, le cas échéant, contenir tous les éléments permettant de déterminer le rendement des graines,
+fruits oléagineux et autres matières premières utilisées dans la fabrication des huiles mentionnées au premier alinéa, brutes
+ou consommables ou utilisables en l'état ainsi que, par catégorie, les quantités d'huiles incorporées dans tous produits
+alimentaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°93-1127 du 24 septembre 1993 - art. 4
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 331 O (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 331 U (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 331 V (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1609 vicies (V)
+
 
 ###### Article 331 O
 
