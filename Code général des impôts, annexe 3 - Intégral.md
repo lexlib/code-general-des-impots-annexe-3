@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-06-24
+Version Consolidée au 1991-08-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -3737,7 +3737,7 @@ _Cite_:
 
 ###### Article 38 sexdecies GA
 
-1  Les plus-values réalisées à l'occasion de la cession de terres ou de bâtiments d'exploitation ne sont pas retenues pour la
+1. Les plus-values réalisées à l'occasion de la cession de terres ou de bâtiments d'exploitation ne sont pas retenues pour la
 fraction acquise avant le 1er janvier de la première année au titre de laquelle le montant des recettes a dépassé la limite
 du forfait.
 
@@ -3745,20 +3745,27 @@ L'exonération prévue au premier alinéa est subordonnée à la condition que l
 pendant au moins cinq ans et que le bien cédé n'entre pas dans le champ d'application de l'article 691 du code général des
 impôts. A défaut, les dispositions des articles 150 A à 150 S du même code sont applicables.
 
-2  Si le bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition, dans le patrimoine privé du
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du II de l'article L. 13-15 du code de
+l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application de
+l'article 691 du code général des impôts.
+
+2. Si le bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition, dans le patrimoine privé du
 contribuable, il est fait application de l'article 151 septies du code général des impôts.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 150 A A CGI 150 S
-  - CGI 151 septies
-  - CGI 691
+  - CGI 691, 150 A à 150 S, 151 septies
+  - Code de l'expropriation L13-15
+
+_Modifié par_:
+
+  - Décret n°91-820 du 23 août 1991 - art. 1 (VT) JORF 29 août 1991
 
 **Liens**:
 
-  - HISTO: EDITION 1979-07-01
+  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 38 sexdecies H
