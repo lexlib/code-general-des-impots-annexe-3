@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-03-01
+Version Consolidée au 1991-03-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -14316,6 +14316,20 @@ _Codifié par_:
   - HISTO: Edition du 31 mars 1999
   - TXT_SOURCE: Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
   - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+
+###### Article 111 quater I
+
+Les saisies totales ou partielles pratiquées dans les abattoirs par les services d'inspection sanitaire et les exportations
+ou les expéditions vers les Etats membres de la Communauté économique européenne ne donnent pas lieu au remboursement de la
+redevance sanitaire d'abattage.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°91-296 du 20 mars 1991 - art. 1 (V) JORF 22 mars 1991
+  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 
 ###### Article 111 quater J
