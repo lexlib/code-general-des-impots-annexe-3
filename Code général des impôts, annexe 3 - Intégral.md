@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-04-21
+Version Consolidée au 1988-04-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -17285,6 +17285,37 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°84-875 1984-10-01
+
+
+###### Article 281 bis
+
+I. - Les héritiers, donataires ou légataires qui demandent à bénéficier des dispositions de l'article 795 A du code général
+des impôts doivent remettre à la recette des impôts compétente pour enregistrer l'acte de donation ou la déclaration de
+succession, dans les délais prévus pour cet enregistrement, une copie de la demande de convention ou d'adhésion à une
+convention existante, certifiée par le service du département de la culture compétent.
+
+" Le recouvrement des droits exigibles sur les biens en cause est différé jusqu'à ce qu'il soit statué sur la demande.
+
+" II. - Les ayants droit disposent d'un mois à compter de la signature de la convention conclue avec l'Etat pour déposer la
+copie certifiée conforme de cette convention à la recette des impôts compétente.
+
+" A défaut d'accord ou à défaut de dépôt de la convention conclue dans le délai imparti, les droits dont le paiement a été
+différé sont exigibles dans les conditions de droit commun. "
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 795 A
+
+_Créé par_:
+
+  - Décret n°88-389 du 21 avril 1988 - art. 2 (V) JORF 22 avril 1988
+  - Décret n°88-389 du 21 avril 1988 - art. 3 (V) JORF 22 avril 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 281 C
