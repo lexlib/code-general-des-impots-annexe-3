@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-09-01
+Version Consolidée au 1986-12-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -404,10 +404,10 @@ Version Consolidée au 1986-09-01
         - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#401)
           - [Taxes sur les véhicules des sociétés (art. 406 bis)](#402)
         - [VII : Taxe locale d'équipement (art. 406 nonies à 406 ter)](#403)
-    - [Chapitre I bis : Pénalités (art. 406 A 13 à 406 A 27)](#404)
-      - [Section II : Dispositions communes (art. 406 A 13 à 406 A 16 F)](#405)
-        - [II : Infractions aux règles de la facturation (art. 406 A 13 à 406 A 16)](#406)
-          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 13 à 406 A 16)](#407)
+    - [Chapitre I bis : Pénalités (art. 406 A 12 à 406 A 27)](#404)
+      - [Section II : Dispositions communes (art. 406 A 12 à 406 A 16 F)](#405)
+        - [II : Infractions aux règles de la facturation (art. 406 A 12 à 406 A 16)](#406)
+          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 12 à 406 A 16)](#407)
         - [III : Intérêts excédentaires. (art. 406 A 16 A à 406 A 16 F)](#408)
       - [Section III : Dispositions particulières (art. 406 A 27)](#409)
         - [III : Droits d'enregistrement (art. 406 A 27)](#410)
@@ -429,9 +429,8 @@ Version Consolidée au 1986-09-01
     - [PAIEMENT DE L'IMPOT (art. 360 à 403)](#426)
       - [IMPOTS DIRECTS ET TAXES ASSIMILEES. (art. 360 à 363)](#427)
       - [ENREGISTREMENT - PUBLICITE FONCIERE. (art. 403)](#428)
-    - [PENALITES. (art. 406 A 12)](#429)
-    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 434 à 443)](#430)
-      - [JURIDICTION GRACIEUSE. (art. 434 à 443)](#431)
+    - [DEGREVEMENTS ET RESTITUTIONS D'IMPOTS (art. 434 à 443)](#429)
+      - [JURIDICTION GRACIEUSE. (art. 434 à 443)](#430)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -23703,6 +23702,28 @@ _Codifié par_:
 
 ##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=407></a>
 
+###### Article 406 A 12
+
+La mise sous séquestre, totale ou partielle, des biens des personnes à l'encontre desquelles des poursuites sont exercées
+pour des infractions visées au 2 de l'article 1751 du code général des impôts est prononcée dans les conditions fixées par
+cet article à la demande du chef de service départemental de l'administration pour le compte de laquelle sont engagées ces
+poursuites.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 60 () JORF 9 décembre 1986
+
+_Codifié par_:
+
+  - Décret n°87-940 1987-11-23
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1751 (V)
+
+
 ###### Article 406 A 13
 
 Les règles fixées par les articles 1 à 5, 7 à 9, 11 et 12 de l'arrêté validé du 23 novembre 1940 modifié par l'arrêté du 14
@@ -24349,33 +24370,9 @@ _Cité par_:
   - HISTO: EDITION 1979-07-01
 
 
-## PENALITES.<a id=429></a>
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=429></a>
 
-###### Article 406 A 12
-
-La mise sous séquestre  totale ou partielle  des biens des personnes à l'encontre desquelles des poursuites sont exercées
-pour des infractions visées à l'article 1751-1 du code général des impôts est prononcée  dans les conditions fixées par cet
-article  à la demande du chef de service départemental de l'administration pour le compte de laquelle sont engagées ces
-poursuites.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1751 1
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 1751 (V)
-
-**Liens**:
-
-  - HISTO: EDITION 1979-07-01
-
-
-## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS<a id=430></a>
-
-### JURIDICTION GRACIEUSE.<a id=431></a>
+### JURIDICTION GRACIEUSE.<a id=430></a>
 
 ###### Article 434
 
