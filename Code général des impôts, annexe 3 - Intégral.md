@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-04-08
+Version Consolidée au 1988-04-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -4747,6 +4747,47 @@ _Cité par_:
 **Liens**:
 
   - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 39 A
+
+La déclaration prévue à l'article 88 du code général des impôts comporte les indications suivantes :
+
+1° Concernant le déclarant, ses nom, prénoms ou raison sociale, adresse, et pour les entreprises, le numéro SIRET ;
+
+2° Concernant chaque bénéficiaire de pension ou rente viagère payée au cours de l'année précédente :
+
+a) Son identification : nom de naissance, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance, numéro
+d'allocataire ;
+
+b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
+
+c) La nature des sommes versées et l'année normale d'échéance si elle diffère de celle du paiement ;
+
+d) Le montant versé après déduction des cotisations aux assurances sociales ou, pour les contribuables pensionnés au 31
+décembre 1986 dont la pension a fait l'objet d'un premier versement mensuel en 1987, le montant des arrérages défini au e du
+5 de l'article 158 du code général des impôts, sous réserve des dispositions du 1 de l'article 204 du même code ;
+
+e) Le montant de la retenue effectuée au titre de l'impôt sur le revenu, en application de l'article 182 A du général des
+impôts ;
+
+f) Le cas échéant, la date du décès ;
+
+3° Le total pour l'ensemble des allocataires des sommes mentionnées au 2° ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 88, 182 A, 158 5, 204 1
+
+_Modifié par_:
+
+  - Décret n°88-324 du 5 avril 1988 - art. 1 (V) JORF 9 avril 1988
+
+_Codifié par_:
+
+  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 39 B
