@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1980-06-25
+Version Consolidée au 1980-07-05
 ## Contenu: 
   - [ASSIETTE ET LIQUIDATION DE L'IMPOT (art. 316 à 350 B)](#1)
     - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES (art. 316 à 328 D quinquies)](#2)
@@ -199,7 +199,7 @@ Version Consolidée au 1980-06-25
           - [Section II : Les tarifs et leur application (art. 266 bis à 280)](#196)
             - [I : Mutations de propriété à titre onéreux d'immeubles ou de meubles (art. 266 bis à 267)](#197)
               - [2 : Opérations concourant à la production ou à la livraison d'immeubles (art. 266 bis)](#198)
-              - [2 bis : Régimes spéciaux institués en faveur de l'agriculture. (art. 266 quinquies)](#199)
+              - [2 bis : Régimes spéciaux institués en faveur de l'agriculture. (art. 266 quater à 266 quinquies)](#199)
               - [3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin (art. 267)](#200)
             - [II : Mutations à titre gratuit (art. 268 à 280)](#201)
               - [A : Assiette des droits - Dispositions spéciales aux successions - Règles d'évaluation (art. 268 à 280)](#202)
@@ -9016,6 +9016,29 @@ _Cite_:
 
 
 ##### 2 bis : Régimes spéciaux institués en faveur de l'agriculture.<a id=199></a>
+
+###### Article 266 quater
+
+Lorsque les conditions définies à l'article 266 ter sont remplies l'acquisition ou fraction d'acquisition ayant pour effet de
+porter la superficie de l'exploitation à une surface au plus égale à la surface minimum d'installation [*SMI*] définie en
+application de l'article 188-4 du code rural donne lieu à l'application de la taxe de publicité foncière ou du droit
+d'enregistrement au taux réduit de 4,80 %.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 266 ter
+  - Code rural 188 4
+
+_Modifié par_:
+
+  - Loi n°80-502 du 4 juillet 1980 - art. 49 () JORF 5 JUILLET 1980
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
 
 ###### Article 266 quinquies
 
