@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-03-05
+Version Consolidée au 1986-03-16
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -84,7 +84,7 @@ Version Consolidée au 1986-03-05
             - [2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme (art. 46 AD)](#81)
           - [Section IV : Obligations incombant à certaines sociétés immobilières (art. 46 B à 46 D)](#82)
         - [Chapitre I bis : Impôt sur les sociétés (art. 46 bis à 46 quater-0 Y)](#83)
-          - [Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires (art. 46 bis)](#84)
+          - [Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires (art. 46 bis à 46 ter)](#84)
           - [Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs (art. 46 quater-0 A)](#85)
           - [Section III : Intérêts de livrets supplémentaires de caisses d'épargne (art. 46 quater-0 B)](#86)
           - [Section IV : Modalités d'application du précompte. (art. 46 quater-0 C à 46 quater-0 F)](#87)
@@ -275,7 +275,7 @@ Version Consolidée au 1986-03-05
             - [X : Régies de recettes des préfectures et sous-préfectures (art. 313 BG)](#272)
             - [XI : Formules de chèques (art. 313 BG bis à 313 BG ter)](#273)
           - [Section III : Dispositions communes aux sections I et II (art. 313 BH à 313 BJ)](#274)
-    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 314 à 340 quinquies)](#275)
+    - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 314 à 340 sexies)](#275)
       - [Titre premier : Impositions communales (art. 314 à 328 D ter)](#276)
         - [Chapitre premier : Impôts directs et taxes assimilées (art. 314 à 324 AL)](#277)
           - [Section I : Taxes foncières sur les propriétés bâties et non bâties (art. 314 à 321 G)](#278)
@@ -313,7 +313,7 @@ Version Consolidée au 1986-03-05
           - [Section I : Licence des débitants de boissons. (art. 327 à 328)](#310)
         - [Chapitre III : Enregistrement (art. 328 D bis à 328 D ter)](#311)
           - [Section unique : Taxe locale d'équipement (art. 328 D bis à 328 D ter)](#312)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 330 à 340 quinquies)](#313)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 330 à 340 sexies)](#313)
         - [Chapitre premier : Impôts directs et taxes assimilées (art. 330 à 331-0 D)](#314)
           - [Section I : Taxe pour frais de chambres de commerce et d'industrie (art. 330 à 331)](#315)
           - [Section I B : Taxe perçue au profit du budget annexe des prestations sociales agricoles (art. 331-0 D)](#316)
@@ -325,11 +325,11 @@ Version Consolidée au 1986-03-05
           - [Section I bis : Taxe spéciale sur les huiles. (art. 333 A à 333 G bis)](#322)
           - [Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles. (art. 333 H)](#323)
           - [Section II : Taxe spéciale sur le prix des places de spectacles cinématographiques. (art. 333 bis à 333 ter)](#324)
-        - [Chapitre III : Enregistrement (art. 334 à 340 quinquies)](#325)
+        - [Chapitre III : Enregistrement (art. 334 à 340 sexies)](#325)
           - [Section I : Contributions pour l'alimentation du fonds commun des accidents du travail agricole (art. 334 à 339 bis)](#326)
             - [I : Contribution des employeurs assurés. (art. 334 à 336)](#327)
             - [III : Dispositions communes. (art. 339 bis)](#328)
-          - [Section 1 quater : Fonds de garantie contre les accidents de circulation et de chasse. (art. 340 quinquies)](#329)
+          - [Section 1 quater : Fonds de garantie contre les accidents de circulation et de chasse. (art. 340 quinquies à 340 sexies)](#329)
     - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 344 GA à 350 C)](#330)
       - [Titre premier : Assiette et contrôle de l'impôt (art. 344 GA à 344 ID)](#331)
         - [Chapitre premier : Obligations des contribuables (art. 344 GA à 344 I)](#332)
@@ -6025,6 +6025,45 @@ _Codifié par_:
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter (V)
+
+
+###### Article 46 ter
+
+L'exonération prévue à l'article 46 bis est subordonnée à la condition :
+
+1° En ce qui concerne les établissements publics, qu'ils aient été créés et fonctionnent conformément aux dispositions des
+articles L 321-2 à L 321-8 et R 321-20 à R 321-22 du code de l'urbanisme et que les bénéfices dont l'exonération est demandée
+proviennent d'opérations conformes à leur objet ;
+
+2° En ce qui concerne les sociétés d'économie mixte, qu'elles fonctionnent conformément aux dispositions de l'article R
+321-21 du code de l'urbanisme et que les bénéfices dont l'exonération est demandée proviennent d'opérations effectuées par
+elles dans le cadre d'une concession d'aménagement prévue à l'article L 300-4 du même code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 46 bis
+  - Code de l'urbanisme - art. L300-4 (M)
+  - Code de l'urbanisme L321-2 à L321-8, R321-20 à R321-22, R321-21, L300-4
+
+_Modifié par_:
+
+  - Loi n°85-729 du 18 juillet 1985 - art. 1 () JORF 19 juillet 1985
+  - Décret n°86-517 1986-03-14 art. 53 III, V JORF 16 mars 1986
+  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 juillet 1986
 
 
 ##### Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs<a id=85></a>
@@ -15377,6 +15416,38 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 313 BI (V)
 
 
+###### Article 313 BI
+
+Peuvent être acquittés au moyen du visa pour timbre au comptant les droits de timbre dus sur :
+
+1° Les écrits rédigés en contravention aux lois sur le timbre présentés spontanément par les parties ou annexés à des actes
+soumis à l'enregistrement ;
+
+2° Les photocopies et reproductions obtenues par un moyen photographique ;
+
+3° Les actes et effets de commerce passés ou rédigés en dehors des départements français et pour lesquels le droit de timbre
+devient exigible.
+
+4° Les effets de commerce émis par les redevables admis à se libérer de leurs impositions auprès des comptables des impôts au
+moyen d'obligations cautionnées ;
+
+5° Les actes sous-seing privé présentés à la formalité de l'enregistrement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGIAN3 313 BI
+
+_Modifié par_:
+
+  - Décret n°86-449 du 13 mars 1986 - art. 1 (V) JORF 16 mars 1986
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BH (V)
+
+
 ###### Article 313 BJ
 
 Toutes les fois qu'un document administratif ou un visa normalement soumis au droit de timbre sont délivrés gratuitement par
@@ -19513,6 +19584,39 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°85-926 du 30 août 1985 - art. 1 (V) JORF 3 septembre 1985
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
+
+
+###### Article 340 sexies
+
+1. Les taux des contributions destinées à l'alimentation du fonds de garantie pour l'indemnisation des victimes d'accidents
+corporels de chasse sont les suivants :
+
+a. Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie ;
+
+b. Contribution des  responsables , non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
+personne :
+
+Taux normal : 10% des indemnités restant à leur charge ;
+
+Taux réduit lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des articles
+393 à 395 du code rural : 5% ;
+
+c. Contribution forfaitaire des assurés : 1,50 F par personne garantie.
+
+2. Le versement d'acomptes sur leur contribution peut être demandé aux sociétés d'assurances par le fonds de garantie.
+
+3. Le recouvrement de la contribution des assurés est effectué pour le compte du fonds de garantie par les sociétés
+d'assurances et sous leur responsabilité.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°86-452 du 14 mars 1986 - art. 26 () JORF 16 mars 1986
 
 _Codifié par_:
 
