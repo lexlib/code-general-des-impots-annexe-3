@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-06-14
+Version Consolidée au 1985-07-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -101,7 +101,7 @@ Version Consolidée au 1985-06-14
         - [Chapitre III : Taxes diverses (art. 50 à 58 J)](#98)
           - [Section I : Taxe sur les salaires (art. 50 à 53 ter)](#99)
             - [I : Champ d'application. (art. 50)](#100)
-            - [II : Base de la taxe (art. 52)](#101)
+            - [II : Base de la taxe (art. 51 à 52)](#101)
             - [III : Dispositions spéciales aux professions relevant du régime agricole au regard des lois sur la sécurité sociale (art. 53 à 53 ter)](#102)
           - [Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction (art. 58 J)](#103)
       - [Titre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 65 A à 111 quater K)](#104)
@@ -4208,6 +4208,50 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies A (V)
 
 
+###### Article 41 duodecies C
+
+Lorsque le domicile réel ou le siège social du bénéficiaire des revenus est situé hors de la France métropolitaine et des
+départements d'outre-mer, l'établissement payeur est tenu, sous réserve des dispositions des conventions internationales,
+d'opérer le prélèvement prévu au III de l'article 125 A du code général des impôts.
+
+Toutefois, ce prélèvement n'est pas applicable :
+
+1° Aux lots et primes de remboursement visés au 3° de l'article 157 du code précité ;
+
+1° bis Aux primes de remboursement visées au 3° bis de l'article 157 du même code.
+
+2° Aux intérêts des dépôts en devises effectués auprès des établissements de crédit installés en France ;
+
+3° Aux revenus provenant d'opérations de trésorerie à court terme réalisées entre des établissements de crédit installés en
+France d'une part, et des banques établies à l'étranger, des organismes internationaux ou des institutions financières
+publiques étrangères, d'autre part ;
+
+4° Aux intérêts provenant d'opérations à court terme perçus par les banques établies à l'étranger à raison des effets
+représentatifs de créances hypothécaires détenus par elles et susceptibles d'être acquis par le crédit foncier de France.
+
+5° Aux intérêts des comptes étrangers en francs ouverts auprès d'établissements de crédit établis en France par des personnes
+dont le domicile fiscal ou le siège social est situé hors de France.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 125 A, 157
+
+_Modifié par_:
+
+  - Loi n°85-695 1985-07-11 art. 14 I JORF 12 juillet 1985
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies E (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies G (V)
+
+
 ###### Article 41 duodecies D
 
 Le prélèvement prévu à l'article 41 duodecies C est également applicable aux produits qui sont payés hors de la France
@@ -6772,6 +6816,64 @@ _Modifié par_:
 
 
 ##### II : Base de la taxe<a id=101></a>
+
+###### Article 51
+
+1. Ne sont pas compris dans les bases de la taxe sur les salaires les allocations, sommes et traitements énumérés à l'article
+81 du code général des impôts.
+
+2. Sous réserve des dispositions des 1 et 3, la taxe à la charge des personnes, associations et organismes visés à l'article
+50 est calculée sur le montant total des rémunérations effectivement payées par ces personnes, associations et organismes à
+l'ensemble de leur personnel - y compris la valeur des avantages en nature - quels que soient l'importance des rémunérations
+et le lieu du domicile des bénéficiaires.
+
+Ces rémunérations sont comprises dans la base de calcul de la taxe pour leur montant brut, avant déduction des cotisations et
+contributions visées aux 1° à 2° ter de l'article 83 du code général des impôts.
+
+Toutefois, en ce qui concerne les salariés appartenant aux catégories de professions qui bénéficient, en vertu de l'article 5
+de l'annexe IV au code général des impôts, d'une déduction supplémentaire pour frais professionnels, le montant de ladite
+déduction supplémentaire peut, pour la détermination de la base de la taxe, être défalqué du montant brut des paiements.
+
+Lorsque les employeurs usent de cette faculté, la base de la taxe est constituée, à moins qu'il n'en soit disposé autrement,
+par le montant global des rémunérations acquises aux intéressés, y compris les indemnités versées à titre de frais d'emploi,
+de service, de route et autres allocations similaires.
+
+3. L'assiette de la taxe est constituée par une partie des rémunérations versées, déterminée en appliquant à l'ensemble des
+rémunérations définies au 2 le rapport existant, au titre de l'année civile précédant celle du paiement desdites
+rémunérations, entre le chiffre d'affaires qui n'a pas été passible de la taxe sur la valeur ajoutée et le chiffre d'affaires
+total.
+
+4. L'estimation des rémunérations allouées sous la forme d'avantages en nature est faite d'après les évaluations prévues pour
+l'application aux salariés du régime de sécurité sociale lorsque le montant des sommes effectivement perçues en espèces par
+le bénéficiaire n'est pas supérieur au chiffre limite fixé pour le calcul des cotisations afférentes à ce régime de sécurité
+et, dans le cas contraire, d'après leur valeur réelle.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 81, 83
+  - CGIAN3 50
+  - CGIAN4 5
+
+_Modifié par_:
+
+  - Loi n°85-695 du 11 juillet 1985 - art. 17 () JORF 12 juillet 1985
+
+_Codifié par_:
+
+  - Décret n°86-1086 1986-10-07
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 383 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 374 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
+
+**Liens**:
+
+  - HISTO: Edition du 31 juillet 1986
+
 
 ###### Article 52
 
