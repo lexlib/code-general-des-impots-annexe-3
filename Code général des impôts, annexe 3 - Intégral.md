@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-04-06
+Version Consolidée au 1991-05-16
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 C)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BJ)](#2)
@@ -135,7 +135,7 @@ Version Consolidée au 1991-04-06
           - [Section III : Restitution d'impôts consécutive au remboursement des sommes mentionnées au a de l'article 111 du code général des impôts (art. 49 bis à 49 ter)](#132)
           - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles (art. 49 septies F à 49 septies N)](#133)
           - [Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales. (art. 49 septies I à 49 septies O)](#134)
-          - [Section V bis : Crédit d'impôt pour dépenses de formation professionnelle. (art. 49 septies P à 49 septies U)](#135)
+          - [Section V bis : Crédit d'impôt pour dépenses de formation professionnelle. (art. 49 septies T à 49 septies U)](#135)
           - [Section V bis : Crédit d'impôt pour dépenses de formation. (art. 49 septies S)](#136)
           - [Section VI : Indemnités de congé payé (art. 49 octies à 49 octies D)](#137)
         - [Chapitre III : Taxes diverses (art. 50 à 58 N)](#138)
@@ -11869,103 +11869,6 @@ _Codifié par_:
 
 ##### Section V bis : Crédit d'impôt pour dépenses de formation professionnelle.<a id=135></a>
 
-###### Article 49 septies P
-
-Les dépenses visées au I de l'article 244 quater C du code général des impôts sont celles qui sont exposées au profit des
-salariés de l'entreprise et qui ont pour objet :
-
-a) De faciliter leur accès à un premier ou à un nouvel emploi ;
-
-b) De leur permettre d'acquérir une qualification plus élevée ou de parfaire une qualification ;
-
-c) De réduire les risques d'inadaptation de leur qualification à l'évolution des techniques et des structures de
-l'entreprise.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 244 quater C I
-
-**Liens**:
-
-  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 69 Finances pour 1988
-
-_Créé par_:
-
-  - Décret n°88-427 du 25 avril 1988 - art. 1 (V) JORF 26 avril 1988
-
-_Abrogé par_:
-
-  - Décret n°91-441 du 14 mai 1991 - art. 1 (V) JORF 16 mai 1991
-
-_Modifié par_:
-
-  - Modification directe incorporée dans l'édition du 24 juin 1991
-
-
-###### Article 49 septies Q
-
-Les dépenses de personnel visées aux a et d du II de l'article  244 quater C du code général des impôts comprennent les
-rémunérations versées, les cotisations de sécurité sociale y afférentes à la charge de l'employeur et les charges légales, à
-l'exception des impôts et taxes, assises sur ces rémunérations.
-
-En ce qui concerne les salariés en formation, les rémunérations retenues sont, selon le cas, soit celles que les stagiaires
-ont effectivement perçues pendant la durée du stage, soit une fraction de la rémunération annuelle de chaque salarié ayant
-suivi un stage de formation. Cette fraction est déterminée en appliquant à la rémunération annuelle le rapport constaté entre
-le nombre d'heures de stage et le nombre total d'heures rémunérées dans l'année.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 244 quater C II a, d
-
-**Liens**:
-
-  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 69 Finances pour 1988
-
-_Créé par_:
-
-  - Décret n°88-427 du 25 avril 1988 - art. 2 (V) JORF 26 avril 1988
-
-_Abrogé par_:
-
-  - Décret n°91-441 du 14 mai 1991 - art. 1 (V) JORF 16 mai 1991
-
-_Modifié par_:
-
-  - Modification directe incorporée dans l'édition du 24 juin 1991
-
-
-###### Article 49 septies R
-
-Les dépenses visées au c du II de l'article 244 quater C du code général des impôts sont celles qui sont exposées à raison
-d'opérations de formation exécutées au cours de l'année au titre de laquelle le crédit d'impôt est calculé. "
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 244 quater C II c
-
-**Liens**:
-
-  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 69 Finances pour 1988
-
-_Créé par_:
-
-  - Décret n°88-427 du 25 avril 1988 - art. 3 (V) JORF 26 avril 1988
-
-_Abrogé par_:
-
-  - Décret n°91-441 du 14 mai 1991 - art. 1 (V) JORF 16 mai 1991
-
-_Modifié par_:
-
-  - Modification directe incorporée dans l'édition du 24 juin 1991
-
-
 ###### Article 49 septies T
 
 Le crédit d'impôt en faveur de la formation professionnelle est imputé sur l'impôt dû après les prélèvements non libératoires
@@ -11988,24 +11891,28 @@ _Codifié par_:
 
 ###### Article 49 septies U
 
-I. - Les entreprises doivent exercer l'option pour le crédit d'impôt afférent aux années 1988 à 1990 au plus tard à la date
+I. Les entreprises doivent exercer l'option pour le crédit d'impôt afférent aux années 1988 à 1990 au plus tard à la date
 limite de dépôt de la déclaration de résultat du premier exercice clos à compter du 31 décembre 1988.
 
-" Toutefois, les entreprises nouvelles et les entreprises qui exposent pour la première fois des dépenses éligibles au crédit
+Les entreprises qui n'ont pas exercé l'option prévue au premier alinéa peuvent opter pour le crédit d'impôt au titre des
+années 1991 à 1993 au plus tard à la date limite de dépôt de la déclaration de résultat du premier exercice clos à compter du
+31 décembre 1991.
+
+Toutefois, les entreprises nouvelles et les entreprises qui exposent pour la première fois des dépenses éligibles au crédit
 d'impôt-formation professionnelle devront opter au plus tard à la date limite de dépôt de la déclaration de résultat du
 premier exercice clos à compter du 31 décembre de l'année au cours de laquelle l'entreprise a été créée ou a exposé pour la
 première fois des dépenses de cette nature.
 
-" II. - Les entreprises qui ont opté pour le crédit d'impôt au titre des dépenses exposées au cours des années 1988 à 1990
+II. Les entreprises qui ont opté pour le crédit d'impôt au titre des dépenses exposées au cours des années 1988 à 1990
 peuvent reconduire leur option pour le crédit d'impôt au titre des dépenses de formation exposées au cours des années 1991 à
 1993 au plus tard à la date limite de dépôt de la déclaration de résultat du premier exercice clos à compter du 31 décembre
 1991.
 
-" III. - L'option résulte du dépôt de la déclaration spéciale prévue pour le calcul du crédit d'impôt-formation
-professionnelle qui devra être annexée à la déclaration annuelle de résultat que les entreprises sont tenues de déposer en
-vertu des articles 53 A, 97 ou au 1 de l'article 223 du code général des impôts. Une copie de la déclaration spéciale est
-adressée, dans le même délai que celui qui est prévu pour le dépôt de la déclaration annuelle de résultat, à la délégation
-régionale à la formation professionnelle dont dépend l'entreprise. "
+III. L'option résulte du dépôt de la déclaration spéciale prévue pour le calcul du crédit d'impôt-formation professionnelle
+qui devra être annexée à la déclaration annuelle de résultat que les entreprises sont tenues de déposer en vertu des articles
+53 A, 97 ou au 1 de l'article 223 du code général des impôts. Une copie de la déclaration spéciale est adressée, dans le même
+délai que celui qui est prévu pour le dépôt de la déclaration annuelle de résultat, à la délégation régionale à la formation
+professionnelle dont dépend l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -12015,17 +11922,10 @@ _Cite_:
   - CGI 53 A
   - CGI 97
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 69 Finances pour 1988
-
-_Créé par_:
-
-  - Décret n°88-427 du 25 avril 1988 - art. 6 (V) JORF 26 avril 1988
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Décret n°91-441 du 14 mai 1991 - art. 3 () JORF 16 mai 1991
+  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 
 ##### Section V bis : Crédit d'impôt pour dépenses de formation.<a id=136></a>
