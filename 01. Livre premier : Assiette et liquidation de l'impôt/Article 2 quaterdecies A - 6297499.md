@@ -1,6 +1,6 @@
 # Article 2 quaterdecies A
 
-I. - Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables
+I. - Pour l'application du quatrième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables
 sont tenus de joindre à leur déclaration des revenus de l'année au cours de laquelle la location ouvre droit pour la première
 fois à la déduction forfaitaire majorée :
 
@@ -32,10 +32,14 @@ _Cite_:
 
   - CGI 31, 2 duodecies
 
-_Créé par_:
-
-  - Décret n°2002-1296 du 24 octobre 2002 - art. 1 () JORF 27 octobre 2002
-
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2003
+  - HISTO: Edition du 31 août 2003
+
+_Modifié par_:
+
+  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+
+_Codifié par_:
+
+  - Décret n°2003-933 2003-09-30
