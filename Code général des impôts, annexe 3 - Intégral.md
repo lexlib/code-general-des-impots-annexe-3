@@ -1,37 +1,107 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1975-07-31
+Version Consolidée au 1975-12-31
 ## Contenu: 
-  - [Livre premier : Assiette et liquidation de l'impôt (art. 252)](#1)
-    - [Première partie : Impôts d'État (art. 252)](#2)
-      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252)](#3)
-        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252)](#4)
-          - [Section I : Dispositions générales (art. 252)](#5)
-            - [I : Des formalités (art. 252)](#6)
-              - [B : Accomplissement des formalités (art. 252)](#7)
-                - [2 : Modalités d'exécution (art. 252)](#8)
-                  - [a : Enregistrement (art. 252)](#9)
-  - [Livre II : Recouvrement de l'impôt (art. 405 D)](#10)
-    - [Chapitre premier : Paiement de l'impôt (art. 405 D)](#11)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#12)
-        - [V : Droits de timbre (art. 405 D)](#13)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#14)
+  - [Livre premier : Assiette et liquidation de l'impôt (art. 10 B à 252)](#1)
+    - [Première partie : Impôts d'État (art. 10 B à 252)](#2)
+      - [Titre premier : Impôts directs et taxes assimilées (art. 10 B)](#3)
+        - [Chapitre Ier : Impôt sur le revenu (art. 10 B)](#4)
+          - [Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus (art. 10 B)](#5)
+            - [III : Bénéfices industriels et commerciaux (art. 10 B)](#6)
+              - [D : Provisions pour reconstitution des gisements (art. 10 B)](#7)
+                - [a : Entreprises de recherches et d'exploitation d'hydrocarbures. (art. 10 B)](#8)
+      - [Titre IV : Enregistrement, publicité foncière, timbre (art. 252)](#9)
+        - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière (art. 252)](#10)
+          - [Section I : Dispositions générales (art. 252)](#11)
+            - [I : Des formalités (art. 252)](#12)
+              - [B : Accomplissement des formalités (art. 252)](#13)
+                - [2 : Modalités d'exécution (art. 252)](#14)
+                  - [a : Enregistrement (art. 252)](#15)
+  - [Livre II : Recouvrement de l'impôt (art. 405 D)](#16)
+    - [Chapitre premier : Paiement de l'impôt (art. 405 D)](#17)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 405 D)](#18)
+        - [V : Droits de timbre (art. 405 D)](#19)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 D)](#20)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
 
-### Titre IV : Enregistrement, publicité foncière, timbre<a id=3></a>
+### Titre premier : Impôts directs et taxes assimilées<a id=3></a>
 
-#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=4></a>
+#### Chapitre Ier : Impôt sur le revenu<a id=4></a>
 
-##### Section I : Dispositions générales<a id=5></a>
+##### Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus<a id=5></a>
 
-##### I : Des formalités<a id=6></a>
+##### III : Bénéfices industriels et commerciaux<a id=6></a>
 
-##### B : Accomplissement des formalités<a id=7></a>
+##### D : Provisions pour reconstitution des gisements<a id=7></a>
 
-##### 2 : Modalités d'exécution<a id=8></a>
+##### a : Entreprises de recherches et d'exploitation d'hydrocarbures.<a id=8></a>
 
-##### a : Enregistrement<a id=9></a>
+###### Article 10 B
+
+1. Le montant de la provision pour reconstitution des gisements ne peut excéder, pour chaque exercice :
+
+Ni 23,50 % du montant des ventes des produits marchands extraits des gisements d'hydrocarbures exploités par l'entreprise et
+dont les résultats entrent dans le champ d'application de l'article 34 du code général des impôts ;
+
+Ni 50 % du bénéfice net imposable réalisé au cours de l'exercice considéré et provenant de la vente, en l'état ou après
+transformation, des produits extraits des gisements d'hydrocarbures que l'entreprise possède dans l'ensemble des territoires
+et pays visés à l'article 10 A.
+
+2. Pour le calcul prévu au 1, le montant des ventes des produits marchands extraits des gisements d'hydrocarbures s'entend du
+montant net des ventes de pétrole brut, de gaz naturel et des produits éventuellement extraits du gaz naturel, déduction
+faite des ports facturés aux clients et des taxes incorporées dans les prix de vente, notamment de la taxe intérieure de
+consommation visée à l'article 265 du code des douanes.
+
+Au montant des ventes ainsi déterminées s'ajoutent toutes sommes allouées à l'entreprise à titre de subventions ou de
+protection, sous quelque forme que ce soit, et calculées en fonction des quantités de produits extraits de ses gisements.
+
+Le bénéfice net d'exploitation dont il est fait état pour le calcul de la deuxième limite de la provision ne comprend pas la
+fraction des provisions antérieurement constituées qui, en application des dispositions de l'article 10 E, serait rapportée
+aux bases de l'impôt.
+
+Pour la détermination de ce bénéfice net, les déficits d'exploitation sont admis en déduction dans les conditions suivantes.
+
+En cas de déficit subi au cours d'un exercice dans la métropole et dans les départements d'outre-mer et provenant de la
+vente, en l'état ou après transformation, de produits extraits de gisements d'hydrocarbures que l'entreprise possède dans
+l'ensemble des territoires visés à l'article 10 A, ce déficit est déduit du bénéfice réalisé au cours de l'exercice suivant
+et provenant des mêmes opérations. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée,
+l'excédent du déficit est reporté successivement sur les exercices suivants jusqu'au cinquième exercice qui suit l'exercice
+déficitaire.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°75-1278 du 30 décembre 1975 - art. 16 (P) JORF 31 décembre 1975
+
+_Codifié par_:
+
+  - Décret n°81-866 1981-09-15
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 10 A (P)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
+
+
+### Titre IV : Enregistrement, publicité foncière, timbre<a id=9></a>
+
+#### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière<a id=10></a>
+
+##### Section I : Dispositions générales<a id=11></a>
+
+##### I : Des formalités<a id=12></a>
+
+##### B : Accomplissement des formalités<a id=13></a>
+
+##### 2 : Modalités d'exécution<a id=14></a>
+
+##### a : Enregistrement<a id=15></a>
 
 ###### Article 252
 
@@ -77,15 +147,15 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1723 ter (V)
 
 
-# Livre II : Recouvrement de l'impôt<a id=10></a>
+# Livre II : Recouvrement de l'impôt<a id=16></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=11></a>
+## Chapitre premier : Paiement de l'impôt<a id=17></a>
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=12></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=18></a>
 
-#### V : Droits de timbre<a id=13></a>
+#### V : Droits de timbre<a id=19></a>
 
-##### C : Paiement par apposition de timbres mobiles<a id=14></a>
+##### C : Paiement par apposition de timbres mobiles<a id=20></a>
 
 ###### Article 405 D
 
