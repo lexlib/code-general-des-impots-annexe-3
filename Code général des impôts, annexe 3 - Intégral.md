@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1999-09-09
+Version Consolidée au 1999-10-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 duodecies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 duodecies à 313 BR bis)](#2)
@@ -36560,17 +36560,6 @@ _Cité par_:
   - Décret n°2008-446 du 7 mai 2008 - art. 1 (V)
   - Décret n°2008-446 du 7 mai 2008 - art. 2 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 428 (V)
-
-
-###### Article 427
-
-L'instruction des demandes est faite par le service chargé de l'assiette des impôts et taxes figurant sur les états.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°99-889 du 21 octobre 1999 - art. 2 () JORF 22 octobre 1999
 
 
 ###### Article 428
