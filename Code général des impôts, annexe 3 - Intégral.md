@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-01-04
+Version Consolidée au 2005-04-09
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -101,7 +101,7 @@ Version Consolidée au 2005-01-04
             - [0 II bis : Gains de cession de titres acquis en exercice de bons de souscription de parts de créateur d'entreprise (art. 41 V bis)](#98)
             - [II bis : Fonds communs de placement à risques et fonds professionnels de capital investissement (art. 41 W à 41 Y)](#99)
             - [II quater : Copropriété de navires. (art. 41 ZQ à 41 ZU)](#100)
-            - [II sexies : Epargne retraite (art. 41 ZZ bis)](#101)
+            - [II sexies : Epargne retraite (art. 41 ZZ bis à 41 ZZ ter)](#101)
             - [III : Présentation et contenu des déclarations (art. 42 à 46)](#102)
           - [Section III : Calcul de l'impôt (art. 46 A à 46 AW)](#103)
             - [1° : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France (art. 46 A)](#104)
@@ -10436,6 +10436,54 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 163 quatervicies (V)
   - Code de la sécurité sociale. - art. L241-3 (V)
+
+
+###### Article 41 ZZ quater
+
+Les organismes gestionnaires des plans, contrats ou régimes mentionnés au 1 du I de l'article 163 quatervicies du code
+général des impôts délivrent aux cotisants, avant le 1er mars de chaque année, une attestation indiquant le montant des
+cotisations ou primes versées au cours de l'année civile écoulée ouvrant droit à déduction du revenu global. Pour les régimes
+de retraite complémentaire mentionnés au c du 1 du I de l'article 163 quatervicies précité, cette attestation fait apparaître
+distinctement, le cas échéant, le montant des cotisations ou primes correspondant aux rachats mentionnés au c du 2 du I du
+même article. 
+
+Un double de l'attestation mentionnée au premier alinéa est produit dans le même délai à l'administration fiscale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
+
+_Modifié par_:
+
+  - Décret n°2005-330 du 6 avril 2005 - art. 4 () JORF 8 avril 2005
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 163 quatervicies (V)
+
+
+###### Article 41 ZZ ter
+
+Pour l'application des dispositions du 2 du I de l'article 163 quatervicies du code général des impôts, les cotisations ou
+primes versées au cours d'une année s'imputent en priorité sur le plafond de déduction déterminé au titre de la même année
+conformément au a du 2 du I de l'article précité, puis, le cas échéant, sur les soldes non utilisés des plafonds de déduction
+des trois années précédentes définis au b du 2 du I du même article, en commençant par le plus ancien.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-330 2005-04-06
+
+_Modifié par_:
+
+  - Décret n°2005-330 du 6 avril 2005 - art. 4 () JORF 8 avril 2005
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 163 quatervicies (V)
 
 
 ##### III : Présentation et contenu des déclarations<a id=102></a>
