@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-05-03
+Version Consolidée au 2005-05-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -14758,38 +14758,43 @@ _Créé par_:
 ###### Article 46 quater-0 ZZ sexies
 
 I. Pour bénéficier de l'amortissement exceptionnel prévu à l'article 217 quaterdecies du code général des impôts, le
-souscripteur au capital d'une société d'investissement régional doit joindre à sa déclaration de résultats un relevé délivré
-par cette société et comprenant :
+souscripteur au capital de l'une des sociétés mentionnées à l'article précité doit joindre à sa déclaration de résultats un
+relevé délivré par cette société et comprenant : 
 
-a) La raison sociale et l'adresse de la société ;
+a) La raison sociale et l'adresse de la société ; 
 
-b) L'identité et l'adresse de l'actionnaire ;
+b) L'identité et l'adresse de l'actionnaire ; 
 
-c) Le nombre et le numéro des actions souscrites, le montant et la date de leur souscription ;
+c) Le nombre et le numéro des actions souscrites, le montant et la date de leur souscription ; 
 
-d) La date et le montant des versements effectués au titre de la souscription des actions ;
+d) La date et le montant des versements effectués au titre de la souscription des actions ; 
 
-e) Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire, ainsi que le montant et la date de cession.
+e) Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire, ainsi que le montant et la date de
+cession. 
 
 II. Lorsque les actions cédées au cours d'un exercice ont été souscrites depuis moins de cinq ans par le cédant, la société
-d'investissement régional adresse, dans les deux mois suivant la cession des actions, au service des impôts dont dépend le
-domicile du cédant le relevé mentionné au I ou un duplicata de ce relevé.
+concernée adresse, dans les deux mois suivant la cession des actions, au service des impôts dont dépend le domicile du cédant
+le relevé mentionné au I ou un duplicata de ce relevé. 
 
 Ce relevé est établi sur papier libre ou sur support informatique, conformément au modèle fixé par l'administration.
 
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 26-I [y] de la loi n° 2013-1278 du 29 décembre 2013.
+
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 217 quaterdecies
-
-_Créé par_:
-
-  - Décret n°2002-574 du 18 avril 2002 - art. 1 () JORF 25 avril 2002
+  - Décret n°2005-465 du 6 mai 2005 - art. 1 () JORF 14 mai 2005
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2002
+  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 217 quaterdecies
 
 
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés<a id=145></a>
@@ -35786,15 +35791,22 @@ exigibles en raison des mutations par décès :
 1° qui comportent dévolution de biens en nue-propriété ;
 
 2° qui donnent lieu à l'attribution préférentielle prévue à l'article 832-1 du code civil ou à la réduction prévue à
-l'article 868 du même code  dans les conditions fixées par l'article 1722 bis du code général des impôts.
+l'article 868 du même code  dans les conditions fixées par l'article 1722 bis du code général des impôts ;
+
+3° Lorsque l'actif héréditaire comprend à concurrence de 50 % au moins des biens non liquides énumérés à l'article 404 A,
+pour les droits dus sur la part du conjoint survivant.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1717, 1722 bis
+  - CGI 1717, 1722 bis, 404 A
   - Code civil - art. 832-1 (M)
   - Code civil - art. 868 (T)
+
+_Modifié par_:
+
+  - Décret n°2005-464 du 6 mai 2005 - art. 1 () JORF 14 mai 2005
 
 _Cité par_:
 
@@ -35802,7 +35814,7 @@ _Cité par_:
 
 **Liens**:
 
-  - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
+  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Transmissions d'entreprises<a id=423></a>
@@ -35876,14 +35888,25 @@ Les garanties peuvent consister soit en des sûretés réelles d'une valeur au m
 desquelles il est sursis  soit en un engagement solidaire souscrit par une ou plusieurs personnes physiques ou morales
 agréées comme caution par le comptable des impôts.
 
+Les biens qui servent à la liquidation des droits de mutation à titre gratuit sont admis en garantie, à la condition que le
+débiteur fournisse au comptable des impôts en même temps que sa demande de crédit tous les éléments que l'administration juge
+nécessaire à la mise à jour de l'évaluation des biens.
+
 Les garanties doivent être constituées dans un délai de trois mois à compter de la date de la demande d'admission au crédit.
 Le comptable des impôts statue sur cette demande dans le même délai.
+
+Les éléments mentionnés au deuxième alinéa sont mis à jour et adressés  au comptable des impôts, pour lui permettre
+d'apprécier la consistance  de la garantie, chaque année dans le mois de la date anniversaire de la  demande de crédit. 
 
 Le comptable des impôts peut, à tout moment, si cela lui paraît nécessaire, exiger un complément de garanties. Ces garanties
 complémentaires doivent être constituées par le bénéficiaire du crédit dans un délai d'un mois compté de la demande qui lui
 est adressée à cet effet  par lettre recommandée avec avis de réception.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2005-464 du 6 mai 2005 - art. 2 () JORF 14 mai 2005
 
 _Cité par_:
 
@@ -35893,7 +35916,7 @@ _Cité par_:
 
 **Liens**:
 
-  - TXT_ASSOCIE: Instruction 1998-12-15 12C-5-98
+  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 401
@@ -35901,6 +35924,13 @@ _Cité par_:
 Sous réserve des dispositions des articles 404 GA et 404 GC, les droits et taxes dont le paiement est fractionné ou différé
 donnent lieu au versement d'intérêts dont le taux est égal à celui de l'intérêt légal (1) au jour de la demande de crédit.
 Toutefois, seule la première décimale est retenue. Ce taux est applicable pendant toute la durée du crédit.
+
+Le taux applicable aux droits de mutation par décès dus sur la part du conjoint survivant est réduit lorsque l'actif
+héréditaire comprend au moins 50 % de biens non liquides énumérés à l'article 404 A :
+
+- des deux tiers en cas de paiement fractionné ;
+
+- d'un tiers en cas de paiement différé.
 
 Les intérêts sont acquittés :
 
@@ -35915,17 +35945,11 @@ pour souscrire la déclaration de succession.
 
 _Cite_:
 
-  - CGIAN3 404 GA, 404 GC
+  - CGIAN3 404 GA, 404 GC, 404 A
 
 _Modifié par_:
 
-  - Décret n°96-616 du 10 juillet 1996 - art. 1 () JORF 12 juillet 1996
-  - Décret n°96-616 du 10 juillet 1996 - art. 4 (V) JORF 12 juillet 1996
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°96-616 du 10 juillet 1996 - art. 4 (V)
-  - HISTO: Edition du 11 avril 1997
+  - Décret n°2005-464 du 6 mai 2005 - art. 3 () JORF 14 mai 2005
 
 _Cité par_:
 
@@ -35933,6 +35957,10 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 GA (V)
+
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 402
@@ -35971,6 +35999,8 @@ Le redevable est déchu du bénéfice du crédit :
 en cas de défaut de constitution des garanties ou du complément de garanties dans les délais respectivement impartis à
 l'article 400 ;
 
+en cas de défaut de transmission au comptable des éléments mentionnés au quatrième alinéa de l'article 400 ;
+
 en cas de retard dans le paiement de l'un quelconque des termes échus.
 
 La déchéance entraîne l'exigibilité immédiate des droits en suspens, majorés des pénalités prévues à l'article 1731 du code
@@ -35978,26 +36008,23 @@ général des impôts. Ces pénalités sont exclusives de l'intérêt prévu à 
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 1731
-  - CGIAN3 400, 401
-
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+  - Décret n°2005-464 du 6 mai 2005 - art. 4 () JORF 14 mai 2005
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°88-1001 1988-07-15
+  - Code général des impôts, annexe 3, CGIAN3. - art. 400 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 401 (V)
+  - Code général des impôts, CGI. - art. 1731 (V)
 
 **Liens**:
 
-  - HISTO: Edition du 15 juillet 1988
+  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 404
@@ -36096,15 +36123,26 @@ débiteur envers ses cohéritiers.
 La cession totale ou partielle par le légataire  le donataire ou l'attributaire du bien qui lui a été légué  donné ou
 attribué entraîne l'exigibilité immédiate des droits en suspens.
 
+Le paiement des droits dus sur la part du conjoint survivant peut être différé jusqu'à l'expiration d'un délai de six mois à
+compter :
+
+- soit de la date de son décès ;
+
+- soit de la date de la donation ou cession, partielle ou totale, des biens transmis par succession.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGIAN3 397, 401, 404
 
+_Modifié par_:
+
+  - Décret n°2005-464 du 6 mai 2005 - art. 5 () JORF 14 mai 2005
+
 **Liens**:
 
-  - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
+  - HISTO: Edition du 1er janvier 2006
 
 
 ##### 2° : Apports en société<a id=427></a>
