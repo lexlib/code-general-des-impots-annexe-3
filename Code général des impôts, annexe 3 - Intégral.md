@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-12-09
+Version Consolidée au 2005-12-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -32,7 +32,7 @@ Version Consolidée au 2005-12-09
               - [L : Déclarations et documents (art. 38 à 38 B)](#29)
               - [M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts (art. 38 quater à 38 terdecies A)](#30)
                 - [2 : Définitions (art. 38 quater à 38 ter)](#31)
-                - [3 : Règles d'évaluation (art. 38 decies à 38 sexies)](#32)
+                - [3 : Règles d'évaluation (art. 38 decies à 38 undecies)](#32)
                 - [4 : Dispositions diverses (art. 38 quaterdecies à 38 terdecies A)](#33)
               - [M bis : Renseignements à fournir par les entreprises sur les états de suivi et de situation de propriété prévus à l'article 54 septies du code général des impôts (art. 38 quindecies)](#34)
               - [N : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 54 octies du code général des impôts (art. 38 quindecies A)](#35)
@@ -4840,34 +4840,38 @@ _Cite_:
 
 ###### Article 38 nonies
 
-Les marchandises, matières premières, matières et fournitures consommables, emballages perdus, produits en stock et
-productions en cours au jour de l'inventaire sont évalués pour leur coût de revient.
+1. Les marchandises, matières premières, matières et fournitures consommables, emballages perdus, produits en stock et
+productions en cours au jour de l'inventaire sont évalués pour leur coût de revient, qui s'entend : 
 
-Le coût de revient est constitué :
+a. Pour les biens acquis à titre onéreux, du prix d'achat minoré des remises, rabais commerciaux et escomptes de règlement
+obtenus et majoré des frais de transport, de manutention et autres coûts directement engagés pour l'acquisition des biens et
+des coûts d'emprunt dans les conditions prévues à l'article 38 undecies ; 
 
-Pour les marchandises, matières premières, matières et fournitures consommables et les emballages commerciaux achetés, par le
-prix d'achat augmenté des frais accessoires d'achats ;
+b. Pour les biens produits par l'entreprise, du coût de production qui comprend les coûts directement engagés pour la
+production ainsi que les frais indirects de production variables ou fixes et des coûts d'emprunt dans les conditions prévues
+à l'article 38 undecies. La quote-part de charges correspondant à la sous-activité n'est pas incorporable au coût de
+production. 
 
-Pour les produits intermédiaires, les produits finis, les emballages commerciaux fabriqués et les produits en cours, par le
-coût d'achat des matières et fournitures consommées, augmenté de toutes les charges directes ou indirectes de production à
-l'exclusion des frais financiers.
+Les coûts administratifs sont exclus du coût d'acquisition et du coût de production définis ci-dessus, à l'exception du coût
+des structures dédiées. 
 
-Ces coûts sont fournis par la comptabilité analytique ou, à défaut, déterminés par des calculs ou évaluations statistiques.
+2. Le coût des stocks est déterminé par l'identification spécifique des coûts individuels, fournis par la comptabilité
+analytique ou, à défaut, par des calculs ou évaluations statistiques.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 53 A
-
 _Modifié par_:
 
-  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+  - Décret n°2005-1702 du 28 décembre 2005 - art. 1 () JORF 30 décembre 2005
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 decies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (V)
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 undecies (V)
 
 
 ###### Article 38 octies
@@ -4887,52 +4891,76 @@ _Modifié par_:
 
 ###### Article 38 quinquies
 
-Les immobilisations sont inscrites au bilan pour leur valeur d'origine.
+1. Les immobilisations sont inscrites au bilan pour leur valeur d'origine.
 
 Cette valeur d'origine s'entend :
 
-Pour les immobilisations acquises à titre onéreux par l'entreprise, du coût d'acquisition, c'est-à-dire du prix d'achat
-majoré des frais accessoires nécessaires à la mise en état d'utilisation du bien ;
+a. Pour les immobilisations acquises à titre onéreux, du coût d'acquisition, c'est-à-dire du prix d'achat minoré des remises,
+rabais commerciaux et escomptes de règlement obtenus et majoré des coûts directement engagés pour la mise en état
+d'utilisation du bien et des coûts d'emprunt dans les conditions prévues à l'article 38 undecies.
 
-Pour les immobilisations acquises à titre gratuit, de la valeur vénale ;
+Les droits de mutation, honoraires ou commissions et frais d'acte liés à l'acquisition peuvent être, au choix de
+l'entreprise, soit portés à l'actif du bilan en majoration du coût d'acquisition de l'immobilisation à laquelle ils se
+rapportent, soit déduits immédiatement en charges. Ce choix est exercé distinctement pour les titres immobilisés et les
+titres de placement, d'une part, pour les autres immobilisations acquises, d'autre part. Il est irrévocable.
 
-Pour les immobilisations apportées à l'entreprise par des tiers, de la valeur d'apport ;
+Pour les biens acquis moyennant le paiement d'une rente viagère, le prix d'achat s'entend du prix stipulé ou, à défaut, de la
+valeur réelle du bien estimée au jour de l'acquisition.
 
-Pour les immobilisations créées par l'entreprise, du coût d'acquisition des matières ou fournitures consommées, augmenté de
-toutes les charges directes ou indirectes de production à l'exclusion des frais financiers.
+Pour les biens acquis en échange d'un ou plusieurs biens, le prix d'achat s'entend de la valeur vénale ;
+
+b. Pour les immobilisations acquises à titre gratuit, de la valeur vénale ;
+
+c. Pour les immobilisations apportées à l'entreprise par des tiers, de la valeur d'apport ;
+
+d. Pour les immobilisations créées par l'entreprise, du coût d'acquisition des matières ou fournitures consommées, augmenté
+de toutes les charges directes ou indirectes de production et des coûts d'emprunt dans les conditions prévues à l'article 38
+undecies.
+
+Les coûts administratifs sont exclus du coût d'acquisition et du coût de production définis ci-dessus, à l'exception du coût
+des structures dédiées.
+
+2. La valeur d'origine des immobilisations définie au 1 est majorée des coûts engagés pour le remplacement des composants
+mentionnés à l'article 15 bis de l'annexe II. La valeur nette comptable du composant remplacé est comptabilisée en charges.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 53 A
+  - CGI 53 A, 38 undecies
+  - CGIAN2 15 bis
 
 _Modifié par_:
 
-  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+  - Décret n°2005-1702 du 28 décembre 2005 - art. 1 () JORF 30 décembre 2005
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 AE (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 septies (V)
 
+**Liens**:
+
+  - HISTO: Edition du 1er janvier 2006
+
 
 ###### Article 38 septies
 
-Les valeurs mobilières constituant des titres de placement sont inscrites au bilan pour leur valeur d'origine.
+Les valeurs mobilières constituant des titres de placement sont inscrites au bilan pour leur valeur d'origine majorée, sous
+réserve de l'option mentionnée au quatrième alinéa du 1 de l'article 38 quinquies, des droits de mutation, honoraires ou
+commissions et frais d'acte liés à leur acquisition. 
 
-A la fin de chaque exercice, il est procédé à une estimation de ces titres.
+A la fin de chaque exercice, il est procédé à une estimation de ces titres. 
 
 Les titres cotés sont évalués au cours moyen du dernier mois de l'exercice. Les titres non cotés sont évalués à leur valeur
-probable de négociation.
+probable de négociation. 
 
-Les titres cotés s'entendent des valeurs inscrites à la cote officielle d'une bourse de valeurs ou qui figurent à la cote du
-second marché d'une bourse de valeurs françaises.
+Les titres cotés s'entendent des valeurs inscrites admises aux négociations sur un marché réglementé. 
 
 Les plus-values ou moins-values résultant de cette estimation sont appréciées, pour chaque catégorie de titres de même
-nature, par rapport à la valeur d'origine globale de l'ensemble de ces titres.
+nature, par rapport à la valeur d'origine globale de l'ensemble de ces titres. 
 
-Les plus-values ne sont pas comptabilisées; par contre, les moins-values sont inscrites au compte de provisions.
+Les plus-values ne sont pas comptabilisées ; par contre, les moins-values sont inscrites au compte de provisions. 
 
 Toutefois, en cas de baisse anormale de certains titres cotés apparaissant comme momentanée, l'entreprise a, sous sa
 responsabilité, la faculté de ne pas comprendre dans la provision tout ou partie de la moins-value constatée sur ces titres,
@@ -4941,21 +4969,13 @@ titres.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 53 A
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
-
-**Liens**:
-
-  - HISTO: Edition du 20 juillet 1984
-
 _Modifié par_:
 
-  - Loi n°83-1 1983-01-03 art. 47 JORF 4 janvier 1983
+  - Décret n°2005-1702 du 28 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 quinquies (V)
 
 
 ###### Article 38 sexies
@@ -4977,6 +4997,31 @@ _Codifié par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 39 (VT)
+
+
+###### Article 38 undecies
+
+Les coûts d'emprunt engagés pour l'acquisition ou la production d'une immobilisation, corporelle ou incorporelle, ou d'un
+élément inscrit en stock ou en encours, peuvent être, au choix de l'entreprise, soit compris dans le coût d'origine de
+l'immobilisation ou du stock, soit déduits en charge au titre de l'exercice au cours duquel les intérêts sont courus.
+
+Les dispositions du premier alinéa s'appliquent aux coûts d'emprunt attribuables aux éléments d'actif et engagés jusqu'à la
+date d'acquisition ou de réception définitive du bien qui exigent une période de préparation ou de construction en principe
+supérieure à douze mois avant de pouvoir être utilisés ou cédés.
+
+Le choix offert au premier alinéa est irrévocable et s'applique à tous les coûts d'emprunt servant à financer l'acquisition
+ou la production d'immobilisations, de stocks et d'encours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2005-1702 du 28 décembre 2005 - art. 1 () JORF 30 décembre 2005
+
+_Cité par_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 nonies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 quinquies (V)
 
 
 ##### 4 : Dispositions diverses<a id=33></a>
@@ -5032,7 +5077,7 @@ _Cite_:
 
 ###### Article 38 quindecies
 
-I. L'état dont la production est prévue au I de l'article 54 septies du code général des impôts mentionne la date de
+I. – L'état dont la production est prévue au I de l'article 54 septies du code général des impôts mentionne la date de
 réalisation et la nature de l'opération, les nom ou dénomination et adresse des personnes physiques et morales concernées et,
 par nature d'élément :
 
@@ -5058,13 +5103,23 @@ c) Le montant des plus-values déjà réintégrées dans les résultats des exer
 
 d) Le montant des plus-values réintégrées dans les résultats de l'exercice ;
 
-e) Le montant des plus-values restant à réintégrer.
+e) Le montant des plus-values restant à réintégrer ;
 
-II. Il est souscrit un état par opération et par exercice tant qu'il existe, au titre de l'opération concernée, des éléments
-auxquels est attaché un sursis d'imposition prévu par l'un des régimes mentionnés au I de l'article 54 septies du code
-général des impôts.
+3° Pour le mali technique de fusion :
 
-III. L'état dont la production est prévue au III de l'article 54 septies du code général des impôts mentionne, pour chaque
+a. La valeur brute à l'ouverture et à la fin de l'exercice ;
+
+b. La diminution en cours d'exercice ;
+
+c. Le montant des dépréciations comptables à l'ouverture et à la fin de l'exercice ;
+
+d. Les augmentations et diminutions des dépréciations comptables en cours d'exercice.
+
+II. – Il est souscrit un état par opération et par exercice tant qu'il existe, au titre de l'opération concernée, des
+éléments auxquels est attaché un sursis d'imposition prévu par l'un des régimes mentionnés au I de l'article 54 septies du
+code général des impôts.
+
+III. – L'état dont la production est prévue au III de l'article 54 septies du code général des impôts mentionne, pour chaque
 opération de scission, la dénomination et l'adresse de la société scindée ainsi que la date de l'approbation de la scission
 par les assemblées générales et, pour chaque associé :
 
@@ -5080,7 +5135,7 @@ b) Détenus sur toute la période couverte par l'exercice ;
 
 c) Le cas échéant, cédés au cours de l'exercice.
 
-IV. - L'état dont la production est prévue au deuxième alinéa de l'article 221 bis du code général des impôts doit mentionner
+IV. – L'état dont la production est prévue au deuxième alinéa de l'article 221 bis du code général des impôts doit mentionner
 pour chacune des immobilisations qui fait l'objet d'une réévaluation lors du premier exercice au titre duquel l'option a été
 exercée :
 
@@ -5092,21 +5147,18 @@ exercée :
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 54 septies, 221 bis
-
 _Modifié par_:
 
-  - Décret n°2003-645 du 11 juillet 2003 - art. 1 () JORF 13 juillet 2003
+  - Décret n°2005-1702 du 28 décembre 2005 - art. 1 () JORF 30 décembre 2005
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A bis (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 août 2003
+  - Code général des impôts, CGI. - art. 221 bis (V)
+  - Code général des impôts, CGI. - art. 54 septies (V)
 
 
 ##### N : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 54 octies du code général des impôts<a id=35></a>
