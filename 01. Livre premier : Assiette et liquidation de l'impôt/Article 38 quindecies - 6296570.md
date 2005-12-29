@@ -1,6 +1,6 @@
 # Article 38 quindecies
 
-I. L'état dont la production est prévue au I de l'article 54 septies du code général des impôts mentionne la date de
+I. – L'état dont la production est prévue au I de l'article 54 septies du code général des impôts mentionne la date de
 réalisation et la nature de l'opération, les nom ou dénomination et adresse des personnes physiques et morales concernées et,
 par nature d'élément :
 
@@ -26,13 +26,23 @@ c) Le montant des plus-values déjà réintégrées dans les résultats des exer
 
 d) Le montant des plus-values réintégrées dans les résultats de l'exercice ;
 
-e) Le montant des plus-values restant à réintégrer.
+e) Le montant des plus-values restant à réintégrer ;
 
-II. Il est souscrit un état par opération et par exercice tant qu'il existe, au titre de l'opération concernée, des éléments
-auxquels est attaché un sursis d'imposition prévu par l'un des régimes mentionnés au I de l'article 54 septies du code
-général des impôts.
+3° Pour le mali technique de fusion :
 
-III. L'état dont la production est prévue au III de l'article 54 septies du code général des impôts mentionne, pour chaque
+a. La valeur brute à l'ouverture et à la fin de l'exercice ;
+
+b. La diminution en cours d'exercice ;
+
+c. Le montant des dépréciations comptables à l'ouverture et à la fin de l'exercice ;
+
+d. Les augmentations et diminutions des dépréciations comptables en cours d'exercice.
+
+II. – Il est souscrit un état par opération et par exercice tant qu'il existe, au titre de l'opération concernée, des
+éléments auxquels est attaché un sursis d'imposition prévu par l'un des régimes mentionnés au I de l'article 54 septies du
+code général des impôts.
+
+III. – L'état dont la production est prévue au III de l'article 54 septies du code général des impôts mentionne, pour chaque
 opération de scission, la dénomination et l'adresse de la société scindée ainsi que la date de l'approbation de la scission
 par les assemblées générales et, pour chaque associé :
 
@@ -48,7 +58,7 @@ b) Détenus sur toute la période couverte par l'exercice ;
 
 c) Le cas échéant, cédés au cours de l'exercice.
 
-IV. - L'état dont la production est prévue au deuxième alinéa de l'article 221 bis du code général des impôts doit mentionner
+IV. – L'état dont la production est prévue au deuxième alinéa de l'article 221 bis du code général des impôts doit mentionner
 pour chacune des immobilisations qui fait l'objet d'une réévaluation lors du premier exercice au titre duquel l'option a été
 exercée :
 
@@ -60,18 +70,15 @@ exercée :
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 54 septies, 221 bis
-
 _Modifié par_:
 
-  - Décret n°2003-645 du 11 juillet 2003 - art. 1 () JORF 13 juillet 2003
+  - Décret n°2005-1702 du 28 décembre 2005 - art. 1 () JORF 30 décembre 2005
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 A bis (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 août 2003
+  - Code général des impôts, CGI. - art. 221 bis (V)
+  - Code général des impôts, CGI. - art. 54 septies (V)
