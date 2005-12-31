@@ -9,7 +9,7 @@ l'année suivant celle au cours de laquelle le remboursement a été opéré.
 III. Les requérants doivent y mentionner, outre la dénomination et le siège de la société, le montant et la date du
 remboursement :
 
-a. Pour la taxe proportionnelle ou la retenue à la source : la recette des impôts où cette imposition a été acquittée, la
+a. Pour la taxe proportionnelle ou la retenue à la source : le service des impôts où cette imposition a été acquittée, la
 date à laquelle la déclaration ayant servi de base à ladite imposition a été déposée ainsi que le montant de l'avance, du
 prêt ou de l'acompte inclus dans la base d'imposition de la société ;
 
@@ -36,9 +36,9 @@ _Cite_:
   - CGI 145, 111
   - CGIAN3 49 quater
 
-_Modifié par_:
+_Codifié par_:
 
-  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+  - Décret n°2006-356 2006-03-24
 
 _Cité par_:
 
@@ -46,4 +46,8 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2005
+  - HISTO: Edition du 1er janvier 2006
+
+_Modifié par_:
+
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
