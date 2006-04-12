@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-03-26
+Version Consolidée au 2006-04-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -19460,8 +19460,12 @@ les fournisseurs et les commissionnaires exportateurs par les agents du service 
 les registres et factures prescrits par le présent article ainsi que, le cas échéant, toutes autres pièces susceptibles de
 venir à l'appui des énonciations desdits documents.
 
-5. Les dispositions qui précèdent sont applicables aux expéditions faites pour l'avitaillement des navires pêcheurs et
-autres.
+5. Les livraisons de biens d'avitaillement effectuées soit directement, soit en sortie d'un régime suspensif mentionné au I
+de l'article 277 A du CGI, pour les besoins des navires visés au 6° du II de l'article 262 du même code, sont exonérées de la
+taxe sur la valeur ajoutée, à condition que le fournisseur établisse pour chaque livraison une déclaration en douane conforme
+au modèle fourni par l'administration ou tout autre document en tenant lieu prévu par la réglementation douanière. Le
+fournisseur conserve à l'appui de sa comptabilité ces documents, après avis du service des douanes chargé du contrôle de la
+mise à bord des biens.
 
 6. (Abrogé)
 
@@ -19469,12 +19473,12 @@ autres.
 
 _Cite_:
 
-  - CGI 286, 262, 256-0, 302 M
+  - CGI 286, 262, 256-0, 302 M, 277 A
   - Décret n°93-991 1993-08-09
 
 _Modifié par_:
 
-  - Décret n°2004-468 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
+  - Décret n°2006-427 du 11 avril 2006 - art. 1 () JORF 13 avril 2006
 
 _Cité par_:
 
@@ -19482,7 +19486,7 @@ _Cité par_:
 
 **Liens**:
 
-  - HISTO: Edition du 31 août 2004
+  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section II : Assiette de la taxe<a id=197></a>
