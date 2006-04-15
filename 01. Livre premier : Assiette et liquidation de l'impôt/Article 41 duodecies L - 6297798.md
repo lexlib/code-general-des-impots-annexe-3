@@ -2,26 +2,22 @@
 
 L'option pour le prélèvement est exercée par le cédant auprés des personnes mentionnées à l'article 41 duodecies J au moment
 où il communique le montant de la cession qu'il a effectuée et au plus tard dix jours à partir de la date de cession. A cette
-occasion, il indique le montant du gain pour lequel l'option est formulée.
+occasion, il indique le montant du gain pour lequel l'option est formulée. 
+
+Ces dispositions ne sont pas applicables au prélèvement dû à raison des revenus, produits et gains mentionnés aux I et II de
+l'article 125 D du code général des impôts.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2006-446 du 14 avril 2006 - art. 1 () JORF 16 avril 2006
+
 _Cite_:
 
-  - CGIAN3 41 duodecies J
-
-_Créé par_:
-
-  - Décret n°86-216 du 17 février 1986 - art. 3 (V) JORF 18 février 1986
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies J (V)
+  - Code général des impôts, CGI. - art. 125 D (V)
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies M (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 juillet 1986
