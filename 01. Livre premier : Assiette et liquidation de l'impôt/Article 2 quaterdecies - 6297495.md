@@ -1,8 +1,8 @@
 # Article 2 quaterdecies
 
-I. - Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables sont
+I. – Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les contribuables sont
 tenus de joindre à leur déclaration des revenus de l'année au cours de laquelle a pris effet la location dont les revenus
-peuvent bénéficier de la déduction forfaitaire majorée :
+peuvent bénéficier de la déduction calculée en fonction du revenu brut :
 
 1° Une note annexe, établie sur un imprimé fourni par l'administration, qui comporte les éléments suivants :
 
@@ -23,28 +23,24 @@ habitation principale ;
 4° Une copie de l'avis d'imposition ou de non-imposition du locataire établi au titre de l'avant-dernière année précédant
 celle de la signature du contrat de location.
 
-II. - En cas de changement de locataire au cours de la période couverte par l'engagement de location mentionné au d du 1° du
+II. – En cas de changement de locataire au cours de la période couverte par l'engagement de location mentionné au d du 1° du
 I, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie
 du nouveau bail ainsi qu'une copie de l'avis d'imposition ou de non-imposition du locataire entrant dans les lieux établi au
 titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2006-1005 2006-08-10 art. 1 A, C JORF 11 août 2006
+  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
+
 _Cite_:
 
-  - CGI 31
-  - CGIAN3 2 duodecies
-  - Décret n°99-244 1999-03-29
-
-_Créé par_:
-
-  - Décret n°2002-1296 du 24 octobre 2002 - art. 2 () JORF 27 octobre 2002
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
+  - Code général des impôts, CGI. - art. 31 (V)
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2003
