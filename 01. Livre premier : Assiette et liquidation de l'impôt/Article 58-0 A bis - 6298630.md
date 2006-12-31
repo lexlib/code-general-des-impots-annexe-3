@@ -1,23 +1,23 @@
 # Article 58-0 A bis
 
-I. - Pour l'application du 11° du III de l'article 234 nonies du code général des impôts, les travaux de réhabilitation des
+I. – Pour l'application du 11° du III de l'article 234 nonies du code général des impôts, les travaux de réhabilitation des
 logements s'entendent des travaux de modification ou de remise en état du gros oeuvre ou des travaux d'aménagement interne
 qui, par leur nature, équivalent à de la reconstruction ainsi que des travaux d'amélioration qui leur sont indissociables.
 
-II. - Les contribuables doivent pouvoir justifier, sur demande de l'administration, de la date d'achèvement du logement et
+II. – Les contribuables doivent pouvoir justifier, sur demande de l'administration, de la date d'achèvement du logement et
 des travaux de réhabilitation, du montant des travaux de réhabilitation effectivement payé et du montant de la subvention
-versée à ce titre par l'Agence nationale pour l'amélioration de l'habitat.
+versée à ce titre par l'Agence nationale de l'habitat.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2006-872 du 13 juillet 2006 - art. 37 (V) JORF 16 juillet 2006
+
+_Codifié par_:
+
+  - Décret n°2007-484 2007-03-30
+
 _Cite_:
 
-  - CGI 234 nonies
-
-_Créé par_:
-
-  - Décret n°2005-1252 du 3 octobre 2005 - art. 1 () JORF 6 octobre 2005
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
+  - Code général des impôts, CGI. - art. 234 nonies (V)
