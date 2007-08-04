@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-05-16
+Version Consolidée au 2007-08-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -86,7 +86,7 @@ Version Consolidée au 2007-05-16
               - [4° : Profits réalisés lors de la cession ou du rachat de parts de fonds communs d'intervention sur les marchés à terme (art. 41 septdecies T à 41 septdecies X)](#83)
             - [X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 41 duovicies D à 41 duovicies I)](#84)
             - [X quater : Report d'imposition de la plus-value constatée lors de la levée de l'option d'achat d'un immeuble acquis en crédit-bail et précédemment donné en sous-location (art. 41 novovicies)](#85)
-            - [XI : Dispositions communes aux différentes catégories de revenus (art. 41-00 A à 41 DA)](#86)
+            - [XI : Dispositions communes aux différentes catégories de revenus (art. 41-00 A ter à 41 DA)](#86)
               - [1° : Informations complémentaires à joindre aux déclarations des contribuables relevant de la Direction des grandes entreprises (art. 41-00 A)](#87)
               - [2° : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale (art. 41-0 A)](#88)
               - [2° bis : Indemnité compensatrice versée aux agents généraux d'assurances à l'occasion du départ à la retraite (art. 41-00 A bis)](#89)
@@ -9549,6 +9549,41 @@ _Cite_:
 
 
 ##### XI : Dispositions communes aux différentes catégories de revenus<a id=86></a>
+
+###### Article 41-00 A ter
+
+L'état prévu au deuxième alinéa du IV de l'article 151 septies C du code général des impôts mentionne :
+
+a) La date de l'opération de cession à titre onéreux ;
+
+b) L'adresse de l'immeuble objet de la transmission dans lequel le fonds est exploité, le cas échéant la dénomination sociale
+et l'adresse de la société dont les droits ou parts sont cédés ;
+
+c) La désignation du cessionnaire ;
+
+d) Le montant des plus-values réalisées lors de la cession et dont l'imposition est reportée ;
+
+e) Le nombre d'années d'exploitation échues du bien mis à disposition de l'exploitant à compter de la cession et le solde de
+la plus-value encore imposable compte tenu de ce décompte.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 151 septies C
+
+_Créé par_:
+
+  - Décret n°2007-1179 du 3 août 2007 - art. 1 () JORF 5 août 2007
+
+**Liens**:
+
+  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 4
+
+_Codifié par_:
+
+  - L'article sera codifié ultérieurement
+
 
 ##### 1° : Informations complémentaires à joindre aux déclarations des contribuables relevant de la Direction des grandes entreprises<a id=87></a>
 
