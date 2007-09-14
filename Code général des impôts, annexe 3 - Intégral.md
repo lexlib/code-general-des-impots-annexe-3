@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-09-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -472,18 +472,19 @@ Version Consolidée au 2007-09-01
         - [III : Droits d'enregistrement (art. 406 A 27)](#469)
     - [Chapitre II : Procédures (art. 415 à 416-0 bis)](#470)
       - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 415 à 416-0 bis)](#471)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#472)
-      - [Section I : Juridiction contentieuse (art. 416 E)](#473)
-        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#474)
-      - [Section II : Juridiction gracieuse (art. 426 à 445)](#475)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#476)
-          - [1 : Cotes irrécouvrables (art. 426 à 428)](#477)
-          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#478)
-            - [a : Sursis de versement (art. 430 à 432)](#479)
-            - [b : Décharge de responsabilité (art. 433 à 438)](#480)
-            - [c : Dispositions communes (art. 439 à 444)](#481)
-        - [D : Dispositions particulières aux impôts directs (art. 445)](#482)
-    - [Chapitre III bis : Restitution de la prime pour l'emploi (art. 446 ter à 446 ter B)](#483)
+    - [Chapitre II bis : Sûretés et privilèges (art. 416 bis)](#472)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#473)
+      - [Section I : Juridiction contentieuse (art. 416 E)](#474)
+        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#475)
+      - [Section II : Juridiction gracieuse (art. 426 à 445)](#476)
+        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 444)](#477)
+          - [1 : Cotes irrécouvrables (art. 426 à 428)](#478)
+          - [2 : Sursis de versement et décharge de responsabilité (art. 429 à 444)](#479)
+            - [a : Sursis de versement (art. 430 à 432)](#480)
+            - [b : Décharge de responsabilité (art. 433 à 438)](#481)
+            - [c : Dispositions communes (art. 439 à 444)](#482)
+        - [D : Dispositions particulières aux impôts directs (art. 445)](#483)
+    - [Chapitre III bis : Restitution de la prime pour l'emploi (art. 446 ter à 446 ter B)](#484)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -37763,11 +37764,56 @@ _Abrogé par_:
   - HISTO: Edition du 31 août 2004
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=472></a>
+## Chapitre II bis : Sûretés et privilèges<a id=472></a>
 
-### Section I : Juridiction contentieuse<a id=473></a>
+###### Article 416 bis
 
-#### B : Disposition particulière aux droits d'enregistrement<a id=474></a>
+1. La publicité du privilège est obligatoire lorsque les sommes dues par les redevables mentionnés au 1 de l'article 1929
+quater du code général des impôts dépassent, à la fin d'un semestre civil :
+
+1° 6 000 Euros pour ceux dont le chiffre d'affaires ou le montant des recettes n'excède pas 763 000 Euros hors taxes ;
+
+2° 10 000 Euros pour ceux dont le chiffre d'affaires ou le montant des recettes est supérieur au seuil mentionné au 1°.
+
+2. Le chiffre d'affaires ou le montant des recettes hors taxes retenu pour l'application du 1 est celui porté sur la
+déclaration de résultats prévue aux articles 53 A, 74 A, 97 et au 1 de l'article 223 du code général des impôts, afférente
+à :
+
+a) L'exercice clos au cours de l'avant-dernière année civile précédente pour la publication au titre du premier semestre de
+l'année courante ;
+
+b) L'exercice clos au cours de la dernière année civile précédente pour la publication au titre du second semestre de l'année
+courante.
+
+3. L'inscription du privilège est effectuée dès lors que les sommes dues atteignent 6 000 Euros à la fin du semestre civil
+dans les cas suivants :
+
+1° Lorsque les redevables n'ont pas déposé les déclarations mentionnées au 2 qu'ils étaient tenus de souscrire ;
+
+2° Lorsqu'ils ne sont pas tenus au dépôt de ces déclarations ;
+
+3° Lorsqu'ils ont débuté leur activité dans l'année courante ou au cours de l'année civile précédente.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1929 quater, 223, 53 A, 74 A, 97
+
+_Créé par_:
+
+  - Décret n°2007-1356 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+
+_Codifié par_:
+
+  - L'article sera codifié ultérieurement
+
+
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=473></a>
+
+### Section I : Juridiction contentieuse<a id=474></a>
+
+#### B : Disposition particulière aux droits d'enregistrement<a id=475></a>
 
 ###### Article 416 E
 
@@ -37776,11 +37822,11 @@ d'enregistrement régulièrement perçus.
 
 
 
-### Section II : Juridiction gracieuse<a id=475></a>
+### Section II : Juridiction gracieuse<a id=476></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=476></a>
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=477></a>
 
-##### 1 : Cotes irrécouvrables<a id=477></a>
+##### 1 : Cotes irrécouvrables<a id=478></a>
 
 ###### Article 426
 
@@ -37833,7 +37879,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2000
 
 
-##### 2 : Sursis de versement et décharge de responsabilité<a id=478></a>
+##### 2 : Sursis de versement et décharge de responsabilité<a id=479></a>
 
 ###### Article 429
 
@@ -37856,7 +37902,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 435 (V)
 
 
-##### a : Sursis de versement<a id=479></a>
+##### a : Sursis de versement<a id=480></a>
 
 ###### Article 430
 
@@ -37899,7 +37945,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 433 (V)
 
 
-##### b : Décharge de responsabilité<a id=480></a>
+##### b : Décharge de responsabilité<a id=481></a>
 
 ###### Article 433
 
@@ -38035,7 +38081,7 @@ _Abrogé par_:
   - HISTO: Edition du 15 juillet 1988
 
 
-##### c : Dispositions communes<a id=481></a>
+##### c : Dispositions communes<a id=482></a>
 
 ###### Article 439
 
@@ -38214,7 +38260,7 @@ _Abrogé par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-#### D : Dispositions particulières aux impôts directs<a id=482></a>
+#### D : Dispositions particulières aux impôts directs<a id=483></a>
 
 ###### Article 445
 
@@ -38238,7 +38284,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°99-889 du 21 octobre 1999 - art. 8 (V)
 
 
-## Chapitre III bis : Restitution de la prime pour l'emploi<a id=483></a>
+## Chapitre III bis : Restitution de la prime pour l'emploi<a id=484></a>
 
 ###### Article 446 ter
 
