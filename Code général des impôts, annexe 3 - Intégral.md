@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-10-03
+Version Consolidée au 2007-10-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -10088,28 +10088,19 @@ _Cite_:
 ###### Article 41 F
 
 I.-Les charges visées à l'article 41 E comprennent tout ou partie des dépenses de réparation et d'entretien ainsi que des
-autres charges foncières énumérées aux a à d du 1° et au a du 2° du I de l'article 31 du code général des impôts.
+autres charges foncières énumérées aux a à e du 1° et au a du 2° du I de l'article 31 du code général des impôts.
 
-Ces charges sont déductibles pour leur montant total si le public est admis à visiter l'immeuble et pour 50 p. 100 de leur
-montant dans le cas contraire.
+Ces charges sont déductibles pour leur montant total si le public est admis à visiter l'immeuble et pour 50 % de leur montant
+dans le cas contraire.
 
 II.-Toutefois, les participations aux travaux de réparation ou d'entretien exécutés ou subventionnés par l'administration des
 affaires culturelles sont déductibles pour leur montant total.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 31 I 1° a, b, c, d, 2° a
-  - CGIAN3 41 E
-
 _Modifié par_:
 
-  - Décret n°88-144 du 10 février 1988 - art. 1 (V) JORF 16 février 1988
-
-_Codifié par_:
-
-  - Décret n°88-1001 1988-10-20
+  - Décret n°2007-1427 du 3 octobre 2007 - art. 1 () JORF 5 octobre 2007
 
 _Cité par_:
 
@@ -10119,6 +10110,10 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 J (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 A (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 17 quinquies (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 31 (V)
 
 
 ###### Article 41 G
