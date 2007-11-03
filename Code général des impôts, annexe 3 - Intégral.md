@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-10-21
+Version Consolidée au 2007-11-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -28051,37 +28051,35 @@ cessions, transmissions ou retraits de ces titres ;
 b) des contrats de crédit-bail conclus en application des dispositions de l'article L. 34-7 du code précité ;
 
 16° pour la publication de chaque déclaration établie pour l'application des articles L. 526-1 à L. 526-3 du code de
-commerce.
+commerce ;
+
+17° Pour l'inscription des avenants prévus par l'article 59 de l'ordonnance n° 2006-346 du 23 mars 2006 relative aux
+sûretés ;
+
+18° Pour l'inscription des transformations prévues par le III de l'article 10 de la loi n° 2007-212 du 20 février 2007
+portant diverses dispositions intéressant la Banque de France.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code de la propriété des personnes publiques L2122-5 à L2122-18
   - Décret n°55-22 1955-01-04 art. 28, art. 37
   - Décret n°55-22 du 4 janvier 1955 - art. 37 (V)
   - Décret n°55-1350 du 14 octobre 1955 - art. 34 (M)
+  - Ordonnance 2006-346 2006-03-23 art. 59
   - Décret n°2006-936 2006-07-27 art. 43, art. 22
+  - Loi n°2007-212 du 20 février 2007 - art. 10, v. init.
   - Code de commerce L526-1 à L526-3
+  - Code de la construction et de l'habitation L351-2, L2122-5 à L2122-18, L34-7
   - Code de la construction et de l'habitation. - art. L351-2 (M)
-  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
 
 _Modifié par_:
 
-  - Décret n°2006-1003 du 10 août 2006 - art. 1 () JORF 11 août 2006
-  - Ordonnance 2006-460 2006-04-21 art. 1, art. 2, art. 7 I, II, art. 13 JORF 22 avril 2006
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 1 (V) JORF 22 avril 2006
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 13 (V) JORF 22 avril 2006
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 2 (V) JORF 22 avril 2006
-  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006
+  - Décret n°2007-1567 du 2 novembre 2007 - art. 1 () JORF 4 novembre 2007
 
 _Codifié par_:
 
-  - Décret n°2007-484 2007-03-30
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - L'article sera codifié ultérieurement
 
 
 ###### Article 288
@@ -28287,30 +28285,29 @@ _Abrogé par_:
 ###### Article 293
 
 Le salaire alloué pour l'inscription de chaque droit d'hypothèque ou privilège est liquidé, au taux unique de 0,05 %, sur les
-sommes ou valeurs énoncées au bordereau.
+sommes ou valeurs de la créance garantie, énoncées au bordereau.
 
-En ce qui concerne les inscriptions prises pour sûreté d'une créance indéterminée  le salaire est perçu sur le montant de
-l'évaluation du droit garanti  à fournir par les requérants.
+En ce qui concerne les inscriptions prises pour sûreté d'une créance indéterminée, le salaire est perçu sur le montant de
+l'évaluation du droit garanti, à fournir par les requérants.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°82-881 1982-10-15
-
-_Modifié par_:
-
-  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V) JORF 29 juillet 1981
-  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V) JORF 29 juillet 1981
 
 _Cité par_:
 
   - Décret n°81-721 du 24 juillet 1981 - art. 1 (V)
   - Décret n°81-721 du 24 juillet 1981 - art. 2 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 1er septembre 1982
+  - Décret n°2007-1567 du 2 novembre 2007 - art. 1 () JORF 4 novembre 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
+
+_Codifié par_:
+
+  - L'article sera codifié ultérieurement
 
 
 ###### Article 294
@@ -28443,9 +28440,10 @@ _Abrogé par_:
 
 Le salaire ne peut être inférieur à :
 
-a. 8 euros par inscription mentionnée à l'article 293 ou par déclaration mentionnée à l'article 294 ;
+a. 8 € par inscription mentionnée à l'article 293 ou par déclaration ou convention de rechargement mentionnée à l'article
+294 ;
 
-b. 15 euros par radiation mentionnée à l'article 295 ou par acte pour les publications visées à l'article 296.
+b. 15 € par radiation mentionnée à l'article 295 ou par acte pour les publications visées à l'article 296.
 
 Ce dernier salaire est également exigible lorsque les publications ne donnent pas ouverture au salaire proportionnel.
 
@@ -28457,11 +28455,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
+  - Décret n°2007-1567 du 2 novembre 2007 - art. 1 () JORF 4 novembre 2007
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
 
 
 ##### 5 : Délivrance de renseignements urgents<a id=323></a>
