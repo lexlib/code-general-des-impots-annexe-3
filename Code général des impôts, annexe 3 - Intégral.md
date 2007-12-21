@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-12-01
+Version Consolidée au 2007-12-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -355,7 +355,7 @@ Version Consolidée au 2007-12-01
             - [b : Lieu d'imposition (art. 316 à 321 B)](#352)
               - [Entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts (art. 316 à 321 B)](#353)
             - [c : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation (art. 321 E à 321 G)](#354)
-            - [d : Majoration de la valeur locative cadastrale des terrains constructibles (art. 322 à 322 ter)](#355)
+            - [d : Majoration de la valeur locative cadastrale des terrains constructibles (art. 321 H à 322 ter)](#355)
           - [Section III : Taxe professionnelle (art. 322 FA à 324-0 A)](#356)
             - [I : Exonération des gîtes ruraux (art. 322 FA)](#357)
             - [I bis : Exonération temporaire accordée dans le cadre de l'aménagement du territoire (art. 322 G à 322 P)](#358)
@@ -29787,6 +29787,26 @@ Les déclarations sont produites auprès du service des impôts du lieu de situa
 
 
 ##### d : Majoration de la valeur locative cadastrale des terrains constructibles<a id=355></a>
+
+###### Article 321 H
+
+I. ― Pour l'application de la majoration prévue par l'article 1396 du code général des impôts, la valeur forfaitaire moyenne
+au mètre carré est fixée à 184 € en zone A, 96 € en zone B1, 68 € en zone B2 et 34 € en zone C. 
+
+Pour l'application du présent article, les zones A, B1, B2 et C sont celles prévues pour l'application des articles 2
+terdecies B et 2 terdecies C de l'annexe III au code précité et définies par arrêté des ministres chargés du budget et du
+logement. 
+
+II. ― Les valeurs définies au I sont indexées, chaque année, en fonction de l'indice des prix à la consommation hors tabac,
+tel qu'il est estimé dans le rapport économique, social et financier, présenté en annexe au projet de loi de finances établi
+pour cette même année.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2007-1788 du 19 décembre 2007 - art. 1
+
 
 ###### Article 322
 
