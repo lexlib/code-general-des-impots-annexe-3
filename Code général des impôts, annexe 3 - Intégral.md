@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-02-01
+Version Consolidée au 2008-02-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -23458,34 +23458,40 @@ _Cite_:
 
 Le montant de la majoration mentionnée au VI de l'article 302 bis K du code général des impôts est fixé comme suit :
 
-Passagers embarqués à destination de la France, d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie
-à l'accord sur l'Espace économique européen
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┓
+┃                                                                 │ PASSAGERS POUVANT bénéficier sans supplé-   │ AUTRES    ┃
+┃                                                                 │ ment de prix à bord de services auxquels    │ passagers ┃
+┃                                                                 │ l'ensemble des passagers ne peut accéder    │           ┃
+┃                                                                 │ gratuitement                                │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Passagers embarqués à destination de la France, d'un autre Etat │ 10 €                                        │ 1 €       ┃
+┃ membre de la Communauté européenne, d'un autre Etat partie à    │                                             │           ┃
+┃ l'accord sur l'Espace économique européen ou de la Confédéra-   │                                             │           ┃
+┃ tion suisse                                                     │                                             │           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Passagers embarqués à destination d'un autre Etat               │ 40 €                                        │ 4 €       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━┛
+</pre>
 
-PASSAGERS POUVANT bénéficier sans supplément de prix à bord de services auxquels l'ensemble des passagers ne peut accéder
-gratuitement : 10 euros
 
-AUTRES passagers : 1 euro
+**Nota:**
 
-Passagers embarqués à destination d'un autre Etat
-
-PASSAGERS POUVANT bénéficier sans supplément de prix à bord de services auxquels l'ensemble des passagers ne peut accéder
-gratuitement : 40 euros
-
-AUTRES passagers : 4 euros
+Dispositions devenues sans objet en conséquence de l'article 108-I [1°] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 302 bis K
-
-_Créé par_:
-
-  - Décret n°2006-663 du 6 juin 2006 - art. 1 () JORF 8 juin 2006 en vigueur le 1er juillet 2006
+  - Décret n°2008-173 du 22 février 2008 - art. 1
 
 **Liens**:
 
-  - HISTO: Edition du 1er janvier 2007
+  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 302 bis K
 
 
 #### Chapitre III<a id=253></a>
