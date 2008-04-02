@@ -1,6 +1,6 @@
 # Article 46 AGG
 
-I. - Pour l'application de l'article 199 decies F du code général des impôts, les contribuables sont tenus de joindre à leur
+I. – Pour l'application de l'article 199 decies F du code général des impôts, les contribuables sont tenus de joindre à leur
 déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé pour la première
 fois :
 
@@ -25,7 +25,7 @@ g) pour les logements mentionnés au b du 1 de l'article précité, l'engagement
 raison de douze semaines au minimum par année et pendant les neuf années suivant celle de l'achèvement des travaux ;
 
 h) une note sur papier libre dans laquelle le contribuable renonce à la faculté de déduire les dépenses afférentes aux
-travaux mentionnés au 1 de l'article 199 M decies F du code général des impôts, pour leur montant réel ou sous la forme d'une
+travaux mentionnés au 1 de l'article 199 decies F du code général des impôts, pour leur montant réel ou sous la forme d'une
 déduction de l'amortissement, pour la détermination des revenus catégoriels ainsi qu'au bénéfice des dispositions prévues à
 l'article 32 ou à l'article 50-0 du code précité ;
 
@@ -44,16 +44,16 @@ périodes d'occupation du logement que le propriétaire se réserve ;
 5° Une copie des factures des entreprises ayant réalisé les travaux. Les factures doivent mentionner l'adresse de réalisation
 des travaux, leur nature et leur montant.
 
-II. - Pour les meublés de tourisme définis au b du 1 de l'article 199 decies F du code général des impôts, les contribuables
+II. – Pour les meublés de tourisme définis au b du 1 de l'article 199 decies F du code général des impôts, les contribuables
 sont tenus de joindre chaque année à leur déclaration de revenus et pendant les neuf années couvertes par l'engagement de
 location la liste des occupants, la période et la durée d'occupation du logement.
 
-III. - En cas de changement d'exploitant de la résidence de tourisme ou du village résidentiel de tourisme classé pour les
+III. – En cas de changement d'exploitant de la résidence de tourisme ou du village résidentiel de tourisme classé pour les
 investissements mentionnés aux a et c du 1 de l'article 199 decies F du code général des impôts au cours de la période
 couverte par l'engagement, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement
 est intervenu une copie du bail conclu avec le nouvel exploitant comportant les mentions définies au 4° du I.
 
-IV. - Pour le bénéfice des dispositions du troisième alinéa du 4 de l'article 199 decies F du code général des impôts, le
+IV. – Pour le bénéfice des dispositions du troisième alinéa du 4 de l'article 199 decies F du code général des impôts, le
 conjoint survivant joint à la déclaration de revenus qu'il souscrit au titre de l'année du décès pour la période postérieure
 à cet événement une note établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants :
 
@@ -68,12 +68,14 @@ fraction de la période de neuf ans couverte par l'engagement initial et restant
 
 _Modifié par_:
 
-  - Décret n°2006-820 du 7 juillet 2006 - art. 5 () JORF 9 juillet 2006
+  - Décret n°2008-294 du 1er avril 2008 - art. 3
 
 _Cité par_:
 
   - Code du tourisme. - art. D421-3 (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des impôts, CGI. - art. 199 decies F
+  - Code général des impôts, CGI. - art. 32
+  - Code général des impôts, CGI. - art. 50-0
