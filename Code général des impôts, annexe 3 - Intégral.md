@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-04-16
+Version Consolidée au 2008-04-18
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -29387,48 +29387,41 @@ A défaut de cette mention, l'écrit est considéré comme non timbré.
 
 ###### Article 313-0 BR
 
-La déclaration prévue au 3° de l'article 990 E du code général des impôts doit être déposée avant le 16 mai de chaque année.
+La déclaration prévue aux d et e du 3° de l'article 990 E du code général des impôts doit être déposée avant le 16 mai de
+chaque année.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-819 du 14 mai 1993 - art. 1 () JORF 15 mai 1993
+  - Décret n°2008-354 du 15 avril 2008 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°93-1127 1993-09-24
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
+  - Code général des impôts, CGI. - art. 990 E
 
 
 ###### Article 313-0 BR bis
 
-L'engagement prévu au 3° de l'article 990 E du code général des impôts est déposé :
+L'engagement prévu au d du 3° de l'article 990 E du code général des impôts est déposé : 
 
-1. Pour les personnes morales qui ont leur siège en France, et pour les autres personnes morales qui exercent leur activité
-en France dans un ou plusieurs établissements, au service des impôts du lieu du principal établissement ;
+1. Pour les entités juridiques qui ont leur siège en France, et pour les autres entités juridiques qui exercent leur activité
+en France dans un ou plusieurs établissements, au service des impôts du lieu du principal établissement ; 
 
-2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
-plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, au service des impôts du lieu
-de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, l'engagement est déposé
-au service des impôts des entreprises étrangères.
+2. Pour les entités juridiques, autres que celles visées au 1, qui, directement ou par entité juridique interposée, possèdent
+un ou plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, au service des impôts du
+lieu de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, l'engagement est
+déposé au service des impôts des entreprises étrangères.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2006
-
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+  - Décret n°2008-354 du 15 avril 2008 - art. 2
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-356 2006-03-24
+  - Code général des impôts, CGI. - art. 990 E
 
 
 ## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes<a id=341></a>
