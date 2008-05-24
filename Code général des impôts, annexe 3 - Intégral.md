@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2008-05-25
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -421,7 +421,7 @@ Version Consolidée au 2008-05-01
           - [II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires (art. 347 à 348)](#418)
           - [III : Commission départementale de conciliation (art. 349 à 350 C)](#419)
         - [Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées (art. 350 decies à 350 undecies)](#420)
-        - [Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques (art. 350 terdecies)](#421)
+        - [Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques (art. 350 quaterdecies à 350 terdecies)](#421)
   - [Livre II : Recouvrement de l'impôt (art. 357 A à 446 ter B)](#422)
     - [Chapitre premier : Paiement de l'impôt (art. 357 A à 406 terdecies)](#423)
       - [Section I : Impôts directs et taxes assimilées (art. 357 A à 383 ter)](#424)
@@ -35714,6 +35714,30 @@ _Cite_:
 
 
 #### Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques<a id=421></a>
+
+###### Article 350 quaterdecies
+
+Peuvent consulter sur place les registres et documents de toute nature, dans les conditions prévues au IV de l'article L.
+16-0 BA du livre des procédures fiscales, les fonctionnaires de catégories A et B qui ont compétence pour : 
+
+1° Fixer les bases d'imposition, liquider les impôts, taxes et redevances et proposer les rectifications au sens de l'article
+350 terdecies ; 
+
+2° Rechercher les manquements aux règles de facturation dans les conditions prévues aux articles R. 80 F-1 à R. 80 F-3 du
+livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-482 du 22 mai 2008 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 350 terdecies
+  - Livre des procédures fiscales - art. L16-0 BA
+  - Livre des procédures fiscales - art. R80 F-1
+
 
 ###### Article 350 terdecies
 
