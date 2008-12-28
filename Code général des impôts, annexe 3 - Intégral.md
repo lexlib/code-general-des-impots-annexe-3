@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-12-27
+Version Consolidée au 2008-12-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -58,13 +58,13 @@ Version Consolidée au 2008-12-27
                 - [3° : Obligations particulières au régime simplifié (art. 38 sexdecies RB à 38 sexdecies RB bis)](#55)
               - [F : Cultures agréées dans les départements d'outre-mer (art. 38 sexdecies S à 38 sexdecies T)](#56)
               - [G : Transmission ou rachat des droits d'un associé personne physique dans une société exerçant une activité agricole (art. 38 sexdecies U à 38 sexdecies W)](#57)
-            - [VI : Traitements, salaires, pensions et rentes viagères (art. 38 septdecies à 39 F)](#58)
+            - [VI : Traitements, salaires, pensions et rentes viagères (art. 38 septdecies à 39 E)](#58)
               - [A : Heures supplémentaires et complémentaires (art. 38 septdecies)](#59)
               - [B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires (art. 38 septdecies A à 38 septdecies E)](#60)
               - [C : Rachat d'une entreprise par ses salariés (art. 38 septdecies F à 38 septdecies G)](#61)
                 - [1° : Dispositions applicables aux emprunts contractés entre le 15 avril 1987 et le 31 décembre 1991 (art. 38 septdecies F à 38 septdecies G)](#62)
-              - [D : Obligations des employeurs (art. 39 à 39 F)](#63)
-                - [Déclaration annuelle de données sociales (art. 39 C à 39 F)](#64)
+              - [D : Obligations des employeurs (art. 39 à 39 E)](#63)
+                - [Déclaration annuelle de données sociales (art. 39 C à 39 E)](#64)
             - [VII : Bénéfices des professions non commerciales (art. 40 A à 41-0 bis F)](#65)
               - [C : Déclarations spéciales (art. 40 A à 41-0 bis)](#66)
               - [D : Option pour les créances acquises et les dépenses engagées (art. 41-0 bis A à 41-0 bis C)](#67)
@@ -7262,36 +7262,32 @@ _Cite_:
 
 ###### Article 39 C
 
-La déclaration mentionnée à l'article 87 du code général des impôts est souscrite sur un formulaire unique dénommé
-"déclaration annuelle de données sociales".
+La déclaration mentionnée à l'article 87 du code général des impôts est souscrite sur un formulaire unique dénommé "
+déclaration annuelle de données sociales ".
 
 A compter de l'année fixée pour chaque département par arrêté du Premier ministre sur proposition des ministres concernés,
-cette déclaration est adressée à un service unique, dénommé "Centre de transfert de données sociales", créé en application de
-l'article 87 A du même code.
+cette déclaration est adressée à un service unique, dénommé " Centre de transfert de données sociales ", créé en application
+de l'article 87 A du même code. 
 
-Les dispositions du présent article ne s'appliquent pas aux déclarations mentionnées aux articles 39 B et 47 A.
+Les dispositions du présent article ne s'appliquent pas aux déclarations mentionnées aux 2° et 3° de l'article 39 B et à
+l'article 47 A.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 87, 87 A, 39 B, 47 A
-
-_Créé par_:
-
-  - Décret n°85-1343 1985-12-16 art. 1, art. 2 , art. 3 JORF 20 décembre 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
+  - Décret n°2008-1430 du 22 décembre 2008 - art. 1
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. R133-14 (VD)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 juillet 1986
+  - Code général des impôts, annexe 3, CGIAN3. - art. 47 A
+  - Code général des impôts, CGI. - art. 39 B
+  - Code général des impôts, CGI. - art. 87
+  - Code général des impôts, CGI. - art. 87 A
 
 
 ###### Article 39 D
@@ -7335,36 +7331,6 @@ _Créé par_:
 _Codifié par_:
 
   - Décret n°86-1086 1986-10-07
-
-**Liens**:
-
-  - HISTO: Edition du 31 juillet 1986
-
-
-###### Article 39 F
-
-Dans les départements où la procédure instituée par l'article 39 C n'est pas devenue obligatoire, les dispositions de
-l'article 87 du code général des impôts demeurent applicables pour le dépôt des déclarations autres que celles mentionnées au
-articles 39 B et 47 A.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 87
-  - CGIAN3 39 C, 39 B, 47 A
-
-_Créé par_:
-
-  - Décret n°85-1344 du 16 décembre 1985 - art. 2 (V) JORF 20 décembre 1985
-
-_Codifié par_:
-
-  - Décret n°86-1086 1986-10-07
-
-_Abrogé par_:
-
-  - Décret n°2008-1430 du 22 décembre 2008 - art. 1
 
 **Liens**:
 
