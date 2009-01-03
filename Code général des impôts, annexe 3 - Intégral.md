@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -120,7 +120,7 @@ Version Consolidée au 2009-01-01
             - [13° : Réduction apportée au titre de l'aide accordée à certains créateurs d'entreprise (art. 46 AY)](#117)
             - [14° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures (art. 46 AZ à 46 AZ bis)](#118)
             - [15° : Crédit d'impôt au titre des dépenses de remplacement pour congé de certains exploitants agricoles (art. 46 AZA à 46 AZA ter)](#119)
-            - [16° : Crédit d'impôt au titre des intérêts d'emprunt supportés pour l'acquisition ou la construction de l'habitation principale (art. 46 AZA sexies)](#120)
+            - [16° : Crédit d'impôt au titre des intérêts d'emprunt supportés pour l'acquisition ou la construction de l'habitation principale (art. 46 AZA septies à 46 AZA sexies)](#120)
             - [18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques (art. 46 AZB)](#121)
           - [Section IV : Obligations incombant à certaines sociétés immobilières (art. 46 B à 46 D)](#122)
           - [Section V : Disposition applicable en cas de perte du statut fiscal des sociétés de personnes (art. 46 E)](#123)
@@ -12669,6 +12669,25 @@ _Cite_:
 
 
 ##### 16° : Crédit d'impôt au titre des intérêts d'emprunt supportés pour l'acquisition ou la construction de l'habitation principale<a id=120></a>
+
+###### Article 46 AZA septies
+
+Les logements mentionnés au troisième alinéa du III de l'article 200 quaterdecies du code général des impôts s'entendent de
+ceux qui répondent aux conditions d'attribution du label " bâtiment basse consommation énergétique, BBC 2005 ” mentionné au
+5° de l'article 2 de l'arrêté du 8 mai 2007 relatif au contenu et aux conditions d'attribution du label " haute performance
+énergétique ”.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 3 mai 2007
+  - Code général des impôts, CGI. - art. 200 quaterdecies
+
+_Créé par_:
+
+  - Décret n°2009-1 du 2 janvier 2009 - art. 1
+
 
 ###### Article 46 AZA sexies
 
