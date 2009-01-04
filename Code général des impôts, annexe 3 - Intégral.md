@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-01-04
+Version Consolidée au 2009-01-05
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -403,7 +403,7 @@ Version Consolidée au 2009-01-04
           - [Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles (art. 333 H bis à 333 H ter)](#400)
         - [Chapitre III : Enregistrement (art. 336 bis à 344 undecies)](#401)
           - [Section I : Contribution alimentant le fonds commun des accidents du travail agricole (art. 336 bis à 336 ter)](#402)
-          - [Section III : Taxes perçues au profit de l'Office des migrations internationales (art. 344 bis à 344 ter)](#403)
+          - [Section III : Taxes perçues au profit de l'Office des migrations internationales (art. 344 quinquies à 344 quinquies A)](#403)
           - [Section V : Fonds national de garantie des calamités agricoles (art. 344 undecies)](#404)
     - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 344-00 A à 350 terdecies)](#405)
       - [Titre premier : Assiette et contrôle de l'impôt (art. 344-00 A à 344 M)](#406)
@@ -34067,63 +34067,6 @@ _Cite_:
 
 ##### Section III : Taxes perçues au profit de l'Office des migrations internationales<a id=403></a>
 
-###### Article 344 bis
-
-Cet article reproduit les dispositions de l'article D. 341-1 du code du travail :
-
-"Le montant de la taxe prévue à l'article L. 341-8 du code du travail est perçu lors de la remise d'un titre de séjour valant
-autorisation de travail ou portant mention de celle-ci à un étranger titulaire d'un tel titre et en remplacement de celui-ci.
-
-Les changements de validité professionnelle ou géographique sur la carte de séjour temporaire portant la mention "salarié" ne
-donnent pas lieu à la perception de la taxe.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2005-330 2005-04-06
-
-_Modifié par_:
-
-  - Décret n°2005-330 du 6 avril 2005 - art. 4 () JORF 8 avril 2005
-
-_Abrogé par_:
-
-  - Décret n°2009-2 du 2 janvier 2009 - art. 2
-
-_Cite_:
-
-  - Code du travail - art. D341-1
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 344 quater
-
-Le montant de la taxe prévue à l'article 1635-0 bis du code général des impôts est fixé à 275 euros. Ce montant est de 55
-euros pour les étrangers auxquels est délivrée une carte de séjour temporaire portant la mention "étudiant".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1635-0 bis
-
-_Modifié par_:
-
-  - Décret n°2007-320 du 8 mars 2007 - art. 1 () JORF 10 mars 2007
-
-_Abrogé par_:
-
-  - Décret n°2009-2 du 2 janvier 2009 - art. 2
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
-
 ###### Article 344 quinquies
 
 La taxe mentionnée à l'article 1635 bis du code général des impôts est recouvrée conformément à l'article D. 341-3 du code du
@@ -34181,35 +34124,6 @@ _Modifié par_:
 
   - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
   - HISTO: Edition du 1er janvier 2006
-
-
-###### Article 344 ter
-
-Le montant de la taxe prévue à l'article 1635 bis du code général des impôts est fixé à 70 euros.
-
-Les ressortissants des Etats parties contractantes à la Charte sociale européenne sont exonérés du versement de cette taxe.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 1635 bis
-
-_Modifié par_:
-
-  - Décret n°2007-321 du 8 mars 2007 - art. 1 () JORF 10 mars 2007
-
-_Abrogé par_:
-
-  - Décret n°2009-2 du 2 janvier 2009 - art. 2
-
-_Cité par_:
-
-  - Code du travail - art. D5221-38 (Ab)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section V : Fonds national de garantie des calamités agricoles<a id=404></a>
