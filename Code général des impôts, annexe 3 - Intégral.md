@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-02-02
+Version Consolidée au 2009-02-21
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -486,7 +486,7 @@ Version Consolidée au 2009-02-02
         - [III : Droits d'enregistrement (art. 406 A 27)](#483)
     - [Chapitre II : Procédures (art. 415 à 416-0 bis)](#484)
       - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects (art. 415 à 416-0 bis)](#485)
-    - [Chapitre II bis : Sûretés et privilèges (art. 416 bis)](#486)
+    - [Chapitre II bis : Sûretés et privilèges (art. 416 bis à 416 ter)](#486)
     - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#487)
       - [Section I : Juridiction contentieuse (art. 416 E)](#488)
         - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#489)
@@ -39131,45 +39131,36 @@ _Abrogé par_:
 
 ###### Article 416 bis
 
-1. La publicité du privilège est obligatoire lorsque les sommes dues par les redevables mentionnés au 1 de l'article 1929
-quater du code général des impôts dépassent, à la fin d'un semestre civil :
-
-1° 6 000 Euros pour ceux dont le chiffre d'affaires ou le montant des recettes n'excède pas 763 000 Euros hors taxes ;
-
-2° 10 000 Euros pour ceux dont le chiffre d'affaires ou le montant des recettes est supérieur au seuil mentionné au 1°.
-
-2. Le chiffre d'affaires ou le montant des recettes hors taxes retenu pour l'application du 1 est celui porté sur la
-déclaration de résultats prévue aux articles 53 A, 74 A, 97 et au 1 de l'article 223 du code général des impôts, afférente
-à :
-
-a) L'exercice clos au cours de l'avant-dernière année civile précédente pour la publication au titre du premier semestre de
-l'année courante ;
-
-b) L'exercice clos au cours de la dernière année civile précédente pour la publication au titre du second semestre de l'année
-courante.
-
-3. L'inscription du privilège est effectuée dès lors que les sommes dues atteignent 6 000 Euros à la fin du semestre civil
-dans les cas suivants :
-
-1° Lorsque les redevables n'ont pas déposé les déclarations mentionnées au 2 qu'ils étaient tenus de souscrire ;
-
-2° Lorsqu'ils ne sont pas tenus au dépôt de ces déclarations ;
-
-3° Lorsqu'ils ont débuté leur activité dans l'année courante ou au cours de l'année civile précédente.
+Le seuil de publicité obligatoire mentionné au premier alinéa du 4 de l'article 1929 quater du code général des impôts est
+fixé à 15 000 €.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2009-197 du 18 février 2009 - art. 1
+
 _Cite_:
 
-  - CGI 1929 quater, 223, 53 A, 74 A, 97
+  - Code général des impôts, CGI. - art. 1929 quater
+
+
+###### Article 416 ter
+
+Le comptable de la direction générale des finances publiques met fin au plan d'apurement échelonné mentionné au second alinéa
+du 4 de l'article 1929 quater du code général des impôts par lettre recommandée avec accusé de réception et procède à
+l'inscription du privilège du Trésor dans le délai prévu au même alinéa du 4 de l'article précité. Le délai court à compter
+de la réception de cette dénonciation par le redevable.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2007-1356 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+  - Décret n°2009-197 du 18 février 2009 - art. 2
 
-_Codifié par_:
+_Cite_:
 
-  - L'article sera codifié ultérieurement
+  - Code général des impôts, CGI. - art. 1929 quater
 
 
 ## Chapitre III : Dégrèvements et restitutions d'impôts<a id=487></a>
