@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-03-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR bis)](#2)
@@ -90,7 +90,7 @@ Version Consolidée au 2009-03-28
               - [1° : Informations complémentaires à joindre aux déclarations des contribuables relevant de la Direction des grandes entreprises (art. 41-00 A)](#87)
               - [2° : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale (art. 41-0 A)](#88)
               - [2° bis : Indemnité compensatrice versée aux agents généraux d'assurances à l'occasion du départ à la retraite (art. 41-00 A bis)](#89)
-              - [3° : Plus-values réalisées à l'occasion d'apports en sociétés (art. 41-0 A bis à 41-0 A bis A)](#90)
+              - [3° : Plus-values réalisées à l'occasion d'apports en sociétés (art. 41-0 A bis à 41-0 A bis B)](#90)
               - [3° bis : Plus-values réalisées sur des droits ou parts de sociétés de personnes dans lesquelles les contribuables exercent leur activité professionnelle (art. 41-0 A ter)](#91)
               - [4° : Versements à fonds perdus en faveur de la construction (art. 41 A à 41 D)](#92)
               - [5° : Obligations des gestionnaires de fonds salariaux (art. 41 DA)](#93)
@@ -9782,6 +9782,44 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 151 octies B
   - Code général des impôts, CGI. - art. 41 (V)
+
+
+###### Article 41-0 A bis B
+
+L'état dont la production est prévue par le cinquième alinéa de l'article 151 octies C du code général des impôts mentionne
+les éléments suivants : 
+
+a) L'adresse du siège de la direction ou du principal établissement de la société ou de l'organisme transformé, sa forme, sa
+dénomination sociale et le numéro d'identité qui lui a été attribué dans les conditions du premier alinéa de l'article R.
+123-221 du code de commerce ; 
+
+b) La liste des associés de la société ou de l'organisme transformé à la date de la transformation ; 
+
+c) La date de la transformation ; 
+
+d) L'adresse du principal établissement ou du siège de la direction de l'association d'avocats, sa dénomination et le numéro
+d'identité qui lui a été attribué dans les conditions du premier alinéa de l'article R. 123-221 du code de commerce ; 
+
+e) La liste des associés et la proportion de leurs droits dans l'association, à la date de la transformation et au 31
+décembre de l'année d'imposition ainsi que, le cas échéant, les événements ayant conduit à une variation de la proportion des
+droits dans l'association au cours de l'année d'imposition ; 
+
+f) Le nom de l'associé déclarant, son adresse, le nombre de parts qu'il détenait dans la société ou l'organisme transformé et
+la plus-value ou moins-value constatée lors de la transformation ; 
+
+g) Le montant, la nature et l'origine des plus-values dont le report d'imposition est maintenu au nom de l'associé déclarant
+lors de la transformation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-336 du 26 mars 2009 - art. 1
+
+_Cite_:
+
+  - Code de commerce - art. R123-221
+  - Code général des impôts, CGI. - art. 151 octies C
 
 
 ##### 3° bis : Plus-values réalisées sur des droits ou parts de sociétés de personnes dans lesquelles les contribuables exercent leur activité professionnelle<a id=91></a>
