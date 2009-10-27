@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-10-19
+Version Consolidée au 2009-10-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -30218,64 +30218,63 @@ _Cite_:
 
 ###### Article 315-0 bis A
 
-Les locaux entrant dans le champ d'application de l'article 1384 D du code général des impôts s'entendent :
+Les locaux entrant dans le champ d'application de l'article 1384 D du code général des impôts s'entendent des locaux
+suivants : 
 
-1° Des locaux acquis à compter du 1er janvier 1999 et affectés à l'hébergement d'urgence des personnes défavorisées
-mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement, ne
-bénéficiant pas de l'aide sociale prévue à l'article L. 345-1 du code de l'action sociale et des familles et n'étant pas
-titulaires des aides prévues aux articles L. 351-1 du code de la construction et de l'habitation et L. 542-1, L. 755-21 et L.
-831-1 du code de la sécurité sociale ;
+1° Locaux affectés à l'hébergement temporaire ou d'urgence des personnes défavorisées visées au II de l'article L. 301-1 du
+code de la construction et de l'habitation relevant : 
 
-2° Des locaux qui ont fait l'objet de travaux d'aménagement achevés à compter du 1er janvier 1999 en vue soit de les affecter
-à l'hébergement d'urgence des personnes visées au 1°, soit d'améliorer l'hébergement existant.
+a) Des centres d'hébergement et de réinsertion sociale prévus au 8° du I de l'article L. 312-1 du code de l'action sociale et
+des familles ; 
+
+b) Des structures dénommées " lits halte soins santé " prévues au 9° du I de l'article L. 312-1 du code de l'action sociale
+et des familles ; 
+
+c) Des centres d'hébergement d'urgence destinés aux personnes sans domicile visés à l'article L. 322-1 du code de l'action
+sociale et des familles. 
+
+2° Acquis ou construits à compter du 1er janvier 1999 ou qui ont fait l'objet de travaux d'aménagement achevés à compter du
+1er janvier 1999 en vue soit de les affecter à l'hébergement temporaire ou d'urgence conformément au 1°, soit de réhabiliter
+totalement des structures existantes.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 1384 D
-  - Loi n°90-449 1990-05-31 art. 1
-  - Code de l'action sociale et des familles - art. L345-1 (M)
-  - Code de la construction et de l'habitation. - art. L351-1 (V)
-
-_Créé par_:
-
-  - Décret n°2001-344 du 19 avril 2001 - art. 1 () JORF 21 avril 2001
+  - Décret n°2009-1293 du 26 octobre 2009 - art. 2
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 315-0 bis B (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2002
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. L322-1 (V)
+  - Code de la construction et de l'habitation. - art. L301-1 (V)
 
 
 ###### Article 315-0 bis B
 
 Les locaux mentionnés à l'article 315-0 bis A doivent faire l'objet d'une convention signée par le propriétaire ou le
 gestionnaire des locaux et le représentant de l'Etat dans le département. Cette convention doit mentionner la durée
-d'affectation du local à l'hébergement d'urgence des personnes citées au 1° de l'article 315-0 bis A et contenir un projet
-social formalisé relatif notamment aux modalités d'accueil et de gestion, à la situation et à l'accompagnement social des
-personnes accueillies.
+d'affectation du local à l'hébergement temporaire ou d'urgence des personnes citées au 1° de l'article 315-0 bis A et
+contenir un projet social formalisé relatif notamment aux modalités d'accueil et de gestion, à la situation et à
+l'accompagnement social des personnes accueillies.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2009-1293 du 26 octobre 2009 - art. 2
+
 _Cite_:
 
-  - CGI 315-0 bis A
-
-_Créé par_:
-
-  - Décret n°2001-344 du 19 avril 2001 - art. 1 () JORF 21 avril 2001
+  - Code général des impôts, annexe 3, CGIAN3. - art. 315-0 bis A
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 315-0 bis C (V)
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article 315-0 bis C
@@ -30283,34 +30282,31 @@ _Cité par_:
 Pour bénéficier de l'exonération prévue à l'article 1384 D du code général des impôts, le redevable de la taxe foncière sur
 les propriétés bâties doit adresser au service des impôts du lieu de situation des biens une déclaration conforme au modèle
 établi par l'administration comportant tous les éléments permettant leur identification, accompagnée de la convention
-mentionnée à l'article 315-0 bis B.
+mentionnée à l'article 315-0 bis B. 
 
-Pour les immeubles mentionnés au 1° de l'article 315-0 bis A, la déclaration doit indiquer la date de décision et de
-versement par l'Etat de l'aide à la création d'hébergements d'urgence et être accompagnée des pièces justificatives
-correspondantes.
+Pour les immeubles acquis ou construits, la déclaration doit indiquer la date de décision et de versement par l'Etat ou le
+délégataire de l'aide à la création d'hébergements temporaire ou d'urgence et être accompagnée des pièces justificatives
+correspondantes. 
 
-Pour les immeubles mentionnés au 2° de l'article 315-0 bis A, la déclaration doit préciser la date d'achèvement des travaux
-d'aménagement ainsi que la date de décision et de versement par l'Etat de l'aide à la création d'hébergements d'urgence. Elle
-doit être accompagnée des pièces justificatives.
+Pour les immeubles ayant fait l'objet de travaux d'aménagement, la déclaration doit préciser la date d'achèvement des travaux
+ainsi que la date de décision et de versement par l'Etat, le délégataire ou l'Agence nationale pour l'habitat de l'aide à la
+création d'hébergements temporaire ou d'urgence. Elle doit être accompagnée des pièces justificatives.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - CGI 1384 D, 315-0 bis B, 315-0 bis A
-
-_Créé par_:
-
-  - Décret n°2001-344 du 19 avril 2001 - art. 1 () JORF 21 avril 2001
+  - Décret n°2009-1293 du 26 octobre 2009 - art. 2
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 315 bis (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 315 ter (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2002
+  - Code général des impôts, annexe 3, CGIAN3. - art. 315-0 bis B (V)
+  - Code général des impôts, CGI. - art. 1384 D
 
 
 ##### 3° : Zones franches urbaines<a id=361></a>
