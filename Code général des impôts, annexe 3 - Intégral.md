@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-02-13
+Version Consolidée au 2010-03-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -108,7 +108,7 @@ Version Consolidée au 2010-02-13
             - [II sexies : Epargne retraite (art. 41 ZZ bis à 41 ZZ ter)](#105)
             - [II septies : Compte épargne codéveloppement (art. 41 ZZ quinquies)](#106)
             - [III : Présentation et contenu des déclarations (art. 42 à 46)](#107)
-          - [Section III : Calcul de l'impôt (art. 46 A à 46 AZB)](#108)
+          - [Section III : Calcul de l'impôt (art. 46 A à 46 AZD)](#108)
             - [1° : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France (art. 46 A)](#109)
             - [2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme (art. 46 AGD à 46 AGG)](#110)
             - [2° bis : Réduction d'impôt accordée au titre de certains investissements forestiers (art. 46 AGH à 46 AGK)](#111)
@@ -125,7 +125,7 @@ Version Consolidée au 2010-02-13
             - [14° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures (art. 46 AZ à 46 AZ bis)](#122)
             - [15° : Crédit d'impôt au titre des dépenses de remplacement pour congé de certains exploitants agricoles (art. 46 AZA à 46 AZA ter)](#123)
             - [16° : Crédit d'impôt au titre des intérêts d'emprunt supportés pour l'acquisition ou la construction de l'habitation principale (art. 46 AZA septies à 46 AZA sexies)](#124)
-            - [18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques (art. 46 AZB)](#125)
+            - [18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques (art. 46 AZB à 46 AZD)](#125)
           - [Section IV : Obligations incombant à certaines sociétés immobilières (art. 46 B à 46 D)](#126)
           - [Section V : Disposition applicable en cas de perte du statut fiscal des sociétés de personnes (art. 46 E)](#127)
         - [Chapitre I bis : Impôt sur les sociétés (art. 46 bis à 46 quater-0 ZZ septies)](#128)
@@ -13415,6 +13415,90 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 41 I
   - Code général des impôts, CGI. - art. 199 duovicies
   - Code du patrimoine - art. L441-1
+
+
+###### Article 46 AZD
+
+I.-Pour l'application de l'article 199 sexvicies du code général des impôts, le contribuable joint à sa déclaration de
+revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé : 
+
+1° Une note annexe, établie conformément au modèle fixé par l'administration, qui comporte les éléments suivants : 
+
+a. Ses identité et adresse ; 
+
+b.L'adresse du logement concerné ; 
+
+c. Pour les logements acquis en l'état futur d'achèvement ou les logements achevés depuis au moins quinze ans, la date
+d'achèvement du logement ; 
+
+d. Le nom et le type d'établissement ou de résidence dans lequel le logement est situé ; 
+
+e.L'engagement de louer le logement meublé pendant une durée de neuf ans au moins à l'exploitant de l'établissement ou de la
+résidence ; 
+
+f. Le prix d'acquisition ou de revient du logement retenu pour la détermination de la base de la réduction d'impôt ; 
+
+2° Une copie du bail conclu avec l'exploitant de l'établissement ou de la résidence mentionnant la date de prise d'effet de
+la location ainsi que, s'il y a lieu, la durée totale, par année civile, des périodes d'occupation du logement que le
+propriétaire se réserve ; 
+
+3° Une copie de l'acte authentique d'acquisition du logement ; 
+
+4° Pour les logements achevés depuis au moins quinze ans ayant fait l'objet de travaux de réhabilitation : 
+
+a. Les états descriptifs du logement mentionnés aux 1° et 2° de l'article 2 quindecies C. La personne mentionnée au premier
+alinéa de cet article qui établit ces états fournit également une attestation indiquant que l'ensemble des performances
+techniques mentionnées au II de l'article 2 quindecies B est respecté, dont au moins une d'entre elles à la suite des travaux
+de réhabilitation concernés ; 
+
+b. Lorsqu'ils sont requis, les états prévus aux articles L. 1334-5 et L. 1334-13 du code de la santé publique fournis par le
+vendeur lors de la promesse de vente ou annexés à l'acte authentique de vente du logement ; 
+
+5° Pour les logements achevés depuis au moins quinze ans qui font l'objet de travaux de réhabilitation : 
+
+a. Les états et attestation mentionnés au 4° ; 
+
+b. Lorsque le logement fait l'objet de travaux de la part de l'acquéreur, une copie des factures des entreprises ayant
+réalisé les travaux ; ces factures doivent mentionner l'adresse de réalisation des travaux, leur nature et leur montant ; 
+
+6° Pour les logements situés dans les résidences de tourisme, une copie de l'arrêté préfectoral portant classement de la
+résidence ; 
+
+7° Pour les logements situés dans des résidences avec services pour personnes âgées ou handicapées, une copie attestant de la
+délivrance de l'agrément prévue à l'article L. 7232-3 du code du travail, par le gestionnaire des services. 
+
+II.-En cas de changement d'exploitant au cours de la période couverte par l'engagement de location, le contribuable joint à
+sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du bail conclu avec le
+nouvel exploitant comportant les mentions définies au 2° du I. 
+
+III.-Pour l'application du dernier alinéa du III de l'article 199 sexvicies du code général des impôts, le conjoint survivant
+joint à la déclaration des revenus qu'il souscrit au titre de l'année du décès de son conjoint, pour la période postérieure à
+cet événement, une note établie conformément à un modèle fixé par l'administration qui comporte l'engagement de louer le
+logement meublé à l'exploitant de l'établissement ou de la résidence pour la fraction de la période de neuf ans couverte par
+l'engagement de location initial restant à courir à la date du décès. 
+
+En cas de changement d'exploitant de l'établissement ou de la résidence, les dispositions du II sont applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-222 du 3 mars 2010 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2011-645 du 9 juin 2011 - art. 3
+
+_Nouveaux textes_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA nonies (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 199 sexvicies
+  - Code du travail - art. L7232-3
+  - Code de la santé publique - art. L1334-13
+  - Code de la santé publique - art. L1334-5
 
 
 ##### Section IV : Obligations incombant à certaines sociétés immobilières<a id=126></a>
