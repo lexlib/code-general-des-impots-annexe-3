@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-04-23
+Version Consolidée au 2010-04-29
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -2532,27 +2532,20 @@ _Cite_:
 
 ###### Article 2 E
 
-Pour l'application des dispositions du troisième alinéa de l'article 38 bis C du code général des impôts, le taux d'intérêt
-du marché s'entend de la moyenne arithmétique des taux médians définis ci-après, établis par chacun des établissements de
-crédit qui interviennent de manière significative sur les marchés.
-
-Le taux médian est égal à la moyenne entre, d'une part, le taux fixe que chaque établissement concerné accepte de recevoir et
-d'autre part, le taux fixe qu'il accepte de payer. Ces taux sont ceux pratiqués sur chaque marché dont les opérations sont de
-même durée et libellées dans la même devise.
+Pour l'application des dispositions du troisième alinéa de l'article 38 bis C du code général des impôts, les taux d'intérêt
+du marché retenus comme taux d'actualisation des flux de trésorerie futurs sont les taux de coupons zéro, correspondant à
+chaque échéance des flux à payer ou à recevoir, calculés à partir des taux d'intérêt des contrats d'échange de taux d'intérêt
+ou de devises.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2010-408 du 26 avril 2010 - art. 1
+
 _Cite_:
 
-  - CGI 38 bis C
-
-_Créé par_:
-
-  - Décret n°96-759 du 23 août 1996 - art. 1 () JORF 30 août 1996
-
-**Liens**:
-
-  - HISTO: Edition du 11 avril 1997
+  - Code général des impôts, CGI. - art. 38 bis C (V)
 
 
 ##### A quater : Entreposage de produits agricoles<a id=16></a>
