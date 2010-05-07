@@ -6,7 +6,7 @@ sous les sanctions prévus par les articles 1679, 1679 A, 1679 bis, 1727, 1728, 
 agricoles énumérés ci-après :
 
 Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à
-l'article L. 771-1 du code rural ;
+l'article L. 771-1 du code rural et de la pêche maritime ;
 
 Caisses de crédit agricole mutuel ;
 
@@ -27,15 +27,23 @@ administratifs et leurs ateliers de réparation.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 231, 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1754
-  - CGIAN3 51, 369, 374 1
-  - Code rural L771-1
-
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 3
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 374 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 51 (V)
+  - Code général des impôts, CGI. - art. 1679 (VT)
+  - Code général des impôts, CGI. - art. 1679 bis (V)
+  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 1731 (V)
+  - Code général des impôts, CGI. - art. 1754 (V)
+  - Code général des impôts, CGI. - art. 231 (V)
+  - Code rural - art. L771-1 (V)
 
 _Cité par_:
 
