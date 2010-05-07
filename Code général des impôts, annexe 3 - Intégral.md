@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -6282,25 +6282,25 @@ code général des impôts sont les suivants :
 
 1° Aléas climatiques et naturels ayant affecté l'exploitation : 
 
-a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code rural ; 
+a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code rural et de la pêche maritime ; 
 
-b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-3 du code rural ; 
+b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-3 du code rural et de la pêche maritime ; 
 
 c) Catastrophe naturelle, constatée dans les conditions prévues à l'article L. 125-1 du code des assurances ; 
 
 2° Aléas sanitaires : 
 
 a) Maladie ou suspicion de maladie des animaux de l'exploitation ayant fait l'objet d'un arrêté portant déclaration
-d'infection en application de l'article L. 223-8 du code rural ou d'une indemnisation prévue à l'article L. 221-2 du code
-rural ; 
+d'infection en application de l'article L. 223-8 du code rural et de la pêche maritime ou d'une indemnisation prévue à
+l'article L. 221-2 du même code ; 
 
 b) Evénement ayant justifié l'application sur les productions animales ou végétales de l'exploitant de mesures de police
-administrative prévues aux articles L. 234-4, L. 251-2 et L. 251-9 du code rural ; 
+administrative prévues aux articles L. 234-4, L. 251-2 et L. 251-9 du code rural et de la pêche maritime ; 
 
 c) Evénement ayant justifié l'application, sur l'exploitation conchylicole, de mesures de police sanitaire prévues par
 l'arrêté du 4 novembre 2008 relatif aux conditions de police sanitaire applicables aux animaux et aux produits d'aquaculture
 et relatif à la prévention de certaines maladies chez les animaux aquatiques et aux mesures de lutte contre ces maladies ou
-de mesures sanitaires prises en application de l'article R. 231-39 du code rural ; 
+de mesures sanitaires prises en application de l'article R. 231-39 du code rural et de la pêche maritime ; 
 
 d) Suspension, retrait ou modification de l'autorisation d'exploitation de cultures marines pour motif d'insalubrité non
 imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines, en application de l'article 15 du décret n°
@@ -6313,9 +6313,9 @@ III. Pour l'application de l'article 72 D bis du code général des impôts, les
 1° Pour la totalité de leur exploitation, une assurance contre l'incendie ; 
 
 2° Le cas échéant, une assurance contre l'ensemble des risques assurables à l'ouverture de l'exercice, définis à l'article D.
-361-33 du code rural, dont une fraction des primes ou cotisations est prise en charge par le Fonds national de garantie des
-calamités agricoles en application de l'article L. 361-8 du même code et dont les garanties sont fixées en fonction des
-normes de production habituellement admises dans la région considérée ; 
+361-33 du code rural et de la pêche maritime, dont une fraction des primes ou cotisations est prise en charge par le Fonds
+national de garantie des calamités agricoles en application de l'article L. 361-8 du même code et dont les garanties sont
+fixées en fonction des normes de production habituellement admises dans la région considérée ; 
 
 3° Et, selon le cas : 
 
@@ -6346,7 +6346,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2009-391 du 7 avril 2009 - art. 1
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ##### Régime réel simplifié<a id=49></a>
@@ -22003,7 +22003,7 @@ sous les sanctions prévus par les articles 1679, 1679 A, 1679 bis, 1727, 1728, 
 agricoles énumérés ci-après :
 
 Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à
-l'article L. 771-1 du code rural ;
+l'article L. 771-1 du code rural et de la pêche maritime ;
 
 Caisses de crédit agricole mutuel ;
 
@@ -22024,15 +22024,23 @@ administratifs et leurs ateliers de réparation.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 231, 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1754
-  - CGIAN3 51, 369, 374 1
-  - Code rural L771-1
-
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 3
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 374 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 51 (V)
+  - Code général des impôts, CGI. - art. 1679 (VT)
+  - Code général des impôts, CGI. - art. 1679 bis (V)
+  - Code général des impôts, CGI. - art. 1727 (V)
+  - Code général des impôts, CGI. - art. 1731 (V)
+  - Code général des impôts, CGI. - art. 1754 (V)
+  - Code général des impôts, CGI. - art. 231 (V)
+  - Code rural - art. L771-1 (V)
 
 _Cité par_:
 
@@ -24808,27 +24816,18 @@ _Cite_:
 
 La redevance sanitaire d'abattage est perçue par le service des impôts dans tous les établissements où il est procédé à
 l'abattage des animaux ou au traitement du gibier sauvage dans les établissements bénéficiant de l'agrément prévu à l'article
-L. 233-2 du code rural. Elle est assise sur le nombre de carcasses d'animaux de chaque espèce.
+L. 233-2 du code rural et de la pêche maritime. Elle est assise sur le nombre de carcasses d'animaux de chaque espèce.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural L233-2
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-
 _Modifié par_:
 
-  - Rapport - art. 2 (V) JORF 22 juin juin 2000
-  - Rapport - art. 7 (V) JORF 22 juin juin 2000
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2001-435 2001-05-21
+  - Code rural - art. L233-2 (V)
 
 
 ###### Article 111 quater G
@@ -25004,27 +25003,19 @@ _Cité par_:
 Pour les viandes de volailles, de lapin domestique ou de gibier d'élevage ou sauvage autre qu'ongulé, la redevance sanitaire
 de découpage n'est pas due sur les carcasses pour lesquelles l'abatteur, le tiers abatteur, la personne qui procède au
 traitement du gibier sauvage, celle qui réalise des acquisitions intracommunautaires, l'importateur ou le déclarant en douane
-justifie d'une destination autre qu'un atelier de découpe agréé en application de l'article L. 233-2 du code rural.
+justifie d'une destination autre qu'un atelier de découpe agréé en application de l'article L. 233-2 du code rural et de la
+pêche maritime.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code rural L233-2
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2001
-
 _Modifié par_:
 
-  - Rapport - art. 2 (V) JORF 22 juin 2000
-  - Rapport - art. 7 (V) JORF 22 juin 2000
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2001-435 2001-05-21
+  - Code rural - art. L233-2 (V)
 
 
 ###### Article 111 quater N
@@ -35760,38 +35751,39 @@ _Codifié par_:
 
 ###### Article 336 bis
 
-I. - La déclaration mentionnée au septième alinéa de l'article 1622 du code général des impôts est adressée à la Caisse des
-dépôts et consignations.
+I.-La déclaration mentionnée au septième alinéa de l'article 1622 du code général des impôts est adressée à la Caisse des
+dépôts et consignations. 
 
-II. - Pour l'application du 2° de l'article 1622 précité :
+II.-Pour l'application du 2° de l'article 1622 précité : 
 
 a. La déclaration annuelle effectuée par la Caisse centrale de la mutualité sociale agricole mentionne le nombre de personnes
 affiliées au régime d'assurance des non-salariés agricoles contre les accidents du travail et des maladies professionnelles,
-auprès de chaque caisse départementale et pluridépartementale de mutualité sociale agricole ;
+auprès de chaque caisse départementale et pluridépartementale de mutualité sociale agricole ; 
 
-b. La déclaration annuelle effectuée par le groupement visé à l'article L. 752-14 du code rural mentionne le nombre de
-personnes affiliées au régime d'assurance des non-salariés agricoles contre les accidents du travail et des maladies
-professionnelles, auprès de chacun des organismes assureurs autres que les caisses de mutualité sociale agricole.
+b. La déclaration annuelle effectuée par le groupement visé à l'article L. 752-14 du code rural et de la pêche maritime
+mentionne le nombre de personnes affiliées au régime d'assurance des non-salariés agricoles contre les accidents du travail
+et des maladies professionnelles, auprès de chacun des organismes assureurs autres que les caisses de mutualité sociale
+agricole.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er et 7 de l'ordonnance n° 2010-462 du 6 mai 2010.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1097 du 28 août 2002 - art. 1 () JORF 30 août 2002
-
-_Cite_:
-
-  - CGI 1622
-  - Code rural L752-14
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 336 ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 août 2002
+  - Code général des impôts, CGI. - art. 1622 (V)
+  - Code rural - art. L752-14 (V)
 
 
 ###### Article 336 ter
@@ -35820,8 +35812,8 @@ _Cite_:
 ###### Article 344 undecies
 
 Les conventions d'assurance couvrant à titre principal les dommages aux biens mentionnés à l'article L. 361-5 du code rural
-et dont les primes ou cotisations sont soumises aux contributions prévues par l'article 1635 bis A du code général des impôts
-sont définies par l'article D. 361-1-1 du code rural.
+et de la pêche maritime et dont les primes ou cotisations sont soumises aux contributions prévues par l'article 1635 bis A du
+code général des impôts sont définies par l'article D. 361-1-1 du code rural et de la pêche maritime.
 
 **Nota:**
 
@@ -35832,7 +35824,7 @@ décret n° 2007-592 du 24 avril 2007.
 
 _Modifié par_:
 
-  - Décret n°2008-294 du 1er avril 2008 - art. 3
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -39138,14 +39130,15 @@ commerce ;
 
 5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article
 30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis
-dans le cadre des dispositions de l'article R. 341-5 du code rural au profit d'agriculteurs dont la qualité de migrant a été
-reconnue par le ministre de l'agriculture ;
+dans le cadre des dispositions de l'article R. 341-5 du code rural et de la pêche maritime au profit d'agriculteurs dont la
+qualité de migrant a été reconnue par le ministre de l'agriculture ;
 
 6° (Abrogé)
 
 **Nota:**
 
-Modification effectuée en conséquence des articles 1er, 2 et 3 du décret n° 96-205 du 15 mars 1996.
+Modifications effectuées en conséquence des articles 1er, 2 et 3 du décret n° 96-205 du 15 mars 1996 et des articles 1er et 7
+de l'ordonnance n° 2010-462 du 6 mai 2010.
 
 **Liens relatifs à cet article**
 
@@ -39159,10 +39152,6 @@ _Cite_:
   - Code général des impôts, CGI. - art. 809
   - Code rural - art. R341-5
 
-_Modifié par_:
-
-  - Décret n°2008-294 du 1er avril 2008 - art. 3
-
 _Cité par_:
 
   - Arrêté du 3 septembre 2009 (V)
@@ -39173,6 +39162,10 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 D (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 E (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ###### Article 397
