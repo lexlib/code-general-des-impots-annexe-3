@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-08-06
+Version Consolidée au 2010-09-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -360,7 +360,7 @@ Version Consolidée au 2010-08-06
             - [XI : Formules de chèques (art. 313 BG bis à 313 BG ter)](#357)
           - [Section III : Dispositions communes aux sections I et II (art. 313 BH à 313 BJ)](#358)
         - [Chapitre II bis : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques (art. 313-0 BR à 313-0 BR bis)](#359)
-        - [Chapitre II ter : Malus applicable aux voitures particulières les plus polluantes (art. 313-0 BR ter)](#360)
+        - [Chapitre II ter : Malus applicable aux voitures particulières les plus polluantes (art. 313-0 BR quater à 313-0 BR ter)](#360)
         - [Chapitre III : Droit fixe dû par les opérateurs agréés de jeux ou de paris en ligne (art. 313 BR à 313 BRB)](#361)
     - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 314 à 344 undecies)](#362)
       - [Titre premier : Impositions communales (art. 314 à 328 D ter)](#363)
@@ -31170,6 +31170,27 @@ _Cite_:
 
 
 #### Chapitre II ter : Malus applicable aux voitures particulières les plus polluantes<a id=360></a>
+
+###### Article 313-0 BR quater
+
+Les titres de perception de la taxe prévue à l'article 1011 ter du code général des impôts sont émis par le préfet du
+département du domicile du redevable, au plus tard le 30 avril de l'année d'imposition.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1043 du 1er septembre 2010 - art. 2
+
+_Cité par_:
+
+  - Décret n°2012-998 du 24 août 2012 - art. 1 (V)
+  - Décret n°2013-1091 du 2 décembre 2013 - art. 1 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1011 ter
+
 
 ###### Article 313-0 BR ter
 
