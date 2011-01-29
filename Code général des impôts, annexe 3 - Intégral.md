@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -236,7 +236,7 @@ Version Consolidée au 2011-01-01
               - [D : Vente et construction d'immeubles (art. 70 quinquies B)](#233)
             - [I bis : Opérations imposables sur option (art. 70 septies à 70 sexies)](#234)
             - [II : Opérations exonérées (art. 72 à 74)](#235)
-              - [B : Presse et impression (art. 72 à 73)](#236)
+              - [B : Presse et impression (art. 72 à 73-0 A)](#236)
               - [C : Transports, opérations et services exonérés (art. 73 A à 73 H)](#237)
               - [D : Exportation (art. 74)](#238)
           - [Section II : Assiette de la taxe (art. 76)](#239)
@@ -22919,6 +22919,32 @@ _Cite_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 72 (V)
   - Code général des impôts, CGI. - art. 298 septies (V)
+
+
+###### Article 73-0 A
+
+Pour l'application du deuxième alinéa de l'article 298 septies du code général des impôts, les taux réduits de la taxe sur la
+valeur ajoutée s'appliquent à hauteur de la part du prix hors taxe de l'offre composite représentative de la livraison de la
+publication imprimée. La détermination de cette part par l'éditeur peut être réalisée selon toute méthode traduisant la
+réalité économique des opérations.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article unique de la loi n° 2014-237 du 27 février 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-115 du 27 janvier 2011 - art. 1
+
+**Liens**:
+
+  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 298 septies
 
 
 ##### C : Transports, opérations et services exonérés<a id=237></a>
