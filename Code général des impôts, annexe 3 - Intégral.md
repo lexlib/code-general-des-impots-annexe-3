@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-04-07
+Version Consolidée au 2011-05-21
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -111,7 +111,7 @@ Version Consolidée au 2011-04-07
             - [III : Présentation et contenu des déclarations (art. 42 à 46)](#108)
           - [Section III : Calcul de l'impôt (art. 46 A à 46-0 B ter)](#109)
             - [1° : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France (art. 46 A)](#110)
-            - [2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme (art. 46 AGD à 46 AGG)](#111)
+            - [2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme (art. 46 AGD à 46 AGG bis)](#111)
             - [2° bis : Réduction d'impôt accordée au titre de certains investissements forestiers (art. 46 AGH à 46 AGK)](#112)
             - [2° ter : Réduction d'impôt accordée au titre des investissements dans des résidences hôtelières à vocation sociale (art. 46 AGL)](#113)
             - [3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer (art. 46 AG duodecies à 46 AG undecies)](#114)
@@ -11613,6 +11613,38 @@ _Cite_:
   - Code général des impôts, CGI. - art. 199 decies F
   - Code général des impôts, CGI. - art. 32
   - Code général des impôts, CGI. - art. 50-0
+
+
+###### Article 46 AGG bis
+
+I. – Pour l'application des sixième et septième phrases du cinquième alinéa de l'article 199 decies E et du dernier alinéa du
+4 de l'article 199 decies F du code général des impôts, les copropriétaires détenant au moins 50 % des appartements de la
+résidence peuvent faire réaliser par une ou plusieurs entreprises l'ensemble des prestations additionnelles à l'hébergement
+mentionnées au b du 4° de l'article 261 D du code général des impôts :
+
+1° Soit en contractant chacun directement avec celles qu'ils ont choisies conjointement ;
+
+2° Soit en créant une entreprise qui contracte avec elles.
+
+II. – Dans les cas prévus au I, il peut être dérogé à la condition de gestion de la résidence de tourisme par une seule
+personne physique ou morale prévue à la dernière phrase de l'article D. 321-1 du code du tourisme.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-545 du 18 mai 2011 - art. 1
+
+_Cité par_:
+
+  - Code du tourisme. - art. D321-2-1 (VD)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 199 decies E
+  - Code général des impôts, CGI. - art. 199 decies F
+  - Code général des impôts, CGI. - art. 261 D
+  - Code du tourisme. - art. D321-1
 
 
 ##### 2° bis : Réduction d'impôt accordée au titre de certains investissements forestiers<a id=112></a>
