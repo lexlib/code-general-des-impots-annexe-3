@@ -1,4 +1,4 @@
-# Article 46 AZD
+# Article 46 AZA nonies
 
 I.-Pour l'application de l'article 199 sexvicies du code général des impôts, le contribuable joint à sa déclaration de
 revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé : 
@@ -64,19 +64,8 @@ En cas de changement d'exploitant de l'établissement ou de la résidence, les d
 
 _Créé par_:
 
-  - Décret n°2010-222 du 3 mars 2010 - art. 1
+  - Décret n°2011-645 du 9 juin 2011 - art. 3
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2011-645 du 9 juin 2011 - art. 3
-
-_Nouveaux textes_:
-
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA nonies (V)
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 199 sexvicies
-  - Code du travail - art. L7232-3
-  - Code de la santé publique - art. L1334-13
-  - Code de la santé publique - art. L1334-5
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZD (T)
