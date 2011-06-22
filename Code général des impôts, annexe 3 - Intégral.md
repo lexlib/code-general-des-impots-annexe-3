@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-06-20
+Version Consolidée au 2011-06-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -231,7 +231,7 @@ Version Consolidée au 2011-06-20
             - [I bis : Opérations imposables sur option (art. 70 septies à 70 sexies)](#228)
             - [II : Opérations exonérées (art. 72 à 74)](#229)
               - [B : Presse et impression (art. 72 à 73-0 A)](#230)
-              - [C : Transports, opérations et services exonérés (art. 73 A à 73 H)](#231)
+              - [C : Transports, opérations et services exonérés (art. 73 A à 73 I)](#231)
               - [D : Exportation (art. 74)](#232)
           - [Section II : Assiette de la taxe (art. 76)](#233)
             - [Régime du chiffre d'affaires réel (art. 76)](#234)
@@ -22856,6 +22856,23 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 73 G (V)
   - Code général des impôts, CGI. - art. 286 (VT)
   - Code général des impôts, CGI. - art. 291 (V)
+
+
+###### Article 73 I
+
+Pour application du 6° du II de l'article 262 du code général des impôts et aux seules fins de cette réglementation, la
+petite pêche côtière s'entend de la pêche pratiquée au moyen de bateaux dont la longueur hors tout est inférieure à douze
+mètres, n'utilisant que des engins non remorqués et dont la sortie en mer n'excède pas 24 heures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-697 du 20 juin 2011 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 262
 
 
 ##### D : Exportation<a id=232></a>
