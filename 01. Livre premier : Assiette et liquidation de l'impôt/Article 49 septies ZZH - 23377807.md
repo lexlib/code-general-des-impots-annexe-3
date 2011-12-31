@@ -36,17 +36,17 @@ TRANCHES
 </th>
         <th>
 
-1 à 5 
+1 à 2 
 
 </th>
         <th>
 
-6 à 8 
+3 à 5 
 
 </th>
         <th colspan="4">
 
-9 et 10 
+6
 
 </th>
       </tr>
@@ -84,17 +84,17 @@ trimestre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2010-1728 du 30 décembre 2010 - art. 1
-
 _Cité par_:
 
   - Arrêté du 25 mai 2011 - art. (V)
   - Code de la construction et de l'habitation. - art. R31-10-2-1 (T)
   - Code de la construction et de l'habitation. - art. R31-10-7 (T)
 
+_Modifié par_:
+
+  - Décret n°2011-2059 du 30 décembre 2011 - art. 2
+
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. L31-10-12
-  - Code de la construction et de l'habitation. - art. L312-1 (V)
+  - Code de la construction et de l'habitation. - art. L312-1
