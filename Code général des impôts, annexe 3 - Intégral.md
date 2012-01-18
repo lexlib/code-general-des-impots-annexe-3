@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-19
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -522,12 +522,10 @@ Version Consolidée au 2012-01-01
       - [Section I : Juridiction contentieuse (art. 416 E)](#519)
         - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#520)
       - [Section II : Juridiction gracieuse (art. 426 à 445)](#521)
-        - [C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs (art. 426 à 428)](#522)
+        - [C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés (art. 426 à 436)](#522)
           - [1 : Cotes irrécouvrables (art. 426 à 428)](#523)
-        - [C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés (art.  à 436)](#524)
-          - [1 : Cotes irrécouvrables (art.  à 428)](#525)
-          - [2 : Dispense de versement, remise gracieuse et constatation de la force majeure (art. 429 à 436)](#526)
-        - [D : Dispositions particulières aux impôts directs (art. 445)](#527)
+          - [2 : Dispense de versement, remise gracieuse et constatation de la force majeure (art. 429 à 436)](#524)
+        - [D : Dispositions particulières aux impôts directs (art. 445)](#525)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -16740,23 +16738,28 @@ _Cite_:
 
 ###### Article 46 quater-0 ZZ bis C
 
-I.-L'engagement de conservation prévu au premier alinéa du II de l'article 210 E du code général des impôts est pris dans
-l'acte constatant la cession des biens, titres ou droits mentionnés au I du même article. 
+I. – L'engagement de conservation prévu aux premier, cinquième et septième alinéas du II de l'article 210 E du code général
+des impôts est pris dans l'acte constatant la cession des biens, titres ou droits mentionnés au I du même article.
 
 Une copie de l'engagement mentionné au premier alinéa doit être jointe à la déclaration de résultat de la personne morale
 cédante et, selon le cas, de la société cessionnaire ou de la société crédit-preneuse, afférente à l'exercice au cours duquel
-est réalisée la cession. 
+est réalisée la cession.
 
-I bis. Pour l'application du troisième alinéa du II de l'article 210 E du code général des impôts, la copie de l'engagement
+I bis. – Pour l'application du troisième alinéa du II de l'article 210 E du code général des impôts, la copie de l'engagement
 prévu à cet alinéa doit être jointe à la déclaration de résultat de la personne morale absorbante afférente à l'exercice au
 cours duquel est réalisée la fusion.
 
-II.-Pour l'application du IV de l'article 210 E du code général des impôts, l'engagement d'investissement est établi sur
+I ter. – Pour l'application du sixième alinéa du II de l'article 210 E du code précité, la valeur des immeubles pris à bail,
+entendue comme leur valeur d'origine inscrite au bilan de l'entreprise crédit-preneuse avant qu'elle ne cède ces immeubles
+dans les conditions prévues au sixième alinéa précité, ne peut excéder 30 % de la valeur d'origine des immeubles encore
+inscrits à l'actif de cette même société après la cession de ces immeubles.
+
+II. – Pour l'application du IV de l'article 210 E du code général des impôts, l'engagement d'investissement est établi sur
 papier libre et joint à la déclaration de résultats de l'organisme ou de la société cédante. Il mentionne, pour chaque
 cession réalisée au cours de l'exercice et pour laquelle l'organisme ou la société s'engage à investir dans les conditions
-prévues au même IV : 
+prévues au même IV :
 
-a. Le prix de cession de l'immeuble et la date à laquelle est intervenue la cession ; 
+a. Le prix de cession de l'immeuble et la date à laquelle est intervenue la cession ;
 
 b. Le montant de l'obligation d'investissement et la date à laquelle elle doit être satisfaite.
 
@@ -16764,7 +16767,7 @@ b. Le montant de l'obligation d'investissement et la date à laquelle elle doit 
 
 _Modifié par_:
 
-  - Décret n°2010-394 du 20 avril 2010 - art. 1
+  - Décret n°2012-46 du 16 janvier 2012 - art. 1
 
 _Cite_:
 
@@ -42420,7 +42423,7 @@ d'enregistrement régulièrement perçus.
 
 ### Section II : Juridiction gracieuse<a id=521></a>
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs<a id=522></a>
+#### C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés<a id=522></a>
 
 ##### 1 : Cotes irrécouvrables<a id=523></a>
 
@@ -42475,11 +42478,7 @@ _Modifié par_:
   - HISTO: Edition du 31 mars 2000
 
 
-#### C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés<a id=524></a>
-
-##### 1 : Cotes irrécouvrables<a id=525></a>
-
-##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure<a id=526></a>
+##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure<a id=524></a>
 
 ###### Article 429
 
@@ -42647,7 +42646,7 @@ _Modifié par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-#### D : Dispositions particulières aux impôts directs<a id=527></a>
+#### D : Dispositions particulières aux impôts directs<a id=525></a>
 
 ###### Article 445
 
