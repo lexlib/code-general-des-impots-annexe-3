@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-03-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -125,7 +125,7 @@ Version Consolidée au 2012-03-01
             - [14° : Crédit d'impôt en faveur des étudiants en vue du financement de leurs études supérieures (art. 46 AZ à 46 AZ bis)](#122)
             - [15° : Crédit d'impôt au titre des dépenses de remplacement pour congé de certains exploitants agricoles (art. 46 AZA à 46 AZA ter)](#123)
             - [16° : Crédit d'impôt au titre des intérêts d'emprunt supportés pour l'acquisition ou la construction de l'habitation principale (art. 46 AZA septies à 46 AZA sexies)](#124)
-            - [17° : Réduction d'impôt accordée au titre des investissements locatifs (art. 46 AZA nonies à 46 AZA octies)](#125)
+            - [17° : Réduction d'impôt accordée au titre des investissements locatifs (art. 46 AZA nonies à 46 AZA octies A)](#125)
             - [18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques (art. 46 AZB)](#126)
             - [19° : Plafonnement de certains avantages fiscaux au titre de l'impôt sur le revenu (art. 46-0 B à 46-0 B ter)](#127)
           - [Section IV : Obligations incombant à certaines sociétés immobilières (art. 46 B à 46 D)](#128)
@@ -13555,15 +13555,38 @@ _Anciens textes_:
 
 ###### Article 46 AZA octies
 
-Les logements mentionnés au sixième alinéa du IV de l'article 199 septvicies du code général des impôts s'entendent de ceux
-bénéficiant du label " bâtiment basse consommation énergétique, BBC 2005 " mentionné au 5° de l'article 2 de l'arrêté du 3
-mai 2007 relatif au contenu et aux conditions d'attribution du label "haute performance énergétique".
+I.-Les logements mentionnés au troisième alinéa du II de l'article 199 septvicies du code général des impôts s'entendent : 
+
+1° Pour les logements acquis neufs ou, sous réserve du 2°, pour les logements acquis en l'état futur d'achèvement ou que le
+contribuable fait construire, de ceux qui bénéficient du label " bâtiment basse consommation énergétique, BBC 2005 "
+mentionné au 5° de l'article 2 de l'arrêté du 3 mai 2007 relatif au contenu et aux conditions d'attribution du label " haute
+performance énergétique " ; 
+
+2° Pour les logements qui font ou qui ont fait l'objet de travaux mentionnés aux b, c et d du 2 du I de l'article 199
+septvicies susmentionné ou pour les logements acquis en l'état futur d'achèvement mentionnés au 1 du I de ce même article
+lorsqu'ils ne sont pas soumis aux dispositions de l'article L. 111-9 du code de la construction et de l'habitation : 
+
+a) Soit de ceux qui bénéficient du label " haute performance énergétique rénovation, HPE rénovation 2009 " ou du label "
+bâtiment basse consommation énergétique rénovation, BBC rénovation 2009 " mentionnés aux 1° et 2° de l'article 2 de l'arrêté
+du 29 septembre 2009 relatif au contenu et aux conditions d'attribution du label " haute performance énergétique rénovation
+" ; 
+
+b) Soit de ceux qui respectent les exigences de performance énergétique globale, définies par arrêté du ministre chargé de la
+construction, pour au moins deux des quatre catégories suivantes :
+
+- isolation de la toiture ou des murs donnant sur l'extérieur ;
+
+- fenêtres ;
+
+- système de chauffage ;
+
+- système de production d'eau chaude sanitaire. 
+
+II.-Les logements mentionnés au cinquième alinéa du IV de l'article 199 septvicies du code général des impôts s'entendent de
+ceux qui bénéficient du label " bâtiment basse consommation énergétique, BBC 2005 " mentionné au 5° de l'article 2 de
+l'arrêté du 3 mai 2007 relatif au contenu et aux conditions d'attribution du label " haute performance énergétique ".
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-823 du 20 juillet 2010 - art. 1
 
 _Cité par_:
 
@@ -13572,9 +13595,41 @@ _Cité par_:
   - Arrêté du 5 mars 2012 - art. 6 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies-0 A (V)
 
+_Modifié par_:
+
+  - Décret n°2012-305 du 5 mars 2012 - art. 1
+
 _Cite_:
 
   - Code général des impôts, CGI. - art. 199 septvicies
+  - Code de la construction et de l'habitation. - art. L111-9
+
+
+###### Article 46 AZA octies A
+
+Les plafonds par mètre carré de surface habitable mentionnés au premier alinéa du IV de l'article 199 septvicies du code
+général des impôts sont fixés à 5 000 € pour les logements situés en zone A, 4 000 € pour ceux situés en zone B1 ainsi que
+dans les départements d'outre-mer, les collectivités d'outre-mer et la Nouvelle-Calédonie, mentionnés au XI du même article,
+2 100 € pour ceux situés en zone B2 et 2 000 € pour ceux situés en zone C. 
+
+Les zones A, B1, B2 et C sont celles définies à l'article R. 304-1 du code de la construction et de l'habitation. 
+
+La surface habitable à prendre en compte s'entend de celle définie au troisième alinéa du a de l'article 2 duodecies.
+Toutefois, pour les départements d'outre-mer, les collectivités d'outre-mer et la Nouvelle-Calédonie, mentionnés au XI de
+l'article 199 septvicies susvisé, la surface habitable à prendre en compte est celle prévue au III de l'article 46 AG
+terdecies.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-305 du 5 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
+  - Code général des impôts, CGI. - art. 199 septvicies
+  - Code de la construction et de l'habitation. - art. R304-1
 
 
 ##### 18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques<a id=126></a>
