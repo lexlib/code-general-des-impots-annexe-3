@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-03-17
+Version Consolidée au 2012-03-19
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -521,11 +521,13 @@ Version Consolidée au 2012-03-17
     - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#518)
       - [Section I : Juridiction contentieuse (art. 416 E)](#519)
         - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#520)
-      - [Section II : Juridiction gracieuse (art. 426 à 445)](#521)
-        - [C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés (art. 426 à 436)](#522)
-          - [1 : Cotes irrécouvrables (art. 426 à 428)](#523)
-          - [2 : Dispense de versement, remise gracieuse et constatation de la force majeure (art. 429 à 436)](#524)
-        - [D : Dispositions particulières aux impôts directs (art. 445)](#525)
+      - [Section II : Juridiction gracieuse (art. 429 à 445)](#521)
+        - [C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés (art. 429 à 436)](#522)
+          - [2 : Dispense de versement, remise gracieuse et constatation de la force majeure (art. 429 à 436)](#523)
+        - [C : Propositions des comptables secondaires de la direction générale des finances publiques chargés du recouvrement des créances de nature fiscale (art. 426 à 428)](#524)
+          - [1 : Créances irrécouvrables (art. 426 à 428)](#525)
+          - [2 : Dispense de versement, remise gracieuse et constatation de la force majeure (art.  à 428)](#526)
+        - [D : Dispositions particulières aux impôts directs (art. 445)](#527)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -42297,60 +42299,7 @@ d'enregistrement régulièrement perçus.
 
 #### C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés<a id=522></a>
 
-##### 1 : Cotes irrécouvrables<a id=523></a>
-
-###### Article 426
-
-Les comptables du Trésor chargés du recouvrement des impôts directs peuvent, dans les délais et conditions fixées par les
-instructions ministérielles, demander l'admission en non-valeur des cotes irrécouvrables.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°99-889 du 21 octobre 1999 - art. 1 () JORF 22 octobre 1999
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°99-889 du 21 octobre 1999 - art. 8 (V)
-  - HISTO: Edition du 31 mars 2000
-
-_Cité par_:
-
-  - Décret n°2008-446 du 7 mai 2008 - art. 1 (V)
-  - Décret n°2008-446 du 7 mai 2008 - art. 2 (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 428 (V)
-
-
-###### Article 428
-
-Le pouvoir de statuer sur les demandes d'admission en non-valeur appartient au trésorier-payeur général, qui délègue sa
-signature au receveur des finances pour les postes comptables de son arrondissement financier.
-
-Les décisions prises sur les demandes d'admission en non-valeur des cotes irrécouvrables sont notifiées aux comptables du
-Trésor.
-
-Toutefois, lorsque les sommes n'excèdent pas des limites fixées par arrêté du ministre du budget, l'absence de réponse du
-trésorier-payeur général ou du receveur des finances dans un délai de trois mois à compter de la réception de la demande
-d'admission en non-valeur vaut acceptation de celle-ci.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
-
-_Modifié par_:
-
-  - Décret n°99-889 du 21 octobre 1999 - art. 3 () JORF 22 octobre 1999
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°99-889 du 21 octobre 1999 - art. 8 (V)
-  - HISTO: Edition du 31 mars 2000
-
-
-##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure<a id=524></a>
+##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure<a id=523></a>
 
 ###### Article 429
 
@@ -42518,7 +42467,58 @@ _Modifié par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-#### D : Dispositions particulières aux impôts directs<a id=525></a>
+#### C : Propositions des comptables secondaires de la direction générale des finances publiques chargés du recouvrement des créances de nature fiscale<a id=524></a>
+
+##### 1 : Créances irrécouvrables<a id=525></a>
+
+###### Article 426
+
+Les  comptables secondaires de la direction générale des finances publiques  peuvent proposer l'admission en non-valeur des
+créances de nature  fiscale qu'ils estiment irrécouvrables.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2008-446 du 7 mai 2008 - art. 1 (V)
+  - Décret n°2008-446 du 7 mai 2008 - art. 2 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 428 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-371 du 16 mars 2012 - art. 1
+
+
+###### Article 428
+
+Le pouvoir de statuer sur les propositions d'admission en non-valeur appartient au directeur départemental des finances
+publiques ou au responsable d'un service à compétence nationale. 
+
+Les décisions prises sur les propositions d'admission en non-valeur sont notifiées aux comptables secondaires de la direction
+générale des finances publiques. 
+
+Toutefois, lorsque le montant des créances mentionnées à l'article 426 dont l'admission en non-valeur est proposée n'excède
+pas 5 000 €, l'absence de réponse du directeur départemental des finances publiques ou du responsable d'un service à
+compétence nationale dans un délai de trois mois à compter de la réception de la proposition vaut acceptation de celle-ci.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-371 du 16 mars 2012 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, annexe 3, CGIAN3. - art. 426
+
+
+##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure<a id=526></a>
+
+#### D : Dispositions particulières aux impôts directs<a id=527></a>
 
 ###### Article 445
 
