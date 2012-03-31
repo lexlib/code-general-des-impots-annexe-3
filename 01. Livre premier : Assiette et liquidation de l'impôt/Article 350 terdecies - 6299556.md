@@ -1,12 +1,12 @@
 # Article 350 terdecies
 
 I.-Sous réserve des dispositions des articles 409 et 410 de l'annexe II au code général des impôts, seuls les fonctionnaires
-de la direction générale des impôts appartenant à des corps des catégories A et B peuvent fixer les bases d'imposition et
-liquider les impôts, taxes et redevances ainsi que proposer les rectifications.
+de la direction générale des finances publiques appartenant à des corps des catégories A et B peuvent fixer les bases
+d'imposition et liquider les impôts, taxes et redevances ainsi que proposer les rectifications.
 
 Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour les opérations de contrôle par des
-fonctionnaires stagiaires et par tout autre fonctionnaire des impôts affecté ou non dans le même service déconcentré ou
-service à compétence nationale.
+fonctionnaires stagiaires et par tout autre fonctionnaire de la direction générale des finances publiques affecté ou non dans
+le même service déconcentré ou service à compétence nationale.
 
 II.-Les fonctionnaires mentionnés au premier alinéa du I peuvent exercer les attributions que ces dispositions leur confèrent
 à l'égard des personnes physiques ou morales ou groupements de personne de droit ou de fait qui ont déposé ou auraient dû
@@ -41,6 +41,15 @@ d'interposition, ou de l'appartenance à un même groupe d'intérêts. Les arrê
 des services à compétence nationale définissent, s'il y a lieu, la compétence des agents au regard des personnes unies par
 ces liens.
 
+VI.-Sans préjudice des dispositions du I, les fonctionnaires de la direction générale des finances publiques appartenant à
+des corps de catégorie C sont également compétents pour procéder au contrôle et proposer des rectifications de la taxe prévue
+au I de l'article 1605 du code général des impôts.
+
+VII.-Par dérogation aux dispositions du II, les fonctionnaires compétents pour procéder au contrôle et proposer des
+rectifications de la taxe prévue au I de l'article 1605 précité exercent leurs attributions dans le ressort territorial de la
+région dans laquelle est situé le service auquel ils sont affectés ou, s'il est plus étendu, dans le ressort territorial de
+ce service.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -51,18 +60,13 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 350 quaterdecies (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 409 (V)
 
-_Cite_:
-
-  - CGIAN2 409, 410
-  - Livre des procédures fiscales - art. L212 (M)
-  - Livre des procédures fiscales - art. L213 (M)
-  - Livre des procédures fiscales - art. L47 (M)
-  - Livre des procédures fiscales - art. R213-4 (M)
-
 _Modifié par_:
 
-  - Décret n°2004-283 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
+  - Décret n°2012-431  du 29 mars 2012 - art. 19
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 août 2004
+  - Code général des impôts, CGI. - art. 1605
+  - Livre des procédures fiscales - art. L212
+  - Livre des procédures fiscales - art. L47
+  - Livre des procédures fiscales - art. R213-4
