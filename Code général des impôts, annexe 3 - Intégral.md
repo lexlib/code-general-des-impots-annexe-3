@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-04-16
+Version Consolidée au 2012-04-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -163,7 +163,7 @@ Version Consolidée au 2012-04-16
           - [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital (art. 46 quater-0 ZZ à 46 quater-0 ZZ bis)](#160)
           - [Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises (art. 46 quater-0 ZZ bis A)](#161)
           - [Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées, leurs filiales, les filiales de sociétés de placement à prépondérance immobilière à capital variable et les sociétés se transformant en sociétés de placement à prépondérance immobilière à capital variable (art. 46 quater-0 ZZ bis B)](#162)
-          - [Section XII quater : Réduction du taux de l'impôt sur les sociétés applicable à certaines plus-values réalisées lors de la cession d'immeubles ou de droits afférents à un immeuble (art. 46 quater-0 ZZ bis C)](#163)
+          - [Section XII quater : Réduction du taux de l'impôt sur les sociétés applicable à certaines plus-values réalisées lors de la cession d'immeubles ou de droits afférents à un immeuble (art. 46 quater-0 ZZ bis C à 46 quater-0 ZZ bis D)](#163)
           - [Section XIII : Déduction des investissements réalisés outre-mer (art. 46 quater-0 ZZ ter)](#164)
           - [Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière (art. 46 quater-0 ZZ quater à 46 quater-0 ZZ quinquies)](#165)
           - [Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural (art. 46 quater-0 ZZ sexies)](#166)
@@ -17035,6 +17035,29 @@ _Modifié par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 210 E
+
+
+###### Article 46 quater-0 ZZ bis D
+
+I. – L'engagement de transformation prévu au premier alinéa du II de l'article 210 F du code général des impôts est pris dans
+l'acte constatant la cession du local.
+
+Une copie de l'engagement mentionné au premier alinéa doit être jointe à la déclaration de résultat de la personne morale
+cédante et de la personne morale, de l'organisme ou de l'association cessionnaire, afférente à l'exercice au cours duquel est
+réalisée la cession.
+
+II. – La copie de l'engagement prévu au troisième alinéa du II de l'article 210 F du code général des impôts doit être jointe
+à la déclaration de résultat de la société absorbante, afférente à l'exercice au cours duquel est réalisée la fusion.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-538 du 20 avril 2012 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 210 F
 
 
 ##### Section XIII : Déduction des investissements réalisés outre-mer<a id=164></a>
