@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-04-23
+Version Consolidée au 2012-04-27
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -363,8 +363,8 @@ Version Consolidée au 2012-04-23
         - [Chapitre II ter : Malus applicable aux voitures particulières les plus polluantes (art. 313-0 BR quater à 313-0 BR ter)](#360)
         - [Chapitre III : Droit fixe dû par les opérateurs agréés de jeux ou de paris en ligne (art. 313 BR à 313 BRB)](#361)
     - [Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes (art. 314 à 344 quindecies)](#362)
-      - [Titre premier : Impositions communales (art. 314 à 325)](#363)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 314 à 325)](#364)
+      - [Titre premier : Impositions communales (art. 314 à 326)](#363)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 314 à 326)](#364)
           - [Section I : Taxes foncières sur les propriétés bâties et non bâties (art. 314 à 322 ter)](#365)
             - [a : Exonérations temporaires (art. 314 à 315 quindecies)](#366)
               - [1° : Habitations à loyer modéré (art. 314)](#367)
@@ -404,7 +404,7 @@ Version Consolidée au 2012-04-23
             - [IV : Etablissements industriels (art. 324 AE à 324 AG)](#401)
             - [V : Déclarations à souscrire pour chaque révision (art. 324 AH à 324 AJ)](#402)
             - [VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties (art. 324 AK à 324 AL)](#403)
-          - [Section IV : Autres taxes communales (art. 325)](#404)
+          - [Section IV : Autres taxes communales (art. 325 à 326)](#404)
       - [Titre I bis : Impositions départementales (art. 328 E à 328 G decies)](#405)
         - [Chapitre premier : Impôts directs et taxes assimilées (art. 328 E à 328 G ter)](#406)
           - [I : Taxe foncière sur les propriétés bâties (art. 328 E à 328 G)](#407)
@@ -35646,6 +35646,36 @@ _Abrogé par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1519 B
+
+
+###### Article 326
+
+Pour l'application de l'article 1528 du code général des impôts : 
+
+1° La direction générale des finances publiques transmet à la commune, ou, le cas échéant, à l'établissement public de
+coopération intercommunale à fiscalité propre les informations suivantes sur les parcelles et les locaux situés sur son
+territoire : 
+
+a. Leur adresse ; 
+
+b. Leur référence cadastrale ; 
+
+c. Les nom et adresse de leurs propriétaires. 
+
+2° La commune, ou, le cas échéant, l'établissement public de coopération intercommunale à fiscalité propre transmet à la
+direction générale des finances publiques les informations nécessaires à l'établissement de la taxe de balayage, à l'édition
+des avis d'imposition et au recouvrement des impositions émises. La nature des informations et le support sur lequel elles
+sont transmises sont fixés par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-559 du 24 avril 2012 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1528 (V)
 
 
 ### Titre I bis : Impositions départementales<a id=405></a>
