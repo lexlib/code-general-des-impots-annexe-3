@@ -1,6 +1,6 @@
 # Article 46 AZA octies
 
-I.-Les logements mentionnés au troisième alinéa du II de l'article 199 septvicies du code général des impôts s'entendent : 
+I. – Les logements mentionnés au troisième alinéa du II de l'article 199 septvicies du code général des impôts s'entendent : 
 
 1° Pour les logements acquis neufs ou, sous réserve du 2°, pour les logements acquis en l'état futur d'achèvement ou que le
 contribuable fait construire, de ceux qui bénéficient du label " bâtiment basse consommation énergétique, BBC 2005 "
@@ -17,21 +17,32 @@ du 29 septembre 2009 relatif au contenu et aux conditions d'attribution du label
 " ; 
 
 b) Soit de ceux qui respectent les exigences de performance énergétique globale, définies par arrêté du ministre chargé de la
-construction, pour au moins deux des quatre catégories suivantes :
+construction, pour au moins deux des quatre catégories suivantes : 
 
-- isolation de la toiture ou des murs donnant sur l'extérieur ;
+– isolation de la toiture ou des murs donnant sur l'extérieur ; 
 
-- fenêtres ;
+– fenêtres ; 
 
-- système de chauffage ;
+– système de chauffage ; 
 
-- système de production d'eau chaude sanitaire. 
+– système de production d'eau chaude sanitaire. 
 
-II.-Les logements mentionnés au cinquième alinéa du IV de l'article 199 septvicies du code général des impôts s'entendent de
-ceux qui bénéficient du label " bâtiment basse consommation énergétique, BBC 2005 " mentionné au 5° de l'article 2 de
+II. – Les logements mentionnés au cinquième alinéa du IV de l'article 199 septvicies du code général des impôts s'entendent
+de ceux qui bénéficient du label " bâtiment basse consommation énergétique, BBC 2005 " mentionné au 5° de l'article 2 de
 l'arrêté du 3 mai 2007 relatif au contenu et aux conditions d'attribution du label " haute performance énergétique ".
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 75-I de la loi n° 2011-1977 du 28 décembre 2011.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté du 3 mai 2007 (V)
+  - Arrêté du 29 septembre 2009 (V)
+  - Code général des impôts, CGI. - art. 199 septvicies (V)
+  - Code de la construction et de l'habitation. - art. L111-9
 
 _Cité par_:
 
@@ -42,9 +53,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-305 du 5 mars 2012 - art. 1
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 199 septvicies
-  - Code de la construction et de l'habitation. - art. L111-9
+  - Décret n°2012-653 du 4 mai 2012 - art. 3
