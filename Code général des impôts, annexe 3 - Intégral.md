@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-05-24
+Version Consolidée au 2012-06-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -30203,7 +30203,7 @@ _Abrogé par_:
 
 ###### Article 287
 
-Il est alloué un salaire fixe de 15 euros : 
+Il est alloué un salaire fixe de 15 € : 
 
 pour chaque publication ne donnant pas ouverture au salaire proportionnel, notamment : 
 
@@ -30212,14 +30212,13 @@ privilégiée déjà inscrite et grevée de substitution et pour chaque mention 
 
 2° pour la publication de chaque commandement valant saisie immobilière ; 
 
-3° pour la mention de l'assignation et des dénonciations prévues à l'article 43 du décret n° 2006-936 du 27 juillet 2006
-relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble ; 
+3° pour la mention de l'assignation et des dénonciations prévues à l'article R. 322-9 du code des procédures civiles
+d'exécution ; 
 
 4° pour l'acte du conservateur constatant son refus de publier un commandement valant saisie en cas de commandement
 transcrit ; 
 
-5° pour la mention prévue à l'article 22 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie
-immobilière et de distribution du prix d'un immeuble ; 
+5° pour la mention prévue à l'article R. 321-10 du code des procédures civiles d'exécution ; 
 
 6° pour la radiation de la saisie ; 
 
@@ -30262,16 +30261,19 @@ _Cite_:
   - Décret n°55-22 du 4 janvier 1955 - art. 28
   - Décret n°55-1350 du 14 octobre 1955 - art. 34
   - Ordonnance n°2006-346 du 23 mars 2006 - art. 59
-  - Décret n°2006-936 du 27 juillet 2006
-  - Décret n°2006-936 du 27 juillet 2006 - art. 22
   - Loi n°2007-212 du 20 février 2007 - art. 10
+  - Code des procédures civiles d'exécution - art. R321-10
   - Code de commerce - art. L526-1
   - Code général des impôts, CGI. - art. 1048 ter
   - Code de la construction et de l'habitation. - art. L351-2
 
 _Modifié par_:
 
-  - Décret n°2008-1329 du 15 décembre 2008 - art. 1
+  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
 
 
 ###### Article 288
