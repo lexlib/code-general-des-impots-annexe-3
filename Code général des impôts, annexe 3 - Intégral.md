@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-09-16
+Version Consolidée au 2012-09-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -87,7 +87,7 @@ Version Consolidée au 2012-09-16
               - [2° : Profits réalisés sur les marchés d'options négociables (art. 41 septdecies L à 41 septdecies O)](#84)
               - [3° : Profits réalisés sur les opérations de bons d'option (art. 41 septdecies P à 41 septdecies S)](#85)
               - [4° : Profits réalisés lors de la cession ou du rachat de parts de fonds communs d'intervention sur les marchés à terme (art. 41 septdecies T à 41 septdecies X)](#86)
-            - [X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 41 duovicies D à 41 duovicies I)](#87)
+            - [X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature (art. 41 duovicies D à 41 duovicies-0 H)](#87)
             - [X quater : Report d'imposition de la plus-value constatée lors de la levée de l'option d'achat d'un immeuble acquis en crédit-bail et précédemment donné en sous-location (art. 41 novovicies)](#88)
             - [XI : Dispositions communes aux différentes catégories de revenus (art. 41-00 A ter à 41 DG ter)](#89)
               - [1° : Informations complémentaires à joindre aux déclarations des contribuables relevant de la Direction des grandes entreprises (art. 41-00 A)](#90)
@@ -9785,6 +9785,33 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 150 VB (V)
   - Code civil - art. 1699 (V)
+
+
+###### Article 41 duovicies-0 H
+
+I. – Pour l'application du 1° bis du II de l'article 150 U du code général des impôts, l'acte constatant la cession à titre
+onéreux d'un logement au titre de laquelle le bénéfice de l'exonération est demandé mentionne :
+
+1° L'identité du bénéficiaire de l'exonération ;
+
+2° Les droits du bénéficiaire sur le prix de cession ;
+
+3° La fraction du prix de cession correspondant à ses droits, que le bénéficiaire destine au remploi à l'acquisition ou la
+construction d'un logement affecté à sa résidence principale ;
+
+4° Le montant de la plus-value exonérée.
+
+II. – Les mentions prévues au I sont portées distinctement pour chaque bénéficiaire de l'exonération.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-1073 du 21 septembre 2012 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 150 U
 
 
 ##### X quater : Report d'imposition de la plus-value constatée lors de la levée de l'option d'achat d'un immeuble acquis en crédit-bail et précédemment donné en sous-location<a id=88></a>
