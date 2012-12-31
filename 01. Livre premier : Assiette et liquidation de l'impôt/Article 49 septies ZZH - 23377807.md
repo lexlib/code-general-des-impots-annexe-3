@@ -26,29 +26,12 @@ formule non reproduite, vous pouvez la consulter dans le JO° 303 du 31/12/2010 
 La prime p est fixée, en fonction de l'appartenance à l'une des tranches mentionnées à l'article L. 31-10-12 du code de la
 construction et de l'habitation, dans le tableau ci-après : 
 
-<table border="1" align="center" width="600">
+<table align="center" border="1" width="680">
     <tbody>
       <tr>
-        <th>
-
-TRANCHES 
-
-</th>
-        <th>
-
-1 à 2 
-
-</th>
-        <th>
-
-3 à 5 
-
-</th>
-        <th colspan="4">
-
-6
-
-</th>
+        <td align="center">TRANCHES</td>
+        <td align="center">1 à 2</td>
+        <td colspan="3" align="center">3 à 5 </td>
       </tr>
       <tr>
         <td align="center">
@@ -64,11 +47,6 @@ Prime p
         <td align="center">
 
 55 points de base 
-
-</td>
-        <td align="center">
-
-35 points de base 
 
 </td>
       </tr>
@@ -92,7 +70,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-2059 du 30 décembre 2011 - art. 2
+  - Décret n°2012-1531 du 29 décembre 2012 - art. 2
 
 _Cite_:
 
