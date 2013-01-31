@@ -2,7 +2,7 @@
 
 Le montant des droits prévus à l'article 1635 bis AE du code général des impôts est fixé comme suit : 
 
-I.-Au titre du 1° du I de l'article 1635 bis AE précité, pour les demandes d'enregistrement mentionnées aux articles L.
+I. - Au titre du 1° du I de l'article 1635 bis AE précité, pour les demandes d'enregistrement mentionnées aux articles L.
 5121-13 et L. 5121-14 du code de la santé publique, de modification ou de renouvellement de cet enregistrement relatives à un
 médicament homéopathique ou une série de médicaments homéopathiques obtenus à partir de la ou des mêmes souches
 homéopathiques, les montants sont fixés comme suit : 
@@ -104,11 +104,7 @@ ou plus
 
 4° Demande de renouvellement d'enregistrement : 1 500 €. 
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits mentionnés aux 1°, 2°, 3° ou 4° est produite
-à l'appui de la demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique,
-conformément au III de l'article 1635 bis AE du code général des impôts. 
-
-II.-Au titre du 2° du I de l'article 1635 bis AE précité, pour les demandes d'enregistrement, de modification ou de
+II. - Au titre du 2° du I de l'article 1635 bis AE précité, pour les demandes d'enregistrement, de modification ou de
 renouvellement de cet enregistrement relatives à un médicament traditionnel à base de plantes, les montants sont fixés comme
 suit : 
 
@@ -183,19 +179,13 @@ de la santé publique (procédure nationale)
 3° Demande de renouvellement de l'enregistrement présentée dans les conditions fixées à l'article R. 5121-99 du code de la
 santé publique : 5 000 €. 
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits mentionnés aux 1°, 2° ou 3° du présent II
-est produite à l'appui de la demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé
-publique, conformément au III de l'article 1635 bis AE du code général des impôts. 
-
-III.-Au titre du 3° du I de l'article 1635 bis AE précité, pour les demandes d'autorisation de mise sur le marché, de
+III. - Au titre du 3° du I de l'article 1635 bis AE précité, pour les demandes d'autorisation de mise sur le marché, de
 renouvellement ou de modification de cette autorisation : 
 
 <table border="1" cellpadding="0" width="700">
   <tbody>
     <tr>
-      <td valign="top" width="246">
-
-</td>
+      <td valign="top" width="246"> </td>
       <td valign="top" width="151">
 
 DEMANDE EFFECTUÉE 
@@ -252,7 +242,7 @@ du code de la santé publique
 1° Demande d'autorisation de mise sur le marché relative à une spécialité pharmaceutique ou à un autre médicament mentionné à
 l'article L. 5121-8 du code de la santé publique présentée conformément aux articles 
 
-R. 5121-21et R. 5121-25 du même code 
+R. 5121-21 et R. 5121-25 du même code 
 
 </td>
       <td valign="top" width="151">
@@ -338,7 +328,7 @@ présentée conformément au 2° de l'article R. 5121-26 du même code contenant
 
 b) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
-L. 5121-8 du code de la santé publique, présentée conformément au 3° de l'article R. 5121-26 ou au 2° de l'article
+L. 5121-8 du code de la santé publique, présentée conformément au 3° de l'article R. 5121-26 ou au 2° de l'article 
 
 R. 5121-28 du code précité et relative à une voie d'administration différente de celle de la demande initiale 
 
@@ -362,7 +352,7 @@ R. 5121-28 du code précité et relative à une voie d'administration différent
     <tr>
       <td valign="top" width="246">
 
-c) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article
+c) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
 L. 5121-8 du code de la santé publique, présentée conformément au 1° de l'article R. 5121-26 du code précité 
 
@@ -526,7 +516,7 @@ d'administration ni de l'indication thérapeutique
     <tr>
       <td valign="top" width="246">
 
-d) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article
+d) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
 L. 5121-8 du code de la santé publique, présentée conformément au 2° de l'article R. 5121-28 du code précité et concernant
 des différences relatives à la substance active ou lorsque la bioéquivalence par rapport à la spécialité de référence n'a pu
@@ -578,7 +568,7 @@ des différences relatives à la substance active ou le changement de la biodisp
     <tr>
       <td valign="top" width="246">
 
-f) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article
+f) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
 L. 5121-8 du code de la santé publique consistant en allergène, par famille de produits 
 
@@ -713,18 +703,14 @@ médicament mentionné à l'article L. 5121-8 du code de la santé publique
 </td>
       <td align="left" colspan="3" valign="top">
 
-Quelle que soit la procédure : 500 € 
+Quelle que soit la procédure : 5 000 € 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits mentionnés aux 1°, 2°, 3°, 4°, 5° ou 6° du
-présent III est produite à l'appui de la demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de la
-santé publique, conformément au III de l'article 1635 bis AE du code général des impôts. 
-
-IV.-Au titre du 4° du I de l'article 1635 bis AE précité, pour les demandes de reconnaissance par au moins un autre Etat
+IV. - Au titre du 4° du I de l'article 1635 bis AE précité, pour les demandes de reconnaissance par au moins un autre Etat
 membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen d'une autorisation de mise sur le marché
 délivrée par le directeur général de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique : 
 
@@ -949,12 +935,8 @@ consistant en allergène, par famille de produits
   </tbody>
 </table>
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits mentionnés aux 1°, 2°, 3° et 4° du présent
-IV est produite à l'appui de la demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé
-publique, conformément au III de l'article 1635 bis AE du code général des impôts. 
-
-V.-Au titre du 5° du I de l'article 1635 bis AE précité, pour les demandes d'importation parallèle, les modifications ou les
-renouvellements d'importation parallèle :
+V. - Au titre du 5° du I de l'article 1635 bis AE précité, pour les demandes d'importation parallèle, les modifications ou
+les renouvellements d'importation parallèle :
 
 - pour toute demande d'autorisation d'importation parallèle mentionnée à l'article R. 5121-120 du code de la santé publique :
 5 000 € ;
@@ -964,46 +946,40 @@ renouvellements d'importation parallèle :
 - pour toute demande de renouvellement quinquennal d'autorisation d'importation parallèle mentionnée à l'article R. 5121-125
 du code de la santé publique : 674 €. 
 
-La quittance obtenue de l'administration fiscale après versement d'un des droits mentionnés au présent V est produite à
-l'appui de la demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique, conformément
-au III de l'article 1635 bis AE du code général des impôts. 
+VI. - Au titre du 6° du I de l'article 1635 bis AE précité, pour toute demande de visa ou de renouvellement de visa de
+publicité mentionné aux articles L. 5122-8, L. 5122-9 et L. 5122-14 du code de la santé publique : 510 €. 
 
-VI.-Au titre du 6° du I de l'article 1635 bis AE précité, pour toute demande de visa ou de renouvellement de visa de
-publicité mentionné aux articles L. 5122-8 et L. 5122-14 du code de la santé publique : 510 €. 
+VII. - Au titre du 7° du I de l'article 1635 bis AE précité, pour toute demande d'autorisation ou de renouvellement
+d'autorisation de publicité mentionnée aux articles L. 5213-4 et L. 5223-3 du code de la santé publique : 510 €. 
 
-La quittance obtenue de l'administration fiscale après versement du droit est produite à l'appui de la demande déposée auprès
-de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique, conformément au III de l'article 1635 bis AE du
-code général des impôts. 
-
-VII.-Au titre du 7° du I de l'article 1635 bis AE précité, pour tout dépôt de publicité mentionné aux articles L. 5122-9 et
-L. 5122-14 du code de la santé publique : 510 €. 
-
-La quittance obtenue de l'administration fiscale après versement du droit est produite à l'appui de la demande déposée auprès
-de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique, conformément au III de l'article 1635 bis AE du
-code général des impôts.
+VIII. - La quittance obtenue de l'administration fiscale après versement d'un des droits mentionnés aux I à VII est produite
+à l'appui de la demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique,
+conformément au III de l'article 1635 bis AE du code général des impôts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-381 du 19 mars 2012 - art. 1
+  - Décret n°2013-103 du 29 janvier 2013 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1635 bis AE
-  - Code de la santé publique - art. L5121-13 (V)
-  - Code de la santé publique - art. L5121-14 (V)
-  - Code de la santé publique - art. L5121-8 (V)
-  - Code de la santé publique - art. L5311-1 (VT)
-  - Code de la santé publique - art. R5121-100 (V)
-  - Code de la santé publique - art. R5121-107-11 (V)
-  - Code de la santé publique - art. R5121-107-13 (V)
-  - Code de la santé publique - art. R5121-107-8 (V)
+  - Code de la santé publique - art. L5121-13
+  - Code de la santé publique - art. L5121-14
+  - Code de la santé publique - art. L5121-8
+  - Code de la santé publique - art. L5122-8
+  - Code de la santé publique - art. L5213-4
+  - Code de la santé publique - art. L5311-1
+  - Code de la santé publique - art. R5121-100
+  - Code de la santé publique - art. R5121-107-11
+  - Code de la santé publique - art. R5121-107-13
+  - Code de la santé publique - art. R5121-107-8
   - Code de la santé publique - art. R5121-125
-  - Code de la santé publique - art. R5121-21 (V)
-  - Code de la santé publique - art. R5121-26 (V)
-  - Code de la santé publique - art. R5121-28 (V)
-  - Code de la santé publique - art. R5121-51-2 (V)
-  - Code de la santé publique - art. R5121-51-3 (V)
+  - Code de la santé publique - art. R5121-21
+  - Code de la santé publique - art. R5121-26
+  - Code de la santé publique - art. R5121-28
+  - Code de la santé publique - art. R5121-51-2
+  - Code de la santé publique - art. R5121-51-3
   - Code de la santé publique - art. R5121-97
-  - Code de la santé publique - art. R5121-99 (V)
+  - Code de la santé publique - art. R5121-99
