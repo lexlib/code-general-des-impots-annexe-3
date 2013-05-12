@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2013-04-27
+Version Consolidée au 2013-05-13
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -40631,8 +40631,7 @@ _Cite_:
 
 La désignation des membres de la commission intercommunale des impôts directs intervient dans les deux mois à compter de
 l'installation de l'organe délibérant de l'établissement public de coopération intercommunale suivant le renouvellement
-général des conseils municipaux. Toutefois, pour la première année au titre de laquelle la commission exerce ses compétences,
-la nomination des membres de la commission intervient avant le 1er janvier de cette année. 
+général des conseils municipaux.  
 
 A défaut de liste de présentation des contribuables prévue au 2 de l'article 1650 A du code général des impôts, les membres
 de la commission sont désignés d'office par le directeur départemental ou, le cas échéant, régional des finances publiques un
@@ -40652,7 +40651,7 @@ de l'organe délibérant de l'établissement public de coopération intercommuna
 
 _Modifié par_:
 
-  - Décret n°2012-431  du 29 mars 2012 - art. 27
+  - Décret n°2013-391 du 10 mai 2013 - art. 1
 
 _Cite_:
 
