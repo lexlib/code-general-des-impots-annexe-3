@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2013-05-13
+Version Consolidée au 2013-05-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -29719,130 +29719,106 @@ _Cite_:
 Les poinçons de maître et de responsabilité, les poinçons de garantie utilisés par les professionnels habilités par une
 convention conclue avec l'administration des douanes et droits indirects dans les conditions prévues au deuxième alinéa du I
 de l'article 535 du code général des impôts, par les organismes de contrôle agréés dans les conditions prévues au II de cet
-article et par les services de la garantie doivent être conformes aux modèles fixés par décret.
+article et par les services de la garantie doivent être conformes aux modèles fixés par décret. Les marquages au laser sont
+soumis à la même obligation. 
 
-Ils sont apposés sur les ouvrages dans les conditions que l'administration détermine.
+Les poinçons ou les marquages au laser sont apposés sur les ouvrages dans les conditions que l'administration détermine.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 535
-
 _Modifié par_:
 
-  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
+  - Décret n°2013-411 du 17 mai 2013 - art. 1
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 1er janvier 2007
+  - Code général des impôts, CGI. - art. 535 (V)
 
 
 ###### Article 184
 
-Les poinçons de garantie utilisés par les professionnels habilités, par les organismes de contrôle agréés et par les services
-de la garantie portent un signe caractéristique particulier, qui est déterminé par la Monnaie de Paris. Ce signe est changé
+Les poinçons de garantie métalliques utilisés par les professionnels habilités, par les organismes de contrôle agréés et par
+les bureaux de garantie portent un signe caractéristique particulier, déterminé par la Monnaie de Paris. Ce signe est changé
 toutes les fois qu'il est nécessaire.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
 _Codifié par_:
 
-  - Décret n°2007-484 2007-03-30
+  - Décret n°2007-484 du 30 mars 2007
+
+_Modifié par_:
+
+  - Décret n°2013-411 du 17 mai 2013 - art. 1
 
 
 ###### Article 186
 
-Tous les poinçons de garantie sont fabriqués par la Monnaie de Paris, qui les fait parvenir dans les divers bureaux de
-garantie et aux opérateurs bénéficiaires d'une convention d'habilitation et en conserve les matrices.
+Tous les poinçons de garantie métalliques sont fabriqués par la Monnaie de Paris, qui les fait parvenir aux bureaux de
+garantie, aux professionnels habilités et aux organismes de contrôle agréés et en conserve les matrices.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
-
 _Codifié par_:
 
-  - Décret n°2007-484 2007-03-30
+  - Décret n°2007-484 du 30 mars 2007
+
+_Modifié par_:
+
+  - Décret n°2013-411 du 17 mai 2013 - art. 1
 
 
 ###### Article 186 bis
 
-Les ouvrages d'or aux titres légaux de 585 millièmes et 375 millièmes sont revêtus respectivement des poinçons de titre
-conformes au tableau annexé au décret n° 95-612 du 5 mai 1995.
+Les ouvrages d'or aux titres légaux de 585 millièmes et 375 millièmes sont revêtus respectivement des poinçons de titre ou du
+marquage au laser conformes au tableau annexé au décret n° 95-612 du 5 mai 1995. 
 
 Les fabricants d'ouvrages d'or aux titres légaux de 585 millièmes et 375 millièmes peuvent, en outre, y faire figurer une
-indication du titre en millièmes, sans préjudice de l'apposition du poinçon de garantie, qui seul fait foi du titre.
+indication du titre en millièmes, sans préjudice de l'apposition du poinçon de garantie ou du marquage au laser qui seul fait
+foi du titre.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°95-612 1995-05-05 annexe
+  - Décret n°95-612 du 5 mai 1995
 
 _Modifié par_:
 
-  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Décret n°2013-411 du 17 mai 2013 - art. 1
 
 
 ###### Article 186 ter
 
-Pour l'application du b de l'article 524 bis du code général des impôts, les seuils de dispense du poinçon de garantie sont
-fixés à un poids inférieur à 3 grammes pour les ouvrages contenant de l'or ou du platine et à 30 grammes pour les ouvrages
-contenant de l'argent.
+Pour l'application du b de l'article 524 bis du code général des impôts, les seuils de dispense d'attestation de la garantie
+du titre sont fixés à un poids inférieur à 3 grammes pour les ouvrages contenant de l'or ou du platine et à 30 grammes pour
+les ouvrages contenant de l'argent.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2013-411 du 17 mai 2013 - art. 1
+
 _Cite_:
 
-  - CGI 524 bis
-
-_Créé par_:
-
-  - Décret n°2001-1089 du 20 novembre 2001 - art. 1 () JORF 22 novembre 2001
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
+  - Code général des impôts, CGI. - art. 524 bis
 
 
 ##### Section II : Organisation des bureaux de garantie<a id=298></a>
 
 ###### Article 187
 
-Le poinçonnement des ouvrages, hors les cas où le professionnel bénéficie d'une délégation de poinçon de garantie, est
-effectué par le bureau de garantie du ressort dont relève l'opérateur ou par un organisme de contrôle agréé.
+La garantie du titre est attestée, hors les cas où le professionnel bénéficie d'une délégation de poinçon de garantie, par le
+bureau de garantie du ressort dont relève le professionnel ou par un organisme de contrôle agréé.
 
-Le nombre et les circonscriptions des bureaux de garantie sont fixés par le ministre chargé des finances.
+Le nombre et les circonscriptions des bureaux de garantie sont fixés par le ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2007
+  - Décret n°2013-411 du 17 mai 2013 - art. 1
 
 
 ###### Article 189
