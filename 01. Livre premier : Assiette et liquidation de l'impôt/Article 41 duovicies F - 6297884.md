@@ -1,13 +1,16 @@
 # Article 41 duovicies F
 
-En cas de rachat ou de cession de parts, le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques doit
-fournir au propriétaire des parts rachetées ou cédées tous les éléments de calcul de la plus-value, et notamment :
+En cas de rachat ou de cession de parts, le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques,
+d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction
+antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou d'un fonds
+professionnel de capital investissement, doit fournir au propriétaire des parts rachetées ou cédées tous les éléments de
+calcul de la plus-value, et notamment :
 
 a. Les éléments nécessaires à la détermination de la valeur moyenne pondérée d'acquisition des parts rachetées ou cédées ;
 
 b. La date et le montant de ces rachats ou cessions de parts ;
 
-c. (abrogé)
+c. (Abrogé)
 
 En cas de cession de parts effectuée sans l'intervention du gérant, le cédant fait connaître au gérant ou au dépositaire le
 nombre et la catégorie des parts cédées, l'identité et le domicile du cessionnaire ainsi que la date et le montant de la
@@ -15,22 +18,18 @@ cession.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - CGIAN3 39 quater
-
 _Codifié par_:
 
-  - Décret n°2001-435 2001-05-21
+  - Décret n°2001-435 du 21 mai 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI ter (V)
 
-**Liens**:
+_Cite_:
 
-  - HISTO: Edition du 31 mars 2001
+  - Code monétaire et financier - art. L214-37
