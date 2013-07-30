@@ -1,6 +1,6 @@
 # Article 46 quater-0 ZZ quater
 
-I.-Pour bénéficier de l'avantage fiscal prévu à l'article 217 terdecies du code général des impôts, le souscripteur au
+I. – Pour bénéficier de l'avantage fiscal prévu à l'article 217 terdecies du code général des impôts, le souscripteur au
 capital d'une société d'épargne forestière doit joindre à sa déclaration de résultats un relevé délivré par cette société et
 comprenant : 
 
@@ -17,25 +17,26 @@ cession.
 
 Ce relevé est établi sur papier libre conformément au modèle fixé par l'administration. 
 
-II.-Le relevé mentionné au I est complété par une attestation fournie par la société indiquant qu'elle respecte les
-dispositions prévues aux articles L. 214-85 et L. 214-87 du code monétaire et financier. 
+II. – Le relevé mentionné au I est complété par une attestation fournie par la société indiquant qu'elle respecte les
+dispositions prévues aux articles L. 214-121 et L. 214-123 à L. 214-125 du code monétaire et financier. 
 
 Cette attestation doit également être jointe à sa déclaration de résultats par le souscripteur au capital d'une société
 d'épargne forestière. 
 
-III.-Lorsque les parts cédées au cours d'un exercice ont été souscrites depuis moins de huit ans par le cédant ou lorsque la
-société d'épargne forestière est dissoute ou cesse de respecter les dispositions prévues aux articles L. 214-85 et L. 214-87
-du code monétaire et financier, elle adresse, dans les deux mois suivant l'un de ces événements, à la   direction
-départementale ou, le cas échéant, régionale des finances publiques du domicile des souscripteurs concernés le relevé
-mentionné au I ou un duplicata de ce relevé.
+III. – Lorsque les parts cédées au cours d'un exercice ont été souscrites depuis moins de huit ans par le cédant ou lorsque
+la société d'épargne forestière est dissoute ou cesse de respecter les dispositions prévues aux articles L. 214-121 et L.
+214-123 à L. 214-125 du code monétaire et financier, elle adresse, dans les deux mois suivant l'un de ces événements, à la
+direction départementale ou, le cas échéant, régionale des finances publiques du domicile des souscripteurs concernés le
+relevé mentionné au I ou un duplicata de ce relevé.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-431  du 29 mars 2012 - art. 25
+  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 217 terdecies
-  - Code monétaire et financier - art. L214-85
+  - Code général des impôts, CGI. - art. 217 terdecies (V)
+  - Code monétaire et financier - art. L214-121 (V)
+  - Code monétaire et financier - art. L214-123 (V)
