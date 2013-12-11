@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2013-10-15
+Version Consolidée au 2013-12-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -16091,15 +16091,15 @@ retenir :
 documentaires : 
 
 a. Au titre des rémunérations et charges sociales afférentes aux auteurs énumérés à l'article L. 113-7 du code de la
-propriété intellectuelle : les avances à valoir sur les recettes d'exploitation versées par l'entreprise de production aux
-auteurs en contrepartie de la commande et de l'acquisition des droits nécessaires à la réalisation de l'oeuvre, ainsi que les
-charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires ; 
+propriété intellectuelle : les rémunérations versées par l'entreprise de production aux auteurs en contrepartie de la
+commande et de l'acquisition des droits nécessaires à la réalisation de l'oeuvre, ainsi que les charges sociales afférentes
+dans la mesure où elles correspondent à des cotisations sociales obligatoires ; 
 
-b. Au titre des rémunérations et charges sociales afférentes aux artistes-interprètes visés à l'article L. 212-4 du code de
-la propriété intellectuelle : la part de la rémunération versée par l'entreprise de production aux artistes-interprètes
-correspondant aux rémunérations minimales prévues par les conventions collectives et accords collectifs de la production
-cinématographique ou audiovisuelle, ainsi que les charges sociales afférentes dans la mesure où elles correspondent à des
-cotisations sociales obligatoires ; 
+b. Au titre des rémunérations et charges sociales afférentes aux artistes-interprètes mentionnés à l'article L. 212-4 du code
+de la propriété intellectuelle et aux artistes de complément : la part de leur rémunération versée par l'entreprise de
+production correspondant aux rémunérations minimales prévues par les conventions collectives et accords collectifs de la
+production cinématographique ou audiovisuelle, ainsi que les charges sociales afférentes dans la mesure où elles
+correspondent à des cotisations sociales obligatoires ; 
 
 c. Au titre des salaires et charges sociales afférents aux personnels de la réalisation et de la production : les
 rémunérations et leurs accessoires versés par l'entreprise de production aux techniciens et ouvriers de la production, ainsi
@@ -16127,14 +16127,22 @@ numériques et de génériques et bandes-annonces ;
 
 4° Les dépenses de pellicules et autres supports d'images et les dépenses de laboratoire, à savoir : les dépenses de
 pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques
-d'images et de son, de laboratoires de tournage, de laboratoires de finition, de laboratoire vidéo et de sous-titrage. 
+d'images et de son, de laboratoires de tournage, de laboratoires de finition, de laboratoire vidéo et de sous-titrage ; 
+
+e. Au titre des dépenses de transport, de restauration et d'hébergement : les dépenses de transport de biens et de matériels
+artistiques et techniques, ainsi que les dépenses de transport, de restauration et d'hébergement des équipes artistiques et
+techniques, strictement nécessaires aux besoins de la production de l'œuvre.
+
+Les dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans la limite de 270 euros par nuitée dans la
+ville de Paris et les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 euros dans les
+autres départements. 
 
 2. Pour les oeuvres cinématographiques ou audiovisuelles d'animation : 
 
 a. Au titre des rémunérations et charges sociales afférentes aux auteurs énumérés à l'article L. 113-7 du code de la
-propriété intellectuelle : les avances à valoir sur les recettes d'exploitation versées par l'entreprise de production aux
-auteurs en contrepartie de la commande et de l'acquisition des droits nécessaires à la réalisation de l'oeuvre, ainsi que les
-charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires ; 
+propriété intellectuelle : les rémunérations versées par l'entreprise de production aux auteurs en contrepartie de la
+commande et de l'acquisition des droits nécessaires à la réalisation de l'oeuvre, ainsi que les charges sociales afférentes
+dans la mesure où elles correspondent à des cotisations sociales obligatoires ; 
 
 b. Au titre des rémunérations et charges sociales afférentes aux artistes-interprètes visés à l'article L. 212-4 du code de
 la propriété intellectuelle : la part de la rémunération versée aux artistes-interprètes correspondant aux rémunérations
@@ -16169,19 +16177,27 @@ numériques et de génériques et bandes-annonces ;
 
 4° Les dépenses de pellicules et autres supports d'images et des dépenses de laboratoires, à savoir : les dépenses de
 pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques
-d'images et de son, de laboratoires de finition, de laboratoire vidéo et de sous-titrages.
+d'images et de son, de laboratoires de finition, de laboratoire vidéo et de sous-titrages ;
+
+e. Au titre des dépenses de transport, de restauration et d'hébergement : les dépenses de transport de biens et de matériels
+artistiques et techniques, ainsi que les dépenses de transport, de restauration et d'hébergement des équipes artistiques et
+techniques, strictement nécessaires aux besoins de la production de l'œuvre.
+
+Les dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans la limite de 270 euros par nuitée dans la
+ville de Paris et les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 euros dans les
+autres départements.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2006-317 du 20 mars 2006 - art. 1 () JORF 21 mars 2006
+  - Décret n°2013-1139 du 9 décembre 2013 - art. 1
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L113-7 (V)
-  - Code de la propriété intellectuelle - art. L212-4 (V)
-  - Code général des impôts, CGI. - art. 220 sexies (VT)
+  - Code de la propriété intellectuelle - art. L113-7
+  - Code de la propriété intellectuelle - art. L212-4
+  - Code général des impôts, CGI. - art. 220 sexies
 
 _Cité par_:
 
@@ -16209,21 +16225,26 @@ _Cite_:
 
 ###### Article 46 quater-0 YO
 
-I.-Les artistes-interprètes mentionnés au b du 1 et au b du 2 de l'article 46 quater-0 YM comprennent : 
+I. – Les artistes-interprètes et les artistes de complément mentionnés au b du 1 et au b du 2 de l'article 46 quater-0 YM
+comprennent :
 
 a. Les acteurs assurant les rôles principaux et les rôles secondaires des oeuvres appartenant au genre de la fiction ainsi
 que les artistes-interprètes assurant le commentaire ou la postsynchronisation des oeuvres appartenant au genre du
 documentaire et au genre de l'animation. Pour les oeuvres appartenant au genre de la fiction, sont considérés comme rôles
 principaux les rôles pour lesquels la présence à l'écran des artistes-interprètes est requise pour la moitié au moins des
-scènes de l'oeuvre et comme rôles secondaires les rôles d'au moins quatre cachets ; 
+scènes de l'oeuvre et comme rôles secondaires les rôles d'au moins quatre cachets ;
 
 b. Les artistes musiciens engagés pour l'enregistrement sonore de leur interprétation ou exécution d'oeuvres musicales
-destinées à être incorporées aux oeuvres cinématographiques ou audiovisuelles ; 
+destinées à être incorporées aux oeuvres cinématographiques ou audiovisuelles ;
 
-II.-Les personnels mentionnés au c du 1 et au c du 2 de l'article 46 quater-0 YM comprennent : 
+c. Les artistes du spectacle considérés comme artistes de complément par les usages professionnels, notamment par les
+conventions et accords collectifs de la production cinématographique ou audiovisuelle, ainsi que les artistes-interprètes
+assurant des rôles de moins de quatre cachets.
+
+II. – Les personnels mentionnés au c du 1 et au c du 2 de l'article 46 quater-0 YM comprennent :
 
 1° Pour les oeuvres cinématographiques ou audiovisuelles de fiction et les oeuvres cinématographiques ou audiovisuelles
-documentaires : 
+documentaires :
 
 a. les techniciens de la production qui sont ceux en charge : de la réalisation ; de la préparation et de l'assistance de
 réalisation ; de la technique et de la qualité artistique des prises de vues ; de la technique et de la qualité artistique
@@ -16233,20 +16254,20 @@ l'habillage et de l'entretien des costumes ; du maquillage de composition des ac
 postiches et de l'exécution des coiffures ; des accessoires de plateau et de décor ; de l'assemblage artistique et technique
 des images et des sons ; de la préparation et de la réalisation des effets spéciaux de tournage, y compris les cascades ; de
 la direction artistique et du développement ; de la direction et de la gestion administrative, technique et comptable de la
-production ; 
+production ;
 
 b. Les ouvriers de la production qui sont ceux en charge : de la machinerie ; de l'éclairage ; de la construction des
-décors ; 
+décors ;
 
-2° Pour les oeuvres cinématographiques ou audiovisuelles d'animation : 
+2° Pour les oeuvres cinématographiques ou audiovisuelles d'animation :
 
 a. les techniciens de la production qui sont ceux en charge : de la réalisation ; de l'assistance de réalisation, de la
 direction artistique et de la direction d'écriture de l'oeuvre cinématographique ou audiovisuelle ; de la direction
-artistique et du développement ; de la direction et de la gestion administrative, technique et comptable de la production ; 
+artistique et du développement ; de la direction et de la gestion administrative, technique et comptable de la production ;
 
 b. Les collaborateurs chargés de la préparation de l'animation qui sont ceux en charge : de la création du scénarimage ; de
 la conception et de la modélisation des personnages ; de la conception et de la modélisation des décors ; des feuilles
-d'exposition ; 
+d'exposition ;
 
 c. Les collaborateurs chargés de la fabrication de l'animation qui sont ceux en charge : de la mise en place de l'animation ;
 de l'exécution de l'animation ; de la mise en place des décors ; de l'exécution des décors ; du traçage-gouachage, de la
@@ -16257,11 +16278,11 @@ technique des images et du son.
 
 _Modifié par_:
 
-  - Décret n°2006-317 du 20 mars 2006 - art. 3 () JORF 21 mars 2006
+  - Décret n°2013-1139 du 9 décembre 2013 - art. 2
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YM (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YM
 
 
 ###### Article 46 quater-0 YP
@@ -17620,15 +17641,19 @@ f) Les dépenses de pellicules et autres supports d'images et les dépenses de l
 pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques
 d'images et de son, de laboratoires de tournage, de laboratoires de finition, de laboratoire vidéo et de sous-titrage ; 
 
-5. Au titre des dépenses de transport et de restauration : les dépenses de transport de biens et de matériels artistiques et
-techniques, ainsi que les dépenses de transport et de restauration des équipes artistiques et techniques, strictement
-nécessaires aux besoins de la production de l'œuvre.
+5. Au titre des dépenses de transport, de restauration et d'hébergement : les dépenses de transport de biens et de matériels
+artistiques et techniques, ainsi que les dépenses de transport, de restauration et d'hébergement des équipes artistiques et
+techniques, strictement nécessaires aux besoins de la production de l'œuvre.
+
+Les dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans la limite de 270 euros par nuitée dans la
+ville de Paris et les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 euros dans les
+autres départements.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1464 du 30 novembre 2009 - art. 1
+  - Décret n°2013-1138 du 9 décembre 2013 - art. 1
 
 _Cite_:
 
