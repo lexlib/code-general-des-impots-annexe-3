@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -44188,9 +44188,10 @@ chargé des grandes entreprises mentionné au premier alinéa de l'article 344-0
 
 II.-Les dispositions du I s'appliquent à l'impôt sur les sociétés, à l'imposition forfaitaire annuelle des sociétés, à la
 contribution sur les revenus locatifs, à la contribution sociale sur l'impôt sur les sociétés prévues respectivement aux
-articles 223 septies, 234 nonies et 235 ter ZC du code général des impôts, à la cotisation foncière des entreprises et à la
-cotisation sur la valeur ajoutée des entreprises de même qu'aux taxes additionnelles et annexes à cette cotisation ainsi
-qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
+articles 223 septies, 234 nonies et 235 ter ZC du code général des impôts, à la taxe prévue par l'article 235 ter ZD du code
+général des impôts à la cotisation foncière des entreprises et à la cotisation sur la valeur ajoutée des entreprises de même
+qu'aux taxes additionnelles et annexes à cette cotisation ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de
+l'article 344-0 B. 
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
 leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique à l'ensemble des impositions
@@ -44216,7 +44217,7 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 _Modifié par_:
 
-  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+  - Décret n°2013-1225 du 23 décembre 2013 - art. 4
 
 _Cité par_:
 
@@ -44231,6 +44232,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 223 septies
   - Code général des impôts, CGI. - art. 234 nonies
   - Code général des impôts, CGI. - art. 235 ter ZC
+  - Code général des impôts, CGI. - art. 235 ter ZD
 
 
 ## Chapitre I bis : Pénalités<a id=503></a>
