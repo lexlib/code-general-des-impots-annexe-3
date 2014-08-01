@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-08-01
+Version Consolidée au 2014-08-02
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -6546,24 +6546,24 @@ _Cite_:
 
 Le contribuable qui, dans les conditions prévues aux 2° quater et 2° quinquies de l'article 83 du code général des impôts,
 déduit d'une rémunération visée à l'article 62 du même code les intérêts d'un emprunt contracté pour souscrire au capital
-d'une société nouvelle ou d'une société coopérative ouvrière de production est soumis aux obligations prévues aux articles 38
+d'une société nouvelle ou d'une société coopérative de production est soumis aux obligations prévues aux articles 38
 septdecies A à 38 septdecies E.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°84-886 du 28 septembre 1984 - art. 1 (V) JORF 6 octobre 1984
-
 _Codifié par_:
 
-  - Décret n°85-1007 1985-09-24
+  - Décret n°85-1007 du 24 septembre 1985
+
+_Modifié par_:
+
+  - Loi n°2014-856 du 31 juillet 2014 - art. 30
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A (V)
-  - Code général des impôts, CGI. - art. 62 (V)
-  - Code général des impôts, CGI. - art. 83 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A (M)
+  - Code général des impôts, CGI. - art. 62
+  - Code général des impôts, CGI. - art. 83 (M)
 
 
 ##### V : Bénéfices de l'exploitation agricole<a id=44></a>
@@ -7624,18 +7624,18 @@ _Cite_:
 
 Le contribuable qui, dans les conditions prévues aux 2° quater et 2° quinquies de l'article 83 et au I de l'article 83 bis du
 code général des impôts, déduit d'un salaire les intérêts d'un emprunt contracté pour souscrire au capital d'une société
-nouvelle ou d'une société coopérative ouvrière de production ou pour acquérir des actions ou des parts d'une société en vue
-de sa reprise doit fournir les mêmes renseignements que ceux prévus au troisième alinéa de l'article 43.
+nouvelle ou d'une société coopérative de production ou pour acquérir des actions ou des parts d'une société en vue de sa
+reprise doit fournir les mêmes renseignements que ceux prévus au troisième alinéa de l'article 43.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°87-991 du 13 novembre 1987 - art. 10 () JORF 14 novembre 1987
-
 _Codifié par_:
 
-  - Décret n°88-1001 1988-10-20
+  - Décret n°88-1001 du 20 octobre 1988
+
+_Modifié par_:
+
+  - Loi n°2014-856 du 31 juillet 2014 - art. 30
 
 _Cité par_:
 
@@ -7643,13 +7643,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 43 (V)
-  - Code général des impôts, CGI. - art. 83 (V)
-  - Code général des impôts, CGI. - art. 83 bis (V)
-
-**Liens**:
-
-  - HISTO: Edition du 15 juillet 1988
+  - Code général des impôts, annexe 3, CGIAN3. - art. 43
+  - Code général des impôts, CGI. - art. 83
+  - Code général des impôts, CGI. - art. 83 bis
 
 
 ###### Article 38 septdecies B
@@ -7730,23 +7726,23 @@ d) Les prestataires de services d'investissement ;
 
 e) (Sans objet). 
 
-f) Les sociétés par actions ou à responsabilité limitée et les sociétés coopératives ouvrières de production pour les actions
-ou parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
+f) Les sociétés par actions ou à responsabilité limitée et les    sociétés coopératives de production pour les actions ou
+parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°84-46 1984-01-24 art. 18
-  - Code général des impôts, CGI. - art. 83 (V)
-
-_Modifié par_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 20 () JORF 4 juillet 1996
+  - Loi n°84-46 du 24 janvier 1984
+  - Code général des impôts, CGI. - art. 83
 
 _Codifié par_:
 
-  - Décret n°2000-477 2000-06-02
+  - Décret n°2000-477 du 2 juin 2000
+
+_Modifié par_:
+
+  - Loi n°2014-856 du 31 juillet 2014 - art. 30
 
 
 ###### Article 38 septdecies E
