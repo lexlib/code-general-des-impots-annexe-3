@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-08-02
+Version Consolidée au 2014-08-22
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -212,15 +212,15 @@ Version Consolidée au 2014-08-02
           - [Section II : Dispositions spéciales applicables aux opérations de nationalisation (art. 65)](#209)
       - [Titre II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 65 A à 111 quater V)](#210)
         - [Chapitre premier : Taxe sur la valeur ajoutée (art. 65 A à 98 bis)](#211)
-          - [Section I : Champ d'application (art. 65 A à 74)](#212)
+          - [Section I : Champ d'application (art. 65 A à 75 A)](#212)
             - [I : Opérations obligatoirement imposables (art. 65 A à 68)](#213)
               - [A : Animaux de boucherie et de charcuterie (art. 65 A)](#214)
               - [B : Prestations de transport (art. 68)](#215)
             - [I bis : Opérations imposables sur option (art. 70 septies à 70 sexies)](#216)
-            - [II : Opérations exonérées (art. 72 à 74)](#217)
+            - [II : Opérations exonérées (art. 72 à 75 A)](#217)
               - [B : Presse et impression (art. 72 à 73-0 A)](#218)
               - [C : Transports, opérations et services exonérés (art. 73 A à 73 I)](#219)
-              - [D : Exportation (art. 74)](#220)
+              - [D : Exportation (art. 74 à 75 A)](#220)
           - [Section II : Assiette de la taxe (art. 76)](#221)
             - [Régime du chiffre d'affaires réel (art. 76)](#222)
           - [Section III : Fait générateur et exigibilité de la taxe (art. 77 à 84)](#223)
@@ -23518,6 +23518,58 @@ _Cité par_:
   - Arrêté du 20 décembre 2011 - art. 2 (V)
   - Décret n°2015-1077 du 26 août 2015 - art. 3 (V)
   - Arrêté du 3 août 2018 - art. 1
+
+
+###### Article 75
+
+Dans le cadre de la procédure prévue aux deuxième à sixième alinéas du 2° du I de l'article 262 du code général des impôts,
+le titre justificatif de l'exportation est constitué par un bordereau de vente à l'exportation numéroté dans une série
+continue et conforme au modèle établi par la direction générale des douanes et droits indirects. Ce document est délivré le
+jour de la transaction par le vendeur au voyageur éligible à la procédure et muni de son passeport. 
+
+Le bordereau de vente à l'exportation est édité par voie informatique dans le cadre d'un téléservice. La procédure de secours
+prévue à l'article 75 A constitue la seule exception à ce principe. 
+
+Un arrêté du ministre chargé du budget fixe la forme, les conditions d'établissement et d'apurement du titre mentionné au
+premier alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-914 du 18 août 2014 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 16 décembre 2014 - art. 2 (Ab)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 262
+
+
+###### Article 75 A
+
+Le vendeur, préalablement affilié à un opérateur de détaxe ou habilité au téléservice mentionné au second alinéa de l'article
+75, est autorisé à recourir à la procédure de secours dans les cas suivants : 
+
+1° Indisponibilité générale du téléservice mentionné au second alinéa de l'article 75 ; 
+
+2° Panne des outils informatiques du vendeur permettant l'émission des bordereaux de vente à l'exportation ; 
+
+3° Interruption de la connexion internet du vendeur. 
+
+Les modalités de recours à la procédure de secours sont prévues par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-914 du 18 août 2014 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 16 décembre 2014 - art. 10 (Ab)
 
 
 ##### Section II : Assiette de la taxe<a id=221></a>
