@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-10-05
+Version Consolidée au 2014-10-15
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -32031,18 +32031,18 @@ _Cite_:
 ###### Article 313-0 BR quater
 
 Les titres de perception de la taxe prévue à l'article 1011 ter du code général des impôts sont émis par le préfet du
-département du domicile du redevable, au plus tard le 30 avril de l'année d'imposition.
+département du domicile du redevable, au plus tard le 31 octobre de l'année d'imposition.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-1043 du 1er septembre 2010 - art. 2
 
 _Cité par_:
 
   - Décret n°2012-998 du 24 août 2012 - art. 1 (V)
   - Décret n°2013-1091 du 2 décembre 2013 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-1171 du 13 octobre 2014 - art. 1
 
 _Cite_:
 
