@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-10-24
+Version Consolidée au 2014-11-06
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -4282,15 +4282,15 @@ _Cite_:
 
 ###### Article 10 GA
 
-Les dispositions de l'article 39 octies A du code général des impôts sont applicables aux établissements de crédit
-enregistrés par l'Autorité de contrôle prudentiel et de résolution et habilités à effectuer des opérations de crédit ou de
-crédit-bail au profit des entreprises.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 24-I de la loi n° 2013-672 du 26 juillet 2013.
+Les dispositions de l'article 39 octies A du code général des impôts sont applicables   aux établissements de crédit et aux
+sociétés de financement enregistrés par l'Autorité de contrôle prudentiel et de résolution et habilités à effectuer des
+opérations de crédit ou de crédit-bail au profit des entreprises.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
@@ -8690,9 +8690,9 @@ Toutefois, ce prélèvement n'est pas applicable :
 
 2° Aux intérêts des dépôts en devises effectués auprès des établissements de crédit installés en France ; 
 
-3° Aux revenus provenant d'opérations de trésorerie à court terme réalisées entre des établissements de crédit installés en
-France d'une part, et des banques établies à l'étranger, des organismes internationaux ou des institutions financières
-publiques étrangères, d'autre part ; 
+3° Aux revenus provenant d'opérations de trésorerie à court terme réalisées entre des établissements de crédit ou des
+sociétés de financement installés en France d'une part, et des banques établies à l'étranger, des organismes internationaux
+ou des institutions financières publiques étrangères, d'autre part ; 
 
 4° Aux intérêts provenant d'opérations à court terme perçus par les banques établies à l'étranger à raison des effets
 représentatifs de créances hypothécaires détenus par elles et susceptibles d'être acquis par le crédit foncier de France ; 
@@ -8704,11 +8704,7 @@ dont le domicile fiscal ou le siège social est situé hors de France.
 
 _Modifié par_:
 
-  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cité par_:
 
@@ -8717,8 +8713,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 125 A (V)
-  - Code général des impôts, CGI. - art. 157 (V)
+  - Code général des impôts, CGI. - art. 125 A
+  - Code général des impôts, CGI. - art. 157
 
 
 ###### Article 41 duodecies D
@@ -15383,25 +15379,20 @@ _Cite_:
 ###### Article 46 quater-0 U
 
 I. Si l'entreprise détient plusieurs créances, celles-ci ne peuvent être imputées sur l'impôt sur les sociétés qu'en
-respectant l'ordre dans lequel elles sont apparues.
+respectant l'ordre dans lequel elles sont apparues. 
 
-II. En cas de cession à titre de garantie à un établissement de crédit, la créance ne peut plus, à compter de la date de
-cession, être imputée sur l'impôt sur les sociétés dû par l'entreprise.
+II. En cas de cession à titre de garantie à un  établissement de crédit ou une société de financement, la créance ne peut
+plus, à compter de la date de cession, être imputée sur l'impôt sur les sociétés dû par l'entreprise.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°85-355 du 22 mars 1985 - art. 3 (V) JORF 24 mars 1985
-  - Décret n°85-355 du 22 mars 1985 - art. 4 (V) JORF 24 mars 1985
-
 _Codifié par_:
 
-  - Décret n°85-1007 1985-09-24
+  - Décret n°85-1007 du 24 septembre 1985
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 15 juillet 1985
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 
 ###### Article 46 quater-0 W
@@ -20495,7 +20486,8 @@ _Cite_:
 La créance mentionnée au troisième alinéa du I de l'article 199 ter C du code général des impôts ne peut faire l'objet que
 d'une seule cession ou d'un seul nantissement, pour son montant total ou partiel. 
 
-Le comptable de la direction générale des finances publiques adresse à l'établissement de crédit cessionnaire : 
+Le comptable de la direction générale des finances publiques adresse à l'  établissement de crédit ou à la société de
+financement cessionnaire : 
 
 1° A réception de la notification de la cession ou du nantissement de la créance, un certificat indiquant si la créance
 mentionnée au premier alinéa a déjà fait ou non l'objet d'une cession ou d'un nantissement antérieur ; 
@@ -20513,12 +20505,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1236 du 23 décembre 2013 - art. 1
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 199 ter C (V)
-  - Code général des impôts, CGI. - art. 244 quater C (V)
+  - Code général des impôts, CGI. - art. 199 ter C
+  - Code général des impôts, CGI. - art. 244 quater C
 
 
 ##### Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse<a id=184></a>
@@ -21047,21 +21039,21 @@ remboursables doivent être prises en compte dans leur totalité à compter du p
 
 Les éléments de nature à modifier le montant et les conditions de remboursement de l'avance remboursable sans intérêt doivent
 être pris en compte pour la production de l'attestation portant le calcul du crédit d'impôt et délivrée par l'organisme
-mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation à l'établissement de
-crédit. 
+mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation à l'établissement de crédit
+ou à la société de financement. 
 
 Par exception, lorsque les emprunteurs dont le ou les avis d'imposition font apparaître, par rapport aux revenus fiscaux de
 référence déclarés, un écart justifiant une baisse de l'avantage dont ils ont bénéficié et qu'ils ont régularisé cette
-situation auprès de l'établissement de crédit entre le 1er janvier et le 31 mars de l'année suivant celle de l'offre, les
-éléments ayant modifié le montant et les conditions de remboursement de l'avance peuvent être pris en compte sur
-l'attestation délivrée par l'organisme mentionné au deuxième alinéa au plus tard la deuxième année qui suit celle de
-l'émission de l'offre.
+situation auprès de l'établissement de crédit ou de la société de financement entre le 1er janvier et le 31 mars de l'année
+suivant celle de l'offre, les éléments ayant modifié le montant et les conditions de remboursement de l'avance peuvent être
+pris en compte sur l'attestation délivrée par l'organisme mentionné au deuxième alinéa au plus tard la deuxième année qui
+suit celle de l'émission de l'offre.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-1468 du 22 décembre 2008 - art. 1
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
@@ -21088,9 +21080,9 @@ _Cite_:
 ###### Article 49 septies YS
 
 Pour l'application des dispositions des articles 199 ter I, 
-220 K et 244 quater J du code général des impôts, les établissements de crédit mentionnés au I de l'article 244 quater J
-précité doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du
-service des impôts dont elles dépendent. 
+220 K et 244 quater J du code général des impôts, les établissements de crédit et les sociétés de financement mentionnés au I
+de l'article 244 quater J précité doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues
+de déposer auprès du service des impôts dont elles dépendent. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
 comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des
@@ -21104,11 +21096,11 @@ vertu du 1 de l'article 223 du code précité.
 
 _Modifié par_:
 
-  - Décret n°2012-431  du 29 mars 2012 - art. 31
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 360
   - Code général des impôts, CGI. - art. 199 ter I
   - Code général des impôts, CGI. - art. 218 A
   - Code général des impôts, CGI. - art. 220 K
@@ -21121,8 +21113,9 @@ _Cite_:
 
 L'organisme mentionné au troisième alinéa de l'article L. 312-1 du code de la construction et de l'habitation est tenu de
 transmettre au service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque
-établissement de crédit, un état relatif au crédit d'impôt en faveur de la première accession à la propriété pour chaque
-établissement de crédit tenu de déposer une déclaration spéciale lui ayant déclaré des avances remboursables sans intérêt. 
+établissement de crédit ou société de financement, un état relatif au crédit d'impôt en faveur de la première accession à la
+propriété pour chaque établissement de crédit ou société de financement tenu de déposer une déclaration spéciale lui ayant
+déclaré des avances remboursables sans intérêt. 
 
 Cet état doit faire apparaître les éléments suivants : 
 
@@ -21139,14 +21132,14 @@ l'avance ainsi que l'origine du reversement ou de l'arrêt d'imputation du créd
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 244 quater J (VT)
-  - Code de la construction et de l'habitation. - art. L312-1 (VT)
+  - Code général des impôts, CGI. - art. 244 quater J
+  - Code de la construction et de l'habitation. - art. L312-1
 
 
 ##### Section V decies : Crédit d'impôt pour dépenses de prospection commerciale<a id=189></a>
@@ -21677,17 +21670,17 @@ Les éléments de nature à modifier le montant du crédit d'impôt doivent êtr
 l'attestation portant le calcul du crédit d'impôt et délivrée par l'organisme mentionné au cinquième alinéa de l'article L.
 312-1 du code de la construction et de l'habitation. Ces éléments doivent figurer sur l'attestation délivrée au plus tard le
 31 mars qui suit l'expiration de la période de six mois mentionnée au c du II de l'article R. *319-14 du code de la
-construction et de l'habitation pour la communication par l'établissement de crédit des informations concernant les avances
-qui font apparaître un avantage indûment perçu par l'emprunteur. Par dérogation, les éléments de nature à modifier le montant
-du crédit d'impôt en raison de l'avantage indûment perçu par l'emprunteur mentionné à l'article R. 319-30 du même code
-doivent figurer sur l'attestation délivrée au plus tard le 31 mars qui suit l'expiration de la période de neuf mois
-mentionnée à la deuxième phrase du même article.
+construction et de l'habitation pour la communication par l'établissement de crédit ou la société de financement des
+informations concernant les avances qui font apparaître un avantage indûment perçu par l'emprunteur. Par dérogation, les
+éléments de nature à modifier le montant du crédit d'impôt en raison de l'avantage indûment perçu par l'emprunteur mentionné
+à l'article R. 319-30 du même code doivent figurer sur l'attestation délivrée au plus tard le 31 mars qui suit l'expiration
+de la période de neuf mois mentionnée à la deuxième phrase du même article.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-1297 du 27 décembre 2013 - art. 3
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
@@ -21715,8 +21708,9 @@ _Cite_:
 ###### Article 49 septies ZZD
 
 Pour l'application des dispositions des articles 199 ter S, 220 Z et 244 quater U du code général des impôts, les
-établissements de crédit mentionnés au I de l'article 244 quater U précité doivent annexer une déclaration spéciale à la
-déclaration de résultat qu'elles sont tenues de déposer auprès du service des impôts dont elles dépendent. 
+établissements de crédit et les sociétés de financement mentionnés au I de l'article 244 quater U précité doivent annexer une
+déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du service des impôts dont elles
+dépendent. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
 comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code précité avec
@@ -21730,25 +21724,25 @@ de l'article 223 du code précité.
 
 _Modifié par_:
 
-  - Décret n°2012-431  du 29 mars 2012 - art. 10
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
+  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
   - Code général des impôts, CGI. - art. 199 ter S
   - Code général des impôts, CGI. - art. 218 A
   - Code général des impôts, CGI. - art. 220 Z
   - Code général des impôts, CGI. - art. 223
   - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 244 quater U
-  - Code général des impôts, CGI. - art. 360
 
 
 ###### Article 49 septies ZZE
 
 L'organisme mentionné à l'article R. * 319-12 du code de la construction et de l'habitation est tenu de transmettre au
-service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit,
-un état relatif au crédit d'impôt pour chaque établissement de crédit tenu de déposer une déclaration spéciale lui ayant
-déclaré des avances remboursables sans intérêt. 
+service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit ou
+société de financement, un état relatif au crédit d'impôt pour chaque établissement de crédit ou société de financement tenu
+de déposer une déclaration spéciale lui ayant déclaré des avances remboursables sans intérêt. 
 
 Cet état doit faire apparaître les éléments suivants : 
 
@@ -21765,14 +21759,14 @@ l'avance ainsi que l'origine du reversement ou de l'arrêt d'imputation du créd
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-347 du 30 mars 2009 - art. 1
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 244 quater U
-  - Code de la construction et de l'habitation. - art. R*319-12 (V)
+  - Code de la construction et de l'habitation. - art. R319-12
 
 
 ##### Section V unvicies : Crédit d'impôt au titre des prêts ne portant pas intérêt consentis pour financer la primo-accession à la propriété<a id=196></a>
@@ -21798,41 +21792,41 @@ _Cite_:
 Pour le calcul du crédit d'impôt prévu à l'article 244 quater V du code général des impôts au titre d'une année, les prêts ne
 portant pas intérêt doivent être pris en compte dans leur totalité à compter du premier versement. 
 
-Les éléments de nature à modifier le montant du crédit d'impôt doivent être déclarés par les établissements de crédit au plus
-tard le 31 mars qui suit l'année du premier versement des prêts ne portant pas intérêt à l'organisme mentionné au cinquième
-alinéa de l'article L. 312-1 du code de la construction et de l'habitation pour la production de l'attestation portant le
-calcul du crédit d'impôt et délivrée par cet organisme à ces établissements. 
+Les éléments de nature à modifier le montant du crédit d'impôt doivent être déclarés par les établissements de crédit ou les
+sociétés de financement au plus tard le 31 mars qui suit l'année du premier versement des prêts ne portant pas intérêt à
+l'organisme mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation pour la
+production de l'attestation portant le calcul du crédit d'impôt et délivrée par cet organisme à ces établissements. 
 
 Par exception, les événements mentionnés aux II et III de l'article 199 ter T du code général des impôts doivent être
-déclarés dans les trois mois qui suivent leur déclaration par l'emprunteur à l'établissement de crédit ou l'expiration du
-délai de déclaration laissé à l'emprunteur pour justifier de certaines conditions du prêt en application de l'arrêté
-mentionné à l'article R. 31-10-4 du code de la construction et de l'habitation. Ils doivent alors être pris en compte pour la
-production de l'attestation le 31 mars suivant.
+déclarés dans les trois mois qui suivent leur déclaration par l'emprunteur à l'établissement de crédit ou la société de
+financement ou l'expiration du délai de déclaration laissé à l'emprunteur pour justifier de certaines conditions du prêt en
+application de l'arrêté mentionné à l'article R. 31-10-4 du code de la construction et de l'habitation. Ils doivent alors
+être pris en compte pour la production de l'attestation le 31 mars suivant.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-1728 du 30 décembre 2010 - art. 1
 
 _Cité par_:
 
   - Arrêté du 25 mai 2011 - art. (V)
   - Décret n°2014-889 du 1er août 2014 - art. (VD)
 
+_Modifié par_:
+
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 199 ter T (V)
-  - Code général des impôts, CGI. - art. 244 quater V (V)
-  - Code de la construction et de l'habitation. - art. L312-1 (V)
-  - Code de la construction et de l'habitation. - art. R31-10-4 (V)
+  - Code général des impôts, CGI. - art. 199 ter T
+  - Code général des impôts, CGI. - art. 244 quater V
+  - Code de la construction et de l'habitation. - art. L312-1
+  - Code de la construction et de l'habitation. - art. R31-10-4
 
 
 ###### Article 49 septies ZZH
 
-Le montant du crédit d'impôt accordé à l'établissement de crédit pour compenser l'absence d'intérêts perçus sur un prêt ne
-portant pas intérêt est le produit du montant du prêt par un taux S. Le taux S, calculé chaque trimestre, est le résultat du
-produit de deux termes, arrondi à la quatrième décimale : 
+Le montant du crédit d'impôt accordé à l'établissement de crédit ou la société de financement pour compenser l'absence
+d'intérêts perçus sur un prêt ne portant pas intérêt est le produit du montant du prêt par un taux S. Le taux S, calculé
+chaque trimestre, est le résultat du produit de deux termes, arrondi à la quatrième décimale : 
 
 1° La somme, actualisée par les facteurs d'actualisation définis au quatrième alinéa, des différences de mensualités entre
 deux prêts de 1 € : d'une part, un prêt à mensualités constantes de même durée totale de remboursement que le prêt ne portant
@@ -21861,7 +21855,7 @@ construction et de l'habitation, dans le tableau ci-après :
       <tr>
         <td align="center">TRANCHES</td>
         <td align="center">1 à 2</td>
-        <td colspan="3" align="center">3 à 5 </td>
+        <td align="center" colspan="3">3 à 5 </td>
       </tr>
       <tr>
         <td align="center">
@@ -21896,11 +21890,11 @@ _Cité par_:
 
   - Arrêté du 25 mai 2011 - art. (V)
   - Code de la construction et de l'habitation. - art. R31-10-2-1 (V)
-  - Code de la construction et de l'habitation. - art. R31-10-7 (M)
+  - Code de la construction et de l'habitation. - art. R31-10-7 (V)
 
 _Modifié par_:
 
-  - Décret n°2012-1531 du 29 décembre 2012 - art. 2
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
@@ -21927,8 +21921,9 @@ _Cite_:
 ###### Article 49 septies ZZJ
 
 Pour l'application des dispositions des articles 199 ter T,220 Z ter et 244 quater V du code général des impôts, les
-établissements de crédit mentionnés au I de l'article 244 quater V précité doivent annexer une déclaration spéciale à la
-déclaration de résultat qu'ils sont tenus de déposer auprès du service des impôts dont ils dépendent. 
+établissements de crédit et les sociétés de financement mentionnés au I de l'article 244 quater V précité doivent annexer une
+déclaration spéciale à la déclaration de résultat qu'ils sont tenus de déposer auprès du service des impôts dont ils
+dépendent. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
 comptable de la direction générale des finances publiques avec le relevé de solde de l'exercice. S'agissant des sociétés
@@ -21939,9 +21934,9 @@ sont tenues de déposer en vertu du 1 de l'article 223 du code précité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1728 du 30 décembre 2010 - art. 1
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
@@ -21956,8 +21951,8 @@ _Cite_:
 
 L'organisme mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation est tenu de
 transmettre au service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque
-établissement de crédit, un état relatif au crédit d'impôt pour chaque établissement de crédit tenu de déposer une
-déclaration spéciale lui ayant déclaré des prêts ne portant pas intérêt. 
+établissement de crédit ou société de financement, un état relatif au crédit d'impôt pour chaque établissement de crédit ou
+société de financement tenu de déposer une déclaration spéciale lui ayant déclaré des prêts ne portant pas intérêt. 
 
 Cet état doit faire apparaître les éléments suivants : 
 
@@ -21974,9 +21969,9 @@ général des impôts et l'origine de ce reversement ou de cet arrêt d'imputati
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1728 du 30 décembre 2010 - art. 1
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
