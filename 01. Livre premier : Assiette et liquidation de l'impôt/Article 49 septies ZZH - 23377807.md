@@ -1,8 +1,8 @@
 # Article 49 septies ZZH
 
-Le montant du crédit d'impôt accordé à l'établissement de crédit pour compenser l'absence d'intérêts perçus sur un prêt ne
-portant pas intérêt est le produit du montant du prêt par un taux S. Le taux S, calculé chaque trimestre, est le résultat du
-produit de deux termes, arrondi à la quatrième décimale : 
+Le montant du crédit d'impôt accordé à l'établissement de crédit ou la société de financement pour compenser l'absence
+d'intérêts perçus sur un prêt ne portant pas intérêt est le produit du montant du prêt par un taux S. Le taux S, calculé
+chaque trimestre, est le résultat du produit de deux termes, arrondi à la quatrième décimale : 
 
 1° La somme, actualisée par les facteurs d'actualisation définis au quatrième alinéa, des différences de mensualités entre
 deux prêts de 1 € : d'une part, un prêt à mensualités constantes de même durée totale de remboursement que le prêt ne portant
@@ -26,7 +26,7 @@ formule non reproduite, vous pouvez la consulter dans le JO° 303 du 31/12/2010 
 La prime p est fixée, en fonction de l'appartenance à l'une des tranches mentionnées à l'article L. 31-10-12 du code de la
 construction et de l'habitation, dans le tableau ci-après : 
 
-<table width="680" align="center" border="1">
+<table border="1" align="center" width="680">
     <tbody>
       <tr>
         <td align="center">TRANCHES</td>
@@ -70,7 +70,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1531 du 29 décembre 2012 - art. 2
+  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 _Cite_:
 
