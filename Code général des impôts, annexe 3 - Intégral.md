@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-12-30
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -382,7 +382,7 @@ Version Consolidée au 2014-12-30
             - [IV : Etablissements industriels (art. 324 AE à 324 AG)](#379)
             - [V : Déclarations à souscrire pour chaque révision (art. 324 AH à 324 AJ)](#380)
             - [VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties (art. 324 AK à 324 AL)](#381)
-          - [Section IV : Autres taxes communales (art. 325 à 326)](#382)
+          - [Section IV : Autres taxes communales (art. 325 bis à 326)](#382)
       - [Titre I bis : Impositions départementales (art. 328 E à 328 G decies)](#383)
         - [Chapitre premier : Impôts directs et taxes assimilées (art. 328 E à 328 G ter)](#384)
           - [I : Taxe foncière sur les propriétés bâties (art. 328 E à 328 G)](#385)
@@ -6711,9 +6711,9 @@ L'exonération prévue au premier alinéa est subordonnée à la condition que l
 pendant au moins cinq ans et que le bien cédé n'entre pas dans le champ d'application du A de l'article 1594-0 G du code
 général des impôts. A défaut, les dispositions des articles 150 U à 150 VH du même code sont applicables. 
 
-Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du 1° du II de l'article L. 13-15 du
-code de l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ
-d'application du A de l'article 1594-0 G du code général des impôts. 
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées à l'article L. 322-3 du code de l'expropriation
+pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application du A de l'article
+1594-0 G du code général des impôts. 
 
 2. Si le bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition, dans le patrimoine privé du
 contribuable, il est fait application de l'article 151 sexies du code général des impôts.
@@ -6722,14 +6722,17 @@ contribuable, il est fait application de l'article 151 sexies du code général 
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 3
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 150 U (V)
-  - Code général des impôts, CGI. - art. 151 sexies (V)
-  - Code général des impôts, CGI. - art. 1594-0 G (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-15 (V)
+  - Code général des impôts, CGI. - art. 150 U
+  - Code général des impôts, CGI. - art. 151 sexies
+  - Code général des impôts, CGI. - art. 1594-0 G
 
 
 ###### Article 38 sexdecies GB
@@ -24708,6 +24711,28 @@ _Cite_:
   - Code général des impôts, CGI. - art. 287 (VT)
 
 
+###### Article 95 D
+
+Les déclarations prévues au 5 de l'article 298 sexdecies F et au IV de l'article 298 sexdecies G du code général des impôts,
+ainsi que les paiements, sont transmis au service de l'administration fiscale chargé des résidents à l'étranger et des
+services généraux. Ce service est également chargé du recouvrement de la taxe sur la valeur ajoutée due, en application de
+l'article 259 D du même code, par les assujettis non établis en France qui se prévalent de l'un des régimes particuliers
+mentionnés aux articles 359 et 369 ter de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun
+de taxe sur la valeur ajoutée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1692 du 30 décembre 2014 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 259 D (V)
+  - Code général des impôts, CGI. - art. 298 sexdecies F (V)
+  - Code général des impôts, CGI. - art. 298 sexdecies G (V)
+
+
 ###### Article 95-0
 
 Les personnes mentionnées aux 4° et 5° de l'article 286 ter du code général des impôts qui ne sont pas identifiées par un
@@ -25540,19 +25565,20 @@ _Cite_:
 
 ###### Article 97 ter
 
-Lorsque l'administration le radie du registre d'identification dans les cas prévus au 4 de l'article 298 sexdecies F du code
-général des impôts, l'assujetti non établi dans la Communauté en est informé par voie électronique. Cette information reprend
-les motifs de la radiation.
+Lorsque l'administration le radie du registre d'identification dans les cas prévus au 4 de l'article 298 sexdecies F et au
+III de l'article 298 sexdecies G du code général des impôts, l'assujetti en est informé par voie électronique. Cette
+information reprend les motifs de la radiation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-658 du 18 juillet 2003 - art. 2 () JORF 20 juillet 2003
+  - Décret n°2014-1692 du 30 décembre 2014 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+  - Code général des impôts, CGI. - art. 298 sexdecies F
+  - Code général des impôts, CGI. - art. 298 sexdecies G (V)
 
 
 ##### Section VIII : Régimes spéciaux<a id=251></a>
@@ -25774,13 +25800,12 @@ d'abattage ou de traitement du gibier sauvage ;
 2° Tenir un registre permettant de dégager, jour par jour, et sans blanc ni rature, les éléments nécessaires à la
 constatation, à la liquidation et au contrôle de la redevance sanitaire d'abattage ; 
 
-3° Déposer mensuellement une déclaration conforme au modèle prescrit par la   direction générale des finances publiques  et
-comportant les indications nécessaires à l'assiette et à la perception de la redevance. 
-
-Cette déclaration doit être remise par chaque redevable au service des impôts dont dépend le lieu d'abattage ou de traitement
-du gibier sauvage avant le 25 du mois suivant celui au cours duquel les opérations imposables ont été réalisées. La redevance
-doit être acquittée dans le même délai. Lorsque son montant est inférieur à 150 € par mois, les redevables sont admis à
-déposer leur déclaration et à payer la redevance correspondante par trimestre. 
+3° Déclarer et acquitter la redevance, selon le cas, sur l'annexe à chaque déclaration mensuelle de taxe sur la valeur
+ajoutée pour les redevables qui acquittent cette taxe selon les modalités prévues au premier alinéa du 2 de l'article 287 du
+code général des impôts susvisé ou sur celle déposée au cours du mois suivant la fin de chaque trimestre civil pour les
+redevables mentionnés au troisième alinéa du 2 du même article. Pour les redevables placés sous le régime simplifié
+d'imposition prévu à l'article 302 septies A du même code, la redevance est déclarée et acquittée lors du dépôt de la
+déclaration mentionnée au 3 de l'article 287 précité. 
 
 Lors du dépôt de la déclaration, le redevable adresse au directeur départemental de l'agriculture et de la forêt un relevé
 des éléments déclarés. 
@@ -25788,6 +25813,11 @@ des éléments déclarés.
 Les obligations prévues aux 1° et 2° ci-dessus ne s'appliquent pas aux personnes assujetties à la taxe sur la valeur ajoutée
 qui sont astreintes aux obligations prévues au II de l'article 286 quater du code général des impôts et par ses textes
 d'application.
+
+**Nota:**
+
+Décret n° 2014-1687 du 29 décembre 2014, article 2 : L'alinéa 1er du 3° s'applique aux déclarations qui portent sur une
+période d'imposition postérieure au 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -25797,7 +25827,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-431  du 29 mars 2012 - art. 28
+  - Décret n°2014-1687 du 29 décembre 2014 - art. 1
 
 _Cité par_:
 
@@ -25806,24 +25836,22 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 286 quater
+  - Code général des impôts, CGI. - art. 286 quater (V)
+  - Code général des impôts, CGI. - art. 287 (V)
+  - Code général des impôts, CGI. - art. 302 septies A (V)
 
 
 ###### Article 111 quater I
 
 Les saisies totales ou partielles pratiquées dans les abattoirs ou dans les établissements agréés de traitement du gibier
-sauvage par les services d'inspection sanitaire et les exportations ou les expéditions vers les Etats membres de la
-Communauté européenne ne donnent pas lieu au remboursement de la redevance sanitaire d'abattage.
+sauvage par les services d'inspection sanitaire et les exportations ou les expéditions vers les Etats membres de l'Union
+européenne ne donnent pas lieu au remboursement de la redevance sanitaire d'abattage.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°98-334 du 29 avril 1998 - art. 1 () JORF 7 mai 1998
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
+  - Décret n°2014-1687 du 29 décembre 2014 - art. 1
 
 
 ###### Article 111 quater J
@@ -26138,24 +26166,29 @@ Tout établissement qui prépare, manipule, entrepose ou cède des substances et
 animaux et dont l'activité est soumise à agrément en application de l'article L. 235-1 du code rural et de la pêche maritime
 doit : 
 
-1° Déposer auprès du service des impôts dont relève le redevable pour le dépôt de ses déclarations de taxes sur le chiffre
-d'affaires, avant le 31 mars de l'année suivant celle lors de laquelle la délivrance de l'agrément, le renouvellement de cet
-agrément ou l'opération de contrôle du respect des conditions d'agrément sont intervenus, une déclaration conforme au modèle
-prescrit par la direction générale des finances publiques et comportant les indications nécessaires à la perception de la
-redevance mentionnée à l'article 302 bis WD du code général des impôts ; la redevance est acquittée auprès du même service et
-dans les mêmes délais ; 
+1° Déclarer et acquitter la redevance, selon le cas, sur l'annexe à la déclaration de taxe sur la valeur ajoutée relative au
+mois de mars ou du premier trimestre pour les redevables qui acquittent cette taxe selon les modalités prévues au 2 de
+l'article 287 du code général des impôts. Pour les redevables placés sous le régime simplifié d'imposition prévu à l'article
+302 septies A du même code, la redevance est déclarée et acquittée lors du dépôt de la déclaration mentionnée au 3 de
+l'article 287 précité. 
 
-2° Tenir à disposition des services de contrôle une copie des éléments déclarés en application du 1°.
+2° (Abrogé).
+
+**Nota:**
+
+Décret n° 2014-1687 du 29 décembre 2014, article 2 : L'alinéa 2 s'applique aux déclarations qui portent sur une période
+d'imposition postérieure au 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-665 du 16 juin 2010 - art. 1
+  - Décret n°2014-1687 du 29 décembre 2014 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 302 bis WD
+  - Code général des impôts, CGI. - art. 287 (V)
+  - Code général des impôts, CGI. - art. 302 septies A (V)
   - Code rural - art. L235-1
 
 
@@ -36129,31 +36162,6 @@ _Codifié par_:
 
 ##### Section IV : Autres taxes communales<a id=382></a>
 
-###### Article 325
-
-L'exploitant d'unités de production d'électricité utilisant l'énergie mécanique du vent situées dans les eaux intérieures ou
-la mer territoriale, mentionnées à l'article 1519 B du code général des impôts, souscrit avant le 31 décembre de l'année
-précédant l'année d'imposition auprès du service des impôts une déclaration indiquant le nombre de ces unités de production,
-la date de leur mise en service et le nombre de mégawatts installés dans chaque unité. 
-
-Le service des impôts territorialement compétent est celui dont dépend la commune où est installé le point de raccordement de
-l'installation au réseau public de distribution ou de transport d'électricité.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-103 du 27 janvier 2012 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2014-1687 du 29 décembre 2014 - art. 2
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1519 B
-
-
 ###### Article 325 bis
 
 Pour l'application de l'article 1522 bis du code général des impôts :
@@ -39685,35 +39693,35 @@ _Cite_:
 
 L'administrateur d'un trust défini à l'article 792-0 bis du code général des impôts dépose au service des impôts des
 entreprises étrangères, au plus tard le 15 juin de chaque année, la déclaration mentionnée au sixième alinéa de l'article
-1649 AB du même code. 
+1649 AB du même code.
 
 Cette déclaration est souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et
-comporte les indications suivantes : 
+comporte les indications suivantes :
 
-1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, adresse
-et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
+1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, numéro
+SIREN, adresse et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ;
 
-2° L'identification du ou des bénéficiaires : nom et prénom ou raison sociale, adresse et, le cas échéant, date et lieu de
-naissance et, s'il y a lieu, de décès ; 
+2° L'identification du ou des bénéficiaires : nom et prénom ou raison sociale, numéro SIREN, adresse et, le cas échéant, date
+et lieu de naissance et, s'il y a lieu, de décès ;
 
-3° L'identification de l'administrateur du trust : nom et prénom ou dénomination sociale et adresse ; 
+3° L'identification de l'administrateur du trust : nom et prénom ou dénomination sociale, numéro SIREN et adresse ;
 
-4° L'identification du trust : dénomination et adresse ; 
+4° L'identification du trust : dénomination et adresse ;
 
 5° Le contenu des termes du trust : contenu de l'acte de trust et des éventuelles stipulations complémentaires régissant son
 fonctionnement, notamment l'indication de sa révocabilité ou de son irrévocabilité, de son caractère discrétionnaire ou non
-et des règles régissant l'attribution des biens ou droits mis en trust ainsi que de leurs produits ; 
+et des règles régissant l'attribution des biens ou droits mis en trust ainsi que de leurs produits ;
 
 6° Si l'un au moins des constituants, bénéficiaires réputés constituants ou bénéficiaires a son domicile fiscal en France,
 l'inventaire détaillé des biens, droits et produits capitalisés, situés en France ou hors de France et placés dans le trust
-ainsi que leur valeur vénale au 1er janvier de l'année ; 
+ainsi que leur valeur vénale au 1er janvier de l'année ;
 
 7° Si aucun des constituants, bénéficiaires réputés constituants ou bénéficiaires n'a son domicile fiscal en France,
 l'inventaire détaillé des biens, droits et produits capitalisés, situés en France et placés dans le trust ainsi que leur
-valeur vénale au 1er janvier de l'année, à l'exclusion des placements financiers au sens de l'article 885 L du code précité. 
+valeur vénale au 1er janvier de l'année, à l'exclusion des placements financiers au sens de l'article 885 L du code précité.
 
 L'administrateur du trust est dispensé d'indiquer les informations mentionnées au 5° si la déclaration prévue au premier
-alinéa de l'article 1649 AB du code précité a été précédemment déposée. 
+alinéa de l'article 1649 AB du code précité a été précédemment déposée.
 
 La déclaration mentionnée au premier alinéa est accompagnée, le cas échéant, du paiement du montant correspondant au
 prélèvement prévu à l'article 990 J du code précité.
@@ -39730,7 +39738,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 3
+  - Décret n°2014-1372 du 17 novembre 2014  - art. 1
 
 _Cite_:
 
@@ -39742,20 +39750,20 @@ _Cite_:
 
 ###### Article 344 G sexies
 
-La déclaration mentionnée au premier alinéa de l'article 1649 AB du code général des impôts est déposée au service des impôts
-des entreprises étrangères dans le mois qui suit la constitution, la modification ou l'extinction d'un trust défini à
-l'article 792-0 bis du même code. 
+La déclaration mentionnée aux premier et cinquième alinéas de l'article 1649 AB du code général des impôts est déposée au
+service des impôts des entreprises étrangères dans le mois qui suit la constitution, la modification ou l'extinction d'un
+trust défini à l'article 792-0 bis du même code. 
 
-Cette déclaration est   souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et
+Cette déclaration est souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et
 comporte les indications suivantes : 
 
-1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, adresse
-et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
+1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, numéro
+SIREN, adresse et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
 
-2° L'identification du ou des bénéficiaires : nom et prénom ou raison sociale, adresse et, le cas échéant, date et lieu de
-naissance et, s'il y a lieu, de décès ; 
+2° L'identification du ou des bénéficiaires : nom et prénom ou raison sociale, numéro SIREN, adresse et, le cas échéant, date
+et lieu de naissance et, s'il y a lieu, de décès ; 
 
-3° L'identification de l'administrateur du trust : nom et prénom ou dénomination sociale et adresse ; 
+3° L'identification de l'administrateur du trust : nom et prénom ou dénomination sociale, numéro SIREN et adresse ; 
 
 4° L'identification du trust : dénomination et adresse ; 
 
@@ -39791,7 +39799,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-949 du 23 octobre 2013 - art. 1
+  - Décret n°2014-1372 du 17 novembre 2014  - art. 1
 
 _Cite_:
 
@@ -42710,8 +42718,11 @@ _Cité par_:
 ###### Article 401
 
 Sous réserve des dispositions des articles 404 GA et 404 GC, les droits et taxes dont le paiement est fractionné ou différé
-donnent lieu au versement d'intérêts dont le taux est égal à celui de l'intérêt légal au jour de la demande de crédit.
-Toutefois, seule la première décimale est retenue. Ce taux est applicable pendant toute la durée du crédit. 
+donnent lieu au versement d'intérêts dont le taux est égal à celui du taux effectif moyen pratiqué par les établissements de
+crédit pour des prêts à taux fixe aux particuliers entrant dans le champ d'application des articles L. 312-1 à L. 312-36 du
+code de la consommation, au cours du quatrième trimestre de l'année précédant celle de la demande de paiement fractionné ou
+différé, réduit d'un tiers. Toutefois, seule la première décimale est retenue. Ce taux est applicable pendant toute la durée
+du crédit. 
 
 Les intérêts sont acquittés : 
 
@@ -42724,7 +42735,12 @@ pour souscrire la déclaration de succession.
 
 _Modifié par_:
 
-  - Décret n°2010-320 du 22 mars 2010 - art. 1
+  - Décret n°2014-1565 du 22 décembre 2014 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L312-1
+  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GC
 
 _Cité par_:
 
@@ -42732,10 +42748,6 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 GA (V)
-
-_Cite_:
-
-  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GC
 
 
 ###### Article 402
@@ -42819,16 +42831,12 @@ I.-Les garanties fournies en contrepartie du fractionnement prévu au 1° de l'a
 l'article 400, revêtir celle de l'hypothèque légale prévue au 2 de l'article 1929 du code général des impôts.
 
 Les droits sont acquittés en plusieurs versements égaux dont le premier a lieu dans les conditions fixées à l'article 402 et
-le dernier au plus tard cinq ans après l'expiration du délai imparti pour souscrire la déclaration de succession.
+le dernier au plus tard un an après l'expiration du délai imparti pour souscrire la déclaration de succession.
 
-Les versements sont fixés au nombre de deux lorsque les droits n'excèdent pas 5 % du montant taxable des parts recueillies
-soit par tous les cohéritiers solidaires soit pour chacun des légataires ou donataires ; de quatre lorsque ces droits
-n'excèdent pas 10 % du même montant et ainsi de suite en augmentant de deux le nombre des versements chaque fois que les
-droits dépassent un nouveau multiple de 5 %, mais sans que le nombre des versements à intervalle de six mois au plus puisse
-être supérieur à dix.
+Les versements, à intervalle de six mois au plus, ne peuvent être supérieurs à trois.
 
-Le délai maximal prévu au deuxième alinéa est porté à dix ans et le nombre des versements est doublé sans pouvoir toutefois
-dépasser vingt lorsque l'actif héréditaire comprend à concurrence de 50 % au moins des biens non liquides énumérés ci-après :
+Le délai maximal prévu au deuxième alinéa est porté à trois ans et le nombre des versements ne peut dépasser sept lorsque
+l'actif héréditaire comprend à concurrence de 50 % au moins des biens non liquides énumérés ci-après :
 
 Brevets d'invention ;
 
@@ -42846,7 +42854,9 @@ Offices ministériels ;
 
 Parts d'intérêts dans des sociétés dont le capital n'est pas divisé en actions ;
 
-Valeurs mobilières non cotées en Bourse.
+Valeurs mobilières non cotées en Bourse ;
+
+Objets d'antiquité, d'art ou de collection.
 
 II.-(Abrogé).
 
@@ -42854,13 +42864,13 @@ II.-(Abrogé).
 
 _Modifié par_:
 
-  - Décret n°2010-320 du 22 mars 2010 - art. 1
+  - Décret n°2014-1565 du 22 décembre 2014 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 396
   - Code général des impôts, annexe 3, CGIAN3. - art. 400
-  - Code général des impôts, CGI. - art. 1929 (V)
+  - Code général des impôts, CGI. - art. 1929
 
 _Cité par_:
 
