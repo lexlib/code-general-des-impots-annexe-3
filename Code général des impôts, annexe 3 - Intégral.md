@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-04-20
+Version Consolidée au 2015-05-07
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -13621,63 +13621,78 @@ _Créé par_:
 
 ###### Article 46 AZA duodecies
 
-I.-Pour l'application du deuxième alinéa du D du I et du premier alinéa du III de l'article 199 novovicies du code général
-des impôts : 
+I. – Pour l'application du deuxième alinéa du D du I et du premier alinéa du III de l'article 199 novovicies du code général
+des impôts :
 
 1° La condition de loyer s'apprécie en tenant compte du montant du loyer payé au bailleur par l'organisme locataire et du
-loyer payé à cet organisme par le sous-locataire. 
+loyer payé à cet organisme par le sous-locataire.
 
 Il n'est toutefois pas tenu compte de la redevance versée par le sous-locataire, en sus du loyer et des charges locatives, à
 un organisme indépendant de l'organisme locataire et représentative des frais de gestion, d'assurance, de gardiennage,
 d'amortissement des locaux collectifs, d'équipement des logements et, le cas échéant, d'ameublement. Cette disposition
 s'applique à la condition que le logement soit situé dans une résidence dotée de services collectifs et composée d'un
 ensemble homogène de dix logements au moins à usage d'habitation principale et que le montant annuel de la redevance n'excède
-pas le montant annuel des loyers payés par le sous-locataire ; 
+pas le montant annuel des loyers payés par le sous-locataire ;
 
-2° La condition de ressources s'apprécie en tenant compte des ressources du sous-locataire ; 
+2° La condition de ressources s'apprécie en tenant compte des ressources du sous-locataire ;
 
 3° Les contribuables joignent à leur déclaration des revenus de l'année d'achèvement de l'immeuble ou des travaux, ou de
-l'acquisition de l'immeuble si elle est postérieure, les documents suivants : 
+l'acquisition de l'immeuble si elle est postérieure, les documents suivants :
 
 a) La note annexe prévue au 1° du I de l'article 46 AZA undecies et, lorsqu'il y a lieu, les documents mentionnés au 4° du
-même I ; 
+même I ;
 
-b) Une copie du bail conclu avec l'organisme locataire ; 
+b) Une copie du bail conclu avec l'organisme locataire ;
 
-c) Une copie du contrat de sous-location faisant apparaître le montant de la redevance payée par le sous-locataire ; 
+c) Une copie du contrat de sous-location faisant apparaître le montant de la redevance payée par le sous-locataire ;
 
 d) Une copie de l'avis d'impôt sur le revenu du sous-locataire établi au titre de l'avant-dernière année précédant celle de
-la signature du contrat de sous-location. 
+la signature du contrat de sous-location.
 
-II.-Lorsque le contrat de location ou de sous-location n'est pas signé au moment du dépôt de la déclaration des revenus de
+4° Pour les investissements réalisés à compter du 1er septembre 2014, lorsque le contribuable proroge son engagement de
+location dans les conditions prévues aux 1 et 2 du I bis de l'article 46 AZA undecies, il joint à sa déclaration des revenus
+de l'année au cours de laquelle intervient le terme de l'engagement initial ou celui de la première période triennale de
+prorogation :
+
+a) Les documents mentionnés aux b à d du 3° ;
+
+b) La note annexe prévue au 1° du 1 du I bis de l'article 46 AZA undecies.
+
+II. – Lorsque le contrat de location ou de sous-location n'est pas signé au moment du dépôt de la déclaration des revenus de
 l'année d'achèvement de l'immeuble ou des travaux, ou de l'acquisition de l'immeuble si elle est postérieure, les documents
 mentionnés aux b à d du 3° du I sont joints à la déclaration des revenus de l'année au cours de laquelle le contrat de
-location ou le contrat de sous-location est signé. 
+location ou le contrat de sous-location est signé.
 
-En cas de changement de locataire ou de sous-locataire au cours de la période couverte par l'engagement de location, le
-contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu : 
+Lorsque le contrat de location ou de sous-location n'est pas signé au titre de la période de l'année postérieure à la date de
+prorogation de l'engagement de location mentionnée aux 1 et 2 du I bis de l'article 46 AZA undecies, les documents mentionnés
+aux b à d du 3° du I sont joints à la déclaration des revenus de l'année au cours de laquelle le contrat de location ou le
+contrat de sous-location est signé.
 
-a) Une copie du nouveau bail conclu avec l'organisme locataire ; 
+En cas de changement de locataire ou de sous-locataire au cours de la période couverte par l'engagement de location, le cas
+échéant prorogé, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est
+intervenu :
 
-b) Une copie du nouveau contrat de sous-location faisant apparaître le montant de la redevance payée par le sous-locataire ; 
+a) Une copie du nouveau bail conclu avec l'organisme locataire ;
+
+b) Une copie du nouveau contrat de sous-location faisant apparaître le montant de la redevance payée par le sous-locataire ;
 
 c) Une copie de l'avis d'imposition ou de non-imposition du sous-locataire entrant dans les lieux établi au titre de l'avant-
 dernière année précédant celle de la signature du contrat de sous-location.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1235 du 23 décembre 2013 - art. 1
+  - Décret n°2015-503 du 4 mai 2015 - art. 1
 
 _Cité par_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (V)
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA undecies (V)
-  - Code général des impôts, CGI. - art. 199 novovicies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA undecies
+  - Code général des impôts, CGI. - art. 199 novovicies
 
 
 ###### Article 46 AZA nonies
@@ -13934,28 +13949,29 @@ a. Une exigence thermique qui s'entend de l'intégration au logement de l'un des
 l'article 18 quater de l'annexe IV au code général des impôts ; 
 
 b. Une exigence énergétique qui s'entend de l'intégration au logement d'un au moins des équipements mentionnés aux 4,5 et 6
-du même I de l'article précité et selon les mêmes conditions.
+du même I de l'article précité et selon les mêmes conditions. 
 
 4° Pour les logements situés en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin et dans les îles Wallis et Futuna,
-de ceux qui respectent les exigences prévues aux a et b du 3° ;
+de ceux qui respectent les exigences prévues aux a et b du 3° ; 
 
-5° Pour les logements situés à Saint-Pierre-et-Miquelon, de ceux qui respectent cumulativement :
+5° Pour les logements situés à Saint-Pierre-et-Miquelon, de ceux qui respectent cumulativement : 
 
-a) Une exigence thermique qui s'entend de l'intégration au logement de matériaux d'isolation thermique mentionnés au b du 2
-de l'article 18 bis de l'annexe IV au code général des impôts ou d'appareils de régulation de chauffage mentionnés au c du
-même 2 de l'article précité ;
+a) Une exigence thermique qui s'entend de l'intégration au logement de matériaux d'isolation thermique mentionnés aux 1° et
+2° à 5° du b du 2 de l'article 18 bis de l'annexe IV au code général des impôts ou d'appareils de régulation de chauffage
+mentionnés au c du même 2 de l'article précité ; 
 
-b) Une exigence énergétique qui s'entend de l'intégration au logement d'un au moins des équipements mentionnés aux 4, 5 et 6
+b) Une exigence énergétique qui s'entend de l'intégration au logement d'un au moins des équipements mentionnés aux 4,5 et 6
 du I de l'article 18 quater de l'annexe IV au code général des impôts et selon les mêmes conditions.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-749 du 14 août 2013 - art. 1
+  - Décret n°2015-503 du 4 mai 2015 - art. 1
 
 _Cite_:
 
+  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater
   - Code général des impôts, CGI. - art. 199 novovicies
   - Code de la construction et de l'habitation. - art. *R162-1
@@ -13964,46 +13980,47 @@ _Cite_:
 
 ###### Article 46 AZA quaterdecies
 
-I.-1. L'engagement de conservation des titres prévu au C du VIII de l'article 199 novovicies du code général des impôts est
-constaté lors du dépôt de la déclaration de revenus de l'année au titre de laquelle les parts ont été souscrites. 
+I. – 1. L'engagement de conservation des titres prévu au C du VIII de l'article 199 novovicies du code général des impôts est
+constaté lors du dépôt de la déclaration de revenus de l'année au titre de laquelle les parts ont été souscrites.
 
 2. Les parts détenues par les associés qui entendent bénéficier de la réduction d'impôt sur le revenu prévue à l'article 199
 novovicies du code général des impôts sont inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration
 des revenus mentionnée au 1, sur un compte ouvert au nom de l'associé dans la comptabilité de la société ou sur un registre
 spécial. Les documents relatifs aux opérations ayant affecté ce compte sont conservés jusqu'à la fin de la troisième année
-suivant celle de l'expiration de l'engagement mentionné au 1. 
+suivant celle de l'expiration de l'engagement mentionné au 1.
 
 Les associés joignent à chacune de leurs déclarations des revenus un exemplaire des documents mentionnés au II ainsi que les
-modalités de calcul de la réduction d'impôt. 
+modalités de calcul de la réduction d'impôt.
 
-II.-La société civile de placement immobilier mentionnée au A du VIII de l'article 199 novovicies du code général des impôts
-fait parvenir à ses associés, au plus tard le deuxième jour ouvré suivant le 1er mai de chaque année, un document établi en
-double exemplaire, conformément au modèle fixé par l'administration et comportant les éléments suivants : 
+II. – La société civile de placement immobilier mentionnée au A du VIII de l'article 199 novovicies du code général des
+impôts fait parvenir à ses associés, au plus tard le deuxième jour ouvré suivant le 1er mai de chaque année, un document
+établi en double exemplaire, conformément au modèle fixé par l'administration et comportant les éléments suivants :
 
-1° L'identité et l'adresse des associés ; 
+1° L'identité et l'adresse des associés ;
 
 2° Le nombre et les numéros des parts ou actions souscrites pour lesquelles le bénéfice de la réduction d'impôt est demandé
-ainsi que le montant du capital souscrit correspondant ; 
+ainsi que le montant du capital souscrit correspondant ;
 
-3° La date de souscription des parts ou actions et du versement des fonds ; 
+3° La date de souscription des parts ou actions et du versement des fonds ;
 
 4° Le nombre et les numéros des parts détenues au 1er janvier et au 31 décembre et, le cas échéant, des parts souscrites,
-acquises et transmises au cours de l'année ainsi que la date de ces opérations ; 
+acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
 
 5° L'attestation que 95 % de la souscription, appréciés sans tenir compte des frais de collecte, pour laquelle le bénéfice de
 la réduction d'impôt a été demandé servent exclusivement à financer un ou plusieurs investissements pour lesquels les
-conditions d'application prévues à l'article 199 novovicies du code général des impôts sont réunies ; 
+conditions d'application prévues à l'article 199 novovicies du code général des impôts sont réunies ;
 
 6° La nature des investissements réalisés au moyen des parts ou actions souscrites pour lesquelles le bénéfice de la
 réduction d'impôt a été demandé, l'adresse des logements concernés, leur date d'acquisition ou d'achèvement, la date de leur
 première location et la surface à prendre en compte pour l'appréciation du plafond de loyer telle qu'elle est définie, selon
-le cas, par les articles 2 terdecies D ou 2 terdecies F ; 
+le cas, par les articles 2 terdecies D ou 2 terdecies F ;
 
 7° L'attestation que le produit de la souscription annuelle est intégralement investi dans les dix-huit mois qui suivent la
-clôture de celle-ci ; 
+clôture de celle-ci ;
 
-8° L'engagement par la société de louer le logement dans les conditions prévues à l'article 199 novovicies du code général
-des impôts. La société indique également le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail. 
+8° L'engagement, le cas échéant prorogé, par la société de louer le logement dans les conditions prévues à l'article 199
+novovicies du code général des impôts. La société indique également le montant du loyer mensuel, charges non comprises, tel
+qu'il résulte du bail.
 
 Un exemplaire de ce document ainsi qu'une copie de l'avis d'imposition ou de non-imposition du ou des locataires établi au
 titre de l'avant-dernière année précédant celle de la signature du contrat de location est joint par la société à sa
@@ -14011,56 +14028,66 @@ déclaration de résultat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1235 du 23 décembre 2013 - art. 1
+  - Décret n°2015-503 du 4 mai 2015 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F (V)
-  - Code général des impôts, CGI. - art. 199 novovicies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F
+  - Code général des impôts, CGI. - art. 199 novovicies
 
 
 ###### Article 46 AZA terdecies
 
-I.-1. Lorsque l'immeuble appartient à une société autre qu'une société civile de placement immobilier, les obligations
-prévues aux articles 46 AZA undecies et 46 AZA duodecies incombent à cette société. Les documents à produire, qui comportent
-l'engagement de la société de louer l'immeuble pendant une durée de neuf ans à des personnes autres que les associés, un
-membre de leur foyer fiscal ou un de leurs ascendants ou descendants, sont joints à sa déclaration de résultat de l'année,
-selon le cas, d'achèvement de l'immeuble ou des travaux, ou de l'acquisition de l'immeuble si elle est postérieure. 
+I. – 1. Lorsque l'immeuble appartient à une société autre qu'une société civile de placement immobilier, les obligations
+prévues aux articles 46 AZA undecies et 46 AZA duodecies incombent à cette société. Les documents à produire comportent
+l'engagement de la société de louer l'immeuble pendant une durée minimale de :
+
+1° Neuf ans, à une personne autre que les associés, un membre de leur foyer fiscal ou un de leurs ascendants ou descendants,
+pour les investissements réalisés avant le 1er septembre 2014 ;
+
+2° Six ou neuf ans, selon l'option choisie, à une personne autre que les associés, un membre de leur foyer fiscal ou un de
+leurs ascendants ou descendants, pour les investissements réalisés du 1er septembre au 31 décembre 2014 ;
+
+3° Six ou neuf ans, selon l'option choisie, à une personne autre que les associés ou un membre de leur foyer fiscal, pour les
+investissements réalisés à compter du 1er janvier 2015.
+
+Ces documents sont joints à la déclaration de résultat de la société au titre de l'année, selon le cas, d'achèvement de
+l'immeuble ou des travaux, ou de l'acquisition de l'immeuble si elle est postérieure.
 
 2. La société fait parvenir, au plus tard le deuxième jour ouvré suivant le 1er mai de chaque année, à chacun de ses
 associés, un document établi en double exemplaire conformément au modèle fixé par l'administration et comportant, pour
-l'année précédente, les renseignements suivants : 
+l'année précédente, les renseignements suivants :
 
-1° L'identité et l'adresse de l'associé ; 
+1° L'identité et l'adresse de l'associé ;
 
 2° Le nombre et les numéros des parts détenues au 1er janvier et au 31 décembre et, le cas échéant, des parts souscrites,
-acquises et transmises au cours de l'année ainsi que la date de ces opérations ; 
+acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
 
-3° La quote-part des revenus des immeubles de la société correspondant aux droits de l'associé ; 
+3° La quote-part des revenus des immeubles de la société correspondant aux droits de l'associé ;
 
-4° L'adresse du ou des immeubles ouvrant droit à la réduction d'impôt ; 
+4° L'adresse du ou des immeubles ouvrant droit à la réduction d'impôt ;
 
 5° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions de loyer et de ressources
-prévues, selon le cas, aux articles 2 terdecies D ou 2 terdecies F ; 
+prévues, selon le cas, aux articles 2 terdecies D ou 2 terdecies F ;
 
-6° La part du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun ; 
+6° La part du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun ;
 
-7° Le montant de la réduction d'impôt correspondant aux droits de l'associé ; 
+7° Le montant de la réduction d'impôt correspondant aux droits de l'associé ;
 
 8° En cas de non-respect par la société ou un associé de ses engagements, la quote-part de la réduction d'impôt que l'associé
 doit ajouter à l'impôt sur le revenu de l'année au cours de laquelle la rupture de l'engagement ou la cession du logement ou
-des parts est intervenue. 
+des parts est intervenue.
 
-Un exemplaire de ce document est joint par la société à sa déclaration de résultat. 
+Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
-II.-1. L'engagement de conservation des titres prévu au second alinéa du A du I de l'article 199 novovicies du code général
+II. – 1. L'engagement de conservation des titres prévu au second alinéa du A du I de l'article 199 novovicies du code général
 des impôts est constaté lors du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été
 souscrites ou, si elle est postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble ou des travaux.
 L'engagement de conservation des titres formulé par le conjoint survivant est joint à la déclaration des revenus souscrite
-par celui-ci au titre de l'année du décès de son conjoint pour la période postérieure à cet événement. 
+par celui-ci au titre de l'année du décès de son conjoint pour la période postérieure à cet événement.
 
 2. Les parts détenues par les associés qui entendent bénéficier de la réduction d'impôt sur le revenu prévue à l'article 199
 novovicies du code général des impôts sont inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration
@@ -14072,22 +14099,22 @@ suivant celle de l'expiration de l'engagement mentionné au 1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1235 du 23 décembre 2013 - art. 1
+  - Décret n°2015-503 du 4 mai 2015 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA duodecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA undecies (V)
-  - Code général des impôts, CGI. - art. 199 novovicies (V)
+  - Code général des impôts, CGI. - art. 199 novovicies
 
 
 ###### Article 46 AZA undecies
 
-I.-Pour l'application de l'article 199 novovicies du code général des impôts, le contribuable joint à sa déclaration des
+I. – Pour l'application de l'article 199 novovicies du code général des impôts, le contribuable joint à sa déclaration des
 revenus de l'année, selon le cas, d'achèvement de l'immeuble ou des travaux, ou de son acquisition si elle est postérieure : 
 
 1° Une note annexe, établie conformément au modèle fixé par l'administration, qui comporte les éléments suivants : 
@@ -14100,9 +14127,20 @@ terdecies D ou 2 terdecies F ;
 
 c) Le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail ; 
 
-d) L'engagement de louer le logement non meublé à usage d'habitation principale du locataire, pendant une durée de neuf ans
-au moins, à une personne autre qu'un membre de son foyer fiscal, un de ses ascendants ou descendants. Cet engagement prévoit
-en outre que le loyer n'excède pas les plafonds prévus, selon le cas, aux articles 2 terdecies D ou 2 terdecies F ; 
+d) L'engagement de louer le logement non meublé à usage d'habitation principale du locataire, pendant une durée minimale
+de : 
+
+– neuf ans, à une personne autre qu'un membre de son foyer fiscal, un de ses ascendants ou descendants, pour les
+investissements réalisés avant le 1er septembre 2014 ; 
+
+– six ou neuf ans, selon l'option choisie, à une personne autre qu'un membre de son foyer fiscal, un de ses ascendants ou
+descendants, pour les investissements réalisés du 1er septembre au 31 décembre 2014 ; 
+
+– six ou neuf ans, selon l'option choisie, à une personne autre qu'un membre de son foyer fiscal, pour les investissements
+réalisés à compter du 1er janvier 2015. 
+
+Cet engagement prévoit en outre que le loyer n'excède pas les plafonds prévus, selon le cas, aux articles 2 terdecies D ou 2
+terdecies F ; 
 
 e) Les modalités de calcul de la réduction d'impôt ; 
 
@@ -14113,9 +14151,13 @@ précédant celle de la signature du contrat de location ;
 
 4° Les documents suivants, selon la nature de l'investissement : 
 
-a) Pour les logements acquis en l'état futur d'achèvement, une copie de la déclaration d'ouverture de chantier mentionnée à
-l'article R. * 424-16 du code de l'urbanisme ainsi qu'une copie de la déclaration d'achèvement des travaux accompagnée d'une
-pièce attestant de sa réception en mairie ; 
+a) Pour les logements acquis en l'état futur d'achèvement, une copie de la déclaration d'achèvement des travaux accompagnée
+d'une pièce attestant de sa réception en mairie ainsi que : 
+
+– une copie de la déclaration d'ouverture de chantier mentionnée à l'article R. * 424-16 du code de l'urbanisme, pour les
+investissements réalisés avant le 1er septembre 2014 ; 
+
+– une attestation notariée de propriété, pour les investissements réalisés à compter du 1er septembre 2014. 
 
 b) Pour les logements que le contribuable fait construire, une copie du dépôt de la demande du permis de construire, un
 document attestant de la date de l'obtention du permis de construire ainsi qu'une copie de la déclaration d'achèvement des
@@ -14136,32 +14178,79 @@ f) Pour les locaux que le contribuable transforme en logement, une copie de la d
 accompagnée d'une pièce attestant de sa réception en mairie ainsi qu'une note précisant la nature de l'affectation précédente
 des locaux. 
 
-II.-Lorsque le logement n'est pas loué au moment du dépôt de la déclaration des revenus de l'année d'achèvement de l'immeuble
-ou des travaux, ou de son acquisition si elle est postérieure, les documents mentionnés aux 2° et 3° du I sont joints à la
-déclaration des revenus de l'année au cours de laquelle le bail est signé. 
+I bis. – Pour les investissements réalisés à compter du 1er septembre 2014 : 
 
-En cas de changement de locataire au cours de la période d'engagement de location, le contribuable joint à sa déclaration des
-revenus de l'année au cours de laquelle le changement est intervenu une copie du nouveau bail ainsi qu'une copie de l'avis
-d'imposition ou de non-imposition du ou des locataires entrant dans les lieux établi au titre de l'avant-dernière année
-précédant celle de la signature du contrat de location.
+1. Lorsque le contribuable proroge son engagement de location mentionné au I de l'article 199 novovicies du code général des
+impôts dans les conditions prévues au VII bis du même article, pour une première période triennale, il joint à sa déclaration
+des revenus de l'année au cours de laquelle intervient le terme de l'engagement initial : 
+
+1° Une note établie conformément au modèle fixé par l'administration, qui comporte les éléments suivants : 
+
+a) Ses identité et adresse ; 
+
+b) L'adresse du logement concerné, sa date d'acquisition ou d'achèvement, la durée de l'engagement initial de location, ainsi
+que la date de prise d'effet du premier bail afférent à cet engagement ; 
+
+c) L'engagement de louer le logement non meublé à usage d'habitation principale du locataire, pendant une période de trois
+ans à compter du premier jour suivant celui de l'expiration de l'engagement initial de location : 
+
+– à une personne autre qu'un membre de son foyer fiscal, un de ses ascendants ou un de ses descendants, pour les
+investissements réalisés du 1er septembre 2014 au 31 décembre 2014 ; 
+
+– à une personne autre qu'un membre de son foyer fiscal, pour les investissements réalisés à compter du 1er janvier 2015. 
+
+Cet engagement prévoit en outre que le loyer n'excède pas les plafonds prévus, selon les cas, aux articles 2 terdecies D ou 2
+terdecies F ; 
+
+d) Le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail ; 
+
+e) Les modalités de calcul de la réduction d'impôt ; 
+
+2° Une copie du bail ; 
+
+3° Une copie de l'avis d'imposition ou de non-imposition du ou des locataires établi au titre de l'avant-dernière année
+précédant celle de la signature du contrat de location ; 
+
+2. Lorsque le contribuable proroge son engagement de location pour une seconde période triennale, il joint à sa déclaration
+des revenus de l'année au cours de laquelle intervient le terme de la première période triennale de prorogation les documents
+mentionnés aux 1° à 3° du 1. 
+
+Dans ce cas, l'engagement de louer le logement, mentionné au c du 1° du 1, court à compter du premier jour suivant celui du
+terme de la première période triennale de prorogation. 
+
+II. – Lorsque le logement n'est pas loué au moment du dépôt de la déclaration des revenus de l'année d'achèvement de
+l'immeuble ou des travaux, ou de son acquisition si elle est postérieure, les documents mentionnés aux 2° et 3° du I sont
+joints à la déclaration des revenus de l'année au cours de laquelle le bail est signé. 
+
+Lorsque le logement n'est pas loué au titre de la période de l'année postérieure à la date de prorogation de l'engagement de
+location mentionnée aux 1 et 2 du I bis, les documents mentionnés aux 2° et 3° du 1 du I bis sont joints à la déclaration des
+revenus de l'année au cours de laquelle le bail est signé. 
+
+En cas de changement de locataire au cours de la période d'engagement de location, le cas échéant prorogé, le contribuable
+joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du nouveau bail
+ainsi qu'une copie de l'avis d'imposition ou de non-imposition du ou des locataires entrant dans les lieux établi au titre de
+l'avant-dernière année précédant celle de la signature du contrat de location.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-1235 du 23 décembre 2013 - art. 1
+  - Décret n°2015-503 du 4 mai 2015 - art. 1
 
 _Cite_:
 
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
-  - Code général des impôts, CGI. - art. 199 novovicies (V)
-  - Code de la santé publique - art. L1334-5 (V)
-  - Code de l'urbanisme - art. R*424-16 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F (V)
+  - Code général des impôts, CGI. - art. 199 novovicies
+  - Code de la santé publique - art. L1334-13 (V)
+  - Code de la santé publique - art. L1334-5
+  - Code de l'urbanisme - art. R*424-16
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA duodecies (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (V)
 
 
 ##### 18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques<a id=120></a>
