@@ -23,28 +23,29 @@ a. Une exigence thermique qui s'entend de l'intégration au logement de l'un des
 l'article 18 quater de l'annexe IV au code général des impôts ; 
 
 b. Une exigence énergétique qui s'entend de l'intégration au logement d'un au moins des équipements mentionnés aux 4,5 et 6
-du même I de l'article précité et selon les mêmes conditions.
+du même I de l'article précité et selon les mêmes conditions. 
 
 4° Pour les logements situés en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin et dans les îles Wallis et Futuna,
-de ceux qui respectent les exigences prévues aux a et b du 3° ;
+de ceux qui respectent les exigences prévues aux a et b du 3° ; 
 
-5° Pour les logements situés à Saint-Pierre-et-Miquelon, de ceux qui respectent cumulativement :
+5° Pour les logements situés à Saint-Pierre-et-Miquelon, de ceux qui respectent cumulativement : 
 
-a) Une exigence thermique qui s'entend de l'intégration au logement de matériaux d'isolation thermique mentionnés au b du 2
-de l'article 18 bis de l'annexe IV au code général des impôts ou d'appareils de régulation de chauffage mentionnés au c du
-même 2 de l'article précité ;
+a) Une exigence thermique qui s'entend de l'intégration au logement de matériaux d'isolation thermique mentionnés aux 1° et
+2° à 5° du b du 2 de l'article 18 bis de l'annexe IV au code général des impôts ou d'appareils de régulation de chauffage
+mentionnés au c du même 2 de l'article précité ; 
 
-b) Une exigence énergétique qui s'entend de l'intégration au logement d'un au moins des équipements mentionnés aux 4, 5 et 6
+b) Une exigence énergétique qui s'entend de l'intégration au logement d'un au moins des équipements mentionnés aux 4,5 et 6
 du I de l'article 18 quater de l'annexe IV au code général des impôts et selon les mêmes conditions.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-749 du 14 août 2013 - art. 1
+  - Décret n°2015-503 du 4 mai 2015 - art. 1
 
 _Cite_:
 
+  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater
   - Code général des impôts, CGI. - art. 199 novovicies
   - Code de la construction et de l'habitation. - art. *R162-1
