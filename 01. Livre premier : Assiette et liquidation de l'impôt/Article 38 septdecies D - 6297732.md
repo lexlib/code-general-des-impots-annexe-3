@@ -15,6 +15,10 @@ e) (Sans objet).
 f) Les sociétés par actions ou à responsabilité limitée et les    sociétés coopératives de production pour les actions ou
 parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
 
+**Nota:**
+
+En conséquence de l'article 26-I i et XI-5 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans objet.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -26,6 +30,6 @@ _Codifié par_:
 
   - Décret n°2000-477 du 2 juin 2000
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2014-856 du 31 juillet 2014 - art. 30
+  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
