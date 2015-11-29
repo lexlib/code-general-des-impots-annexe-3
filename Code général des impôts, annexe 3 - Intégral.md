@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-11-15
+Version Consolidée au 2015-11-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -42642,19 +42642,19 @@ _Cite_:
 
 ###### Article 400
 
-Les garanties peuvent consister soit en des sûretés réelles d'une valeur au moins égale au montant des sommes au paiement
-desquelles il est sursis soit en un engagement solidaire souscrit par une ou plusieurs personnes physiques ou morales agréées
-comme caution par le comptable compétent de la direction générale des finances publiques.
+Les garanties peuvent notamment consister en des sûretés réelles d'une valeur au moins égale au montant des sommes au
+paiement desquelles il est sursis ou en un engagement solidaire souscrit par une ou plusieurs personnes physiques ou morales
+agréées comme caution par le comptable compétent de la direction générale des finances publiques.
 
 Les biens qui servent à la liquidation des droits de mutation à titre gratuit sont admis en garantie, à la condition que le
 débiteur fournisse au comptable compétent de la direction générale des finances publiques en même temps que sa demande de
 crédit tous les éléments que l'administration juge nécessaire à la mise à jour de l'évaluation des biens.
 
-Les garanties doivent être constituées dans un délai de trois mois à compter de la date de la demande d'admission au crédit.
+Les garanties doivent être constituées dans un délai de quatre mois à compter de la date de la demande d'admission au crédit.
 Le comptable compétent de la direction générale des finances publiques statue sur cette demande dans le même délai.
 
-Les éléments mentionnés au deuxième alinéa sont mis à jour et adressés  au comptable compétent de la direction générale des
-finances publiques,  pour lui permettre d'apprécier la consistance de la garantie, chaque  année dans le mois de la date
+Les éléments mentionnés au deuxième alinéa sont mis à jour et adressés au comptable compétent de la direction générale des
+finances publiques, pour lui permettre d'apprécier la consistance de la garantie, chaque année dans le mois de la date
 anniversaire de la demande de crédit. 
 
 Le comptable compétent de la direction générale des finances publiques peut, à tout moment, si cela lui paraît nécessaire,
@@ -42665,7 +42665,7 @@ un délai d'un mois compté de la demande qui lui est adressée à cet effet par
 
 _Modifié par_:
 
-  - Décret n°2011-1303 du 14 octobre 2011 - art. 6
+  - Décret n°2015-1548 du 27 novembre 2015 - art. 1
 
 _Cité par_:
 
@@ -42786,8 +42786,8 @@ intérêts ne sont dus que jusqu'au jour du paiement des droits.
 
 ###### Article 404 A
 
-I.-Les garanties fournies en contrepartie du fractionnement prévu au 1° de l'article 396 peuvent outre les formes énumérées à
-l'article 400, revêtir celle de l'hypothèque légale prévue au 2 de l'article 1929 du code général des impôts.
+I. – Les garanties fournies en contrepartie du fractionnement prévu au 1° de l'article 396 peuvent outre les formes énumérées
+à l'article 400, revêtir celle de l'hypothèque légale prévue au 2 de l'article 1929 du code général des impôts.
 
 Les droits sont acquittés en plusieurs versements égaux dont le premier a lieu dans les conditions fixées à l'article 402 et
 le dernier au plus tard un an après l'expiration du délai imparti pour souscrire la déclaration de succession.
@@ -42811,19 +42811,19 @@ Matériels agricoles, bestiaux et récoltes ;
 
 Offices ministériels ;
 
-Parts d'intérêts dans des sociétés dont le capital n'est pas divisé en actions ;
+Parts sociales dans des sociétés dont le capital n'est pas divisé en actions ;
 
 Valeurs mobilières non cotées en Bourse ;
 
 Objets d'antiquité, d'art ou de collection.
 
-II.-(Abrogé).
+II. – (Abrogé).
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-1565 du 22 décembre 2014 - art. 1
+  - Décret n°2015-1548 du 27 novembre 2015 - art. 2
 
 _Cite_:
 
