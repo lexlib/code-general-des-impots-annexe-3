@@ -26,32 +26,14 @@ formule non reproduite, vous pouvez la consulter dans le JO° 303 du 31/12/2010 
 La prime p est fixée, en fonction de l'appartenance à l'une des tranches mentionnées à l'article L. 31-10-12 du code de la
 construction et de l'habitation, dans le tableau ci-après : 
 
-<table>
-    <tbody>
-      <tr>
-        <td align="center">TRANCHES</td>
-        <td align="center">1 à 2</td>
-        <td align="center" colspan="3">3 à 5 </td>
-      </tr>
-      <tr>
-        <td align="center">
+<pre>
+┏━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┓
+┃ TRANCHES ┃ 1                 ┃ 2 À 3             ┃
+┠┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Prime p  ┃ 75 points de base ┃ 55 points de base ┃
+┗━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-Prime p 
-
-</td>
-        <td align="center">
-
-75 points de base 
-
-</td>
-        <td align="center">
-
-55 points de base 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
 
 Dans ce qui précède, la durée de la première période de remboursement du prêt est arrondie au multiple inférieur de six
 mois. 
@@ -60,17 +42,21 @@ Le taux S ainsi calculé par l'organisme mentionné au cinquième alinéa de l'a
 l'habitation, est applicable aux prêts ne portant pas intérêt faisant l'objet d'une offre de prêt au cours d'un même
 trimestre.
 
+**Nota:**
+
+Ces dispositions sont applicables aux offres de prêt émises à compter du 1er janvier 2016.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Arrêté du 25 mai 2011 - art. (V)
   - Code de la construction et de l'habitation. - art. R31-10-2-1 (V)
-  - Code de la construction et de l'habitation. - art. R31-10-7 (V)
+  - Code de la construction et de l'habitation. - art. R31-10-7 (M)
 
 _Modifié par_:
 
-  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
+  - Décret n°2015-1813 du 29 décembre 2015 - art. 2
 
 _Cite_:
 
