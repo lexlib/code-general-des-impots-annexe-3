@@ -26,29 +26,33 @@ formule non reproduite, vous pouvez la consulter dans le JO° 303 du 31/12/2010 
 La prime p est fixée, en fonction de l'appartenance à l'une des tranches mentionnées à l'article L. 31-10-12 du code de la
 construction et de l'habitation, dans le tableau ci-après : 
 
-<table align="center" border="1" width="680">
+<table border="1">
     <tbody>
       <tr>
-        <td align="center">TRANCHES</td>
-        <td align="center">1 à 2</td>
-        <td colspan="3" align="center">3 à 5 </td>
+        <th>TRANCHES 
+
+</th>
+        <th>1 
+
+</th>
+        <th>2 À 3 
+
+</th>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle" align="center">
 
 Prime p 
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
 75 points de base 
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-55 points de base 
-
-</td>
+55 points de base</td>
       </tr>
     </tbody>
   </table>
@@ -60,6 +64,10 @@ Le taux S ainsi calculé par l'organisme mentionné au cinquième alinéa de l'a
 l'habitation, est applicable aux prêts ne portant pas intérêt faisant l'objet d'une offre de prêt au cours d'un même
 trimestre.
 
+**Nota:**
+
+Ces dispositions sont applicables aux offres de prêt émises à compter du 1er janvier 2016.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -70,7 +78,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
+  - Décret n°2015-1813 du 29 décembre 2015 - art. 2
 
 _Cite_:
 
