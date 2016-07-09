@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-06-13
+Version Consolidée au 2016-07-10
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -27450,39 +27450,36 @@ _Cite_:
 
 ###### Article 111 H bis
 
-I.-Les documents d'accompagnement mentionnés au II de l'article 302 M du code général des impôts utilisés exclusivement pour
-des mouvements au sein du territoire fiscal de la France métropolitaine et des départements d'outre-mer peuvent être établis
-sans les informations prévues dans les cases 3, 6, 9 et 13 de ces documents, à l'exception de ceux établis au moyen du
-service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article 302 M précité. 
+I. – Les documents d'accompagnement mentionnés au II de l'article 302 M du code général des impôts utilisés exclusivement
+pour des mouvements au sein du territoire fiscal de la France métropolitaine et des départements d'outre-mer peuvent être
+établis sans les informations prévues dans les cases 3, 6, 9 et 13 de ces documents, à l'exception de ceux établis au moyen
+du service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article 302 M
+précité.
 
-II.-1° Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les débitants de boissons
-mentionnés à l'article 502 du même code peuvent être autorisés par le directeur régional des douanes et droits indirects à
-utiliser leurs factures ou tout autre document commercial, en lieu et place des documents d'accompagnement mentionnés à
+II. – 1° Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les débitants de boissons
+mentionnés à l'article 502 du même code peuvent être autorisés par le directeur interrégional des douanes et droits indirects
+à utiliser leurs factures ou tout autre document commercial, en lieu et place des documents d'accompagnement mentionnés à
 l'article 302 M du code précité à l'exception de ceux établis au moyen du service de suivi informatique des mouvements de
-marchandises soumises à accise mentionné au III de cet article. 
+marchandises soumises à accise mentionné au III de cet article.
 
 Ces documents commerciaux doivent contenir les mêmes informations que celles contenues dans le document administratif
-d'accompagnement prévu par le règlement (CEE) n° 2719 / 92 de la Commission du 11 septembre 1992 modifié par le règlement
-(CEE) n° 2225 / 93 de la Commission du 27 juillet 1993 et dans le document simplifié d'accompagnement prévu par le règlement
-(CEE) n° 3649 / 92 de la Commission du 17 décembre 1992. 
+d'accompagnement prévu par le règlement (CEE) n° 2719/92 de la Commission du 11 septembre 1992 modifié par le règlement (CEE)
+n° 2225/93 de la Commission du 27 juillet 1993 et dans le document simplifié d'accompagnement prévu par le règlement (CEE) n°
+3649/92 de la Commission du 17 décembre 1992.
 
 La nature de ces informations doit pouvoir être identifiée par le numéro correspondant aux codes des cases figurant sur ces
-mêmes documents. 
+mêmes documents.
 
 2° Les entrepositaires agréés, qui optent pour le ou les documents commerciaux au lieu et place du ou des documents
 d'accompagnement mentionnés à l'article 302 M du code général des impôts, informent l'administration de la teneur de ceux-ci,
 préalablement à la mise en service des documents, et en déposent un spécimen auprès du service des douanes et droits
 indirects dont ils dépendent.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 52-II (2°) de la loi n° 2010-1658 du 29 décembre 2010.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-645 du 9 juin 2011 - art. 3
+  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 _Cité par_:
 
@@ -27493,6 +27490,7 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 302 G
   - Code général des impôts, CGI. - art. 302 M
+  - Code général des impôts, CGI. - art. 502 (V)
 
 
 ###### Article 111 H decies
@@ -27856,119 +27854,119 @@ _Cité par_:
 
 ###### Article 111 H ter
 
-I.-Pour l'application des articles 614 et 614 A du code général des impôts, la validation des documents d'accompagnement
-mentionnés à l'article 302 M du même code est assurée avant l'expédition des produits selon le cas : 
+I. – Pour l'application des articles 614 et 614 A du code général des impôts, la validation des documents d'accompagnement
+mentionnés à l'article 302 M du même code est assurée avant l'expédition des produits selon le cas :
 
-1° Au moyen du visa du service des douanes et droits indirects ; 
+1° Au moyen du visa du service des douanes et droits indirects ;
 
 2° Au moyen de la marque fiscale apposée sur les documents susmentionnés, numérotés dans une série séquentielle continue,
-dits " documents prévalidés " ; 
+dits " documents prévalidés " ;
 
 3° Sur délégation de l'administration des douanes et droits indirects, au moyen d'un matériel ou logiciel de validation
-informatique sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique ; 
+informatique sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique ;
 
 4° Au moyen du service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article
-302 M du code précité. 
+302 M du code précité.
 
 La validation des documents d'accompagnement mentionnés au I de l'article 302 M du code précité est assurée, à la réception
 des produits, au moyen du visa du service des douanes et droits indirects ou sur délégation de l'administration des douanes
-et droits indirects au moyen des différents matériels de validation mentionnés au 3°. 
+et droits indirects au moyen des différents matériels de validation mentionnés au 3°.
 
 La validation des documents d'accompagnement mentionnés au II de l'article 302 M dudit code est obligatoire à la réception si
 les produits sont remis sous le régime de la suspension des droits lors de leur prise en charge dans un entrepôt fiscal
-suspensif des droits d'accises, dans les conditions déterminées par l'administration des douanes et droits indirects. 
+suspensif des droits d'accises, dans les conditions déterminées par l'administration des douanes et droits indirects.
 
-II.-Le directeur régional des douanes et droits indirects territorialement compétent peut attribuer à une personne des
+II. – Le directeur interrégional des douanes et droits indirects territorialement compétent peut attribuer à une personne des
 documents prévalidés mentionnés au 2° du I, ou l'autoriser à valider les documents mentionnés à l'article 302 M du code
 général des impôts au moyen des différents matériels de validation mentionnés au 3° du I, si cette personne justifie d'une
-bonne moralité fiscale et fournit un cautionnement pour l'utilisation des documents d'accompagnement concernés. 
+bonne moralité fiscale et fournit un cautionnement pour l'utilisation des documents d'accompagnement concernés.
 
 Les conditions dans lesquelles l'administration des douanes et droits indirects fournit les documents prévalidés mentionnés à
-l'article 302 M du code général des impôts sont fixées par arrêté du ministre chargé des douanes. 
+l'article 302 M du code général des impôts sont fixées par arrêté du ministre chargé des douanes.
 
 Les conditions et les modalités d'utilisation des documents prévalidés, d'un matériel ou logiciel de validation informatique
-sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique sont fixées par arrêté du ministre chargé des douanes. 
+sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique sont fixées par arrêté du ministre chargé des douanes.
 
-III.-Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser des groupements
-d'entrepositaires agréés, des syndicats et des organismes professionnels représentant des entrepositaires agréés : 
+III. – Le directeur interrégional des douanes et droits indirects territorialement compétent peut autoriser des groupements
+d'entrepositaires agréés, des syndicats et des organismes professionnels représentant des entrepositaires agréés :
 
 1° A valider pour le compte des entrepositaires agréés des documents d'accompagnement mentionnés à l'article 302 M du code
-général des impôts, au moyen des différents matériels de validation mentionnés au 3° du I, pour les leur remettre ; 
+général des impôts, au moyen des différents matériels de validation mentionnés au 3° du I, pour les leur remettre ;
 
 2° A délivrer des documents d'accompagnement prévalidés mentionnés au 2° du I, ou à les prévalider pour les remettre aux
-entrepositaires agréés. 
+entrepositaires agréés.
 
 Afin de bénéficier des autorisations mentionnées au 1 et au 2°, les groupements d'entrepositaires agréés, les syndicats et
 les organismes professionnels représentant des entrepositaires agréés doivent justifier d'une bonne moralité fiscale, fournir
 un cautionnement pour l'utilisation des documents d'accompagnement concernés et présenter une liste des entrepositaires
-agréés bénéficiaires. 
+agréés bénéficiaires.
 
-IV.-Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser les entrepositaires
-agréés, selon le cas, à faire valider les documents mentionnés à l'article 302 M du code général des impôts ou à se faire
-remettre ces documents prévalidés par un groupement d'entrepositaires agréés, un syndicat ou un organisme professionnel
-représentant les entrepositaires agréés, si ces entrepositaires agréés justifient d'une bonne moralité fiscale et fournissent
-un cautionnement pour l'utilisation des documents d'accompagnement concernés.
+IV. – Le directeur interrégional des douanes et droits indirects territorialement compétent peut autoriser les
+entrepositaires agréés, selon le cas, à faire valider les documents mentionnés à l'article 302 M du code général des impôts
+ou à se faire remettre ces documents prévalidés par un groupement d'entrepositaires agréés, un syndicat ou un organisme
+professionnel représentant les entrepositaires agréés, si ces entrepositaires agréés justifient d'une bonne moralité fiscale
+et fournissent un cautionnement pour l'utilisation des documents d'accompagnement concernés.
 
-V.-Les entrepositaires agréés, les groupements d'entrepositaires agréés, les syndicats et organismes professionnels
+V. – Les entrepositaires agréés, les groupements d'entrepositaires agréés, les syndicats et organismes professionnels
 représentant les entrepositaires agréés autorisés à valider les documents mentionnés à l'article 302 M du code général des
 impôts au moyen des différents matériels de validation mentionnés au 3° du I, ainsi que ceux auxquels ont été remis des
 documents d'accompagnement prévalidés mentionnés au 2 du I, informent l'administration des douanes et droits indirects des
-réceptions et des expéditions de produits. 
+réceptions et des expéditions de produits.
 
 Les entrepositaires agréés précisent, sur la déclaration récapitulative mensuelle prévue aux articles 286 I et 286 J de
 l'annexe II du même code, qu'ils doivent transmettre au service des douanes et droits indirects territorialement compétent
 les numéros d'empreinte ou les numéros des documents d'accompagnement prévalidés utilisés au cours de la période de référence
 de cette déclaration. Cette information est donnée, par catégorie d'opérations, sur la base des numéros de début et de fin de
-période. 
+période.
 
 Les groupements d'entrepositaires agréés, les syndicats et les organismes professionnels représentant les entrepositaires
 agréés transmettent, au plus tard le dixième jour de chaque mois, un état récapitulatif par entrepositaire agréé autorisé,
 précisant selon le cas les numéros d'empreinte, les numéros et les catégories de documents prévalidés mentionnés à l'article
-302 M dudit code remis par leurs soins au cours du mois précédent. 
+302 M dudit code remis par leurs soins au cours du mois précédent.
 
-VI.-Les entrepositaires agréés auxquels ne sont pas attribués de documents prévalidés mentionnés à l'article 302 M du code
+VI. – Les entrepositaires agréés auxquels ne sont pas attribués de documents prévalidés mentionnés à l'article 302 M du code
 général des impôts ou auxquels n'est pas déléguée la possibilité de valider ces documents d'accompagnement au moyen d'un des
-matériels de validation mentionnés au 3° du I informent l'administration des douanes et droits indirects : 
+matériels de validation mentionnés au 3° du I informent l'administration des douanes et droits indirects :
 
 1° Des mouvements de produits expédiés ou reçus sous le régime de la suspension des droits d'accises. Lors de chaque
 opération, ils déposent un exemplaire supplémentaire du document mentionné au I de l'article 302 M dudit code. Ils peuvent
 également informer cette administration par tout autre moyen comportant les mêmes informations, y compris par voie
-électronique, dans les conditions déterminées par l'administration des douanes et droits indirects ; 
+électronique, dans les conditions déterminées par l'administration des douanes et droits indirects ;
 
 2° Des mouvements de produits expédiés sous le régime des droits acquittés, de l'exemption ou de l'exonération des droits
 d'accises. Lors de chaque opération, ils déposent un exemplaire supplémentaire du document mentionné au II de l'article 302 M
 du code général des impôts. Ils peuvent également informer cette administration par tout autre moyen comportant les mêmes
 renseignements, y compris par voie électronique, dans les conditions déterminées par l'administration des douanes et droits
-indirects. 
+indirects.
 
 Ces entrepositaires agréés sont dispensés de déposer au service des douanes et droits indirects territorialement compétent un
 exemplaire supplémentaire du document mentionné au II de l'article 302 M du code général des impôts, pour chaque réception
-effectuée sous le régime des droits acquittés, de l'exemption ou de l'exonération des droits d'accises. 
+effectuée sous le régime des droits acquittés, de l'exemption ou de l'exonération des droits d'accises.
 
-VII.-(alinéa abrogé) 
+VII. – (alinéa abrogé)
 
-VIII.-Les autorisations accordées en vertu du III de l'article 302 M du code précité et celles accordées en vertu des II, III
-et IV du présent article peuvent être suspendues ou révoquées par le directeur régional des douanes et droits indirects
-territorialement compétent : 
+VIII. – Les autorisations accordées en vertu du III de l'article 302 M du code précité et celles accordées en vertu des II,
+III et IV du présent article peuvent être suspendues ou révoquées par le directeur interrégional des douanes et droits
+indirects territorialement compétent :
 
 1° En cas de manquements du bénéficiaire aux obligations fixées aux I à VI ainsi qu'aux articles 302 D à 302 V bis, 406, 440
-bis, 441, 442 et 570 du code général des impôts ; 
+bis, 441, 442 et 570 du code général des impôts ;
 
 2° En cas d'infraction fiscale ou économique à caractère frauduleux au titre de la réglementation des contributions
-indirectes commise par le bénéficiaire ; 
+indirectes commise par le bénéficiaire ;
 
 3° En cas de modification de la réglementation entraînant la suppression de l'usage des matériels ou logiciels de validation
 informatiques sécurisés, des machines à timbrer, de tout autre matériel mécanique ou des documents d'accompagnement
-prévalidés mentionnés à l'article 302 M du même code. 
+prévalidés mentionnés à l'article 302 M du même code.
 
-IX. Les conditions d'utilisation des machines à timbrer et des matériels ou logiciels informatiques sécurisés pour les
+IX. – Les conditions d'utilisation des machines à timbrer et des matériels ou logiciels informatiques sécurisés pour les
 documents d'accompagnement mentionnés au I et au II de l'article 302 M du code général des impôts sont fixées par arrêté.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-631 du 9 juin 2010 - art. 1
+  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 _Cite_:
 
@@ -29703,18 +29701,19 @@ _Modifié par_:
 
 Tout propriétaire d'un ouvrage d'or, de platine ou d'argent portant le poinçon de la garantie peut exercer une action contre
 le fabricant ou l'importateur si le titre réel ne correspond pas à celui indiqué par le poinçon. En cas de doute, il peut
-demander au directeur régional des douanes et droits indirects territorialement compétent un nouvel essai.
+demander au directeur interrégional des douanes et droits indirects territorialement compétent ou, en Guadeloupe, en Guyane,
+à La Réunion et à Mayotte, au directeur régional des douanes et droits indirects un nouvel essai.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 _Cité par_:
 
   - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 289 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 
 ###### Article 208
@@ -40294,22 +40293,22 @@ _Cite_:
 Les conditions de délivrance et de retrait des dérogations à la règle posée par l'article 311 bis du code général des impôts
 sont fixées par arrêté du ministre chargé du budget. 
 
-Ces dérogations peuvent être accordées par arrêté du préfet sur proposition du directeur régional des douanes et droits
-indirects.
+Ces dérogations peuvent être accordées par arrêté du préfet sur proposition du directeur interrégional des douanes et droits
+indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, du directeur régional des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°93-264 du 1993-02-26 art. 7 2°, 26 JORF 28 février 1993
-
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°93-1127 du 24 septembre 1993
+
+_Modifié par_:
+
+  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 311 bis (V)
+  - Code général des impôts, CGI. - art. 311 bis
 
 
 ###### Article 350 undecies
@@ -42920,22 +42919,23 @@ _Cite_:
 
 ###### Article 406 L
 
-Le directeur régional des douanes et droits indirects est compétent pour proposer la fermeture d'établissement dans le cadre
-de l'application de l'article 1825 du code général des impôts.
+Le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le
+directeur régional des douanes et droits indirects est compétent pour proposer la fermeture d'établissement dans le cadre de
+l'application de l'article 1825 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°93-266 1993-02-26 art. 2 2 et 3 JORF 28 février 1993
-
 _Codifié par_:
 
-  - Décret n°93-1127 1993-09-24
+  - Décret n°93-1127 du 24 septembre 1993
+
+_Modifié par_:
+
+  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1825 (V)
+  - Code général des impôts, CGI. - art. 1825
 
 
 ### Section II : Dispositions communes<a id=488></a>
