@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-10-02
+Version Consolidée au 2016-10-23
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -42,13 +42,13 @@ Version Consolidée au 2016-10-02
               - [Q : Régime super-simplifié de comptabilité (art. 38 sexdecies-00 A à 38 sexdecies-00 B)](#39)
             - [IV : Rémunérations visées à l'article 62 du code général des impôts (art. 38 sexdecies-0 A)](#40)
             - [V : Bénéfices de l'exploitation agricole (art. 38 sexdecies A à 38 sexdecies W)](#41)
-              - [A : Détermination du régime réel d'imposition (art. 38 sexdecies A à 38 sexdecies B)](#42)
+              - [A : Détermination du régime réel d'imposition (art. 38 sexdecies A)](#42)
               - [B : Détermination et imposition du bénéfice des exploitants soumis à un régime réel (art. 38 sexdecies C à 38 sexdecies JD)](#43)
                 - [Régime réel simplifié (art. 38 sexdecies JC à 38 sexdecies JD)](#44)
               - [C : Option pour l'un des régimes réels (art. 38 sexdecies JE)](#45)
               - [D : Dispositions applicables en cas de changement de régime d'imposition (art. 38 sexdecies K à 38 sexdecies OE)](#46)
                 - [1° : Passage du régime des micro-exploitations à un régime réel (art. 38 sexdecies K à 38 sexdecies-0 K)](#47)
-                - [3° : Passage d'un régime réel au régime des micro-exploitations (art. 38 sexdecies OC à 38 sexdecies OD)](#48)
+                - [3° : Passage d'un régime réel au régime des micro-exploitations (art. 38 sexdecies OD)](#48)
                 - [4° : Passage du régime normal au régime simplifié et du régime simplifié au régime normal (art. 38 sexdecies OE)](#49)
               - [E : Obligations des exploitants (art. 38 sexdecies P à 38 sexdecies RB bis)](#50)
                 - [1° : Obligations applicables aux régimes réels (art. 38 sexdecies P à 38 sexdecies R)](#51)
@@ -6329,28 +6329,6 @@ _Cite_:
   - Code général des impôts, CGI. - art. 69 (V)
 
 
-###### Article 38 sexdecies B
-
-En cas de création ou de cessation d'entreprise en cours d'année, les limites de recettes à l'article 38 sexdecies A sont
-ajustées au prorata de la durée d'exploitation pendant ladite année. 
-
-Cet ajustement n'est pas effectué si l'exploitant a levé la totalité des récoltes de l'année.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
-
-_Cite_:
-
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies A
-
-_Codifié par_:
-
-  - Décret n°84-875 1984-10-01
-
-
 ##### B : Détermination et imposition du bénéfice des exploitants soumis à un régime réel<a id=43></a>
 
 ###### Article 38 sexdecies C
@@ -6419,44 +6397,10 @@ _Cite_:
   - Code général des impôts, CGI. - art. 39 A (V)
 
 
-###### Article 38 sexdecies GA
-
-1. Les plus-values réalisées à l'occasion de la cession de terres ou de bâtiments d'exploitation ne sont pas retenues pour la
-fraction acquise avant le 1er janvier de la première année au titre de laquelle le montant des recettes a dépassé la limite
-du forfait. 
-
-L'exonération prévue au premier alinéa est subordonnée à la condition que l'activité ait été exercée à titre principal
-pendant au moins cinq ans et que le bien cédé n'entre pas dans le champ d'application du A de l'article 1594-0 G du code
-général des impôts. A défaut, les dispositions des articles 150 U à 150 VH du même code sont applicables. 
-
-Les terrains expropriés qui ne remplissent pas les conditions mentionnées à l'article L. 322-3 du code de l'expropriation
-pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application du A de l'article
-1594-0 G du code général des impôts. 
-
-2. Si le bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition, dans le patrimoine privé du
-contribuable, il est fait application de l'article 151 sexies du code général des impôts.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-_Abrogé par_:
-
-  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 150 U
-  - Code général des impôts, CGI. - art. 151 sexies
-  - Code général des impôts, CGI. - art. 1594-0 G
-
-
 ###### Article 38 sexdecies GB
 
 La valeur comptable des stocks apportés dans les conditions mentionnées au sixième alinéa du I de l'article 151 octies du
-code général des impôts est déterminée dans les conditions prévues selon le cas aux articles 38 sexdecies OA et 38 sexdecies
+code général des impôts est déterminée dans les conditions prévues selon le cas aux articles 38 sexdecies O et 38 sexdecies
 OE, lorsque les régimes d'imposition de l'apporteur et de la société bénéficiaire de l'apport sont différents. 
 
 Elle est reprise pour la même valeur dans les inventaires suivants dans la mesure où les stocks apportés n'ont pas encore été
@@ -6466,32 +6410,32 @@ vendus.
 
 _Modifié par_:
 
-  - Décret n°2005-1 2005-01-03 art. 2 C JORF 4 janvier 2005 en vigueur le le 1er janvier 2006
+  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies OA (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies OE (V)
-  - Code général des impôts, CGI. - art. 151-0 octies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies O (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies OE
+  - Code général des impôts, CGI. - art. 151-0 octies
 
 
 ###### Article 38 sexdecies H
 
-Sous réserve des dispositions des articles 38 sexdecies I, 38 sexdecies OA et 38 sexdecies OE, les stocks sont évalués
-suivant les règles définies aux articles 38 nonies et 38 decies.
+Sous réserve des dispositions des articles 38 sexdecies I, 38 sexdecies O et 38 sexdecies OE, les stocks sont évalués suivant
+les règles définies aux articles 38 nonies et 38 decies.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2005-1 2005-01-03 art. 2 C JORF 4 janvier 2005 en vigueur le le 1er janvier 2006
+  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 nonies (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies I (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies OA (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies OE (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 nonies
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies I
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies O (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies OE
 
 
 ###### Article 38 sexdecies I
@@ -6625,20 +6569,16 @@ _Cite_:
 
 ###### Article 38 sexdecies JE
 
-Les options souscrites en application du a du II et du second alinéa du III de l'article 69 du code général des impôts sont
-valables pour l'exercice au titre duquel elles sont exercées et pour l'exercice suivant. Elles se reconduisent tacitement par
-période de deux exercices, sauf renonciation adressée au service des impôts dans le délai de dépôt de la déclaration des
-résultats du dernier exercice de chaque période.
-
-**Nota:**
-
-Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 31 décembre 2004.
+L'option souscrite en application du second alinéa du III de l'article 69 du code général des impôts est valable pour
+l'exercice au titre duquel elle est exercée et pour l'exercice suivant. Elle se reconduit tacitement par période de deux
+exercices, sauf renonciation adressée au service des impôts dans le délai de dépôt de la déclaration des résultats du dernier
+exercice de chaque période.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2005-1 du 3 janvier 2005 - art. 2 () JORF 4 janvier 2005
+  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 _Cité par_:
 
@@ -6646,11 +6586,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 69 (V)
-
-**Liens**:
-
-  - HISTO: Edition du 1er janvier 2005
+  - Code général des impôts, CGI. - art. 69
 
 
 ##### D : Dispositions applicables en cas de changement de régime d'imposition<a id=46></a>
@@ -6718,58 +6654,52 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies L (V)
 
 
-###### Article 38 sexdecies N
+###### Article 38 sexdecies O
 
-En cas de passage du régime du forfait à un régime réel d'imposition, les recettes et les dépenses se rapportant à des
-créances et à des dettes nées sous le régime du forfait ne sont pas retenues pour la détermination du bénéfice selon un
-régime réel.
+En cas de passage du régime des micro-exploitations prévu à l'article 64 bis du code général des impôts à un régime réel
+d'imposition, les éléments figurant dans le stock initial du premier exercice sont évalués à leur prix de revient.
+Alternativement, ce stock peut être évalué en retenant le cours du jour à l'ouverture de l'exercice. 
 
-**Liens relatifs à cet article**
+Toutefois, le stock initial est évalué au cours du jour à la date de changement de régime d'imposition, lorsque le cours du
+jour de ce stock est inférieur au prix de revient. 
 
-_Modifié par_:
-
-  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-_Abrogé par_:
-
-  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
-
-
-###### Article 38 sexdecies OA
-
-En cas de passage du régime du forfait à un régime réel d'imposition ;
-
-a) les animaux figurant dans le stock initial du premier exercice dont les résultats sont imposés d'après le mode réel, sont
-évalués au prix de revient majoré de 20 % ; cette valeur ne peut excéder le cours du jour à la date d'ouverture de cet
-exercice ;
-
-b) Les produits de la viticulture en stock à la date du changement de régime d'imposition sont évalués au cours du jour du
-vin en vrac à la même date, sous déduction d'une décote forfaitaire. Un arrêté du ministre du budget fixe les taux de cette
-décote en fonction de l'âge des produits. Ils sont repris pour la même valeur dans les inventaires suivants dans la mesure où
-ils n'ont pas encore été vendus.
-
-c) Les récoltes comprises dans le stock initial du premier exercice dont les résultats sont déterminés selon un régime réel
-d'imposition sont évaluées d'après leur valeur au 31 décembre de l'année au cours de laquelle elles ont été levées.
-
-Elles sont reprises pour la même valeur dans les inventaires suivants, dans la mesure où elles n'ont pas encore été vendues ;
-
-d) Les matières premières achetées sont évaluées à leur prix de revient à la date du changement de régime d'imposition.
+Aucune modification n'est apportée à la valeur des éléments figurant dans le stock initial tant qu'ils figurent à l'actif de
+l'exploitation.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
-
-  - Décret n°2001-524 2001-06-14 art. 1 XII, XIX JORF 17 juin 2001
-  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-_Abrogé par_:
 
   - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 _Cité par_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies GB (M)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies GB (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 64 bis (V)
+
+
+###### Article 38 sexdecies OB
+
+En cas de passage du régime prévu à l'article 64 bis du code général des impôts à un régime réel d'imposition, les créances
+figurant dans le bilan initial du premier exercice sont évaluées à leur valeur au jour du changement de régime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°93-1127 du 24 septembre 1993
+
+_Modifié par_:
+
+  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 64 bis
 
 
 ###### Article 38 sexdecies-0 K
@@ -6795,51 +6725,22 @@ _Modifié par_:
 
 ##### 3° : Passage d'un régime réel au régime des micro-exploitations<a id=48></a>
 
-###### Article 38 sexdecies OC
+###### Article 38 sexdecies OD
 
-En cas de passage d'un régime réel d'imposition au régime du forfait :
-
-a) Les animaux figurant dans le stock final du dernier exercice dont les résultats sont déterminés d'après un régime réel
-d'imposition sont évalués à leur prix de revient à la date du changement de régime d'imposition ;
-
-b) Les produits de la viticulture en stock à la date du changement de régime d'imposition sont évalués au cours du jour du
-vin en vrac à la même date ;
-
-c) Les récoltes comprises dans le stock final du dernier exercice dont les résultats sont déterminés d'après un régime réel
-d'imposition sont évaluées d'après leur valeur à la clôture de cet exercice ;
-
-d) Les matières premières achetées sont évaluées à leur prix de revient à la date du changement de régime d'imposition.
+En cas de passage d'un régime réel d'imposition au régime prévu à l'article 64 bis du code général des impôts, la fraction
+des subventions d'équipement soumises au régime de l'article 42 septies du même code et non encore rapportée aux bases de
+l'impôt est comprise dans les résultats du dernier exercice imposé selon le mode réel.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
-
-  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-_Abrogé par_:
 
   - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
-**Liens**:
-
-  - HISTO: Edition du 31 mars 2002
-
-
-###### Article 38 sexdecies OD
-
-En cas de passage d'un régime réel d'imposition au régime du forfait, la fraction des subventions d'équipement soumises au
-régime de l'article 42 septies du code général des impôts et non encore rapportée aux bases de l'impôt est comprise dans les
-résultats du dernier exercice imposé selon le mode réel.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 42 septies (V)
+  - Code général des impôts, CGI. - art. 42 septies
+  - Code général des impôts, CGI. - art. 64 bis (V)
 
 
 ##### 4° : Passage du régime normal au régime simplifié et du régime simplifié au régime normal<a id=49></a>
@@ -6925,21 +6826,6 @@ _Cite_:
 
   - Code général des impôts, CGI. - art. 175 (V)
   - Code général des impôts, CGI. - art. 53 A (V)
-
-
-###### Article 38 sexdecies QA
-
-Les contribuables dont le montant des recettes excède pour la première fois la limite du forfait sont tenus d'indiquer au
-service des impôts la valeur vénale des terres et bâtiments d'exploitation inscrits à l'actif, au 1er janvier de l'année du
-franchissement de la limite.
-
-Ces renseignements doivent être fournis avant le 31 mars de l'année suivant celle du franchissement de la limite.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 
 ###### Article 38 sexdecies R

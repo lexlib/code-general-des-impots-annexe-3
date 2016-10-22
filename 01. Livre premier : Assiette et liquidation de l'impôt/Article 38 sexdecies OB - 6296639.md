@@ -1,32 +1,18 @@
 # Article 38 sexdecies OB
 
-En cas de passage du régime du forfait au régime simplifié d'imposition d'après le bénéfice réel.
-
-a) Les immobilisations et les stocks d'entrée sont évalués conformément aux dispositions des articles 38 sexdecies-0 K au I
-de l'article 38 sexdecies N et de l'article 38 sexdecies OA ;
-
-b) Les recettes et les dépenses se rapportant à des créances et à des dettes nées sous le régime du forfait ne sont pas
-retenues pour la détermination du bénéfice selon le régime simplifié.
+En cas de passage du régime prévu à l'article 64 bis du code général des impôts à un régime réel d'imposition, les créances
+figurant dans le bilan initial du premier exercice sont évaluées à leur valeur au jour du changement de régime.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 38 sexdecies-0 K, 38 sexdecies N, 38 sexdecies OA
+  - Décret n°93-1127 du 24 septembre 1993
 
 _Modifié par_:
 
-  - Décret n°92-751 du 29 juillet 1992 - art. 3 (V) JORF 4 août 1992
+  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°93-1127 1993-09-24
-
-_Abrogé par_:
-
-  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-**Liens**:
-
-  - HISTO: Edition du 18 août 1993
-  - HISTO: Edition du 31 mars 2002
+  - Code général des impôts, CGI. - art. 64 bis
