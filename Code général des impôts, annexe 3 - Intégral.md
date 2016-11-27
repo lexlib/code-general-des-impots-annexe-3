@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-10-23
+Version Consolidée au 2016-11-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -2937,10 +2937,10 @@ _Cite_:
 L'autorité compétente vérifie la compatibilité des travaux de restauration ou de gros entretien, mentionnés au c quinquies du
 2° du I de l'article 31 du code général des impôts, avec les objectifs qui ont justifié la mesure de classement et, le cas
 échéant, avec le document de gestion ou d'objectifs approuvé au titre de la réglementation concernée. En ce qui concerne les
-espaces remarquables du littoral au sens de l'article L. 121-23 du code de l'urbanisme , tels qu'ils figurent dans le
-document d'urbanisme de la commune, devenu définitif et doté d'un règlement conforme aux dispositions de l'article R. 121-5
-du code de l'urbanisme, cette vérification porte sur la conformité des travaux aux dispositions de l'article L. 146-6 et du
-5° de l'article R. 121-5 du code de l'urbanisme. 
+espaces remarquables du littoral au sens de l'article L. 121-23 du code de l'urbanisme, tels qu'ils figurent dans le document
+d'urbanisme de la commune, devenu définitif et doté d'un règlement conforme aux dispositions de l'article R. 121-5 du code de
+l'urbanisme, cette vérification porte sur la conformité des travaux aux dispositions de l'article L. 121-23 et du 5° de
+l'article R. 121-5 du code de l'urbanisme. 
 
 Les autorités compétentes sont les suivantes : 
 
@@ -2963,7 +2963,7 @@ g. Pour un site Natura 2000 (zone spéciale de conservation ou zone de protectio
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 4
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 4
 
 _Cité par_:
 
@@ -2972,8 +2972,8 @@ _Cité par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 31
-  - Code de l'urbanisme - art. L146-6
-  - Code de l'urbanisme - art. R146-2
+  - Code de l'urbanisme - art. L121-23 (V)
+  - Code de l'urbanisme - art. R121-5 (V)
 
 
 ##### III : Bénéfices industriels et commerciaux<a id=11></a>
@@ -36958,7 +36958,7 @@ _Cite_:
 
 ###### Article 331 K ter
 
-I. ― Pour l'application du deuxième alinéa du V de l'article 1605 nonies du code général des impôts, l'accomplissement de la
+I. – Pour l'application du deuxième alinéa du V de l'article 1605 nonies du code général des impôts, l'accomplissement de la
 formalité de l'enregistrement ou de la formalité fusionnée est subordonné, pour tout acte constatant la cession à titre
 onéreux d'un terrain nu ou de droits relatifs à un tel terrain, à la mention, selon le cas, dans l'acte : 
 
@@ -36969,9 +36969,9 @@ de l'article 1605 nonies du code général des impôts ;
 
 3° Que la date du classement du terrain par un plan local d'urbanisme ou par un autre document d'urbanisme en tenant lieu en
 zone urbaine ou à urbaniser ouverte à l'urbanisation ou par une carte communale dans une zone où les constructions sont
-autorisées ou par application des articles L. 113-3 à L. 111-5 du code de l'urbanisme est antérieure au 14 janvier 2010 ; 
+autorisées ou par application des articles L. 111-3 à L. 111-5 du code de l'urbanisme est antérieure au 14 janvier 2010 ; 
 
-4° Que le terrain se situe dans la partie urbanisée de la commune au sens des articles L. 113-3 à L. 111-5 du code de
+4° Que le terrain se situe dans la partie urbanisée de la commune au sens des articles L. 111-3 à L. 111-5 du code de
 l'urbanisme ; 
 
 5° Que la plus-value réalisée par le cédant est exonérée de la taxe en application, selon le cas, des dispositions : 
@@ -36983,40 +36983,35 @@ b) Du 1° ou du 2° du III de l'article précité.
 6° Que le terrain a fait l'objet, depuis la date à laquelle il a été rendu constructible, d'une cession à titre onéreux
 antérieure à la mutation constatée dans l'acte. 
 
-II. ― Les éléments mentionnés aux 1° et 2° du I sont justifiés par le cédant au moyen du certificat d'urbanisme mentionné à
+II. – Les éléments mentionnés aux 1° et 2° du I sont justifiés par le cédant au moyen du certificat d'urbanisme mentionné à
 l'article L. 410-1 du code de l'urbanisme, précisant que le terrain ne peut faire l'objet, du fait de sa localisation, de sa
 desserte ou de ses caractéristiques, d'aucune autorisation de construction. 
 
-III. ― Les éléments mentionnés au 3° du I sont justifiés par le cédant au moyen du certificat d'urbanisme mentionné à
+III. – Les éléments mentionnés au 3° du I sont justifiés par le cédant au moyen du certificat d'urbanisme mentionné à
 l'article L. 410-1 du code de l'urbanisme, ou d'une attestation, établie par la commune ou, le cas échéant, par
 l'établissement public de coopération intercommunale compétent pour l'élaboration des documents locaux d'urbanisme, précisant
 la date à laquelle le terrain est devenu constructible ou, à défaut, que cet événement est intervenu antérieurement au 14
 janvier 2010. 
 
-IV. ― Les éléments mentionnés au 4° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme mentionné à
+IV. – Les éléments mentionnés au 4° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme mentionné à
 l'article L. 410-1 du code de l'urbanisme, précisant que le terrain se situe dans la partie actuellement urbanisée de la
 commune. 
 
-V. ― Les éléments mentionnés au a du 5° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme ou d'une
+V. – Les éléments mentionnés au a du 5° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme ou d'une
 attestation, établie par la commune ou, le cas échéant, par l'établissement public de coopération intercommunale compétent
 pour l'élaboration des documents locaux d'urbanisme, précisant la date à laquelle le terrain est devenu constructible ou, à
 défaut, que cet événement est intervenu depuis plus de dix-huit ans à compter du 14 janvier 2010.
-
-**Nota:**
-
-Au lieu de "les L. 113-3 à L. 111-5 du code de l'urbanisme", il convient de lire " les L. 111-3 à L. 111-5 du code de
-l'urbanisme".
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+  - Décret n°2016-1613 du 25 novembre 2016 - art. 4
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1605 nonies
-  - Code de l'urbanisme - art. L111-3 (V)
+  - Code général des impôts, CGI. - art. 1605 nonies (V)
+  - Code de l'organisation judiciaire - art. L111-3 (V)
   - Code de l'urbanisme - art. L410-1
 
 
