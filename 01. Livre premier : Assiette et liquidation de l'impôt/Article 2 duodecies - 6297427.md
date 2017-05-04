@@ -3,7 +3,7 @@
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2016, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,49 € par mètre carré
+a) Pour les baux conclus en 2017, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,49 € par mètre carré
 en zone A, 12,09 € en zone B et 8,76 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
 modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
 centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du
@@ -26,201 +26,143 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2016, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2017, les plafonds annuels de ressources sont les suivants : 
 
 (En euros) 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th rowspan="2">
+  <tbody>
+    <tr>
+      <th rowspan="2">
 
-COMPOSITION DU FOYER LOCATAIRE 
+COMPOSITION DU FOYER LOCATAIRE </th>
+      <th colspan="3">
 
-</th>
-        <th colspan="3">
-
-LIEU DE LOCATION 
-
-</th>
-      </tr>
-      <tr>
-        <th>
+LIEU DE LOCATION </th>
+    </tr>
+    <tr>
+      <th>
 
 Zone A 
 
 (en €) 
 
 </th>
-        <th>
+      <th>
 
 Zone B 
 
 (en €) 
 
 </th>
-        <th>
+      <th>
 
 Zone C 
 
 (en €) 
 
 </th>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="justify">
 
-Personne seule 
+Personne seule </td>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="right">
+47 004 </td>
+      <td align="left">
 
-46 835 
+36 328 </td>
+      <td align="left">
 
-</td>
-        <td align="right" valign="middle">
+31 789 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-36 198 
+Couple </td>
+      <td align="left">
 
-</td>
-        <td align="right" valign="middle">
+70 247 </td>
+      <td align="left">
 
-31 675 
+48 510 </td>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+42 726 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Couple 
+Personne seule ou couple ayant une personne à charge </td>
+      <td align="left">
 
-</td>
-        <td align="right" valign="middle">
+84 441 </td>
+      <td align="left">
 
-69 995 
+58 336 </td>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="right">
+51 149 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-48 336 
+Personne seule ou couple ayant deux personnes à charge </td>
+      <td align="left">
 
-</td>
-        <td align="right" valign="middle">
+101 147 </td>
+      <td align="left">
 
-42 573 
+70 422 </td>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+61 903 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Personne seule ou couple ayant une personne à charge 
+Personne seule ou couple ayant trois personnes à charge </td>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="right">
+119 741 </td>
+      <td align="left">
 
-84 138 
+82 840 </td>
+      <td align="left">
 
-</td>
-        <td align="right" valign="middle">
+72 653 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-58 127 
+Personne seule ou couple ayant quatre personnes à charge </td>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="right">
+134 738 </td>
+      <td align="left">
 
-50 966 
+93 359 </td>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+81 955 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Personne seule ou couple ayant deux personnes à charge 
+Majoration par personne à charge à partir de la cinquième </td>
+      <td align="left">
 
-</td>
-        <td align="right" valign="middle">
+15 019 </td>
+      <td align="left">
 
-100 784 
+10 412 </td>
+      <td align="left">
 
-</td>
-        <td align="right" valign="middle">
-
-70 169 
-
-</td>
-        <td align="right" valign="middle">
-
-61 681 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-Personne seule ou couple ayant trois personnes à charge 
-
-</td>
-        <td align="right" valign="middle">
-
-119 311 
-
-</td>
-        <td valign="middle" align="right">
-
-82 543 
-
-</td>
-        <td valign="middle" align="right">
-
-72 392 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-Personne seule ou couple ayant quatre personnes à charge 
-
-</td>
-        <td align="right" valign="middle">
-
-134 255 
-
-</td>
-        <td valign="middle" align="right">
-
-93 024 
-
-</td>
-        <td align="right" valign="middle">
-
-81 661 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-Majoration par personne à charge à partir de la cinquième ... 
-
-</td>
-        <td valign="middle" align="right">
-
-14 965 
-
-</td>
-        <td valign="middle" align="right">
-
-10 375 
-
-</td>
-        <td valign="middle" align="right">
-
-9 276 </td>
-      </tr>
-    </tbody>
-  </table>
+9 309 </td>
+    </tr>
+  </tbody>
+</table>
 
 Ces plafonds sont révisés au 1er janvier de chaque année en fonction de l'évolution annuelle de l'indice des prix à la
 consommation hors tabac et arrondis à l'euro le plus proche. Cette variation est appréciée entre le 1er octobre de l'avant-
@@ -264,11 +206,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 4
+  - Décret n°2017-698 du 2 mai 2017 - art. 3
 
 _Cite_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F
-  - Code général des impôts, CGI. - art. 31
+  - Code général des impôts, CGI. - art. 1417 (V)
+  - Code général des impôts, CGI. - art. 196 (V)
+  - Code général des impôts, CGI. - art. 31 (VT)
   - Code de la construction et de l'habitation. - art. L353-9-2
   - Code de la construction et de l'habitation. - art. R*111-2
+  - Code de la construction et de l'habitation. - art. R331-10 (V)
+  - Code de la construction et de l'habitation. - art. R353-16 (V)
