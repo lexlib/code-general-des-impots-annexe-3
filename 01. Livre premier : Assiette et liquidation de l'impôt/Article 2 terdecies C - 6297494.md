@@ -6,12 +6,12 @@ locataire sont les suivants :
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus
 proche, de ceux mentionnés au :
 
-- a de l'article 2 terdecies B, pour les baux conclus en 2016, s'agissant de logements autres que ceux visés au b de ce même
+- a de l'article 2 terdecies B, pour les baux conclus en 2017, s'agissant de logements autres que ceux visés au b de ce même
 article ;
 
-- b de l'article 2 terdecies B, pour les baux conclus en 2016, s'agissant de logements visés au b de ce même article. 
+- b de l'article 2 terdecies B, pour les baux conclus en 2017, s'agissant de logements visés au b de ce même article. 
 
-Pour les baux conclus en 2016, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+Pour les baux conclus en 2017, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre
 carré de surface habitable, à 10,55 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,85 € en
 Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont
@@ -21,411 +21,275 @@ b. Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2016, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2017, les plafonds annuels de ressources sont les suivants : 
 
 (en euros) 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th rowspan="2">
+  <tbody>
+    <tr>
+      <th rowspan="2">COMPOSITION DU FOYER LOCATAIRE </th>
+      <th colspan="4">
 
-COMPOSITION DU FOYER LOCATAIRE 
-
-</th>
-        <th colspan="4">
-
-LIEU DE LOCATION 
-
-</th>
-      </tr>
-      <tr>
-        <th>
+LIEU DE LOCATION </th>
+    </tr>
+    <tr>
+      <th>
 
 Zone A 
 
-(en €) 
-
-</th>
-        <th>
+(en €) </th>
+      <th>
 
 Zone B1 
 
-(en €) 
-
-</th>
-        <th>
+(en €) </th>
+      <th>
 
 Zone B2 
 
-(en €) 
-
-</th>
-        <th>
+(en €) </th>
+      <th>
 
 Zone C 
 
-(en €) 
+(en €) </th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</th>
-      </tr>
-      <tr>
-        <td align="left">
+Personne seule </td>
+      <td align="center">
 
-Personne seule 
+47 004 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+34 915 </td>
+      <td align="center">
 
-46 835 
+32 005 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+31 789 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-34 790 
+Couple </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+70 247 </td>
+      <td align="center">
 
-31 890 
+51 272 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+47 000 </td>
+      <td align="center">
 
-31 675 
+42 726 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+Personne seule ou couple ayant une personne à charge </td>
+      <td align="center">
 
-Couple 
+84 441 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+61 379 </td>
+      <td align="center">
 
-69 995 
+56 265 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+51 149 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-51 088 
+Personne seule ou couple ayant deux personnes à charge </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+101 147 </td>
+      <td align="center">
 
-46 831 
+74 282 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+68 094 </td>
+      <td align="center">
 
-42 573 
+61 903 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+Personne seule ou couple ayant trois personnes à charge </td>
+      <td align="center">
 
-Personne seule ou couple ayant une personne à charge 
+119 741 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+87 185 </td>
+      <td align="center">
 
-84 138 
+79 922 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+72 653 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-61 159 
+Personne seule ou couple ayant quatre personnes à charge </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+134 738 </td>
+      <td align="center">
 
-56 063 
+98 345 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+90 151 </td>
+      <td align="center">
 
-50 966 
+81 955 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+Majoration par personne à charge supplémentaire à partir de la cinquième </td>
+      <td align="center">
 
-Personne seule ou couple ayant deux personnes à charge 
++ 15 019 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
++ 11 171 </td>
+      <td align="center">
 
-100 784 
++ 10 241 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
-
-74 016 
-
-</td>
-        <td align="right">
-
-67 850 
-
-</td>
-        <td align="right">
-
-61 681 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Personne seule ou couple ayant trois personnes à charge 
-
-</td>
-        <td align="right">
-
-119 311 
-
-</td>
-        <td align="right">
-
-86 872 
-
-</td>
-        <td align="right">
-
-79 635 
-
-</td>
-        <td align="right">
-
-72 392 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Personne seule ou couple ayant quatre personnes à charge ... 
-
-</td>
-        <td align="right">
-
-134 255 
-
-</td>
-        <td align="right">
-
-97 992 
-
-</td>
-        <td align="right">
-
-89 828 
-
-</td>
-        <td align="right">
-
-81 661 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Majoration par personne à charge supplémentaire à partir de 
-
-la cinquième 
-
-</td>
-        <td align="right">
-
-+ 14 965 
-
-</td>
-        <td align="right">
-
-+ 11 131 
-
-</td>
-        <td align="right">
-
-+ 10 204 
-
-</td>
-        <td align="right">
-
-+ 9 276</td>
-      </tr>
-    </tbody>
-  </table>
++ 9 309 </td>
+    </tr>
+  </tbody>
+</table>
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
 l'article 2 duodecies. 
 
-Pour les baux conclus en 2016, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
+Pour les baux conclus en 2017, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
 d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants : 
 
 (en euros) 
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>
-
-COMPOSITION DU FOYER LOCATAIRE 
-
-</th>
-        <th>
+  <tbody>
+    <tr>
+      <th>COMPOSITION DU FOYER LOCATAIRE </th>
+      <th>
 
 DÉPARTEMENTS D'OUTRE-MER, 
 
 Saint-Martin, Saint-Barthélémy 
 
-(en €) 
-
-</th>
-        <th>
+(en €) </th>
+      <th>
 
 POLYNÉSIE FRANÇAISE, 
 
-Nouvelle-Calédonie, 
+Nouvelle-calédonie, Saint-Pierre-et-
 
-Saint-Pierre-et-Miquelon, 
+Miquelon, Îles Wallis-et-Futuna 
 
-îles Wallis Et Futuna 
+(en €) </th>
+    </tr>
+    <tr>
+      <td align="left">
 
-(en €) 
+Personne seule </td>
+      <td align="center">
 
-</th>
-      </tr>
-      <tr>
-        <td align="left">
+28 435 </td>
+      <td align="center">
 
-Personne seule 
+24 832 </td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="right">
+Couple </td>
+      <td align="center">
 
-28 399 
+37 972 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+45 922 </td>
+    </tr>
+    <tr>
+      <td align="left">
 
-24 804 
+Personne seule ou couple ayant une personne à charge </td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+45 664 </td>
+      <td align="center">
 
-Couple 
+48 577 </td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="right">
+Personne seule ou couple ayant deux personnes à charge </td>
+      <td align="center">
 
-37 925 
+55 120 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+51 233 </td>
+    </tr>
+    <tr>
+      <td align="left">
 
-45 871 
+Personne seule ou couple ayant trois personnes à charge </td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+64 847 </td>
+      <td align="center">
 
-Personne seule ou couple ayant une personne à charge 
+54 783 </td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="right">
+Personne seule ou couple ayant quatre personnes à charge </td>
+      <td align="center">
 
-45 607 
+73 081 </td>
+      <td align="center">
 
-</td>
-        <td align="right">
+58 333 </td>
+    </tr>
+    <tr>
+      <td align="left">
 
-48 523 
+Majoration par personne à charge supplémentaire à partir de la cinquième </td>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
++ 8 156 </td>
+      <td align="left">
 
-Personne seule ou couple ayant deux personnes à charge 
-
-</td>
-        <td align="right">
-
-55 052 
-
-</td>
-        <td align="right">
-
-51 176 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Personne seule ou couple ayant trois personnes à charge 
-
-</td>
-        <td align="right">
-
-64 767 
-
-</td>
-        <td align="right">
-
-54 722 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Personne seule ou couple ayant quatre personnes à charge ... 
-
-</td>
-        <td align="right">
-
-72 990 
-
-</td>
-        <td align="right">
-
-58 268 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Majoration par personne à charge supplémentaire à partir de la cinquième 
-
-</td>
-        <td align="right">
-
-+ 8 145 
-
-</td>
-        <td align="right">
-
-+ 3 723 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
++ 3 728 </td>
+    </tr>
+  </tbody>
+</table>
 
 Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
-196 B du code général des impôts.
+196 B du code général des impôts. 
 
 Pour l'application du présent article, les zones A, A bis, B 1, B 2 et C sont définies par arrêté des ministres chargés du
 budget et du logement et la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer mentionnés au
@@ -444,19 +308,20 @@ _Cité par_:
   - Décret n°2010-30 du 8 janvier 2010 - art. 3 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies B (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (M)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis B (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 ter (T)
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 4
+  - Décret n°2017-698 du 2 mai 2017 - art. 3
 
 _Cite_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (M)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies (V)
   - Code général des impôts, CGI. - art. 1417
   - Code général des impôts, CGI. - art. 196
   - Code général des impôts, CGI. - art. 199 septvicies
