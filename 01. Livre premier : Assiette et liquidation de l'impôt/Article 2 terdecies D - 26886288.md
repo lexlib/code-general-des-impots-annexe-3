@@ -1,10 +1,10 @@
 # Article 2 terdecies D
 
-I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts : 
+I. – Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts : 
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2016, à 16,83
-€ en zone A bis, 12,50 € dans le reste de la zone A, 10,07 € en zone B 1 et 8,75 € en zone B 2. Ces plafonds sont révisés au
-1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies. 
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2017, à 16,83
+€ en zone A bis, 12,50 € dans le reste de la zone A, 10,07 € en zone B 1 et 8,75 € en zone B 2 et en zone C. Ces plafonds
+sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la
 formule suivante : 
@@ -19,21 +19,21 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants : 
 
-a) Pour les baux conclus en 2016, les plafonds annuels de ressources des locataires sont les suivants : 
+a) Pour les baux conclus en 2017, les plafonds annuels de ressources des locataires sont les suivants : 
 
 <table border="1">
   <tbody>
     <tr>
       <th rowspan="2">
 
-COMPOSITION DU FOYER LOCATAIRE 
+COMPOSITION 
+
+DU FOYER LOCATAIRE 
 
 </th>
-      <th colspan="4">
+      <th colspan="5">
 
-LIEU DE SITUATION DU LOGEMENT 
-
-</th>
+LIEU DE SITUATION DU LOGEMENT </th>
     </tr>
     <tr>
       <th>
@@ -45,9 +45,7 @@ Zone A bis
 </th>
       <th>
 
-Reste 
-
-de la zone A 
+Reste de la zone A 
 
 (en euros) 
 
@@ -66,193 +64,169 @@ Zone B 2
 (en euros) 
 
 </th>
+      <th>
+
+Zone C 
+
+(en euros) 
+
+</th>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="justify">
 
-Personne seule 
+Personne seule </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+37 126 </td>
+      <td align="center">
 
-36 993 
+37 126 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+30 260 </td>
+      <td align="center">
 
-36 993 
+27 234 </td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="right">
-
-30 151 
-
-</td>
-      <td align="right" valign="middle">
-
-27 136 
-
-</td>
+27 234 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="justify">
 
-Couple 
+Couple </td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="right">
+55 486 </td>
+      <td align="center">
 
-55 287 
+55 486 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+40 410 </td>
+      <td align="center">
 
-55 287 
+36 368 </td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="right">
-
-40 265 
-
-</td>
-      <td align="right" valign="middle">
-
-36 238 
-
-</td>
+36 368 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="justify">
 
-Personne seule ou couple ayant une personne à charge 
+Personne seule ou couple 
 
-</td>
-      <td valign="middle" align="right">
-
-72 476 
+ayant une personne à charge 
 
 </td>
-      <td align="right" valign="middle">
+      <td align="center">
 
-66 460 
+72 737 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+66 699 </td>
+      <td align="center">
 
-48 422 
+48 596 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+43 737 </td>
+      <td align="center">
 
-43 580 
-
-</td>
+43 737 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="justify">
 
-Personne seule ou couple ayant deux personnes à charge 
+Personne seule ou couple 
 
-</td>
-      <td align="right" valign="middle">
-
-86 531 
+ayant deux personnes à charge 
 
 </td>
-      <td valign="middle" align="right">
+      <td align="center">
 
-79 606 
+86 843 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+79 893 </td>
+      <td align="center">
 
-58 456 
+58 666 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+52 800 </td>
+      <td align="center">
 
-52 611 
-
-</td>
+52 800 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="justify">
 
-Personne seule ou couple ayant trois personnes à charge 
+Personne seule ou couple 
 
-</td>
-      <td align="right" valign="middle">
-
-102 955 
+ayant trois personnes à charge 
 
 </td>
-      <td align="right" valign="middle">
+      <td align="center">
 
-94 240 
+103 326 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+94 579 </td>
+      <td align="center">
 
-68 766 
+69 014 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+62 113 </td>
+      <td align="center">
 
-61 890 
-
-</td>
+62 113 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="justify">
 
-Personne seule ou couple ayant quatre personnes à charge 
+Personne seule ou couple 
 
-</td>
-      <td valign="middle" align="right">
-
-115 851 
+ayant quatre personnes à charge 
 
 </td>
-      <td align="right" valign="middle">
+      <td align="center">
 
-106 049 
+116 268 </td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="right">
+106 431 </td>
+      <td align="center">
 
-77 499 
+77 778 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
+70 000 </td>
+      <td align="center">
 
-69 749 
-
-</td>
+70 000 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="justify">
 
-Majoration par personne à charge supplémentaire à partir de la cinquième 
+Majoration par personne à charge supplémentaire à partir de la cinquième </td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="right">
++ 12 954 </td>
+      <td align="center">
 
-+ 12 908 
++ 11 859 </td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="right">
++ 8 677 </td>
+      <td align="center">
 
-+ 11 816 
++ 7 808 </td>
+      <td align="center">
 
-</td>
-      <td align="right" valign="middle">
-
-+ 8 646 
-
-</td>
-      <td valign="middle" align="right">
-
-+ 7 780</td>
++ 7 808 </td>
     </tr>
   </tbody>
 </table>
@@ -265,12 +239,12 @@ général des impôts, figurant sur l'avis d'impôt sur le revenu établi au tit
 signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées aux articles 196 à 196 B du
 même code. 
 
-II. ― Les zones A, A bis, B 1 et B 2 mentionnées au I sont celles définies à l'article R. 304-1 du code de la construction et
-de l'habitation. 
+II. – Les zones A, A bis, B 1, B 2 et C mentionnées au I sont celles définies à l'article R. 304-1 du code de la construction
+et de l'habitation. 
 
-III.-Pour l'application du second alinéa du III de l'article 199 novovicies du code général des impôts, les plafonds de loyer
-mentionnés au premier alinéa du 1 du I, lorsqu'ils ne sont pas sensiblement inférieurs aux loyers pratiqués dans le parc
-privé, peuvent être réduits dans les conditions et selon les modalités suivantes : 
+III. – Pour l'application du second alinéa du III de l'article 199 novovicies du code général des impôts, les plafonds de
+loyer mentionnés au premier alinéa du 1 du I, lorsqu'ils ne sont pas sensiblement inférieurs aux loyers pratiqués dans le
+parc privé, peuvent être réduits dans les conditions et selon les modalités suivantes : 
 
 1. Les plafonds de loyer réduits sont, par commune ou ensemble de communes appartenant à une même zone, compris entre le
 niveau du loyer pratiqué pour les logements du parc locatif privé et les plafonds de loyer applicables aux logements financés
@@ -319,12 +293,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 4
+  - Décret n°2017-761 du 4 mai 2017 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1417
-  - Code général des impôts, CGI. - art. 199 novovicies
+  - Code général des impôts, CGI. - art. 196 (V)
+  - Code général des impôts, CGI. - art. 199 novovicies (V)
   - Code de la construction et de l'habitation. - art. L301-5-2
   - Code de la construction et de l'habitation. - art. L302-1
   - Code de la construction et de l'habitation. - art. L302-4-1
