@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2017-05-06
+Version Consolidée au 2017-05-08
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -881,9 +881,9 @@ _Cite_:
 
 ###### Article 2 octodecies
 
-I.-L'engagement de conservation des titres prévu au premier alinéa du j du 1° du I de l'article 31 du code général des impôts
-est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle a pris effet la location dont les
-revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut ou, si elle est postérieure, de l'année au
+I. – L'engagement de conservation des titres prévu au premier alinéa du j du 1° du I de l'article 31 du code général des
+impôts est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle a pris effet la location dont
+les revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut ou, si elle est postérieure, de l'année au
 cours de laquelle les parts ont été acquises.
 
 Pour l'application du dixième alinéa du g et du neuvième alinéa du h du 1° du I de l'article 31 du code précité et de
@@ -895,18 +895,18 @@ de l'année d'achèvement des travaux.L'engagement de conservation des titres fo
 à la déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son conjoint pour la période
 postérieure à cet événement.
 
-L'engagement de conservation des titres prévu au cinquième alinéa du m du 1° du I de l'article 31 du code général des impôts
-est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
-pour la première fois à la déduction calculée en fonction du revenu brut.
+L'engagement de conservation des titres prévu au cinquième alinéa du m ou au B du 4 du o du 1° du I de l'article 31 du code
+général des impôts est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au
+locataire ouvre droit pour la première fois à la déduction calculée en fonction du revenu brut.
 
-II.-Les parts détenues par les associés qui entendent bénéficier de la déduction calculée en fonction du revenu brut ou de la
-déduction au titre de l'amortissement ou de la réduction d'impôt sont inscrites, dans les trente jours suivant la date limite
-de dépôt de la déclaration des revenus mentionnée au I, sur un compte ouvert au nom de l'associé dans la comptabilité de la
-société ou sur un registre spécial. Les documents relatifs aux opérations ayant affecté ce compte sont conservés jusqu'à la
-fin de la troisième année suivant celle de l'expiration de l'engagement mentionné au I.
+II. – Les parts détenues par les associés qui entendent bénéficier de la déduction calculée en fonction du revenu brut ou de
+la déduction au titre de l'amortissement ou de la réduction d'impôt sont inscrites, dans les trente jours suivant la date
+limite de dépôt de la déclaration des revenus mentionnée au I, sur un compte ouvert au nom de l'associé dans la comptabilité
+de la société ou sur un registre spécial. Les documents relatifs aux opérations ayant affecté ce compte sont conservés
+jusqu'à la fin de la troisième année suivant celle de l'expiration de l'engagement mentionné au I.
 
-III.-Les associés joignent à chacune de leurs déclarations des revenus y compris pendant la période de mise à disposition du
-logement prévue au premier alinéa du j et au deuxième alinéa du l du 1° du I de l'article 31 du code général des impôts un
+III. – Les associés joignent à chacune de leurs déclarations des revenus y compris pendant la période de mise à disposition
+du logement prévue au premier alinéa du j et au deuxième alinéa du l du 1° du I de l'article 31 du code général des impôts un
 exemplaire du document mentionné au II de l'article 2 septdecies.
 
 **Nota:**
@@ -917,11 +917,11 @@ Modification effectuée en conséquence de l'article 46-I-1° b de loi n° 2016-
 
 _Modifié par_:
 
-  - Décret n°2017-698 du 2 mai 2017 - art. 3
+  - Décret n°2017-839 du 5 mai 2017 - art. 2
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
   - Code général des impôts, CGI. - art. 199 septvicies
   - Code général des impôts, CGI. - art. 31
 
@@ -1325,16 +1325,16 @@ _Cité par_:
 
 ###### Article 2 septdecies
 
-I.-Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
+I. – Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
 quindecies A, 2 quindecies D, 2 sexdecies, 2 sexdecies-0 A ter, 2 sexdecies-0 A quater et 2 sexdecies A incombent à cette
-société.L'engagement prévu à l'article 2 quaterdecies et à l'article 2 sexdecies-0 A quater est joint par la société à sa
+société. L'engagement prévu à l'article 2 quaterdecies et à l'article 2 sexdecies-0 A quater est joint par la société à sa
 déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la
 déduction calculée en fonction du revenu brut. Les options prévues aux articles 2 quindecies, 2 quindecies A et 2 quindecies
 D sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son
 acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux. 
 
-II.-La société doit, au plus tard le deuxième jour ouvré suivant le 1er mai de chaque année, faire parvenir à ses associés un
-document établi en double exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année
+II. – La société doit, au plus tard le deuxième jour ouvré suivant le 1er mai de chaque année, faire parvenir à ses associés
+un document établi en double exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année
 précédente, les renseignements suivants : 
 
 1° L'identité et l'adresse de l'associé ; 
@@ -1343,12 +1343,12 @@ précédente, les renseignements suivants :
 acquises et transmises au cours de l'année ainsi que la date de ces opérations ; 
 
 3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2
-duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 sexdecies, 2 sexdecies-0 A ter et 2 sexdecies-0 A
-quater ; 
+duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 terdecies G, 2 sexdecies, 2 sexdecies-0 A ter et 2
+sexdecies-0 A quater ; 
 
 4° Lorsqu'il y a lieu, le montant de l'amortissement ou de la réduction d'impôt correspondant aux droits de l'associé ; 
 
-5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et ,
+5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et,
 s'il y a lieu, le montant de ce revenu déterminé compte tenu, selon le cas, de la déduction calculée en fonction du revenu
 brut ou de la déduction au titre de l'amortissement ; 
 
@@ -1363,7 +1363,7 @@ prévues au premier alinéa du j et au au deuxième alinéa du l du 1° du I de 
 
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat. 
 
-III.-La société joint chaque année à sa déclaration de résultat l'état mentionné au IV des articles 2 quindecies et 2
+III. – La société joint chaque année à sa déclaration de résultat l'état mentionné au IV des articles 2 quindecies et 2
 quindecies A. Elle y indique, en outre, l'identité et l'adresse des associés ainsi que la part des revenus des immeubles de
 la société correspondant aux droits de chaque associé.
 
@@ -1371,7 +1371,7 @@ la société correspondant aux droits de chaque associé.
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 3
+  - Décret n°2017-839 du 5 mai 2017 - art. 2
 
 _Cite_:
 
@@ -1382,17 +1382,18 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies D
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies A
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A quater
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A quater (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies G (V)
   - Code général des impôts, CGI. - art. 31
 
 _Cité par_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies (V)
 
 
 ###### Article 2 sexdecies
@@ -1495,53 +1496,51 @@ _Cite_:
 
 ###### Article 2 sexdecies-0 A quater
 
-I.-Pour l'application du septième alinéa du m du 1° du I de l'article 31 du code général des impôts, les conditions prévues
-au sixième alinéa du m précité s'apprécient en tenant compte du montant : 
+I. – Pour l'application du sixième alinéa du m du 1° du I de l'article 31 du code général des impôts et du 5 du o du 1° du I
+du même article 31, les conditions prévues respectivement au cinquième alinéa du m précité ou au 4 du o précité s''apprécient
+en tenant compte du montant :
 
-a. Du loyer payé au bailleur par l'organisme locataire ; 
+a. Du loyer payé au bailleur par l'organisme locataire ;
 
-b. Du loyer payé le cas échéant à cet organisme par la personne occupant le logement ; 
+b. Du loyer payé le cas échéant à cet organisme par la personne occupant le logement ;
 
-c. Des ressources de la personne occupant le logement. 
+c. Des ressources de la personne occupant le logement.
 
-II.-Les contribuables doivent joindre à leur déclaration des revenus de l'année au cours de laquelle la location à cet
-organisme ouvre droit pour la première fois à la déduction calculée en fonction du revenu brut : 
+II. – Les contribuables doivent joindre à leur déclaration des revenus de l'année au cours de laquelle la location à cet
+organisme ouvre droit pour la première fois à la déduction calculée en fonction du revenu brut :
 
-a. Une copie de la convention conclue avec l'Agence nationale de l'habitat signée par les deux parties ; 
+a. Une copie de la convention conclue avec l'Agence nationale de l'habitat signée par les deux parties ;
 
-b. Une copie du bail conclu avec l'organisme locataire ; 
+b. Une copie du bail conclu avec l'organisme locataire ;
 
 c. Le cas échéant, une copie de l'avis d'impôt sur le revenu du sous-locataire ou de l'occupant du logement établi au titre
 de l'avant-dernière année précédant celle pour laquelle la location à cet organisme ouvre droit pour la première fois à la
 déduction calculée en fonction du revenu brut ainsi qu'un document faisant mention du montant du loyer payé par la personne
-occupant le logement ; 
+occupant le logement ;
 
-d.L'engagement de louer, directement ou par l'intermédiaire d'un organisme public ou privé, le logement nu pendant toute la
-durée de la convention à des personnes qui en font leur habitation principale. 
-
-III.-Lorsque le logement est la propriété d'une société non soumise à l'impôt sur les sociétés, les associés personnes
+III. – Lorsque le logement est la propriété d'une société non soumise à l'impôt sur les sociétés, les associés personnes
 physiques doivent joindre à la déclaration de revenus de l'année au cours de laquelle la location à l'organisme locataire
 ouvre droit pour la première fois à la déduction calculée en fonction du revenu brut, outre les pièces justificatives
-mentionnées aux a, b et c du II : 
+mentionnées aux a, b et c du II :
 
-a. Une copie de l'engagement de location souscrit par la société propriétaire ; 
+a. Une copie de l'engagement de location souscrit par la société propriétaire ;
 
-b.L'engagement de conserver leurs parts pendant toute la durée de la convention. 
+b.L'engagement de conserver leurs parts pendant toute la durée de la convention.
 
-IV.-Si le bail, le contrat de sous-location ou la convention d'occupation n'est pas signé à la date de la déclaration
+IV. – Si le bail, le contrat de sous-location ou la convention d'occupation n'est pas signé à la date de la déclaration
 susmentionnée, les documents énumérés aux b et c du II sont joints à la déclaration des revenus de l'année au cours de
 laquelle l'un de ces documents est signé. Il en est de même en cas de changement de locataire ou d'occupant pendant la
-période couverte par l'engagement de location mentionné au d du II.
+période couverte par l'engagement de location.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-122 du 5 février 2010 - art. 2
+  - Décret n°2017-839 du 5 mai 2017 - art. 2
 
 _Cité par_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
 
 _Cite_:
 
@@ -2570,6 +2569,130 @@ _Cite_:
   - Code général des impôts, CGI. - art. 196
   - Code général des impôts, CGI. - art. 199 novovicies (V)
   - Code de la construction et de l'habitation. - art. L364-1
+
+
+###### Article 2 terdecies G
+
+Pour l'application du o du 1° du I de l'article 31 du code général des impôts : 
+
+1° Les plafonds de loyer sont les suivants : 
+
+a) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-4 du code de la
+construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont égaux à ceux
+fixés au 1 du I de l'article 2 terdecies D, ou, pour les logements situés en Guadeloupe, en Guyane, en Martinique, à La
+Réunion ou à Mayotte, à ceux fixés au 1 du I de l'article 2 terdecies F pour ces mêmes collectivités. 
+
+Pour l'application du premier alinéa, les plafonds de loyer applicables pour les logements situés dans la zone C sont égaux à
+ceux fixés au premier alinéa pour les logements situés dans la zone B2 du 1 du I de l'article 2 terdecies D. La zone C
+mentionnée au présent alinéa est celle définie à l'article R. 304-1 du code de la construction et de l'habitation ; 
+
+b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la
+construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les
+baux conclus en 2017, à : 
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+      </th><th>
+
+ZONE A bis 
+
+(en euros) </th>
+      <th>
+
+ZONE A 
+
+(en euros) </th>
+      <th>
+
+ZONE B1 
+
+(en euros) </th>
+      <th>
+
+ZONE B2 
+
+(en euros) </th>
+      <th>
+
+ZONE C 
+
+(en euros) </th>
+    </tr>
+    <tr>
+      <td align="justify">Loyer social </td>
+      <td align="center">11,77 </td>
+      <td align="center">9,06 </td>
+      <td align="center">7,80 </td>
+      <td align="center">7,49 </td>
+      <td align="center">6,95 </td>
+    </tr>
+    <tr>
+      <td align="justify">Loyer très social </td>
+      <td align="center">9,16 </td>
+      <td align="center">7,05 </td>
+      <td align="center">6,07 </td>
+      <td align="center">5,82 </td>
+      <td align="center">5,40 </td>
+    </tr>
+  </tbody>
+</table>
+
+Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2
+duodecies. 
+
+Les zones A, A bis, B1, B2 et C mentionnées au présent b sont celles définies à l'article R. 304-1 du code de la construction
+et de l'habitation ; 
+
+c) Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au dernier alinéa du a de
+l'article 2 duodecies ; 
+
+d) Le loyer maximum prévu dans le cadre des conventions mentionnées aux articles L. 321-4 et L. 321-8 du code de la
+construction et de l'habitation peut être fixé à un niveau inférieur aux plafonds prévus aux a et b du présent 1 en
+application de l'article R. 321-27 du même code ; 
+
+2° Les plafonds de ressources sont les suivants : 
+
+a) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-4 du code de la
+construction et de l'habitation, les plafonds annuels de ressources des locataires sont égaux à ceux fixés au a du 2 du I de
+l'article 2 terdecies D, ou, pour les logements situés en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Mayotte, à
+ceux fixés au 2 du I de l'article 2 terdecies F pour ces mêmes collectivités. 
+
+Les plafonds annuels de ressources applicables pour les logements situés dans la zone C sont égaux à ceux fixés au premier
+alinéa pour les logements situés dans la zone B2 du tableau annexé au a du 2 du I de l'article 2 terdecies D. La zone C
+mentionnée au présent alinéa est celle définie à l'article R. 304-1 du code de la construction et de l'habitation ; 
+
+b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la
+construction et de l'habitation, les plafonds annuels de ressources des locataires, sont égaux à ceux fixés aux annexes I et
+II de l'arrêté pris en application de l'article R. 441-1 du même code ; 
+
+c) Pour l'application du présent 2, les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV
+de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière
+année précédant celle de la signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées
+aux articles 196 à 196 B du même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-839 du 5 mai 2017 - art. 2
+
+_Cité par_:
+
+  - Arrêté du 22 mars 2019 - art. 1 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1417
+  - Code général des impôts, CGI. - art. 196
+  - Code général des impôts, CGI. - art. 31
+  - Code de la construction et de l'habitation. - art. L321-4
+  - Code de la construction et de l'habitation. - art. L321-8
+  - Code de la construction et de l'habitation. - art. R304-1
+  - Code de la construction et de l'habitation. - art. R321-27 (V)
+  - Code de la construction et de l'habitation. - art. R441-1
 
 
 ###### Article 2 vicies
