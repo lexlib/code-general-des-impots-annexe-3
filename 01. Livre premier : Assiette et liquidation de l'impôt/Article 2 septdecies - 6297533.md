@@ -1,15 +1,15 @@
 # Article 2 septdecies
 
-I.-Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
+I. – Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
 quindecies A, 2 quindecies D, 2 sexdecies, 2 sexdecies-0 A ter, 2 sexdecies-0 A quater et 2 sexdecies A incombent à cette
-société.L'engagement prévu à l'article 2 quaterdecies et à l'article 2 sexdecies-0 A quater est joint par la société à sa
+société. L'engagement prévu à l'article 2 quaterdecies et à l'article 2 sexdecies-0 A quater est joint par la société à sa
 déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la
 déduction calculée en fonction du revenu brut. Les options prévues aux articles 2 quindecies, 2 quindecies A et 2 quindecies
 D sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son
 acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux. 
 
-II.-La société doit, au plus tard le deuxième jour ouvré suivant le 1er mai de chaque année, faire parvenir à ses associés un
-document établi en double exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année
+II. – La société doit, au plus tard le deuxième jour ouvré suivant le 1er mai de chaque année, faire parvenir à ses associés
+un document établi en double exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année
 précédente, les renseignements suivants : 
 
 1° L'identité et l'adresse de l'associé ; 
@@ -18,12 +18,12 @@ précédente, les renseignements suivants :
 acquises et transmises au cours de l'année ainsi que la date de ces opérations ; 
 
 3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2
-duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 sexdecies, 2 sexdecies-0 A ter et 2 sexdecies-0 A
-quater ; 
+duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 terdecies G, 2 sexdecies, 2 sexdecies-0 A ter et 2
+sexdecies-0 A quater ; 
 
 4° Lorsqu'il y a lieu, le montant de l'amortissement ou de la réduction d'impôt correspondant aux droits de l'associé ; 
 
-5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et ,
+5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et,
 s'il y a lieu, le montant de ce revenu déterminé compte tenu, selon le cas, de la déduction calculée en fonction du revenu
 brut ou de la déduction au titre de l'amortissement ; 
 
@@ -38,7 +38,7 @@ prévues au premier alinéa du j et au au deuxième alinéa du l du 1° du I de 
 
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat. 
 
-III.-La société joint chaque année à sa déclaration de résultat l'état mentionné au IV des articles 2 quindecies et 2
+III. – La société joint chaque année à sa déclaration de résultat l'état mentionné au IV des articles 2 quindecies et 2
 quindecies A. Elle y indique, en outre, l'identité et l'adresse des associés ainsi que la part des revenus des immeubles de
 la société correspondant aux droits de chaque associé.
 
@@ -46,7 +46,7 @@ la société correspondant aux droits de chaque associé.
 
 _Modifié par_:
 
-  - Décret n°2010-421  du 27 avril 2010 - art. 3
+  - Décret n°2017-839 du 5 mai 2017 - art. 2
 
 _Cite_:
 
@@ -57,14 +57,15 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies D
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies A
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A quater
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A quater (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies G (V)
   - Code général des impôts, CGI. - art. 31
 
 _Cité par_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies (V)
