@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2017-05-08
+Version Consolidée au 2017-05-12
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -31792,14 +31792,18 @@ _Cite_:
 
 ###### Article 313 AZ
 
-Les droits de timbre mentionnés à l'article 963 du code général des impôts sont payés uniquement par l'apposition de timbres
-mobiles.
+Les droits de timbre mentionnés à l'article 963 du code général des impôts peuvent être payés soit par l'apposition de
+timbres mobiles, soit par la voie électronique au moyen d'un timbre dématérialisé.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°2017-971 du 9 mai 2017 - art. 1
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 963 (V)
+  - Code général des impôts, CGI. - art. 963
 
 
 ##### VII : Passeports et titres de voyage (1)<a id=330></a>
