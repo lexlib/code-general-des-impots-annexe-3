@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2017-05-12
+Version Consolidée au 2017-08-07
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -31785,27 +31785,20 @@ _Cite_:
 
 ###### Article 313 BE
 
-I. – (Sans objet). 
-
-II. – La taxe exigible sur les permis de conduire est payée sur état au moyen de formules sans valeur fiscale revêtues de la
-mention " Taxe payée sur état ". 
-
-(1) Voir art. 313 BG ci-après.
+La taxe mentionnée à l'
+article 1599 terdecies du code général des impôts
+est payée soit sur état au moyen de formules sans valeur fiscale revêtues de la mention “ Taxe payée sur état ”, soit par la
+voie électronique au moyen d'un timbre dématérialisé.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGIAN3 313 BG
-  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BG (V)
+  - Décret n°99-382 du 18 mai 1999
 
 _Modifié par_:
 
-  - Loi - art. 25 () JORF 31 décembre 1998
-
-_Codifié par_:
-
-  - Décret n°99-382 1999-05-18
+  - Décret n°2017-1238 du 4 août 2017 - art. 1
 
 _Cité par_:
 
