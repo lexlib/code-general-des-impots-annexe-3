@@ -2,10 +2,10 @@
 
 L'engagement prévu au c du 2 de l'article 119 ter, au deuxième alinéa du 1 de l'article 119 quater et au 2 de l'article 182 B
 bis du code général des impôts doit faire l'objet d'une déclaration qui est adressée à la fois à l'établissement payeur en
-France des dividendes ou au débiteur ou à la personne qui assure le paiement des intérêts ou des redevances et à la direction
-des résidents à l'étranger et des services généraux (service des impôts des entreprises étrangères). Cette déclaration doit
-être souscrite par la personne morale bénéficiaire des dividendes, intérêts et redevances avant la date de leur première mise
-en paiement suivant la date d'inscription en compte des titres de la société émettrice. 
+France des dividendes ou au débiteur ou à la personne qui assure le paiement des intérêts ou des redevances et à la
+direction des impôts des non-résidents (service des impôts des entreprises étrangères). Cette déclaration doit être souscrite
+par la personne morale bénéficiaire des dividendes, intérêts et redevances avant la date de leur première mise en paiement
+suivant la date d'inscription en compte des titres de la société émettrice. 
 
 Elle comprend les renseignements suivants : 
 
@@ -30,13 +30,13 @@ h. le nom et l'adresse de la personne désignée comme représentant.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
 _Codifié par_:
 
-  - Décret n°2006-356 2006-03-24
+  - Décret n°2006-356 du 24 mars 2006
+
+_Modifié par_:
+
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
 
 _Cité par_:
 
@@ -44,6 +44,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 119 quater (V)
-  - Code général des impôts, CGI. - art. 119 ter (V)
-  - Code général des impôts, CGI. - art. 182 B bis (V)
+  - Code général des impôts, CGI. - art. 119 quater
+  - Code général des impôts, CGI. - art. 119 ter
+  - Code général des impôts, CGI. - art. 182 B bis
