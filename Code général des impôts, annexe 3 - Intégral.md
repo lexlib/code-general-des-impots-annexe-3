@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-09-04
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -14471,10 +14471,10 @@ _Cite_:
 
 L'engagement prévu au c du 2 de l'article 119 ter, au deuxième alinéa du 1 de l'article 119 quater et au 2 de l'article 182 B
 bis du code général des impôts doit faire l'objet d'une déclaration qui est adressée à la fois à l'établissement payeur en
-France des dividendes ou au débiteur ou à la personne qui assure le paiement des intérêts ou des redevances et à la direction
-des résidents à l'étranger et des services généraux (service des impôts des entreprises étrangères). Cette déclaration doit
-être souscrite par la personne morale bénéficiaire des dividendes, intérêts et redevances avant la date de leur première mise
-en paiement suivant la date d'inscription en compte des titres de la société émettrice. 
+France des dividendes ou au débiteur ou à la personne qui assure le paiement des intérêts ou des redevances et à la
+direction des impôts des non-résidents (service des impôts des entreprises étrangères). Cette déclaration doit être souscrite
+par la personne morale bénéficiaire des dividendes, intérêts et redevances avant la date de leur première mise en paiement
+suivant la date d'inscription en compte des titres de la société émettrice. 
 
 Elle comprend les renseignements suivants : 
 
@@ -14499,13 +14499,13 @@ h. le nom et l'adresse de la personne désignée comme représentant.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
 _Codifié par_:
 
-  - Décret n°2006-356 2006-03-24
+  - Décret n°2006-356 du 24 mars 2006
+
+_Modifié par_:
+
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
 
 _Cité par_:
 
@@ -14513,9 +14513,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 119 quater (V)
-  - Code général des impôts, CGI. - art. 119 ter (V)
-  - Code général des impôts, CGI. - art. 182 B bis (V)
+  - Code général des impôts, CGI. - art. 119 quater
+  - Code général des impôts, CGI. - art. 119 ter
+  - Code général des impôts, CGI. - art. 182 B bis
 
 
 ###### Article 46 quater-0 FC
@@ -36295,9 +36295,9 @@ _Cite_:
 Pour l'application de l'article 1599 quater A du code général des impôts, les entreprises transmettent une déclaration au
 service des impôts dont relève leur établissement principal, au moyen d'un support papier ou dématérialisé dont les
 caractéristiques sont fixées par l'administration. En l'absence d'établissement sur le territoire national, ces entreprises
-demandent leur immatriculation auprès du service des impôts des entreprises de la direction des résidents à l'étranger et des
-services généraux (DRESG) et transmettent une déclaration au service des impôts dont relève l'établissement principal de
-l'établissement public SNCF Réseau.
+demandent leur immatriculation auprès du service des impôts des entreprises de la direction des impôts des non-résidents et
+transmettent une déclaration au service des impôts dont relève l'établissement principal de l'établissement public SNCF
+Réseau.
 
 **Nota:**
 
@@ -36307,11 +36307,11 @@ Modification effectuée en conséquence de la loi n° 2014-872 du 4 août 2014, 
 
 _Modifié par_:
 
-  - Décret n°2015-608 du 3 juin 2015 - art. 3
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1599 quater A (M)
+  - Code général des impôts, CGI. - art. 1599 quater A
 
 
 ###### Article 328 N
@@ -39167,7 +39167,7 @@ l'établissement de l'assiette du prélèvement mentionné à l'article 1609 nov
 des entreprises du siège de la direction de l'entreprise ou, à défaut, du principal établissement. 
 
 II. – Les redevables établis dans un autre Etat membre de la Communauté européenne souscrivent la déclaration précitée auprès
-du service des impôts des entreprises étrangères de la direction des résidents à l'étranger et des services généraux. 
+du service des impôts des entreprises étrangères de la          direction des impôts des non-résidents. 
 
 Toutefois les redevables établis dans un autre Etat membre de la Communauté européenne, qui ont désigné en France, avant le
 1er janvier 2002, un représentant mentionné à l'article 289 A du code général des impôts, déposent leur déclaration auprès du
@@ -39183,18 +39183,18 @@ est déposée par l'intermédiaire du représentant mentionné à l'article 302 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-859 du 23 juillet 2010 - art. 1
+  - Décret n°2017-1197 du 26 juillet 2017 - art. 1 (VD)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1609 novovicies (V)
-  - Code général des impôts, CGI. - art. 1609 untricies (V)
-  - Code général des impôts, CGI. - art. 289 A (V)
-  - Code général des impôts, CGI. - art. 302 bis ZL (V)
-  - Code général des impôts, CGI. - art. 302 bis ZN (V)
-  - Code de la sécurité sociale. - art. L137-26 (V)
+  - Code général des impôts, CGI. - art. 1609 novovicies
+  - Code général des impôts, CGI. - art. 1609 untricies
+  - Code général des impôts, CGI. - art. 289 A
+  - Code général des impôts, CGI. - art. 302 bis ZL
+  - Code général des impôts, CGI. - art. 302 bis ZN
+  - Code de la sécurité sociale. - art. L137-26
 
 
 ##### I ter : Déclaration d'achat au détail de métaux ferreux et non ferreux<a id=417></a>
