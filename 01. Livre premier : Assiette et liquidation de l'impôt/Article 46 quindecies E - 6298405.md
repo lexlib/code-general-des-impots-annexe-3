@@ -22,26 +22,28 @@ domicile du cédant le relevé mentionné ci-dessus ou un duplicata de ce relev�
 
 Ce relevé est établi sur papier libre, conformément au modèle fixé par l'administration. 
 
-II. – Lorsque la majoration du taux de la réduction d'impôt prévue au second alinéa du 3 de l'article 199 unvicies du code
-général des impôts est applicable, les souscripteurs doivent également produire, sur demande du service, à l'appui de leur
-déclaration de revenus, une copie de l'annexe à la décision d'agrément délivrée par le ministre chargé de l'économie et des
-finances sur laquelle figure l'engagement de la société de réaliser au moins 10 % de ses investissements dans les conditions
-prévues au a de l'article 238 bis HE du code général des impôts. 
+II. – Lorsque la majoration du taux de la réduction d'impôt prévue au deuxième alinéa du 3 de l'article 199 unvicies du code
+général des impôts est applicable, les souscripteurs produisent également, sur demande du service, à l'appui de leur
+déclaration de revenus, une copie de l'annexe à la décision d'agrément du capital délivré par le ministre chargé du budget
+sur laquelle figure l'engagement de la société de réaliser au moins 10 % de ses investissements dans les conditions prévues
+au a de l'article 238 bis HG du code général des impôts. 
+
+II bis. – Lorsque la majoration du taux de la réduction d'impôt prévue au troisième alinéa du 3 de l'article 199 unvicies du
+code général des impôts est applicable, les souscripteurs produisent également, sur demande du service, à l'appui de leur
+déclaration de revenus, une copie de l'annexe à la décision d'agrément du capital délivrée par le ministre chargé du budget
+sur laquelle figure, en plus de l'engagement mentionné au II, l'engagement de la société de consacrer au moins 10 % de ses
+investissements aux dépenses ou aux versements prévus respectivement au a ou au b du 3 de l'article 199 unvicies précité. 
 
 III. – Pour l'application de l'article 199 unvicies du code général des impôts, le relevé mentionné au I doit être délivré
 par la société avant le 31 mars de l'année suivant celle de la souscription.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 26-I [x] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 3
+  - Décret n°2018-15 du 9 janvier 2018 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 199 unvicies (V)
-  - Code général des impôts, CGI. - art. 238 bis HE
+  - Code général des impôts, CGI. - art. 199 unvicies
+  - Code général des impôts, CGI. - art. 238 bis HG
