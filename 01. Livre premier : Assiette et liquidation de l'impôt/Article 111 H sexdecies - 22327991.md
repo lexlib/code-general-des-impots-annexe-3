@@ -1,15 +1,16 @@
 # Article 111 H sexdecies
 
 Un entrepositaire agréé ou un expéditeur enregistré établi dans un autre Etat membre de l'Union européenne peut livrer
-directement en France en suspension de droits d'accise des produits, sous couvert du document administratif électronique
-mentionné à l'article 302 M ter du code général des impôts, un opérateur autre qu'un particulier désigné par un destinataire
-enregistré établi en France, sans que ces produits soient préalablement réceptionnés dans les locaux de ce dernier.
+directement en France métropolitaine en suspension de droits d'accise des produits, sous couvert du document administratif
+électronique mentionné à l'article 302 M ter du code général des impôts, un opérateur autre qu'un particulier désigné par un
+destinataire enregistré établi en France métropolitaine, sans que ces produits soient préalablement réceptionnés dans les
+locaux de ce dernier.
 
 La livraison est limitée, par expédition, à un lieu dont les coordonnées doivent figurer dans le document administratif
 électronique.
 
-Le destinataire enregistré exerce son activité et acquitte les droits d'accise des produits reçus en France par l'opérateur
-qu'il a désigné conformément au I de l'article 302 H ter du code précité.
+Le destinataire enregistré exerce son activité et acquitte les droits d'accise des produits reçus en France métropolitaine
+par l'opérateur qu'il a désigné conformément au I de l'article 302 H ter du code précité.
 
 Le destinataire enregistré doit justifier, par tout moyen, de la prise en charge de la nature et des quantités réelles de
 produits soumis à accise réceptionnés. Il doit être en mesure de présenter ces justifications à toute réquisition des
@@ -18,15 +19,15 @@ quaterdecies et 111 H quindecies.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-631 du 9 juin 2010 - art. 1
+  - Décret n°2018-408 du 29 mai 2018 - art. 1
 
 _Cite_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quaterdecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quindecies
-  - Code général des impôts, CGI. - art. 302 H ter (V)
+  - Code général des impôts, CGI. - art. 302 H ter
   - Code général des impôts, CGI. - art. 302 M ter
 
 _Cité par_:
