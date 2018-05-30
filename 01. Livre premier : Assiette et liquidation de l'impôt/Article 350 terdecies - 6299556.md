@@ -21,7 +21,7 @@ attributions définies à cet alinéa pour l'ensemble des impositions, taxes et 
 soit le lieu d'imposition ou de dépôt des déclarations ou actes relatifs à ces impositions, taxes et redevances.
 
 IV. – Sans préjudice des dispositions des II et III, les fonctionnaires mentionnés au premier alinéa du I sont compétents
-pour contrôler et liquider les droits d'enregistrement, la taxe de publicité foncière, l'impôt de solidarité sur la fortune,
+pour contrôler et liquider les droits d'enregistrement, la taxe de publicité foncière, l'impôt sur la fortune immobilière,
 les droits de timbre et taxes assimilées, lorsque est situé dans le ressort territorial de leur service d'affectation soit le
 lieu de dépôt des actes ou déclarations, soit le lieu de situation ou d'immatriculation du bien servant à la base des
 impositions, taxes et redevances ou, s'agissant de titres, le lieu de souscription de la déclaration de résultats par la
@@ -95,12 +95,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1295 du 21 août 2017 - art. 1
+  - Décret n°2018-404 du 29 mai 2018 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 1605
-  - Code général des impôts, CGI. - art. 167 (V)
+  - Code général des impôts, CGI. - art. 167
   - Livre des procédures fiscales - art. L212
   - Livre des procédures fiscales - art. L47
   - Livre des procédures fiscales - art. R213-4
