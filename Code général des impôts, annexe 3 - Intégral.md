@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2018-05-31
+Version Consolidée au 2018-06-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -146,7 +146,7 @@ Version Consolidée au 2018-05-31
           - [Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural (art. 46 quater-0 Z à 46 quater-0 ZC)](#143)
           - [Section VIII : Régime des groupes de sociétés (art. 46 quater-0 ZD à 46 quater-0 ZM)](#144)
           - [Section VIII bis : Régime de taxation au tonnage (art. 46 quater-0 ZS bis à 46 quater-0 ZS bis A)](#145)
-          - [Section VIII ter : Imputation de déficits subis à l'étranger par les petites et moyennes entreprises (art. 46 quater-0 ZS ter)](#146)
+          - [Section VIII ter : Régime de faveur des fusions (art. 46 quater-0 ZS ter)](#146)
           - [Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies (art. 46 quater-0 ZU)](#147)
           - [Section XI : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques et audiovisuelles (art. 46 quater-0 ZY bis à 46 quater-0 ZY ter)](#148)
           - [Section XI bis : Crédit d'impôt pour dépenses de création, d'exploitation et de numérisation d'un spectacle vivant musical ou de variétés (art. 46 quater-0 ZY decies à 46 quater-0 ZY undecies)](#149)
@@ -13376,38 +13376,37 @@ _Modifié par_:
 ###### Article 46 AZA octies-0 AA
 
 Les logements mentionnés au II de l'article 199 novovicies du code général des impôts, lorsqu'ils sont situés outre-mer,
-s'entendent : 
+s'entendent :
 
 1° Pour les logements situés en Guyane, en Martinique et à La Réunion, sous réserve du 3°, de ceux qui respectent les
-prescriptions prévues aux articles R. * 162-1 et R. * 162-2 du code de la construction et de l'habitation ; 
+prescriptions prévues aux articles R. * 162-1 et R. * 162-2 du code de la construction et de l'habitation ;
 
 2° Pour les logements situés en Guadeloupe, sous réserve du 3°, de ceux qui respectent les dispositions prévues par les
 délibérations du 19 avril 2011 du conseil régional de la Guadeloupe relevant du domaine du règlement relatives à la
 réglementation thermique et aux caractéristiques thermiques de l'enveloppe des bâtiments nouveaux et des parties nouvelles de
 bâtiments, à la production d'eau chaude sanitaire par énergie renouvelable ou par énergie de récupération dans les bâtiments
-en Guadeloupe et aux systèmes de refroidissement et à la performance énergétique des appareils de climatisation
-individuels ; 
+en Guadeloupe et aux systèmes de refroidissement et à la performance énergétique des appareils de climatisation individuels ;
 
 3° Pour les logements situés en Guadeloupe, en Guyane, en Martinique et à La Réunion, et qui font ou qui ont fait l'objet de
 travaux mentionnés aux 2°, 3° et 4° du B du I de l'article 199 novovicies du code général des impôts ou qui sont acquis en
 l'état futur d'achèvement lorsqu'ils ne sont pas soumis aux prescriptions des articles R. * 162-1 et R. * 162-2 précités ou
 aux dispositions prévues par les délibérations du 19 avril 2011 du conseil régional de la Guadeloupe précitées, de ceux qui
-respectent cumulativement : 
+respectent cumulativement :
 
 a. Une exigence thermique qui s'entend de l'intégration au logement de l'un des dispositifs mentionnés au c du 1 du I de
-l'article 18 quater de l'annexe IV au code général des impôts ; 
+l'article 18 quater de l'annexe IV au code général des impôts ;
 
 b. Une exigence énergétique qui s'entend de l'intégration au logement d'un au moins des équipements mentionnés aux 4,5 et 6
-du même I de l'article précité et selon les mêmes conditions. 
+du même I de l'article précité et selon les mêmes conditions.
 
 4° Pour les logements situés en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin et dans les îles Wallis et Futuna,
-de ceux qui respectent les exigences prévues aux a et b du 3° ; 
+de ceux qui respectent les exigences prévues aux a et b du 3° ;
 
-5° Pour les logements situés à Saint-Pierre-et-Miquelon, de ceux qui respectent cumulativement : 
+5° Pour les logements situés à Saint-Pierre-et-Miquelon, de ceux qui respectent cumulativement :
 
 a) Une exigence thermique qui s'entend de l'intégration au logement de matériaux d'isolation thermique mentionnés aux 1° et
-2° à 5° du b du 2 de l'article 18 bis de l'annexe IV au code général des impôts ou d'appareils de régulation de chauffage
-mentionnés au c du même 2 de l'article précité ; 
+2° à 5° du b du 2 du I de l'article 18 bis de l'annexe IV au code général des impôts ou d'appareils de régulation de
+chauffage mentionnés au c du même 2 de l'article précité ;
 
 b) Une exigence énergétique qui s'entend de l'intégration au logement d'un au moins des équipements mentionnés aux 4,5 et 6
 du I de l'article 18 quater de l'annexe IV au code général des impôts et selon les mêmes conditions.
@@ -13416,11 +13415,11 @@ du I de l'article 18 quater de l'annexe IV au code général des impôts et selo
 
 _Modifié par_:
 
-  - Décret n°2015-503 du 4 mai 2015 - art. 1
+  - Décret n°2018-416 du 30 mai 2018 - art. 2
 
 _Cite_:
 
-  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis (V)
+  - Code général des impôts, annexe 4, CGIAN4. - art. 18 bis
   - Code général des impôts, annexe 4, CGIAN4. - art. 18 quater
   - Code général des impôts, CGI. - art. 199 novovicies
   - Code de la construction et de l'habitation. - art. *R162-1
@@ -16386,58 +16385,32 @@ _Cite_:
   - Code général des impôts, CGI. - art. 209-0 B (V)
 
 
-##### Section VIII ter : Imputation de déficits subis à l'étranger par les petites et moyennes entreprises<a id=146></a>
+##### Section VIII ter : Régime de faveur des fusions<a id=146></a>
 
 ###### Article 46 quater-0 ZS ter
 
-I.-Pour l'application de l'article 209 C du code général des impôts, la détention d'un pourcentage du capital d'une société
-s'entend de la détention en pleine propriété de ce même pourcentage des droits à dividendes et des droits de vote attachés
-aux titres émis par cette société. 
+La déclaration spéciale mentionnée au IV de l'article 210-0 A du code général des impôts mentionne :
 
-Les droits détenus indirectement s'entendent des droits détenus par l'intermédiaire d'une chaîne de participation. Le
-pourcentage de ces droits est apprécié en multipliant entre eux les taux de détention successifs. 
+1° La date de réalisation et la nature de l'opération, les nom ou dénomination et adresses des personnes concernées par cette
+opération, y compris, le cas échéant, celles de l'établissement stable situé en France de la personne morale étrangère, les
+liens capitalistiques entre ces mêmes personnes avant la réalisation de l'opération et la nature exacte de l'activité exercée
+par la personne morale étrangère mentionnée au IV de l'article 210-0 A précité ;
 
-II.-La petite ou moyenne entreprise qui, au titre d'un exercice, déduit de son résultat imposable les déficits de succursales
-et filiales dans les conditions prévues à l'article 209 C du code général des impôts ou n'a pas encore rapporté à son
-résultat imposable les déficits qu'elle a ainsi préalablement déduits joint à sa déclaration de résultats un état conforme au
-modèle établi par l'administration qui mentionne : 
+2° Les motifs et buts de l'opération réalisée, notamment les améliorations recherchées, ainsi que les éventuelles opérations
+de cession, de fusion, de scission ou d'apport partiel d'actif préalables et subséquentes en lien avec cette opération ;
 
-1° Sa dénomination sociale, son numéro d'identité tel que défini au premier alinéa de l'article R. 123-221 du code de
-commerce, l'adresse de son siège ou de son principal établissement si elle diffère de celle du siège, et le nombre de
-salariés qu'elle emploie ; 
-
-2° La liste de ses associés ou de ses actionnaires en précisant pour chacun d'eux le nombre de parts ou d'actions, la quote-
-part de capital et de droits de vote ainsi que toutes les modifications apportées à ces éléments en cours d'exercice. Sont
-indiqués en outre, pour les personnes morales, la dénomination, l'adresse, le numéro d'identité tel que défini au premier
-alinéa de l'article R. 123-221 du code de commerce et leur effectif salarié ainsi que, pour les personnes physiques, les nom,
-prénoms, adresse, date et lieu de naissance ; 
-
-3° Le cas échéant, la liste des personnes morales qui détiennent indirectement l'entreprise, en précisant pour chacune
-d'elles les informations mentionnées au 2° ; 
-
-4° Le suivi par exercice des déficits déduits de son résultat imposable et de ceux rapportés à son résultat imposable, par
-succursale ou filiale, en précisant pour chacune d'elles la dénomination, l'adresse, l'impôt étranger équivalant à l'impôt
-sur les sociétés auquel elle est soumise, ainsi que, pour les filiales, le taux de détention de l'entreprise dans leur
-capital et, le cas échéant, la référence à la législation le limitant.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [w] de la loi n° 2013-1278 du 29 décembre 2013.
+3° Les conséquences économiques et fiscales de l'opération réalisée, notamment sur les activités, moyens et fonctions
+maintenus en France et transférés à l'étranger.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-417 du 15 avril 2009 - art. 1
-
-**Liens**:
-
-  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+  - Décret n°2018-421 du 30 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code de commerce - art. R123-221
-  - Code général des impôts, CGI. - art. 209 C
+  - Code général des impôts, CGI. - art. 210-0 A
 
 
 ##### Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies<a id=147></a>
@@ -30738,14 +30711,14 @@ _Cite_:
 
 ###### Article 313 AZ
 
-Les droits de timbre mentionnés à l'article 963 du code général des impôts peuvent être payés soit par l'apposition de
-timbres mobiles, soit par la voie électronique au moyen d'un timbre dématérialisé.
+Les droits de timbre mentionnés à l'article 963 du code général des impôts sont payés par la voie électronique au moyen d'un
+timbre dématérialisé.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-971 du 9 mai 2017 - art. 1
+  - Décret n°2018-419 du 30 mai 2018 - art. 1
 
 _Cite_:
 
