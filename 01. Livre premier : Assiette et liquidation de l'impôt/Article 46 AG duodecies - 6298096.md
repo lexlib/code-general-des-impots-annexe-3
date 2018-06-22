@@ -3,14 +3,14 @@
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants :
 
-1. Pour les baux conclus en 2017, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2018, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 171 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er
+1° 173 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er
 janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
 consommation hors tabac de chacun des cinq départements d'outre-mer ;
 
-2° 212 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
+2° 215 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
 Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que
 la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la
 Nouvelle-Calédonie.
@@ -31,19 +31,15 @@ Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut d
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2017, les plafonds annuels de ressources sont les suivants :
-
-(en euros)
+Pour les baux conclus en 2018, les plafonds annuels de ressources sont les suivants :
 
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">COMPOSITION DU FOYER DU LOCATAIRE</th>
+      <th rowspan="2">Composition du foyer du locataire</th>
       <th colspan="2">
 
-PLAFOND ANNUEL DE RESSOURCES
-
-(en €)</th>
+Plafond annuel de ressources (en €)</th>
     </tr>
     <tr>
       <th>
@@ -60,10 +56,10 @@ et-Miquelon</th>
 Personne seule</td>
       <td align="center">
 
-31 824</td>
+32 069</td>
       <td align="center">
 
-30 560</td>
+30 925</td>
     </tr>
     <tr>
       <td align="justify">
@@ -71,10 +67,10 @@ Personne seule</td>
 Couple</td>
       <td align="center">
 
-58 855</td>
+59 307</td>
       <td align="center">
 
-56 519</td>
+57 194</td>
     </tr>
     <tr>
       <td align="justify">
@@ -82,10 +78,10 @@ Couple</td>
 Personne seule ou couple ayant une personne à charge</td>
       <td align="center">
 
-62 259</td>
+62 737</td>
       <td align="center">
 
-59 786</td>
+60 500</td>
     </tr>
     <tr>
       <td align="justify">
@@ -93,10 +89,10 @@ Personne seule ou couple ayant une personne à charge</td>
 Personne seule ou couple ayant deux personnes à charge</td>
       <td align="center">
 
-65 663</td>
+66 167</td>
       <td align="center">
 
-63 057</td>
+63 810</td>
     </tr>
     <tr>
       <td align="justify">
@@ -104,10 +100,10 @@ Personne seule ou couple ayant deux personnes à charge</td>
 Personne seule ou couple ayant trois personnes à charge</td>
       <td align="center">
 
-70 211</td>
+70 750</td>
       <td align="center">
 
-67 424</td>
+68 229</td>
     </tr>
     <tr>
       <td align="justify">
@@ -115,10 +111,10 @@ Personne seule ou couple ayant trois personnes à charge</td>
 Personne seule ou couple ayant quatre personnes à charge</td>
       <td align="center">
 
-74 761</td>
+75 335</td>
       <td align="center">
 
-71 790</td>
+72 648</td>
     </tr>
     <tr>
       <td align="justify">
@@ -126,10 +122,10 @@ Personne seule ou couple ayant quatre personnes à charge</td>
 Majoration par personne à charge à partir de la cinquième</td>
       <td align="center">
 
-+4 778</td>
++ 4 815</td>
       <td align="center">
 
-+4 588</td>
++ 4 643</td>
     </tr>
   </tbody>
 </table>
@@ -150,13 +146,13 @@ c) Des ressources du sous-locataire.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 1er du décret n° 2001-137 du 31 décembre 2001.
+Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1373 du 31 décembre 2001.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-698 du 2 mai 2017 - art. 3
+  - Décret n°2018-500 du 20 juin 2018 - art. 4
 
 _Cité par_:
 
