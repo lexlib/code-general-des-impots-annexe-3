@@ -1,46 +1,51 @@
 # Article 49 I bis
 
 Pour les bons, titres ou contrats qui ne sont pas soumis d'office au prélèvement de l'article 990 A du code général des
-impôts, les établissements sont tenus : 
+impôts (1), les établissements sont tenus :
 
-I. D'établir un document sur lequel figurent dans une suite continue par date d'émission ou de souscription : 
+I. D'établir un document sur lequel figurent dans une suite continue par date d'émission ou de souscription :
 
-1° Le numéro du bon, titre ou contrat ; 
+1° Le numéro du bon, titre ou contrat ;
 
-2° Le montant des sommes versées par le souscripteur et la date du versement ; 
+2° Le montant des sommes versées par le souscripteur et la date du versement ;
 
-3° Le terme du bon, titre ou contrat ; 
+3° Le terme du bon, titre ou contrat ;
 
-4° L'identité, la date de naissance et le domicile du souscripteur et de la personne nominativement désignée initialement ; 
+4° L'identité, la date de naissance et le domicile du souscripteur et de la personne nominativement désignée initialement ;
 
 5° Et, lors du remboursement, l'identité, la date de naissance et le domicile de la personne qui obtient le remboursement du
-bon, titre ou contrat lorsque celle-ci bénéficie du régime fiscal de droit commun. 
+bon, titre ou contrat lorsque celle-ci bénéficie du régime fiscal de droit commun.
 
 Les établissements indiquent également sur ce document la nature des pièces justificatives d'identité et de domicile
 présentées lors de la souscription et du remboursement par le souscripteur et la personne nominativement désignée
 initialement, si elle est différente, ainsi que, le cas échéant, par l'ayant droit à titre gratuit et, dans ce dernier cas,
-précisent la nature de la pièce produite justifiant la qualité d'ayant droit ; 
+précisent la nature de la pièce produite justifiant la qualité d'ayant droit ;
 
-II. De faire figurer sur ces bons, titres ou contrats les indications suivantes : 
+II. De faire figurer sur ces bons, titres ou contrats les indications suivantes :
 
-1° Le numéro du bon, titre ou contrat ; 
+1° Le numéro du bon, titre ou contrat ;
 
-2° Le montant des sommes versées par le souscripteur et la date du versement ; 
+2° Le montant des sommes versées par le souscripteur et la date du versement ;
 
 3° Et le terme du bon, titre ou contrat.
 
+**Nota:**
+
+(1) Les mots : " qui ne sont pas soumis d'office au prélèvement de l'article 990 A du code général des impôts " deviennent
+sans objet.
+
+Modifications effectuées en conséquence de l'article 28-I-34° et VI A de la loi n° 2017-1837 du 30 décembre 2017.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°97-1158 du 17 décembre 1997 - art. 3 (V) JORF 19 décembre 1997
-  - Décret n°97-1158 du 17 décembre 1997 - art. 4 (V) JORF 19 décembre 1997
-  - Décret n°97-1158 du 17 décembre 1997 - art. 5 (V) JORF 19 décembre 1997
 
 _Codifié par_:
 
-  - Décret n°98-400 1998-05-22
+  - Décret n°98-400 du 22 mai 1998
+
+_Modifié par_:
+
+  - Décret n°2018-500 du 20 juin 2018 - art. 4
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 990 A (V)
+  - Code général des impôts, CGI. - art. 990 A
