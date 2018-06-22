@@ -2,8 +2,8 @@
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts dans sa rédaction en
 vigueur avant la publication de la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement, les
-plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2017, à 23,13 € par mètre carré en
-zone A, 16,08 € en zone B et 11,58 € en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes
+plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2018, à 23,30 € par mètre carré en
+zone A, 16,20 € en zone B et 11,67 € en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes
 modalités que les plafonds de loyer prévus à l'article 2 duodecies.
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
@@ -12,7 +12,7 @@ l'application de l'article 2 duodecies.
 
 **Nota:**
 
-<font color="#000000" size="1">Modifications effectuées en conséquence de l'article 1er du décret n° 2003-1219 du 19 décembre
+<font size="1" color="#000000">Modifications effectuées en conséquence de l'article 1er du décret n° 2003-1219 du 19 décembre
 2003.</font>
 
 **Liens relatifs à cet article**
@@ -34,4 +34,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-698 du 2 mai 2017 - art. 3
+  - Décret n°2018-500 du 20 juin 2018 - art. 4
