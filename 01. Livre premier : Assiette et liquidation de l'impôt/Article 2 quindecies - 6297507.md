@@ -27,7 +27,7 @@ celle de la signature du contrat de location ;
 4° Les documents suivants :
 
 a) Pour les immeubles que le contribuable fait construire, une copie de la déclaration d'ouverture de chantier mentionnée à
-l'article R. 421-40 du code de l'urbanisme et de la déclaration d'achèvement des travaux, accompagnées des pièces attestant
+l'article R.* 424-16 du code de l'urbanisme et de la déclaration d'achèvement des travaux, accompagnées des pièces attestant
 de leur réception en mairie ;
 
 b) Pour les locaux que le contribuable transforme en logement, une copie de la déclaration d'achèvement des travaux,
@@ -56,11 +56,15 @@ joint à sa déclaration des revenus de l'année au cours de laquelle le changem
 ainsi qu'une copie de l'avis d'imposition ou de non-imposition du locataire entrant dans les lieux établi au titre de
 l'avant-dernière année précédant celle de la signature du contrat de location.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 9 du décret n° 2007-18 du 5 janvier 2007.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+  - Décret n°2018-500 du 20 juin 2018 - art. 4
 
 _Cité par_:
 
@@ -71,6 +75,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies (V)
-  - Code général des impôts, CGI. - art. 31 (V)
-  - Code de l'urbanisme - art. R*421-40 (Ab)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies (M)
+  - Code général des impôts, CGI. - art. 31
+  - Code de l'urbanisme - art. R421-40
