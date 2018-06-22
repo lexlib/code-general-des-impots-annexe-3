@@ -97,16 +97,17 @@ est dit aux articles 46 AG duodecies et 46 AG terdecies.
 2. Les travaux de réhabilitation mentionnés au VI de l'article 199 undecies C du code général des impôts s'entendent de ceux
 qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 
-VIII. - La fraction minimale de 5 % de financement par subvention publique des logements, mentionnée au 9° du I de l'article
-199 undecies C du code général des impôts, est déterminée, pour chaque programme d'investissement, par rapport au montant
-retenu pour le calcul de la réduction d'impôt prévue au même article 199 undecies C, selon les modalités prévues au II du
-même article.
+**Nota:**
+
+Le VIII devient sans objet.
+
+Modifications effectuées en conséquence de l'article 128-1° de la loi n° 2017-256 du 28 février 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1059 du 25 août 2015 - art. 1
+  - Décret n°2018-500 du 20 juin 2018 - art. 4
 
 _Cité par_:
 
@@ -115,7 +116,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies A
   - Code général des impôts, CGI. - art. 199 undecies C
