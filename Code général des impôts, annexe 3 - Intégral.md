@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2018-06-30
+Version Consolidée au 2018-07-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -151,7 +151,7 @@ Version Consolidée au 2018-06-30
           - [Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital (art. 46 quater-0 ZZ à 46 quater-0 ZZ bis)](#148)
           - [Section XII bis : Réduction du taux de l'impôt sur les sociétés pour les petites entreprises (art. 46 quater-0 ZZ bis A)](#149)
           - [Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées, leurs filiales, les filiales de sociétés de placement à prépondérance immobilière à capital variable et les sociétés se transformant en sociétés de placement à prépondérance immobilière à capital variable (art. 46 quater-0 ZZ bis B)](#150)
-          - [Section XII quater : Réduction du taux de l'impôt sur les sociétés applicable à certaines plus-values réalisées lors de la cession d'immeubles ou de droits afférents à un immeuble ou de terrains à bâtir (art. 46 quater-0 ZZ bis C à 46 quater-0 ZZ bis D)](#151)
+          - [Section XII quater : Réduction du taux de l'impôt sur les sociétés applicable à certaines plus-values réalisées lors de la cession d'immeubles ou de droits afférents à un immeuble ou de terrains à bâtir (art. 46 quater-0 ZZ bis C à 46 quater-0 ZZ bis E)](#151)
           - [Section XIII : Déduction des investissements réalisés outre-mer (art. 46 quater-0 ZZ ter à 46 quater-0 ZZ ter A)](#152)
           - [Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière (art. 46 quater-0 ZZ quater à 46 quater-0 ZZ quinquies)](#153)
         - [Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés (art. 46 terdecies A à 49 octies E)](#154)
@@ -358,7 +358,7 @@ Version Consolidée au 2018-06-30
             - [II : Lieu d'imposition des entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts (art. 323)](#355)
           - [Section III bis : Règles d'évaluation de la valeur locative des biens imposables (art. 324 A à 324 AL)](#356)
             - [I : Dispositions communes à toutes les catégories de locaux (art. 324 A à 324 C)](#357)
-            - [II : Locaux d'habitation et locaux à usage professionnel (art. 324 D à 324 X)](#358)
+            - [II : Locaux d'habitation (art. 324 D à 324 X)](#358)
               - [A : Décomposition de chaque propriété ou fraction de propriété (art. 324 D à 324 F)](#359)
               - [B : Classification communale des locaux (art. 324 G à 324 J)](#360)
               - [C : Tarifs d'évaluation (art. 324 K à 324 V)](#361)
@@ -367,144 +367,136 @@ Version Consolidée au 2018-06-30
               - [D : Evaluations individuelles (art. 324 W à 324 X)](#364)
                 - [1 : Evaluation des locaux de référence (art. 324 W)](#365)
                 - [2 : Evaluation des autres locaux (art. 324 X)](#366)
-            - [II : Locaux d'habitation (art.  à 324 X)](#367)
-              - [A : Décomposition de chaque propriété ou fraction de propriété (art.  à 324 X)](#368)
-              - [B : Classification communale des locaux (art.  à 324 X)](#369)
-              - [C : Tarifs d'évaluation (art.  à 324 X)](#370)
-              - [D : Evaluations individuelles (art.  à 324 X)](#371)
-            - [III : Locaux commerciaux et biens divers passibles de la taxe foncière sur les propriétés bâties (art. 324 Y)](#372)
-              - [A : Evaluation d'après les baux écrits ou les locations verbales (art. 324 Y)](#373)
-            - [III : Locaux professionnels passibles de la taxe foncière sur les propriétés bâties (art.  à 324 Z)](#374)
-              - [A : Evaluation d'après les baux écrits ou les locations verbales (art.  à 324 Y)](#375)
-              - [B : Détermination de la surface pondérée des locaux professionnels (art. 324 Z)](#376)
-            - [IV : Etablissements industriels (art. 324 AE à 324 AG)](#377)
-            - [V : Déclarations à souscrire pour chaque révision (art. 324 AH à 324 AJ)](#378)
-            - [VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties (art.  à 324 AJ)](#379)
-            - [VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties autres que les locaux professionnels mentionnés à l'article 1498 (art. 324 AK à 324 AL)](#380)
-          - [Section IV : Autres taxes communales (art. 326)](#381)
-      - [Titre I bis : Impositions départementales (art. 328 E à 328 G decies)](#382)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 328 E à 328 G ter)](#383)
-          - [I : Taxe foncière sur les propriétés bâties (art. 328 E à 328 G)](#384)
-          - [II : Cotisation sur la valeur ajoutée des entreprises (art. 328 G bis à 328 G ter)](#385)
-        - [Chapitre II : Enregistrement (art. 328 G decies)](#386)
-          - [I : Droits d'enregistrement et taxe de publicité foncière (art. 328 G decies)](#387)
-      - [Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales ou de certains établissements publics (art. 328 K à 328 Q)](#388)
-        - [Chapitre unique : Imposition forfaitaire sur les entreprises de réseaux (art. 328 K à 328 Q)](#389)
-      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 330 à 344 undecies A)](#390)
-        - [Chapitre premier : Impôts directs et taxes assimilées (art. 330 à 331 K ter)](#391)
-          - [Section I : Taxe pour frais de chambres de commerce et d'industrie (art. 330 à 331)](#392)
-          - [Section II : Contribution additionnelle à l'imposition forfaitaire sur les entreprises de réseaux applicable aux stations radioélectriques (art. 331 A)](#393)
-          - [Section IV : Taxe sur la cession à titre onéreux de terrains nus rendus constructibles (art. 331 K bis à 331 K ter)](#394)
-        - [Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées (art. 331 L à 331 W)](#395)
-          - [Section I : Taxe sur l'édition des ouvrages de librairie (art. 331 L)](#396)
-          - [Section II : Taxe sur les appareils de reproduction et d'impression (art. 331 M)](#397)
-          - [Section II bis : Taxe sur la diffusion en vidéo physique et en ligne de contenus audiovisuels (art. 331 M bis à 331 M ter)](#398)
-          - [Section III : Taxe spéciale sur les huiles (art. 331 N à 331 V)](#399)
-          - [Section V : Redevance sur les paris hippiques en ligne perçue au profit des sociétés de courses (art. 331 W)](#400)
-        - [Chapitre II : Contributions indirectes (art. 333 H bis à 333 H ter)](#401)
-          - [Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles (art. 333 H bis à 333 H ter)](#402)
-        - [Chapitre III : Enregistrement (art. 336 bis à 344 undecies A)](#403)
-          - [Section I : Contribution forfaitaire des organismes assureurs (art. 336 bis à 336 ter)](#404)
-          - [Section V : Fonds national de gestion des risques en agriculture (art. 344 undecies)](#405)
-          - [Section VI : Droits perçus au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés (art. 344 undecies A)](#406)
-      - [Titre III :  Dispositions communes aux titres Ier à II (art. 344 duodecies à 344 quindecies)](#407)
-        - [Chapitre premier : Cotisation sur la valeur ajoutée des entreprises (art. 344 duodecies à 344 terdecies)](#408)
-        - [Chapitre II : Abattement sur les bases d'impositions directes locales (art. 344 quindecies)](#409)
-    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 344-0 A à 350 terdecies)](#410)
-      - [Titre premier : Assiette et contrôle de l'impôt (art. 344-0 A à 344 M)](#411)
-        - [Chapitre premier : Obligations des contribuables (art. 344-0 A à 344 I-0 bis)](#412)
-          - [00I : Déclarations souscrites auprès de la Direction des grandes entreprises (art. 344-0 A à 344-0 C)](#413)
-          - [0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger (art. 344 A à 344 C)](#414)
-          - [0I bis : Déclaration des avances remboursables ne portant pas intérêt (art. 344 G quater à 344 G quinquies)](#415)
-          - [0I ter : Obligations déclaratives des administrateurs de trusts (art. 344 G octies à 344 G sexies)](#416)
-          - [0I quater : Obligations déclaratives se rapportant aux avoirs en déshérence (art. 344 G nonies)](#417)
-          - [I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes (art. 344 GA à 344 GC)](#418)
-          - [I bis : Déclaration de la redevance et des prélèvements dus par les opérateurs de jeux ou de paris (art. 344 GD)](#419)
-          - [I ter : Déclaration d'achat au détail de métaux ferreux et non ferreux (art. 344 GE)](#420)
-          - [II : Déclaration des ventes autres que les ventes au détail (art. 344 H à 344 I)](#421)
-          - [III : Date de dépôt des déclarations (art. 344 I-0 bis)](#422)
-        - [Chapitre I ter : Transmission des déclarations professionnelles par voie électronique (art. 344 I quater à 344 I ter)](#423)
-        - [Chapitre IV : Agrément (art. 344 K)](#424)
-        - [Chapitre V : Fiducie (art. 344 M)](#425)
-      - [Titre II : Dispositions diverses (art. 345 à 350 terdecies)](#426)
-        - [Chapitre premier : Commissions administratives des impôts (art. 345 à 350 CA)](#427)
-          - [I : Commission communale des impôts directs (art. 345)](#428)
-          - [I bis : Commission intercommunale des impôts directs (art. 346 à 346 B)](#429)
-          - [II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires (art. 347 à 348)](#430)
-          - [II bis : Commission nationale des impôts directs et des taxes sur le chiffre d'affaires (art. 348 B à 348 C)](#431)
-          - [III : Commission départementale de conciliation (art. 350 A à 350 C)](#432)
-          - [IV : Comité consultatif du crédit d'impôt pour dépenses de recherche (art. 350 CA)](#433)
-        - [Chapitre II : Régime de certains organismes et sociétés (art. 350 bis)](#434)
-          - [Section II : Entrepreneur individuel à responsabilité limitée (art. 350 bis)](#435)
-        - [Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées (art. 350 decies à 350 undecies)](#436)
-        - [Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques (art. 350 quaterdecies à 350 terdecies)](#437)
-  - [Livre II : Recouvrement de l'impôt (art. 351 à 445)](#438)
-    - [Chapitre premier : Paiement de l'impôt (art. 351 à 406 terdecies)](#439)
-      - [Section I : Impôts directs et taxes assimilées (art. 351 à 383 ter)](#440)
-        - [I : Rôles et avis d'imposition (art. 351)](#441)
-          - [1 : Etablissement et mise en recouvrement des rôles (art. 351)](#442)
-        - [II : Exigibilité de l'impôt (art. 357 A à 381 XA)](#443)
-          - [2 : Impôt sur le revenu (art. 357 A à 357 H)](#444)
-          - [3 : Impôt sur les sociétés (art. 358 à 362)](#445)
-          - [3 quater : Contribution sociale sur l'impôt sur les sociétés (art. 366 L à 366 M)](#446)
-          - [6 : Taxe sur les salaires (art. 369 à 374)](#447)
-            - [a : Remise au Trésor de la taxe sur les salaires (art. 369)](#448)
-            - [d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques (art. 374)](#449)
-          - [7 : Contribution annuelle sur les revenus locatifs (art. 375 à 381 ter)](#450)
-          - [8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs (art. 381 A à 381 Q)](#451)
-          - [10 : Prélèvement sur les produits de placements à revenu fixe (art. 381 S)](#452)
-          - [10 bis : Prélèvement sur les dividendes (art. 381 S bis)](#453)
-          - [13 : Taxe d'apprentissage (art. 381 XA)](#454)
-        - [III : Paiement de l'impôt (art. 382 à 383 ter)](#455)
-          - [3 : Impôt de solidarité sur la fortune (art. 382 F)](#456)
-          - [4 : Impôt sur le revenu et impositions figurant sur le même article de rôle (art. 383 bis à 383 ter)](#457)
-      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 384 A bis à 384 D)](#458)
-        - [II bis : Dispositions particulières à certains transports (art. 384 A bis à 384 A ter)](#459)
-        - [V : Consolidation au sein d'un groupe du paiement de la taxe sur la valeur ajoutée et des taxes assimilées (art. 384 D)](#460)
-      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 bis A à 406 bis)](#461)
-        - [0I : Paiement sur états (art. 384 bis A)](#462)
-          - [Actes notariés (art. 384 bis A)](#463)
-        - [0II : Formalité fusionnée (art. 384 quinquies A)](#464)
-        - [I : Taxe spéciale sur les conventions d'assurances (art. 385 à 390)](#465)
-        - [III : Paiement fractionné ou différé des droits (art. 396 à 404 GD)](#466)
-          - [B : Mutations de propriété ou apports en société (art. 396 à 404 GD)](#467)
-            - [1 : Champ d'application (art. 396 à 397 A)](#468)
-              - [Transmissions d'entreprises (art. 397 A)](#469)
-            - [2 : Dispositions générales (art. 398 à 404)](#470)
-            - [3 : Dispositions particulières (art. 404 A à 404 GD)](#471)
-              - [1° : Mutations par décès (art. 404 A à 404 B)](#472)
-              - [2° : Apports en société (art. 404 C)](#473)
-              - [3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires (art. 404 D)](#474)
-              - [4° : Offices ministériels (art. 404 E)](#475)
-              - [5° : Rapatriés d'outre-mer et migrants ruraux (art. 404 F)](#476)
-              - [6° Transmissions d'entreprises (art. 404 GA à 404 GD)](#477)
-        - [V : Droits de timbre (art. 405 B à 406)](#478)
-          - [B : Paiement par emploi de machines à timbrer (art. 405 B)](#479)
-          - [C : Paiement par apposition de timbres mobiles (art. 405 D à 405 F)](#480)
-          - [D : Paiement au moyen du visa pour timbre (art. 405 G)](#481)
-          - [E : Paiement de l'impôt sur états (art. 405 H à 406)](#482)
-        - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#483)
-          - [Taxes sur les véhicules des sociétés (art. 406 bis)](#484)
-      - [Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 undecies à 406 undecies A)](#485)
-      - [Section V : Dispositions communes (art. 406 duodecies à 406 terdecies)](#486)
-    - [Chapitre I bis : Pénalités (art. 406 K à 406 A 27)](#487)
-      - [Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 K à 406 L)](#488)
-      - [Section II : Dispositions communes (art. 406 A 12 à 406 A 16)](#489)
-        - [II : Infractions aux règles de la facturation (art. 406 A 12 à 406 A 16)](#490)
-          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 12 à 406 A 16)](#491)
-      - [Section III : Dispositions particulières (art. 406 A 27)](#492)
-        - [III : Droits d'enregistrement (art. 406 A 27)](#493)
-    - [Chapitre II : Procédures (art. 415 à 416)](#494)
-      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des finances publiques et à ceux de la direction générale des douanes et droits indirects (art. 415 à 416)](#495)
-    - [Chapitre II bis : Sûretés et privilèges (art. 416 bis à 416 ter)](#496)
-    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#497)
-      - [Section I : Juridiction contentieuse (art. 416 E)](#498)
-        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#499)
-      - [Section II : Juridiction gracieuse (art. 426 à 445)](#500)
-        - [C : Propositions des comptables secondaires de la direction générale des finances publiques chargés du recouvrement des créances de nature fiscale (art. 426 à 436)](#501)
-          - [1 : Créances irrécouvrables (art. 426 à 428)](#502)
-          - [2 : Dispense de versement, remise gracieuse et constatation de la force majeure (art. 429 à 436)](#503)
-        - [D : Dispositions particulières aux impôts directs (art. 445)](#504)
+            - [III : Locaux professionnels passibles de la taxe foncière sur les propriétés bâties (art. 324 Y à 324 Z)](#367)
+              - [A : Evaluation d'après les baux écrits ou les locations verbales (art. 324 Y)](#368)
+              - [B : Détermination de la surface pondérée des locaux professionnels (art. 324 Z)](#369)
+            - [IV : Etablissements industriels (art. 324 AE à 324 AG)](#370)
+            - [V : Déclarations à souscrire pour chaque révision (art. 324 AH à 324 AJ)](#371)
+            - [VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties autres que les locaux professionnels mentionnés à l'article 1498 (art. 324 AK à 324 AL)](#372)
+          - [Section IV : Autres taxes communales (art. 326)](#373)
+      - [Titre I bis : Impositions départementales (art. 328 E à 328 G decies)](#374)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 328 E à 328 G ter)](#375)
+          - [I : Taxe foncière sur les propriétés bâties (art. 328 E à 328 G)](#376)
+          - [II : Cotisation sur la valeur ajoutée des entreprises (art. 328 G bis à 328 G ter)](#377)
+        - [Chapitre II : Enregistrement (art. 328 G decies)](#378)
+          - [I : Droits d'enregistrement et taxe de publicité foncière (art. 328 G decies)](#379)
+      - [Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales ou de certains établissements publics (art. 328 K à 328 Q)](#380)
+        - [Chapitre unique : Imposition forfaitaire sur les entreprises de réseaux (art. 328 K à 328 Q)](#381)
+      - [Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers (art. 330 à 344 undecies A)](#382)
+        - [Chapitre premier : Impôts directs et taxes assimilées (art. 330 à 331 K ter)](#383)
+          - [Section I : Taxe pour frais de chambres de commerce et d'industrie (art. 330 à 331)](#384)
+          - [Section II : Contribution additionnelle à l'imposition forfaitaire sur les entreprises de réseaux applicable aux stations radioélectriques (art. 331 A)](#385)
+          - [Section IV : Taxe sur la cession à titre onéreux de terrains nus rendus constructibles (art. 331 K bis à 331 K ter)](#386)
+        - [Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées (art. 331 L à 331 W)](#387)
+          - [Section I : Taxe sur l'édition des ouvrages de librairie (art. 331 L)](#388)
+          - [Section II : Taxe sur les appareils de reproduction et d'impression (art. 331 M)](#389)
+          - [Section II bis : Taxe sur la diffusion en vidéo physique et en ligne de contenus audiovisuels (art. 331 M bis à 331 M ter)](#390)
+          - [Section III : Taxe spéciale sur les huiles (art. 331 N à 331 V)](#391)
+          - [Section V : Redevance sur les paris hippiques en ligne perçue au profit des sociétés de courses (art. 331 W)](#392)
+        - [Chapitre II : Contributions indirectes (art. 333 H bis à 333 H ter)](#393)
+          - [Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles (art. 333 H bis à 333 H ter)](#394)
+        - [Chapitre III : Enregistrement (art. 336 bis à 344 undecies A)](#395)
+          - [Section I : Contribution forfaitaire des organismes assureurs (art. 336 bis à 336 ter)](#396)
+          - [Section V : Fonds national de gestion des risques en agriculture (art. 344 undecies)](#397)
+          - [Section VI : Droits perçus au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés (art. 344 undecies A)](#398)
+      - [Titre III :  Dispositions communes aux titres Ier à II (art. 344 duodecies à 344 quindecies)](#399)
+        - [Chapitre premier : Cotisation sur la valeur ajoutée des entreprises (art. 344 duodecies à 344 terdecies)](#400)
+        - [Chapitre II : Abattement sur les bases d'impositions directes locales (art. 344 quindecies)](#401)
+    - [Troisième partie : Dispositions communes aux première et deuxième parties (art. 344-0 A à 350 terdecies)](#402)
+      - [Titre premier : Assiette et contrôle de l'impôt (art. 344-0 A à 344 M)](#403)
+        - [Chapitre premier : Obligations des contribuables (art. 344-0 A à 344 I-0 bis)](#404)
+          - [00I : Déclarations souscrites auprès de la Direction des grandes entreprises (art. 344-0 A à 344-0 C)](#405)
+          - [0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger (art. 344 A à 344 C)](#406)
+          - [0I bis : Déclaration des avances remboursables ne portant pas intérêt (art. 344 G quater à 344 G quinquies)](#407)
+          - [0I ter : Obligations déclaratives des administrateurs de trusts (art. 344 G octies à 344 G sexies)](#408)
+          - [0I quater : Obligations déclaratives se rapportant aux avoirs en déshérence (art. 344 G nonies)](#409)
+          - [I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes (art. 344 GA à 344 GC)](#410)
+          - [I bis : Déclaration de la redevance et des prélèvements dus par les opérateurs de jeux ou de paris (art. 344 GD)](#411)
+          - [I ter : Déclaration d'achat au détail de métaux ferreux et non ferreux (art. 344 GE)](#412)
+          - [II : Déclaration des ventes autres que les ventes au détail (art. 344 H à 344 I)](#413)
+          - [III : Date de dépôt des déclarations (art. 344 I-0 bis)](#414)
+        - [Chapitre I ter : Transmission des déclarations professionnelles par voie électronique (art. 344 I quater à 344 I ter)](#415)
+        - [Chapitre IV : Agrément (art. 344 K)](#416)
+        - [Chapitre V : Fiducie (art. 344 M)](#417)
+      - [Titre II : Dispositions diverses (art. 345 à 350 terdecies)](#418)
+        - [Chapitre premier : Commissions administratives des impôts (art. 345 à 350 CA)](#419)
+          - [I : Commission communale des impôts directs (art. 345)](#420)
+          - [I bis : Commission intercommunale des impôts directs (art. 346 à 346 B)](#421)
+          - [II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires (art. 347 à 348)](#422)
+          - [II bis : Commission nationale des impôts directs et des taxes sur le chiffre d'affaires (art. 348 B à 348 C)](#423)
+          - [III : Commission départementale de conciliation (art. 350 A à 350 C)](#424)
+          - [IV : Comité consultatif du crédit d'impôt pour dépenses de recherche (art. 350 CA)](#425)
+        - [Chapitre II : Régime de certains organismes et sociétés (art. 350 bis)](#426)
+          - [Section II : Entrepreneur individuel à responsabilité limitée (art. 350 bis)](#427)
+        - [Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées (art. 350 decies à 350 undecies)](#428)
+        - [Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques (art. 350 quaterdecies à 350 terdecies)](#429)
+  - [Livre II : Recouvrement de l'impôt (art. 351 à 445)](#430)
+    - [Chapitre premier : Paiement de l'impôt (art. 351 à 406 terdecies)](#431)
+      - [Section I : Impôts directs et taxes assimilées (art. 351 à 383 ter)](#432)
+        - [I : Rôles et avis d'imposition (art. 351)](#433)
+          - [1 : Etablissement et mise en recouvrement des rôles (art. 351)](#434)
+        - [II : Exigibilité de l'impôt (art. 357 A à 381 XA)](#435)
+          - [2 : Impôt sur le revenu (art. 357 A à 357 H)](#436)
+          - [3 : Impôt sur les sociétés (art. 358 à 362)](#437)
+          - [3 quater : Contribution sociale sur l'impôt sur les sociétés (art. 366 L à 366 M)](#438)
+          - [6 : Taxe sur les salaires (art. 369 à 374)](#439)
+            - [a : Remise au Trésor de la taxe sur les salaires (art. 369)](#440)
+            - [d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques (art. 374)](#441)
+          - [7 : Contribution annuelle sur les revenus locatifs (art. 375 à 381 ter)](#442)
+          - [8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs (art. 381 A à 381 Q)](#443)
+          - [10 : Prélèvement sur les produits de placements à revenu fixe (art. 381 S)](#444)
+          - [10 bis : Prélèvement sur les dividendes (art. 381 S bis)](#445)
+          - [13 : Taxe d'apprentissage (art. 381 XA)](#446)
+        - [III : Paiement de l'impôt (art. 382 à 383 ter)](#447)
+          - [3 : Impôt de solidarité sur la fortune (art. 382 F)](#448)
+          - [4 : Impôt sur le revenu et impositions figurant sur le même article de rôle (art. 383 bis à 383 ter)](#449)
+      - [Section II : Taxes sur le chiffre d'affaires et taxes assimilées (art. 384 A bis à 384 D)](#450)
+        - [II bis : Dispositions particulières à certains transports (art. 384 A bis à 384 A ter)](#451)
+        - [V : Consolidation au sein d'un groupe du paiement de la taxe sur la valeur ajoutée et des taxes assimilées (art. 384 D)](#452)
+      - [Section III : Enregistrement, publicité foncière, timbre (art. 384 bis A à 406 bis)](#453)
+        - [0I : Paiement sur états (art. 384 bis A)](#454)
+          - [Actes notariés (art. 384 bis A)](#455)
+        - [0II : Formalité fusionnée (art. 384 quinquies A)](#456)
+        - [I : Taxe spéciale sur les conventions d'assurances (art. 385 à 390)](#457)
+        - [III : Paiement fractionné ou différé des droits (art. 396 à 404 GD)](#458)
+          - [B : Mutations de propriété ou apports en société (art. 396 à 404 GD)](#459)
+            - [1 : Champ d'application (art. 396 à 397 A)](#460)
+              - [Transmissions d'entreprises (art. 397 A)](#461)
+            - [2 : Dispositions générales (art. 398 à 404)](#462)
+            - [3 : Dispositions particulières (art. 404 A à 404 GD)](#463)
+              - [1° : Mutations par décès (art. 404 A à 404 B)](#464)
+              - [2° : Apports en société (art. 404 C)](#465)
+              - [3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires (art. 404 D)](#466)
+              - [4° : Offices ministériels (art. 404 E)](#467)
+              - [5° : Rapatriés d'outre-mer et migrants ruraux (art. 404 F)](#468)
+              - [6° Transmissions d'entreprises (art. 404 GA à 404 GD)](#469)
+        - [V : Droits de timbre (art. 405 B à 406)](#470)
+          - [B : Paiement par emploi de machines à timbrer (art. 405 B)](#471)
+          - [C : Paiement par apposition de timbres mobiles (art. 405 D à 405 F)](#472)
+          - [D : Paiement au moyen du visa pour timbre (art. 405 G)](#473)
+          - [E : Paiement de l'impôt sur états (art. 405 H à 406)](#474)
+        - [VI : Taxes sur les véhicules à moteur (art. 406 bis)](#475)
+          - [Taxes sur les véhicules des sociétés (art. 406 bis)](#476)
+      - [Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 undecies à 406 undecies A)](#477)
+      - [Section V : Dispositions communes (art. 406 duodecies à 406 terdecies)](#478)
+    - [Chapitre I bis : Pénalités (art. 406 K à 406 A 27)](#479)
+      - [Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine (art. 406 K à 406 L)](#480)
+      - [Section II : Dispositions communes (art. 406 A 12 à 406 A 16)](#481)
+        - [II : Infractions aux règles de la facturation (art. 406 A 12 à 406 A 16)](#482)
+          - [Mise sous séquestre de l'entreprise de l'auteur du délit (art. 406 A 12 à 406 A 16)](#483)
+      - [Section III : Dispositions particulières (art. 406 A 27)](#484)
+        - [III : Droits d'enregistrement (art. 406 A 27)](#485)
+    - [Chapitre II : Procédures (art. 415 à 416)](#486)
+      - [Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des finances publiques et à ceux de la direction générale des douanes et droits indirects (art. 415 à 416)](#487)
+    - [Chapitre II bis : Sûretés et privilèges (art. 416 bis à 416 ter)](#488)
+    - [Chapitre III : Dégrèvements et restitutions d'impôts (art. 416 E à 445)](#489)
+      - [Section I : Juridiction contentieuse (art. 416 E)](#490)
+        - [B : Disposition particulière aux droits d'enregistrement (art. 416 E)](#491)
+      - [Section II : Juridiction gracieuse (art. 426 à 445)](#492)
+        - [C : Propositions des comptables secondaires de la direction générale des finances publiques chargés du recouvrement des créances de nature fiscale (art. 426 à 436)](#493)
+          - [1 : Créances irrécouvrables (art. 426 à 428)](#494)
+          - [2 : Dispense de versement, remise gracieuse et constatation de la force majeure (art. 429 à 436)](#495)
+        - [D : Dispositions particulières aux impôts directs (art. 445)](#496)
 # Livre premier : Assiette et liquidation de l'impôt<a id=1></a>
 
 ## Première partie : Impôts d'État<a id=2></a>
@@ -16708,8 +16700,8 @@ _Cite_:
 
 ###### Article 46 quater-0 ZZ bis D
 
-I. – L'engagement de transformation prévu au premier alinéa du II de l'article 210 F du code général des impôts est pris dans
-l'acte constatant la cession du local.
+I. – L'engagement de transformation ou de construction prévu au premier alinéa du II de l'article 210 F du code général des
+impôts est pris dans l'acte constatant la cession, selon le cas, du local ou du terrain à bâtir.
 
 Une copie de l'engagement mentionné au premier alinéa doit être jointe à la déclaration de résultat de la personne morale
 cédante et de la personne morale, de l'organisme ou de l'association cessionnaire, afférente à l'exercice au cours duquel est
@@ -16720,13 +16712,32 @@ II. – La copie de l'engagement prévu au troisième alinéa du II de l'article
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-538 du 20 avril 2012 - art. 1
+  - Décret n°2018-553 du 29 juin 2018 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 210 F
+
+
+###### Article 46 quater-0 ZZ bis E
+
+Pour l'application du sixième alinéa du I de l'article 210 F du code général des impôts, les communes situées dans des zones
+géographiques se caractérisant par un déséquilibre particulièrement important entre l'offre et la demande de logements
+s'entendent de celles classées dans les zones A bis et A telles qu'elles sont définies à l'article R. 304-1 du code de la
+construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-553 du 29 juin 2018 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 210 F
+  - Code de la construction et de l'habitation. - art. R304-1
 
 
 ##### Section XIII : Déduction des investissements réalisés outre-mer<a id=152></a>
@@ -32261,7 +32272,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 Y (V)
 
 
-##### II : Locaux d'habitation et locaux à usage professionnel<a id=358></a>
+##### II : Locaux d'habitation<a id=358></a>
 
 ##### A : Décomposition de chaque propriété ou fraction de propriété<a id=359></a>
 
@@ -34372,19 +34383,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 L (V)
 
 
-##### II : Locaux d'habitation<a id=367></a>
+##### III : Locaux professionnels passibles de la taxe foncière sur les propriétés bâties<a id=367></a>
 
-##### A : Décomposition de chaque propriété ou fraction de propriété<a id=368></a>
-
-##### B : Classification communale des locaux<a id=369></a>
-
-##### C : Tarifs d'évaluation<a id=370></a>
-
-##### D : Evaluations individuelles<a id=371></a>
-
-##### III : Locaux commerciaux et biens divers passibles de la taxe foncière sur les propriétés bâties<a id=372></a>
-
-##### A : Evaluation d'après les baux écrits ou les locations verbales<a id=373></a>
+##### A : Evaluation d'après les baux écrits ou les locations verbales<a id=368></a>
 
 ###### Article 324 Y
 
@@ -34409,11 +34410,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 Z (M)
 
 
-##### III : Locaux professionnels passibles de la taxe foncière sur les propriétés bâties<a id=374></a>
-
-##### A : Evaluation d'après les baux écrits ou les locations verbales<a id=375></a>
-
-##### B : Détermination de la surface pondérée des locaux professionnels<a id=376></a>
+##### B : Détermination de la surface pondérée des locaux professionnels<a id=369></a>
 
 ###### Article 324 Z
 
@@ -34443,7 +34440,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1498
 
 
-##### IV : Etablissements industriels<a id=377></a>
+##### IV : Etablissements industriels<a id=370></a>
 
 ###### Article 324 AE
 
@@ -34493,7 +34490,7 @@ les dépenses nécessitées par cette édification ou cette création se sont é
 
 
 
-##### V : Déclarations à souscrire pour chaque révision<a id=378></a>
+##### V : Déclarations à souscrire pour chaque révision<a id=371></a>
 
 ###### Article 324 AH
 
@@ -34570,9 +34567,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 324 AL (V)
 
 
-##### VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties<a id=379></a>
-
-##### VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties autres que les locaux professionnels mentionnés à l'article 1498<a id=380></a>
+##### VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties autres que les locaux professionnels mentionnés à l'article 1498<a id=372></a>
 
 ###### Article 324 AK
 
@@ -34611,7 +34606,7 @@ _Codifié par_:
   - Décret n°84-875 1984-10-01
 
 
-##### Section IV : Autres taxes communales<a id=381></a>
+##### Section IV : Autres taxes communales<a id=373></a>
 
 ###### Article 326
 
@@ -34643,11 +34638,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1528 (V)
 
 
-### Titre I bis : Impositions départementales<a id=382></a>
+### Titre I bis : Impositions départementales<a id=374></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=383></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=375></a>
 
-##### I : Taxe foncière sur les propriétés bâties<a id=384></a>
+##### I : Taxe foncière sur les propriétés bâties<a id=376></a>
 
 ###### Article 328 E
 
@@ -34733,7 +34728,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 328 F (V)
 
 
-##### II : Cotisation sur la valeur ajoutée des entreprises<a id=385></a>
+##### II : Cotisation sur la valeur ajoutée des entreprises<a id=377></a>
 
 ###### Article 328 G bis
 
@@ -35158,9 +35153,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1586 quinquies (V)
 
 
-#### Chapitre II : Enregistrement<a id=386></a>
+#### Chapitre II : Enregistrement<a id=378></a>
 
-##### I : Droits d'enregistrement et taxe de publicité foncière<a id=387></a>
+##### I : Droits d'enregistrement et taxe de publicité foncière<a id=379></a>
 
 ###### Article 328 G decies
 
@@ -35182,9 +35177,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1594 I ter
 
 
-### Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales ou de certains établissements publics<a id=388></a>
+### Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales ou de certains établissements publics<a id=380></a>
 
-#### Chapitre unique : Imposition forfaitaire sur les entreprises de réseaux<a id=389></a>
+#### Chapitre unique : Imposition forfaitaire sur les entreprises de réseaux<a id=381></a>
 
 ###### Article 328 K
 
@@ -35353,11 +35348,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1599 quater B
 
 
-### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=390></a>
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers<a id=382></a>
 
-#### Chapitre premier : Impôts directs et taxes assimilées<a id=391></a>
+#### Chapitre premier : Impôts directs et taxes assimilées<a id=383></a>
 
-##### Section I : Taxe pour frais de chambres de commerce et d'industrie<a id=392></a>
+##### Section I : Taxe pour frais de chambres de commerce et d'industrie<a id=384></a>
 
 ###### Article 330
 
@@ -35421,7 +35416,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 330 (V)
 
 
-##### Section II : Contribution additionnelle à l'imposition forfaitaire sur les entreprises de réseaux applicable aux stations radioélectriques<a id=393></a>
+##### Section II : Contribution additionnelle à l'imposition forfaitaire sur les entreprises de réseaux applicable aux stations radioélectriques<a id=385></a>
 
 ###### Article 331 A
 
@@ -35444,7 +35439,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 decies (V)
 
 
-##### Section IV : Taxe sur la cession à titre onéreux de terrains nus rendus constructibles<a id=394></a>
+##### Section IV : Taxe sur la cession à titre onéreux de terrains nus rendus constructibles<a id=386></a>
 
 ###### Article 331 K bis
 
@@ -35525,9 +35520,9 @@ _Cite_:
   - Code de l'urbanisme - art. L410-1
 
 
-#### Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées<a id=395></a>
+#### Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées<a id=387></a>
 
-##### Section I : Taxe sur l'édition des ouvrages de librairie<a id=396></a>
+##### Section I : Taxe sur l'édition des ouvrages de librairie<a id=388></a>
 
 ###### Article 331 L
 
@@ -35566,7 +35561,7 @@ _Cite_:
   - Code des douanes - art. 66 bis (V)
 
 
-##### Section II : Taxe sur les appareils de reproduction et d'impression<a id=397></a>
+##### Section II : Taxe sur les appareils de reproduction et d'impression<a id=389></a>
 
 ###### Article 331 M
 
@@ -35592,7 +35587,7 @@ _Modifié par_:
   - Décret n°2007-2 du 1 janvier 2007 - art. 2 () JORF 1er janvier 2007
 
 
-##### Section II bis : Taxe sur la diffusion en vidéo physique et en ligne de contenus audiovisuels<a id=398></a>
+##### Section II bis : Taxe sur la diffusion en vidéo physique et en ligne de contenus audiovisuels<a id=390></a>
 
 ###### Article 331 M bis
 
@@ -35653,7 +35648,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 sexdecies B
 
 
-##### Section III : Taxe spéciale sur les huiles<a id=399></a>
+##### Section III : Taxe spéciale sur les huiles<a id=391></a>
 
 ###### Article 331 N
 
@@ -35907,7 +35902,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 331 N (V)
 
 
-##### Section V : Redevance sur les paris hippiques en ligne perçue au profit des sociétés de courses<a id=400></a>
+##### Section V : Redevance sur les paris hippiques en ligne perçue au profit des sociétés de courses<a id=392></a>
 
 ###### Article 331 W
 
@@ -35928,9 +35923,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1609 tertricies
 
 
-#### Chapitre II : Contributions indirectes<a id=401></a>
+#### Chapitre II : Contributions indirectes<a id=393></a>
 
-##### Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles<a id=402></a>
+##### Section I ter A : Taxe destinée au financement des prestations d'assurance maladie, invalidité et maternité du régime de protection sociale des non-salariés agricoles<a id=394></a>
 
 ###### Article 333 H bis
 
@@ -36018,9 +36013,9 @@ _Codifié par_:
   - Décret n°92-836 1992-08-27
 
 
-#### Chapitre III : Enregistrement<a id=403></a>
+#### Chapitre III : Enregistrement<a id=395></a>
 
-##### Section I : Contribution forfaitaire des organismes assureurs<a id=404></a>
+##### Section I : Contribution forfaitaire des organismes assureurs<a id=396></a>
 
 ###### Article 336 bis
 
@@ -36076,7 +36071,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis (V)
 
 
-##### Section V : Fonds national de gestion des risques en agriculture<a id=405></a>
+##### Section V : Fonds national de gestion des risques en agriculture<a id=397></a>
 
 ###### Article 344 undecies
 
@@ -36097,7 +36092,7 @@ _Cite_:
   - Code rural - art. L361-2 (V)
 
 
-##### Section VI : Droits perçus au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés<a id=406></a>
+##### Section VI : Droits perçus au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés<a id=398></a>
 
 ###### Article 344 undecies A
 
@@ -37100,9 +37095,9 @@ _Cite_:
   - Code de la santé publique - art. R5121-99
 
 
-### Titre III :  Dispositions communes aux titres Ier à II<a id=407></a>
+### Titre III :  Dispositions communes aux titres Ier à II<a id=399></a>
 
-#### Chapitre premier : Cotisation sur la valeur ajoutée des entreprises<a id=408></a>
+#### Chapitre premier : Cotisation sur la valeur ajoutée des entreprises<a id=400></a>
 
 ###### Article 344 duodecies
 
@@ -37353,7 +37348,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
 
 
-#### Chapitre II : Abattement sur les bases d'impositions directes locales<a id=409></a>
+#### Chapitre II : Abattement sur les bases d'impositions directes locales<a id=401></a>
 
 ###### Article 344 quindecies
 
@@ -37377,13 +37372,13 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1635 sexies
 
 
-## Troisième partie : Dispositions communes aux première et deuxième parties<a id=410></a>
+## Troisième partie : Dispositions communes aux première et deuxième parties<a id=402></a>
 
-### Titre premier : Assiette et contrôle de l'impôt<a id=411></a>
+### Titre premier : Assiette et contrôle de l'impôt<a id=403></a>
 
-#### Chapitre premier : Obligations des contribuables<a id=412></a>
+#### Chapitre premier : Obligations des contribuables<a id=404></a>
 
-##### 00I : Déclarations souscrites auprès de la Direction des grandes entreprises<a id=413></a>
+##### 00I : Déclarations souscrites auprès de la Direction des grandes entreprises<a id=405></a>
 
 ###### Article 344-0 A
 
@@ -37552,7 +37547,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
 
 
-##### 0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger<a id=414></a>
+##### 0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger<a id=406></a>
 
 ###### Article 344 A
 
@@ -37677,7 +37672,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 196 (V)
 
 
-##### 0I bis : Déclaration des avances remboursables ne portant pas intérêt<a id=415></a>
+##### 0I bis : Déclaration des avances remboursables ne portant pas intérêt<a id=407></a>
 
 ###### Article 344 G quater
 
@@ -37734,7 +37729,7 @@ _Modifié par_:
   - Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 31 mars 2007
 
 
-##### 0I ter : Obligations déclaratives des administrateurs de trusts<a id=416></a>
+##### 0I ter : Obligations déclaratives des administrateurs de trusts<a id=408></a>
 
 ###### Article 344 G octies
 
@@ -37876,7 +37871,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 792-0 bis
 
 
-##### 0I quater : Obligations déclaratives se rapportant aux avoirs en déshérence<a id=417></a>
+##### 0I quater : Obligations déclaratives se rapportant aux avoirs en déshérence<a id=409></a>
 
 ###### Article 344 G nonies
 
@@ -37929,7 +37924,7 @@ _Cite_:
   - Code de la mutualité - art. R223-11
 
 
-##### I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes<a id=418></a>
+##### I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes<a id=410></a>
 
 ###### Article 344 GA
 
@@ -38006,7 +38001,7 @@ _Modifié par_:
   - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 
-##### I bis : Déclaration de la redevance et des prélèvements dus par les opérateurs de jeux ou de paris<a id=419></a>
+##### I bis : Déclaration de la redevance et des prélèvements dus par les opérateurs de jeux ou de paris<a id=411></a>
 
 ###### Article 344 GD
 
@@ -38046,7 +38041,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L137-26
 
 
-##### I ter : Déclaration d'achat au détail de métaux ferreux et non ferreux<a id=420></a>
+##### I ter : Déclaration d'achat au détail de métaux ferreux et non ferreux<a id=412></a>
 
 ###### Article 344 GE
 
@@ -38082,7 +38077,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1649 bis
 
 
-##### II : Déclaration des ventes autres que les ventes au détail<a id=421></a>
+##### II : Déclaration des ventes autres que les ventes au détail<a id=413></a>
 
 ###### Article 344 H
 
@@ -38123,7 +38118,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 344 H (V)
 
 
-##### III : Date de dépôt des déclarations<a id=422></a>
+##### III : Date de dépôt des déclarations<a id=414></a>
 
 ###### Article 344 I-0 bis
 
@@ -38152,7 +38147,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 302 bis KD
 
 
-#### Chapitre I ter : Transmission des déclarations professionnelles par voie électronique<a id=423></a>
+#### Chapitre I ter : Transmission des déclarations professionnelles par voie électronique<a id=415></a>
 
 ###### Article 344 I quater
 
@@ -38218,7 +38213,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1649 quater B quater (VT)
 
 
-#### Chapitre IV : Agrément<a id=424></a>
+#### Chapitre IV : Agrément<a id=416></a>
 
 ###### Article 344 K
 
@@ -38242,7 +38237,7 @@ _Modifié par_:
   - Décret n°2014-132 du 17 février 2014 - art. 32
 
 
-#### Chapitre V : Fiducie<a id=425></a>
+#### Chapitre V : Fiducie<a id=417></a>
 
 ###### Article 344 M
 
@@ -38278,11 +38273,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 238 quater L (V)
 
 
-### Titre II : Dispositions diverses<a id=426></a>
+### Titre II : Dispositions diverses<a id=418></a>
 
-#### Chapitre premier : Commissions administratives des impôts<a id=427></a>
+#### Chapitre premier : Commissions administratives des impôts<a id=419></a>
 
-##### I : Commission communale des impôts directs<a id=428></a>
+##### I : Commission communale des impôts directs<a id=420></a>
 
 ###### Article 345
 
@@ -38308,7 +38303,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1650
 
 
-##### I bis : Commission intercommunale des impôts directs<a id=429></a>
+##### I bis : Commission intercommunale des impôts directs<a id=421></a>
 
 ###### Article 346
 
@@ -38393,7 +38388,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1650 A.
 
 
-##### II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires<a id=430></a>
+##### II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires<a id=422></a>
 
 ###### Article 347
 
@@ -38532,7 +38527,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1651 C
 
 
-##### II bis : Commission nationale des impôts directs et des taxes sur le chiffre d'affaires<a id=431></a>
+##### II bis : Commission nationale des impôts directs et des taxes sur le chiffre d'affaires<a id=423></a>
 
 ###### Article 348 B
 
@@ -38612,7 +38607,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1651 I
 
 
-##### III : Commission départementale de conciliation<a id=432></a>
+##### III : Commission départementale de conciliation<a id=424></a>
 
 ###### Article 350 A
 
@@ -38659,7 +38654,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
 
 
-##### IV : Comité consultatif du crédit d'impôt pour dépenses de recherche<a id=433></a>
+##### IV : Comité consultatif du crédit d'impôt pour dépenses de recherche<a id=425></a>
 
 ###### Article 350 CA
 
@@ -38701,9 +38696,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1653 F
 
 
-#### Chapitre II : Régime de certains organismes et sociétés<a id=434></a>
+#### Chapitre II : Régime de certains organismes et sociétés<a id=426></a>
 
-##### Section II : Entrepreneur individuel à responsabilité limitée<a id=435></a>
+##### Section II : Entrepreneur individuel à responsabilité limitée<a id=427></a>
 
 ###### Article 350 bis
 
@@ -38732,7 +38727,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1655 sexies
 
 
-#### Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées<a id=436></a>
+#### Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées<a id=428></a>
 
 ###### Article 350 decies
 
@@ -38961,7 +38956,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 575 D (V)
 
 
-#### Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques<a id=437></a>
+#### Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques<a id=429></a>
 
 ###### Article 350 quaterdecies
 
@@ -39129,15 +39124,15 @@ _Cite_:
   - Livre des procédures fiscales - art. R213-4
 
 
-# Livre II : Recouvrement de l'impôt<a id=438></a>
+# Livre II : Recouvrement de l'impôt<a id=430></a>
 
-## Chapitre premier : Paiement de l'impôt<a id=439></a>
+## Chapitre premier : Paiement de l'impôt<a id=431></a>
 
-### Section I : Impôts directs et taxes assimilées<a id=440></a>
+### Section I : Impôts directs et taxes assimilées<a id=432></a>
 
-#### I : Rôles et avis d'imposition<a id=441></a>
+#### I : Rôles et avis d'imposition<a id=433></a>
 
-##### 1 : Etablissement et mise en recouvrement des rôles<a id=442></a>
+##### 1 : Etablissement et mise en recouvrement des rôles<a id=434></a>
 
 ###### Article 351
 
@@ -39160,9 +39155,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1658 (V)
 
 
-#### II : Exigibilité de l'impôt<a id=443></a>
+#### II : Exigibilité de l'impôt<a id=435></a>
 
-##### 2 : Impôt sur le revenu<a id=444></a>
+##### 2 : Impôt sur le revenu<a id=436></a>
 
 ###### Article 357 A
 
@@ -39345,7 +39340,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1 A (V)
 
 
-##### 3 : Impôt sur les sociétés<a id=445></a>
+##### 3 : Impôt sur les sociétés<a id=437></a>
 
 ###### Article 358
 
@@ -39544,7 +39539,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 219 bis
 
 
-##### 3 quater : Contribution sociale sur l'impôt sur les sociétés<a id=446></a>
+##### 3 quater : Contribution sociale sur l'impôt sur les sociétés<a id=438></a>
 
 ###### Article 366 L
 
@@ -39595,9 +39590,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
 
 
-##### 6 : Taxe sur les salaires<a id=447></a>
+##### 6 : Taxe sur les salaires<a id=439></a>
 
-##### a : Remise au Trésor de la taxe sur les salaires<a id=448></a>
+##### a : Remise au Trésor de la taxe sur les salaires<a id=440></a>
 
 ###### Article 369
 
@@ -39671,7 +39666,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1679 A
 
 
-##### d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques<a id=449></a>
+##### d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques<a id=441></a>
 
 ###### Article 374
 
@@ -39704,7 +39699,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 51
 
 
-##### 7 : Contribution annuelle sur les revenus locatifs<a id=450></a>
+##### 7 : Contribution annuelle sur les revenus locatifs<a id=442></a>
 
 ###### Article 375
 
@@ -39933,7 +39928,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 381 bis (V)
 
 
-##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs<a id=451></a>
+##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs<a id=443></a>
 
 ###### Article 381 A
 
@@ -40068,7 +40063,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 119 bis
 
 
-##### 10 : Prélèvement sur les produits de placements à revenu fixe<a id=452></a>
+##### 10 : Prélèvement sur les produits de placements à revenu fixe<a id=444></a>
 
 ###### Article 381 S
 
@@ -40103,7 +40098,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 125 D
 
 
-##### 10 bis : Prélèvement sur les dividendes<a id=453></a>
+##### 10 bis : Prélèvement sur les dividendes<a id=445></a>
 
 ###### Article 381 S bis
 
@@ -40138,7 +40133,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 117 quater
 
 
-##### 13 : Taxe d'apprentissage<a id=454></a>
+##### 13 : Taxe d'apprentissage<a id=446></a>
 
 ###### Article 381 XA
 
@@ -40165,7 +40160,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1678 quinquies
 
 
-#### III : Paiement de l'impôt<a id=455></a>
+#### III : Paiement de l'impôt<a id=447></a>
 
 ###### Article 382
 
@@ -40307,7 +40302,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1731 B (V)
 
 
-##### 3 : Impôt de solidarité sur la fortune<a id=456></a>
+##### 3 : Impôt de solidarité sur la fortune<a id=448></a>
 
 ###### Article 382 F
 
@@ -40320,7 +40315,7 @@ _Créé par_:
   - Décret n°2017-975 du 10 mai 2017 - art. 1
 
 
-##### 4 : Impôt sur le revenu et impositions figurant sur le même article de rôle<a id=457></a>
+##### 4 : Impôt sur le revenu et impositions figurant sur le même article de rôle<a id=449></a>
 
 ###### Article 383 bis
 
@@ -40359,9 +40354,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 383 bis (V)
 
 
-### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=458></a>
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées<a id=450></a>
 
-#### II bis : Dispositions particulières à certains transports<a id=459></a>
+#### II bis : Dispositions particulières à certains transports<a id=451></a>
 
 ###### Article 384 A bis
 
@@ -40400,7 +40395,7 @@ _Créé par_:
   - Décret n°2005-1747 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er juillet 2006
 
 
-#### V : Consolidation au sein d'un groupe du paiement de la taxe sur la valeur ajoutée et des taxes assimilées<a id=460></a>
+#### V : Consolidation au sein d'un groupe du paiement de la taxe sur la valeur ajoutée et des taxes assimilées<a id=452></a>
 
 ###### Article 384 D
 
@@ -40440,11 +40435,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 287
 
 
-### Section III : Enregistrement, publicité foncière, timbre<a id=461></a>
+### Section III : Enregistrement, publicité foncière, timbre<a id=453></a>
 
-#### 0I : Paiement sur états<a id=462></a>
+#### 0I : Paiement sur états<a id=454></a>
 
-##### Actes notariés<a id=463></a>
+##### Actes notariés<a id=455></a>
 
 ###### Article 384 bis A
 
@@ -40480,7 +40475,7 @@ _Cité par_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 60 (M)
 
 
-#### 0II : Formalité fusionnée<a id=464></a>
+#### 0II : Formalité fusionnée<a id=456></a>
 
 ###### Article 384 quinquies A
 
@@ -40496,7 +40491,7 @@ _Modifié par_:
   - Décret n°2012-1463 du 26 décembre 2012 - art. 1
 
 
-#### I : Taxe spéciale sur les conventions d'assurances<a id=465></a>
+#### I : Taxe spéciale sur les conventions d'assurances<a id=457></a>
 
 ###### Article 385
 
@@ -40623,11 +40618,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1000 (V)
 
 
-#### III : Paiement fractionné ou différé des droits<a id=466></a>
+#### III : Paiement fractionné ou différé des droits<a id=458></a>
 
-##### B : Mutations de propriété ou apports en société<a id=467></a>
+##### B : Mutations de propriété ou apports en société<a id=459></a>
 
-##### 1 : Champ d'application<a id=468></a>
+##### 1 : Champ d'application<a id=460></a>
 
 ###### Article 396
 
@@ -40713,7 +40708,7 @@ _Cite_:
   - Code civil - art. 924-3
 
 
-##### Transmissions d'entreprises<a id=469></a>
+##### Transmissions d'entreprises<a id=461></a>
 
 ###### Article 397 A
 
@@ -40744,7 +40739,7 @@ _Cité par_:
   - TXT_ASSOCIE: Instruction 1995-02-06 7A-1-95
 
 
-##### 2 : Dispositions générales<a id=470></a>
+##### 2 : Dispositions générales<a id=462></a>
 
 ###### Article 398
 
@@ -40918,9 +40913,9 @@ intérêts ne sont dus que jusqu'au jour du paiement des droits.
 
 
 
-##### 3 : Dispositions particulières<a id=471></a>
+##### 3 : Dispositions particulières<a id=463></a>
 
-##### 1° : Mutations par décès<a id=472></a>
+##### 1° : Mutations par décès<a id=464></a>
 
 ###### Article 404 A
 
@@ -41012,7 +41007,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 A
 
 
-##### 2° : Apports en société<a id=473></a>
+##### 2° : Apports en société<a id=465></a>
 
 ###### Article 404 C
 
@@ -41039,7 +41034,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 809 (V)
 
 
-##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires<a id=474></a>
+##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires<a id=466></a>
 
 ###### Article 404 D
 
@@ -41060,7 +41055,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
 
 
-##### 4° : Offices ministériels<a id=475></a>
+##### 4° : Offices ministériels<a id=467></a>
 
 ###### Article 404 E
 
@@ -41077,7 +41072,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
 
 
-##### 5° : Rapatriés d'outre-mer et migrants ruraux<a id=476></a>
+##### 5° : Rapatriés d'outre-mer et migrants ruraux<a id=468></a>
 
 ###### Article 404 F
 
@@ -41102,7 +41097,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 404 D (V)
 
 
-##### 6° Transmissions d'entreprises<a id=477></a>
+##### 6° Transmissions d'entreprises<a id=469></a>
 
 ###### Article 404 GA
 
@@ -41205,9 +41200,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 397 A (V)
 
 
-#### V : Droits de timbre<a id=478></a>
+#### V : Droits de timbre<a id=470></a>
 
-##### B : Paiement par emploi de machines à timbrer<a id=479></a>
+##### B : Paiement par emploi de machines à timbrer<a id=471></a>
 
 ###### Article 405 B
 
@@ -41231,7 +41226,7 @@ _Cite_:
   - Code général des impôts, annexe 4, CGIAN4. - art. 71 (V)
 
 
-##### C : Paiement par apposition de timbres mobiles<a id=480></a>
+##### C : Paiement par apposition de timbres mobiles<a id=472></a>
 
 ###### Article 405 D
 
@@ -41285,7 +41280,7 @@ _Modifié par_:
   - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982
 
 
-##### D : Paiement au moyen du visa pour timbre<a id=481></a>
+##### D : Paiement au moyen du visa pour timbre<a id=473></a>
 
 ###### Article 405 G
 
@@ -41301,7 +41296,7 @@ _Modifié par_:
   - Décret n°2012-431  du 29 mars 2012 - art. 24
 
 
-##### E : Paiement de l'impôt sur états<a id=482></a>
+##### E : Paiement de l'impôt sur états<a id=474></a>
 
 ###### Article 405 H
 
@@ -41377,9 +41372,9 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 405 H (V)
 
 
-#### VI : Taxes sur les véhicules à moteur<a id=483></a>
+#### VI : Taxes sur les véhicules à moteur<a id=475></a>
 
-##### Taxes sur les véhicules des sociétés<a id=484></a>
+##### Taxes sur les véhicules des sociétés<a id=476></a>
 
 ###### Article 406 bis
 
@@ -41407,7 +41402,7 @@ _Modifié par_:
   - Décret n°2018-500 du 20 juin 2018 - art. 4
 
 
-### Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=485></a>
+### Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=477></a>
 
 ###### Article 406 undecies
 
@@ -41463,7 +41458,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 527 (V)
 
 
-### Section V : Dispositions communes<a id=486></a>
+### Section V : Dispositions communes<a id=478></a>
 
 ###### Article 406 duodecies
 
@@ -41542,9 +41537,9 @@ _Cite_:
   - Code général des impôts, CGI. - art. 235 ter ZD
 
 
-## Chapitre I bis : Pénalités<a id=487></a>
+## Chapitre I bis : Pénalités<a id=479></a>
 
-### Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=488></a>
+### Section I bis : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine<a id=480></a>
 
 ###### Article 406 K
 
@@ -41587,11 +41582,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1825
 
 
-### Section II : Dispositions communes<a id=489></a>
+### Section II : Dispositions communes<a id=481></a>
 
-#### II : Infractions aux règles de la facturation<a id=490></a>
+#### II : Infractions aux règles de la facturation<a id=482></a>
 
-##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=491></a>
+##### Mise sous séquestre de l'entreprise de l'auteur du délit<a id=483></a>
 
 ###### Article 406 A 12
 
@@ -41677,9 +41672,9 @@ domicile ou du siège social de la personne physique ou morale intéressée.
 
 
 
-### Section III : Dispositions particulières<a id=492></a>
+### Section III : Dispositions particulières<a id=484></a>
 
-#### III : Droits d'enregistrement<a id=493></a>
+#### III : Droits d'enregistrement<a id=485></a>
 
 ###### Article 406 A 27
 
@@ -41698,9 +41693,9 @@ _Modifié par_:
   - Décret n°2012-1463 du 26 décembre 2012 - art. 1
 
 
-## Chapitre II : Procédures<a id=494></a>
+## Chapitre II : Procédures<a id=486></a>
 
-### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des finances publiques et à ceux de la direction générale des douanes et droits indirects<a id=495></a>
+### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des finances publiques et à ceux de la direction générale des douanes et droits indirects<a id=487></a>
 
 ###### Article 415
 
@@ -41774,7 +41769,7 @@ exercées.
 
 
 
-## Chapitre II bis : Sûretés et privilèges<a id=496></a>
+## Chapitre II bis : Sûretés et privilèges<a id=488></a>
 
 ###### Article 416 bis
 
@@ -41810,11 +41805,11 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1929 quater
 
 
-## Chapitre III : Dégrèvements et restitutions d'impôts<a id=497></a>
+## Chapitre III : Dégrèvements et restitutions d'impôts<a id=489></a>
 
-### Section I : Juridiction contentieuse<a id=498></a>
+### Section I : Juridiction contentieuse<a id=490></a>
 
-#### B : Disposition particulière aux droits d'enregistrement<a id=499></a>
+#### B : Disposition particulière aux droits d'enregistrement<a id=491></a>
 
 ###### Article 416 E
 
@@ -41823,11 +41818,11 @@ d'enregistrement régulièrement perçus.
 
 
 
-### Section II : Juridiction gracieuse<a id=500></a>
+### Section II : Juridiction gracieuse<a id=492></a>
 
-#### C : Propositions des comptables secondaires de la direction générale des finances publiques chargés du recouvrement des créances de nature fiscale<a id=501></a>
+#### C : Propositions des comptables secondaires de la direction générale des finances publiques chargés du recouvrement des créances de nature fiscale<a id=493></a>
 
-##### 1 : Créances irrécouvrables<a id=502></a>
+##### 1 : Créances irrécouvrables<a id=494></a>
 
 ###### Article 426
 
@@ -41874,7 +41869,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 426
 
 
-##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure<a id=503></a>
+##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure<a id=495></a>
 
 ###### Article 429
 
@@ -42042,7 +42037,7 @@ _Modifié par_:
   - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
-#### D : Dispositions particulières aux impôts directs<a id=504></a>
+#### D : Dispositions particulières aux impôts directs<a id=496></a>
 
 ###### Article 445
 
