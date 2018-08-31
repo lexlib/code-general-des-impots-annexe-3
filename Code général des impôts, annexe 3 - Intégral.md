@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2018-07-01
+Version Consolidée au 2018-09-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -40008,19 +40008,23 @@ _Cite_:
 
 I. – La retenue à la source prévue au 2 de l'article 119 bis du code général des impôts prélevée par un établissement payeur
 dans les conditions du 2 de l'article 1672 du même code fait l'objet, dans les quinze premiers jours du mois suivant celui au
-titre duquel elle est due, d'un versement au service des impôts désigné par le ministre chargé du budget.
+titre duquel elle est due, d'un versement au service des impôts désigné par arrêté du ministre chargé du budget.
 
 II. – Chaque versement est accompagné du dépôt d'une déclaration établie sur une formule délivrée par l'administration.
 
-III. – Un arrêté détermine la nature et le contenu des documents que les établissements payeurs doivent établir et conserver
-à la disposition de l'administration en vue du contrôle (1) ; il fixe les conditions dans lesquelles la retenue opérée par
-les succursales de ces établissements peut faire l'objet de versements globaux (2).
+III. – Un arrêté du ministre chargé du budget détermine la nature et le contenu des documents que les établissements payeurs
+doivent établir et conserver à la disposition de l'administration en vue du contrôle (1) ; il fixe les conditions dans
+lesquelles la retenue prévue au I fait l'objet de versements globaux (2).
 
 **Nota:**
 
-(1) Voir les articles 17 et 17 A de l'annexe IV. 
+(1) Voir les articles 17 et 17 A de l'annexe IV.
 
 (2) Voir l'article 188 H de l'annexe IV.
+
+Conformément à l'article 2 du décret n° 2018-756 du 28 août 2018, les présentes dispositions s'appliquent aux déclarations
+souscrites au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre
+2018.
 
 **Liens relatifs à cet article**
 
@@ -40030,7 +40034,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2007-560 du 16 avril 2007 - art. 1 () JORF 18 avril 2007
+  - Décret n°2018-756 du 28 août 2018 - art. 1
 
 _Cité par_:
 
@@ -40038,8 +40042,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 119 bis (V)
-  - Code général des impôts, CGI. - art. 1672 (V)
+  - Code général des impôts, CGI. - art. 119 bis
+  - Code général des impôts, CGI. - art. 1672
 
 
 ###### Article 381 A bis
@@ -40072,40 +40076,45 @@ _Cite_:
 
 En ce qui concerne les emprunts à revenu fixe visés aux articles 118 et 119 du code général des impôts l'impôt avancé sur les
 produits courus pendant chaque mois conformément à l'article 1673 du code général des impôts est versé dans les quinze
-premiers jours du mois suivant au service des impôts désigné par le ministre chargé du budget. 
+premiers jours du mois suivant au service des impôts désigné par le ministre chargé du budget.
 
 L'impôt est versé aux mêmes dates et au même service pour les lots et primes de remboursement mis en paiement au cours du
-mois précédent. 
+mois précédent.
 
 La retenue à la source est payée aux dates et lieux prévus au premier alinéa sur le montant couru de l'annuité d'intérêt ou
-de prime de remboursement définie au I de l'article 238 septies B du code précité. 
+de prime de remboursement définie au I de l'article 238 septies B du code précité.
 
-A l'appui du versement, il est remis : 
+Il est tenu à disposition de l'administration :
 
-a. Un état indiquant : 
+a. Un état indiquant :
 
-1° Le nombre des titres amortis ; 
+1° Le nombre des titres amortis ;
 
-2° Le taux d'émission de ces titres déterminé conformément aux dispositions des articles 41 octies à 41 duodecies ci-
-dessus ; 
+2° Le taux d'émission de ces titres déterminé conformément aux dispositions des articles 41 octies à 41 duodecies ci-dessus ;
 
-3° Le cas échéant, le prix de rachat en bourse de ces mêmes titres ; 
+3° Le cas échéant, le prix de rachat en bourse de ces mêmes titres ;
 
-4° Le montant des lots et des primes revenant aux titres amortis ; 
+4° Le montant des lots et des primes revenant aux titres amortis ;
 
-5° La somme sur laquelle la retenue à la source est exigible. 
+5° La somme sur laquelle la retenue à la source est exigible.
 
 b. Et s'il y a lieu une copie du procès-verbal de tirage au sort des titres amortis.
 
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2018-756 du 28 août 2018, les présentes dispositions s'appliquent aux déclarations
+souscrites au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre
+2018.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 _Codifié par_:
 
-  - Décret n°2006-356 2006-03-24
+  - Décret n°2006-356 du 24 mars 2006
+
+_Modifié par_:
+
+  - Décret n°2018-756 du 28 août 2018 - art. 1
 
 _Cité par_:
 
@@ -40114,10 +40123,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 41 octies (V)
-  - Code général des impôts, CGI. - art. 118 (V)
-  - Code général des impôts, CGI. - art. 1673 (V)
-  - Code général des impôts, CGI. - art. 238 septies B (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 41 octies
+  - Code général des impôts, CGI. - art. 118
+  - Code général des impôts, CGI. - art. 1673
+  - Code général des impôts, CGI. - art. 238 septies B
 
 
 ###### Article 381 Q
@@ -40142,25 +40151,31 @@ _Cite_:
 ###### Article 381 S
 
 1. Les sommes retenues au cours de chaque mois, au titre du prélèvement prévu par l'article 125 A du code général des impôts
-sont versées au Trésor dans les quinze premiers jours du mois suivant. 
+sont versées au Trésor dans les quinze premiers jours du mois suivant.
 
-Le versement est fait au service des impôts désigné par le ministre chargé du budget. 
+Le versement est fait au service des impôts désigné par arrêté du ministre chargé du budget.
 
-2. Chaque versement est accompagné du dépôt d'une déclaration établie sur une formule délivrée par l'administration. 
+2. Chaque versement est accompagné du dépôt d'une déclaration établie sur une formule délivrée par l'administration.
 
-3. Un arrêté détermine la nature et le contenu des documents que les établissements payeurs doivent établir et conserver à la
-disposition de l'administration en vue du contrôle. 
+3. Un arrêté du ministre chargé du budget détermine la nature et le contenu des documents que les établissements payeurs
+doivent établir et conserver à la disposition de l'administration en vue du contrôle.
 
-Il fixe les conditions dans lesquelles le prélèvement opéré par ces établissements peut faire l'objet de versements globaux. 
+Il fixe les conditions dans lesquelles le prélèvement opéré par ces établissements fait l'objet de versements globaux.
 
 4. Les dispositions des 1 à 3 ne sont pas applicables au prélèvement dû à raison des revenus, produits et gains mentionnés à
 l'article 125 D du code précité.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2018-756 du 28 août 2018, les présentes dispositions s'appliquent aux déclarations
+souscrites au titre des revenus, produits et gains dont le fait générateur d'imposition intervient à compter du 1er septembre
+2018.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-962 du 15 septembre 2008 - art. 1
+  - Décret n°2018-756 du 28 août 2018 - art. 1
 
 _Cité par_:
 
