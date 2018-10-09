@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2018-09-01
+Version Consolidée au 2018-10-10
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -272,11 +272,11 @@ Version Consolidée au 2018-09-01
               - [I : Organisation de l'économie cidricole (art. 143 A à 143 Z)](#269)
               - [II bis : Régime économique du rhum (art. 144 bis)](#270)
             - [C : Régime fiscal (art. 169-0 A)](#271)
-          - [Section II : Vins, cidres, bières et autres boissons fermentées (art. 171 à 178-0 bis C)](#272)
-            - [B : Régime fiscal (art. 171 à 178-0 bis C)](#273)
+          - [Section II : Vins, cidres, bières et autres boissons fermentées (art. 171 à 178-0 bis B)](#272)
+            - [B : Régime fiscal (art. 171 à 178-0 bis B)](#273)
               - [Définition (art. 171)](#274)
               - [Admission en décharge des déchets résultant de la concentration par le froid (art. 172 à 178-0 bis)](#275)
-              - [Petites brasseries indépendantes (art. 178-0 bis A à 178-0 bis C)](#276)
+              - [Petites brasseries indépendantes (art. 178-0 bis A à 178-0 bis B)](#276)
           - [Section V : Régimes particuliers (art. 178 A à 178 Z)](#277)
             - [I : Réglementation des essences d'absinthe et produits assimilés ou susceptibles de les suppléer (art. 178 A à 178 Z)](#278)
         - [Chapitre II : Garantie des matières d'or, d'argent et de platine (art. 183 à 214)](#279)
@@ -27497,37 +27497,6 @@ _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 286 M
   - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 C
-  - Code général des impôts, CGI. - art. 520 A
-
-
-###### Article 178-0 bis C
-
-Les personnes qui mettent à la consommation des bières brassées par des petites brasseries indépendantes doivent, pour
-bénéficier des taux réduits du droit spécifique prévus du cinquième au huitième alinéa du a du I de l'article 520 A du code
-général des impôts, produire, à l'appui de la déclaration de mise à la consommation, une attestation certifiée par l'autorité
-administrative compétente du lieu de production que les bières en cause ont bien été produites par une brasserie qui respecte
-les conditions fixées par l'article 4, paragraphe 2, de la directive 92/83/CEE du 19 octobre 1992.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2006-1026 du 21 août 2006 - art. 1 () JORF 22 août 2006
-
-_Codifié par_:
-
-  - Décret n°2007-484 2007-03-30
-
-_Modifié par_:
-
-  - Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 31 mars 2007
-
-_Abrogé par_:
-
-  - Décret n°2018-866 du 8 octobre 2018 - art. 1
-
-_Cite_:
-
   - Code général des impôts, CGI. - art. 520 A
 
 
