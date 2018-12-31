@@ -3,11 +3,12 @@
 I. – Les impôts et taxes dus par les personnes et groupements mentionnés à l'article 344-0 A sont payés au comptable du
 service chargé des grandes entreprises mentionné au premier alinéa de l'article 344-0 A. 
 
-II. – Les dispositions du I s'appliquent à l'impôt sur les sociétés, à la contribution sur les revenus locatifs, à la
-contribution sociale sur l'impôt sur les sociétés prévues respectivement aux articles 234 nonies et 235 ter ZC du code
-général des impôts, à la taxe prévue par l'article 235 ter ZD du code général des impôts à la cotisation foncière des
-entreprises et à la cotisation sur la valeur ajoutée des entreprises de même qu'aux taxes additionnelles et annexes à cette
-cotisation ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
+II. – Les dispositions du I s'appliquent à la retenue à la source prévue au 1° du 2 de l'article 204 A du code général des
+impôts, à l'impôt sur les sociétés, à la contribution sur les revenus locatifs, à la contribution sociale sur l'impôt sur les
+sociétés prévues respectivement aux articles 234 nonies et 235 ter ZC du code général des impôts, à la taxe prévue par
+l'article 235 ter ZD du code général des impôts à la cotisation foncière des entreprises et à la cotisation sur la valeur
+ajoutée des entreprises de même qu'aux taxes additionnelles et annexes à cette cotisation ainsi qu'aux impôts et taxes
+mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
 leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique à l'ensemble des impositions
@@ -31,9 +32,8 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 14-I [3°] b et 14-II de la loi n° 2008-1425 du 27 décembre 2008.
-
-Les mots : "à l'imposition forfaitaire annuelle des sociétés" et la référence : 223 septies, deviennent sans objet.
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017 modifié par l'article 2 du décret n° 2017-1676 du 7 décembre
+2017, les dispositions du présent article s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -41,17 +41,17 @@ _Cité par_:
 
   - Décret n°2013-1225 du 23 décembre 2013 - art. 3 (V)
   - Décret n°2017-866 du 9 mai 2017 - art. 5 (VD)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 C (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
 
 _Modifié par_:
 
-  - Décret n°2014-549 du 26 mai 2014 - art. 3
+  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
 _Cite_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
-  - Code général des impôts, CGI. - art. 234 nonies (V)
+  - Code général des impôts, CGI. - art. 204 A
   - Code général des impôts, CGI. - art. 235 ter ZC
   - Code général des impôts, CGI. - art. 235 ter ZD
