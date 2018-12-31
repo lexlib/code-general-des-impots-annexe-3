@@ -1,26 +1,22 @@
 # Article 111 quinquies
 
-Les chiffres d'affaires annuels prévus pour l'application du régime d'imposition forfaitaire de bénéfice et de chiffre
-d'affaires sont déterminés en tenant compte de l'ensemble des opérations, y compris celles exonérées ou placées en dehors du
-champ d'application de la taxe sur la valeur ajoutée et des taxes assimilées, réalisées dans tous les établissements de
-l'entreprise.
+Dès lors qu'il est tenu d'accomplir, en application de l'article 1671 du code général des impôts, les obligations incombant à
+une personne représentée, le représentant unique prévu à l'article 302 decies du même code s'acquitte de l'ensemble des
+obligations incombant à cette même personne auprès du service des impôts des entreprises étrangères de la direction des
+impôts des non-résidents.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN2 1 I
 
 _Codifié par_:
 
   - Décret n°83-899 1983-10-06
-  - Décret n°99-382 1999-05-18
-
-**Liens**:
-
-  - HISTO: Edition du 31 mars 1999
-  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+  - Décret n°99-382 du 18 mai 1999
 
 _Modifié par_:
 
-  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982
+  - Décret n°2018-1260 du 26 décembre 2018 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1671 (V)
+  - Code général des impôts, CGI. - art. 302 decies (VT)
