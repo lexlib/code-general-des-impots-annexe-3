@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2019-02-14
+Version Consolidée au 2019-03-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -1215,14 +1215,22 @@ logement, et le cas échéant sur les parties communes, qui permettent de donner
 techniques fixées par arrêté des ministres chargés du budget et du logement. Au moins six de ces performances techniques
 doivent avoir été obtenues à la suite de ces travaux.
 
+III. - Les travaux de rénovation mentionnés au 5° du B du I de l'article 199 novovicies du code général des impôts
+s'entendent de tous travaux, à l'exception de ceux portant sur des locaux ou des équipements d'agrément, ayant pour objet la
+modernisation, l'assainissement ou l'aménagement des surfaces habitables, la réalisation d'économies d'énergie pour ces
+surfaces ainsi que la création de surfaces habitables à partir de l'aménagement des surfaces annexes.
+
+Pour l'application du présent III, les surfaces annexes pouvant être aménagées sont les combles accessibles ainsi que les
+garages en habitat individuel.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Décret n°2002-120 du 30 janvier 2002
-  - Code général des impôts, CGI. - art. 199 novovicies (V)
-  - Code général des impôts, CGI. - art. 199 septvicies (V)
-  - Code général des impôts, CGI. - art. 31 (V)
+  - Code général des impôts, CGI. - art. 199 novovicies
+  - Code général des impôts, CGI. - art. 199 septvicies
+  - Code général des impôts, CGI. - art. 31
 
 _Cité par_:
 
@@ -1234,7 +1242,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1235 du 23 décembre 2013 - art. 1
+  - Décret n°2019-232 du 26 mars 2019 - art. 1
 
 
 ###### Article 2 quindecies C
@@ -13280,44 +13288,67 @@ _Cite_:
 
 ###### Article 46 AZA octies-0 A
 
-Les logements mentionnés au II de l'article 199 novovicies du code général des impôts s'entendent : 
+Les logements mentionnés au II de l'article 199 novovicies du code général des impôts s'entendent :
 
 1° Pour les logements acquis neufs, ou, sous réserve du 2°, pour les logements acquis en l'état futur d'achèvement ou que le
-contribuable fait construire : 
+contribuable fait construire :
 
-a) Soit de ceux qui bénéficient du label mentionné au 1° du I de l'article 46 AZA octies ; 
+a) Soit de ceux qui bénéficient du label mentionné au 1° du I de l'article 46 AZA octies ;
 
 b) Soit de ceux qui respectent les caractéristiques thermiques et conditions mentionnées au I de l'article R. 111-20 du code
-de la construction et de l'habitation, selon les prescriptions fixées par l'arrêté prévu au II du même article. 
+de la construction et de l'habitation, selon les prescriptions fixées par l'arrêté prévu au II du même article.
 
 Pour justifier du respect de la condition prévue à l'alinéa précédent, le contribuable présente, sur demande de
 l'administration fiscale, l'attestation mentionnée à l'article 6 de l'arrêté du 11 octobre 2011 relatif aux attestations de
 prise en compte de la réglementation thermique et de réalisation d'une étude de faisabilité relative aux approvisionnements
-en énergie pour les bâtiments neufs ou les parties nouvelles de bâtiments ; 
+en énergie pour les bâtiments neufs ou les parties nouvelles de bâtiments ;
 
 2° Pour les logements qui font ou qui ont fait l'objet de travaux mentionnés aux 2°, 3° et 4° du B du I de l'article 199
 novovicies du code général des impôts ou pour les logements acquis en l'état futur d'achèvement mentionnés au premier alinéa
 du I de ce même article lorsqu'ils ne sont pas soumis aux dispositions de l'article L. 111-9 du code de la construction et de
-l'habitation : 
+l'habitation :
 
-a) Soit de ceux qui bénéficient d'un des labels mentionnés au a du 2° du I de l'article 46 AZA octies ; 
+a) Soit de ceux qui bénéficient d'un des labels mentionnés au a du 2° du I de l'article 46 AZA octies ;
 
 b) Soit de ceux qui respectent les exigences de performance énergétique globale dans les mêmes conditions et selon les mêmes
 modalités que celles définies au b du 2° du I de l'article 46 AZA octies.
+
+3° Pour les logements qui font ou qui ont fait l'objet de travaux mentionnés au 5° du B du I de l'article 199 novovicies du
+code général des impôts :
+
+a) Soit de ceux qui permettent d'atteindre une diminution de la consommation conventionnelle d'énergie primaire du bâtiment
+définie par un arrêté conjoint des ministres chargé du budget et du logement et d'atteindre une consommation conventionnelle
+d'énergie primaire après travaux inférieure à un seuil défini par ce même arrêté ;
+
+b) Soit de ceux qui respectent les exigences de performance énergétique, définies par l'arrêté mentionné au a du présent 3°,
+pour au moins deux des cinq catégories suivantes, et qui permettent d'atteindre une consommation conventionnelle d'énergie
+primaire après travaux inférieure à un seuil défini par ce même arrêté :
+
+1. isolation de la toiture ;
+
+2. isolation des murs donnant sur l'extérieur ;
+
+3. isolation des parois vitrés donnant sur l'extérieur ;
+
+4. systèmes de chauffage ;
+
+5. système de production d'eau chaude sanitaire.
+
+Les modalités de justification du respect des exigences prévues au a et au b du présent 3° sont définies par ce même arrêté.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Arrêté du 11 octobre 2011 - art. 6 (V)
+  - Arrêté du 11 octobre 2011 - art. 6
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies
   - Code général des impôts, CGI. - art. 199 novovicies
-  - Code de la construction et de l'habitation. - art. L111-9 (V)
+  - Code de la construction et de l'habitation. - art. L111-9
   - Code de la construction et de l'habitation. - art. R*111-20
 
 _Modifié par_:
 
-  - Décret n°2013-463 du 3 juin 2013 - art. 4
+  - Décret n°2019-232 du 26 mars 2019 - art. 1
 
 
 ###### Article 46 AZA octies-0 AA
@@ -13335,10 +13366,10 @@ bâtiments, à la production d'eau chaude sanitaire par énergie renouvelable ou
 en Guadeloupe et aux systèmes de refroidissement et à la performance énergétique des appareils de climatisation individuels ;
 
 3° Pour les logements situés en Guadeloupe, en Guyane, en Martinique et à La Réunion, et qui font ou qui ont fait l'objet de
-travaux mentionnés aux 2°, 3° et 4° du B du I de l'article 199 novovicies du code général des impôts ou qui sont acquis en
-l'état futur d'achèvement lorsqu'ils ne sont pas soumis aux prescriptions des articles R. * 162-1 et R. * 162-2 précités ou
-aux dispositions prévues par les délibérations du 19 avril 2011 du conseil régional de la Guadeloupe précitées, de ceux qui
-respectent cumulativement :
+travaux mentionnés aux 2°, 3°, 4° et 5° du B du I de l'article 199 novovicies du code général des impôts ou qui sont acquis
+en l'état futur d'achèvement lorsqu'ils ne sont pas soumis aux prescriptions des articles R. * 162-1 et R. * 162-2 précités
+ou aux dispositions prévues par les délibérations du 19 avril 2011 du conseil régional de la Guadeloupe précitées, de ceux
+qui respectent cumulativement :
 
 a. Une exigence thermique qui s'entend de l'intégration au logement de l'un des dispositifs mentionnés au c du 1 du I de
 l'article 18 quater de l'annexe IV au code général des impôts ;
@@ -13362,7 +13393,7 @@ du I de l'article 18 quater de l'annexe IV au code général des impôts et selo
 
 _Modifié par_:
 
-  - Décret n°2018-416 du 30 mai 2018 - art. 2
+  - Décret n°2019-232 du 26 mars 2019 - art. 1
 
 _Cite_:
 
@@ -13510,116 +13541,120 @@ _Cite_:
 ###### Article 46 AZA undecies
 
 I. – Pour l'application de l'article 199 novovicies du code général des impôts, le contribuable joint à sa déclaration des
-revenus de l'année, selon le cas, d'achèvement de l'immeuble ou des travaux, ou de son acquisition si elle est postérieure : 
+revenus de l'année, selon le cas, d'achèvement de l'immeuble ou des travaux, ou de son acquisition si elle est postérieure :
 
-1° Une note annexe, établie conformément au modèle fixé par l'administration, qui comporte les éléments suivants : 
+1° Une note annexe, établie conformément au modèle fixé par l'administration, qui comporte les éléments suivants :
 
-a) Ses identité et adresse ; 
+a) Ses identité et adresse ;
 
 b) L'adresse du logement concerné, sa date d'acquisition ou d'achèvement, la date de sa première mise en location et la
 surface à prendre en compte pour l'appréciation du plafond de loyer telle qu'elle est définie, selon le cas, aux articles 2
-terdecies D ou 2 terdecies F ; 
+terdecies D ou 2 terdecies F ;
 
-c) Le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail ; 
+c) Le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail ;
 
-d) L'engagement de louer le logement non meublé à usage d'habitation principale du locataire, pendant une durée minimale
-de : 
+d) L'engagement de louer le logement non meublé à usage d'habitation principale du locataire, pendant une durée minimale de :
 
 – neuf ans, à une personne autre qu'un membre de son foyer fiscal, un de ses ascendants ou descendants, pour les
-investissements réalisés avant le 1er septembre 2014 ; 
+investissements réalisés avant le 1er septembre 2014 ;
 
 – six ou neuf ans, selon l'option choisie, à une personne autre qu'un membre de son foyer fiscal, un de ses ascendants ou
-descendants, pour les investissements réalisés du 1er septembre au 31 décembre 2014 ; 
+descendants, pour les investissements réalisés du 1er septembre au 31 décembre 2014 ;
 
 – six ou neuf ans, selon l'option choisie, à une personne autre qu'un membre de son foyer fiscal, pour les investissements
-réalisés à compter du 1er janvier 2015. 
+réalisés à compter du 1er janvier 2015.
 
 Cet engagement prévoit en outre que le loyer n'excède pas les plafonds prévus, selon le cas, aux articles 2 terdecies D ou 2
-terdecies F ; 
+terdecies F ;
 
-e) Les modalités de calcul de la réduction d'impôt ; 
+e) Les modalités de calcul de la réduction d'impôt ;
 
-2° Une copie du bail ; 
+2° Une copie du bail ;
 
 3° Une copie de l'avis d'imposition ou de non-imposition du ou des locataires établi au titre de l'avant-dernière année
-précédant celle de la signature du contrat de location ; 
+précédant celle de la signature du contrat de location ;
 
-4° Les documents suivants, selon la nature de l'investissement : 
+4° Les documents suivants, selon la nature de l'investissement :
 
 a) Pour les logements acquis en l'état futur d'achèvement, une copie de la déclaration d'achèvement des travaux accompagnée
-d'une pièce attestant de sa réception en mairie ainsi que : 
+d'une pièce attestant de sa réception en mairie ainsi que :
 
 – une copie de la déclaration d'ouverture de chantier mentionnée à l'article R. * 424-16 du code de l'urbanisme, pour les
-investissements réalisés avant le 1er septembre 2014 ; 
+investissements réalisés avant le 1er septembre 2014 ;
 
-– une attestation notariée de propriété, pour les investissements réalisés à compter du 1er septembre 2014. 
+– une attestation notariée de propriété, pour les investissements réalisés à compter du 1er septembre 2014.
 
 b) Pour les logements que le contribuable fait construire, une copie du dépôt de la demande du permis de construire, un
 document attestant de la date de l'obtention du permis de construire ainsi qu'une copie de la déclaration d'achèvement des
-travaux accompagnée d'une pièce attestant de sa réception en mairie ; 
+travaux accompagnée d'une pièce attestant de sa réception en mairie ;
 
 c) Pour les logements qui font l'objet de travaux mentionnés au 2° du B du I de l'article 199 novovicies du code général des
-impôts, une copie de la déclaration d'achèvement des travaux accompagnée d'une pièce attestant de sa réception en mairie ; 
+impôts, une copie de la déclaration d'achèvement des travaux accompagnée d'une pièce attestant de sa réception en mairie ;
 
 d) Pour les logements que le contribuable acquiert en vue de les réhabiliter, une copie de la déclaration d'achèvement des
 travaux accompagnée d'une pièce attestant de sa réception en mairie, les états et attestations prévus aux 1° et 2° de
 l'article 2 quindecies C ainsi que, le cas échéant, ceux prévus aux articles L. 1334-5 et L. 1334-13 du code de la santé
-publique fournis par le vendeur lors de la promesse de vente ou annexés à l'acte authentique de vente du logement ; 
+publique fournis par le vendeur lors de la promesse de vente ou annexés à l'acte authentique de vente du logement ;
 
 e) Pour les logements que le contribuable acquiert réhabilités, les documents mentionnés au d à l'exception de la copie de la
-déclaration d'achèvement des travaux ; 
+déclaration d'achèvement des travaux ;
 
 f) Pour les locaux que le contribuable transforme en logement, une copie de la déclaration d'achèvement des travaux
 accompagnée d'une pièce attestant de sa réception en mairie ainsi qu'une note précisant la nature de l'affectation précédente
-des locaux. 
+des locaux.
 
-I bis. – Pour les investissements réalisés à compter du 1er septembre 2014 : 
+g) Pour les logements qui font ou qui ont fait l'objet de travaux mentionnés au 5° du B du I de l'article 199 novovicies du
+code général des impôts, une note récapitulant les travaux réalisés ainsi que leur montant. Le contribuable tient à la
+disposition de l'administration les documents permettant de justifier du respect des conditions prévues au III de l'article 2
+quindecies B et au 3° de l'article 46 AZA octies-0 A.
+
+I bis. – Pour les investissements réalisés à compter du 1er septembre 2014 :
 
 1. Lorsque le contribuable proroge son engagement de location mentionné au I de l'article 199 novovicies du code général des
 impôts dans les conditions prévues au VII bis du même article, pour une première période triennale, il joint à sa déclaration
-des revenus de l'année au cours de laquelle intervient le terme de l'engagement initial : 
+des revenus de l'année au cours de laquelle intervient le terme de l'engagement initial :
 
-1° Une note établie conformément au modèle fixé par l'administration, qui comporte les éléments suivants : 
+1° Une note établie conformément au modèle fixé par l'administration, qui comporte les éléments suivants :
 
-a) Ses identité et adresse ; 
+a) Ses identité et adresse ;
 
 b) L'adresse du logement concerné, sa date d'acquisition ou d'achèvement, la durée de l'engagement initial de location, ainsi
-que la date de prise d'effet du premier bail afférent à cet engagement ; 
+que la date de prise d'effet du premier bail afférent à cet engagement ;
 
 c) L'engagement de louer le logement non meublé à usage d'habitation principale du locataire, pendant une période de trois
-ans à compter du premier jour suivant celui de l'expiration de l'engagement initial de location : 
+ans à compter du premier jour suivant celui de l'expiration de l'engagement initial de location :
 
 – à une personne autre qu'un membre de son foyer fiscal, un de ses ascendants ou un de ses descendants, pour les
-investissements réalisés du 1er septembre 2014 au 31 décembre 2014 ; 
+investissements réalisés du 1er septembre 2014 au 31 décembre 2014 ;
 
-– à une personne autre qu'un membre de son foyer fiscal, pour les investissements réalisés à compter du 1er janvier 2015. 
+– à une personne autre qu'un membre de son foyer fiscal, pour les investissements réalisés à compter du 1er janvier 2015.
 
 Cet engagement prévoit en outre que le loyer n'excède pas les plafonds prévus, selon les cas, aux articles 2 terdecies D ou 2
-terdecies F ; 
+terdecies F ;
 
-d) Le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail ; 
+d) Le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail ;
 
-e) Les modalités de calcul de la réduction d'impôt ; 
+e) Les modalités de calcul de la réduction d'impôt ;
 
-2° Une copie du bail ; 
+2° Une copie du bail ;
 
 3° Une copie de l'avis d'imposition ou de non-imposition du ou des locataires établi au titre de l'avant-dernière année
-précédant celle de la signature du contrat de location ; 
+précédant celle de la signature du contrat de location ;
 
 2. Lorsque le contribuable proroge son engagement de location pour une seconde période triennale, il joint à sa déclaration
 des revenus de l'année au cours de laquelle intervient le terme de la première période triennale de prorogation les documents
-mentionnés aux 1° à 3° du 1. 
+mentionnés aux 1° à 3° du 1.
 
 Dans ce cas, l'engagement de louer le logement, mentionné au c du 1° du 1, court à compter du premier jour suivant celui du
-terme de la première période triennale de prorogation. 
+terme de la première période triennale de prorogation.
 
 II. – Lorsque le logement n'est pas loué au moment du dépôt de la déclaration des revenus de l'année d'achèvement de
 l'immeuble ou des travaux, ou de son acquisition si elle est postérieure, les documents mentionnés aux 2° et 3° du I sont
-joints à la déclaration des revenus de l'année au cours de laquelle le bail est signé. 
+joints à la déclaration des revenus de l'année au cours de laquelle le bail est signé.
 
 Lorsque le logement n'est pas loué au titre de la période de l'année postérieure à la date de prorogation de l'engagement de
 location mentionnée aux 1 et 2 du I bis, les documents mentionnés aux 2° et 3° du 1 du I bis sont joints à la déclaration des
-revenus de l'année au cours de laquelle le bail est signé. 
+revenus de l'année au cours de laquelle le bail est signé.
 
 En cas de changement de locataire au cours de la période d'engagement de location, le cas échéant prorogé, le contribuable
 joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du nouveau bail
@@ -13630,22 +13665,22 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 
 _Modifié par_:
 
-  - Décret n°2015-503 du 4 mai 2015 - art. 1
+  - Décret n°2019-232 du 26 mars 2019 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F
   - Code général des impôts, CGI. - art. 199 novovicies
-  - Code de la santé publique - art. L1334-13 (V)
+  - Code de la santé publique - art. L1334-13
   - Code de la santé publique - art. L1334-5
   - Code de l'urbanisme - art. R*424-16
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA duodecies (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (M)
 
 
 ##### 18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques<a id=113></a>
