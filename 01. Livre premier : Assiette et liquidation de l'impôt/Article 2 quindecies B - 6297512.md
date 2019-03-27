@@ -12,14 +12,22 @@ logement, et le cas échéant sur les parties communes, qui permettent de donner
 techniques fixées par arrêté des ministres chargés du budget et du logement. Au moins six de ces performances techniques
 doivent avoir été obtenues à la suite de ces travaux.
 
+III. - Les travaux de rénovation mentionnés au 5° du B du I de l'article 199 novovicies du code général des impôts
+s'entendent de tous travaux, à l'exception de ceux portant sur des locaux ou des équipements d'agrément, ayant pour objet la
+modernisation, l'assainissement ou l'aménagement des surfaces habitables, la réalisation d'économies d'énergie pour ces
+surfaces ainsi que la création de surfaces habitables à partir de l'aménagement des surfaces annexes.
+
+Pour l'application du présent III, les surfaces annexes pouvant être aménagées sont les combles accessibles ainsi que les
+garages en habitat individuel.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Décret n°2002-120 du 30 janvier 2002
-  - Code général des impôts, CGI. - art. 199 novovicies (V)
-  - Code général des impôts, CGI. - art. 199 septvicies (V)
-  - Code général des impôts, CGI. - art. 31 (V)
+  - Code général des impôts, CGI. - art. 199 novovicies
+  - Code général des impôts, CGI. - art. 199 septvicies
+  - Code général des impôts, CGI. - art. 31
 
 _Cité par_:
 
@@ -31,4 +39,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1235 du 23 décembre 2013 - art. 1
+  - Décret n°2019-232 du 26 mars 2019 - art. 1
