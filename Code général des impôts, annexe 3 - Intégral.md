@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2019-05-27
+Version Consolidée au 2019-05-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313 BRB)](#2)
@@ -20223,18 +20223,19 @@ _Cite_:
 ###### Article 49 septies X
 
 Pour l'application des dispositions de l'article 238 bis du code général des impôts, les entreprises déclarent les réductions
-et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la déclaration annuelle de résultat
-qu'elles sont tenues de souscrire en application des articles 53 A et 223 du code précité. 
+d'impôt ainsi que les informations prévues au premier alinéa du 6 du même article 238 bis selon le format établi par
+l'administration dans les mêmes délais que la déclaration annuelle de résultat qu'elles sont tenues de souscrire en
+application des articles 53 A et 223 du code précité.
 
-La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
-compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
-du groupe.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions d'impôt ainsi que les
+informations prévues au premier alinéa du 6 de l'article 238 bis du code précité pour le compte des sociétés du groupe, y
+compris celles la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble du groupe.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-395 du 31 mars 2016 - art. 1
+  - Décret n°2019-531 du 27 mai 2019 - art. 1
 
 _Cité par_:
 
@@ -20242,10 +20243,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 223 (V)
-  - Code général des impôts, CGI. - art. 223 A (V)
+  - Code général des impôts, CGI. - art. 223
+  - Code général des impôts, CGI. - art. 223 A
   - Code général des impôts, CGI. - art. 238 bis
-  - Code général des impôts, CGI. - art. 53 A (V)
+  - Code général des impôts, CGI. - art. 53 A
 
 
 ###### Article 49 septies XA
