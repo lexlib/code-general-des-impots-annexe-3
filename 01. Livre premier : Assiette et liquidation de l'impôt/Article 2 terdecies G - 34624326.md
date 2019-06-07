@@ -15,7 +15,7 @@ mentionnée au présent alinéa est celle définie à l'article R. 304-1 du code
 
 b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la
 construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les
-baux conclus en 2018, à :
+baux conclus en 2019, à :
 
 <table border="1">
   <tbody>
@@ -53,19 +53,19 @@ ZONE C
 Loyer social</td>
       <td align="center">
 
-11,86</td>
+12,01</td>
       <td align="center">
 
-9,13</td>
+9,24</td>
       <td align="center">
 
-7,86</td>
+7,96</td>
       <td align="center">
 
-7,55</td>
+7,64</td>
       <td align="center">
 
-7,00</td>
+7,09</td>
     </tr>
     <tr>
       <td align="left">
@@ -73,19 +73,19 @@ Loyer social</td>
 Loyer très social</td>
       <td align="center">
 
-9,23</td>
+9,35</td>
       <td align="center">
 
-7,10</td>
+7,19</td>
       <td align="center">
 
-6,12</td>
+6,20</td>
       <td align="center">
 
-5,86</td>
+5,93</td>
       <td align="center">
 
-5,44</td>
+5,51</td>
     </tr>
   </tbody>
 </table>
@@ -129,22 +129,22 @@ Modifications effectuées en conséquence de l'article 2-1° du décret n° 2017
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2018-500 du 20 juin 2018 - art. 4
-
 _Cité par_:
 
   - Arrêté du 22 mars 2019 - art. 1 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
 
+_Modifié par_:
+
+  - Décret n°2019-559 du 6 juin 2019 - art. 3
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1417
+  - Code général des impôts, CGI. - art. 1417 (VT)
   - Code général des impôts, CGI. - art. 196
   - Code général des impôts, CGI. - art. 31
   - Code de la construction et de l'habitation. - art. L321-4
   - Code de la construction et de l'habitation. - art. L321-8
+  - Code de la construction et de l'habitation. - art. R*441-1
   - Code de la construction et de l'habitation. - art. R304-1
   - Code de la construction et de l'habitation. - art. R321-27
-  - Code de la construction et de l'habitation. - art. R441-1
