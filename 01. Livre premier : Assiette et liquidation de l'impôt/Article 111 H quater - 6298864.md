@@ -1,44 +1,44 @@
 # Article 111 H quater
 
 I. – Pour les opérations réalisées sous le régime de suspension de droits d'accise sous couvert du document mentionné au I de
-l'article 302 M du code général des impôts, la justification de l'apurement des expéditions prévue aux articles 302 O et 302
-P du code précité doit être apportée par les destinataires des produits ou, pour les exportations, par les expéditeurs eux-
-mêmes ou leurs mandataires soit au coup par coup, soit de façon globalisée, en fin de mois. 
+l'article 302 M du code général des impôts, la justification de l'apurement des expéditions prévue à l'article 302 P du code
+précité doit être apportée par les destinataires des produits ou, pour les exportations, par les expéditeurs eux-mêmes ou
+leurs mandataires soit au coup par coup, soit de façon globalisée, en fin de mois.
 
 L'apurement de chaque opération est dans tous les cas attesté par le destinataire des produits ou par les autorités
 compétentes des Etats membres de l'Union européenne sur le certificat de réception ou d'exportation en case C des documents
 d'accompagnement mentionnés au I de l'article 302 M du code précité, dans les conditions et modalités déterminées par
-l'administration. 
+l'administration.
 
-1° L'apurement est admis sur la base du renvoi : 
+1° L'apurement est admis sur la base du renvoi :
 
-a) De l'exemplaire n° 3 du document d'accompagnement précité ; 
+a) De l'exemplaire n° 3 du document d'accompagnement précité ;
 
 b) D'un état global établi et signé par le destinataire des produits mentionnant les références des documents
 d'accompagnement et attestant des réceptions des opérations d'un même expéditeur au cours d'un mois donné ; les exemplaires
 n° 3 des documents d'accompagnement sont dans ce cas conservés par le destinataire des produits. Cette procédure n'est pas
-applicable aux opérations effectuées avec les autres Etats membres de l'Union européenne. 
+applicable aux opérations effectuées avec les autres Etats membres de l'Union européenne.
 
-2° L'apurement est admis sur la base du renvoi par télécopie des documents visés au 1°. 
+2° L'apurement est admis sur la base du renvoi par télécopie des documents visés au 1°.
 
 L'exemplaire n° 3 du document d'accompagnement et le rapport d'émission de la télécopie sont conservés par le destinataire
-des produits. 
+des produits.
 
 L'expéditeur des produits joint la télécopie qu'il a reçue à l'exemplaire du document correspondant à l'envoi, qu'il a
-conservé. 
+conservé.
 
-Cette procédure n'est pas applicable aux opérations effectuées avec les autres Etats membres de l'Union européenne. 
+Cette procédure n'est pas applicable aux opérations effectuées avec les autres Etats membres de l'Union européenne.
 
 II. – Pour les opérations réalisées sous le régime de suspension de droits d'accise au moyen du service de suivi informatique
 des mouvements de marchandises soumises à accise mentionné au III de l'article 302 M du code général des impôts, la
 justification de l'apurement des expéditions, prévue à l'article 302 P du code précité, doit être apportée par les
-destinataires ou, pour les exportations, par les expéditeurs eux-mêmes. 
+destinataires ou, pour les exportations, par les expéditeurs eux-mêmes.
 
-L'apurement de chaque opération est attestée : 
+L'apurement de chaque opération est attestée :
 
 1° Pour les expéditions, par l'accusé de réception mentionné au I de l'article 111 H quaterdecies ou en cas d'indisponibilité
 du service de suivi informatique des mouvements de marchandises soumises à accise par le document papier contenant les mêmes
-données et attestant de la réception des produits conformément aux dispositions de l'article 111 H quindecies ; 
+données et attestant de la réception des produits conformément aux dispositions de l'article 111 H quindecies ;
 
 2° Pour les exportations, par le rapport d'exportation mentionné au II de l'article 111 H quaterdecies ou en cas
 d'indisponibilité du service de suivi informatique des mouvements de marchandises soumises à accise par le document papier
@@ -50,16 +50,20 @@ général des impôts doit être adressé au service des douanes et droits indir
 tard le 10 du troisième mois suivant celui des expéditions, sur la base d'une déclaration mensuelle dont les modalités, le
 modèle et le contenu sont déterminés par arrêté du ministre chargé du budget.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 81-I-9° de la loi n° 2015-1785 du 29 décembre 2015.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-631 du 9 juin 2010 - art. 1
+  - Décret n°2019-559 du 6 juin 2019 - art. 3
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quaterdecies (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quindecies (V)
-  - Code général des impôts, CGI. - art. 302 M (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quaterdecies
+  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quindecies
+  - Code général des impôts, CGI. - art. 302 M
   - Code général des impôts, CGI. - art. 302 O
-  - Code général des impôts, CGI. - art. 302 P (V)
+  - Code général des impôts, CGI. - art. 302 P

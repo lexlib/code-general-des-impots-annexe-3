@@ -3,8 +3,8 @@
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2018 les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 16,69 € par mètre carré en zone I bis, 14,78 € en zone I, 11,41 € en zone II et 10,78 € en zone III. Les
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2019 les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 16,90 € par mètre carré en zone I bis, 14,96 € en zone I, 11,55 € en zone II et 10,91 € en zone III. Les
 plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à l'article 2
 duodecies.
 
@@ -22,7 +22,7 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 99-244
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 4
+  - Décret n°2019-559 du 6 juin 2019 - art. 3
 
 _Cite_:
 
@@ -31,5 +31,5 @@ _Cite_:
 
 _Cité par_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)

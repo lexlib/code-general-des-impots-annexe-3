@@ -2,8 +2,8 @@
 
 I. – Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2018, à 16,96
-€ en zone A bis, 12,59 € dans le reste de la zone A, 10,15 € en zone B 1 et 8,82 € en zone B 2 et en zone C. Ces plafonds
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2019, à 17,17
+€ en zone A bis, 12,75 € dans le reste de la zone A, 10,28 € en zone B 1 et 8,93 € en zone B 2 et en zone C. Ces plafonds
 sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la
@@ -19,7 +19,7 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2018, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2019, les plafonds annuels de ressources des locataires sont les suivants :
 
 <table border="1">
   <tbody>
@@ -40,23 +40,17 @@ Reste de la zone A
 (en €)</th>
       <th>
 
-Zone
-
-B 1
+Zone B 1
 
 (en €)</th>
       <th>
 
-Zone
-
-B 2
+Zone B 2
 
 (en €)</th>
       <th>
 
-Zone
-
-C
+Zone C
 
 (en €)</th>
     </tr>
@@ -66,19 +60,19 @@ C
 Personne seule</td>
       <td align="right">
 
-37 508</td>
+38 236</td>
       <td align="right">
 
-37 508</td>
+38 236</td>
       <td align="right">
 
-30 572</td>
+31 165</td>
       <td align="right">
 
-27 515</td>
+28 049</td>
       <td align="right">
 
-27 515</td>
+28 049</td>
     </tr>
     <tr>
       <td align="left">
@@ -86,19 +80,19 @@ Personne seule</td>
 Couple</td>
       <td align="right">
 
-56 058</td>
+57 146</td>
       <td align="right">
 
-56 058</td>
+57 146</td>
       <td align="right">
 
-40 826</td>
+41 618</td>
       <td align="right">
 
-36 743</td>
+37 456</td>
       <td align="right">
 
-36 743</td>
+37 456</td>
     </tr>
     <tr>
       <td align="left">
@@ -106,19 +100,19 @@ Couple</td>
 Personne seule ou couple ayant une personne à charge</td>
       <td align="right">
 
-73 486</td>
+74 912</td>
       <td align="right">
 
-67 386</td>
+68 693</td>
       <td align="right">
 
-49 097</td>
+50 049</td>
       <td align="right">
 
-44 187</td>
+45 044</td>
       <td align="right">
 
-44 187</td>
+45 044</td>
     </tr>
     <tr>
       <td align="left">
@@ -126,19 +120,19 @@ Personne seule ou couple ayant une personne à charge</td>
 Personne seule ou couple ayant deux personnes à charge</td>
       <td align="right">
 
-87 737</td>
+89 439</td>
       <td align="right">
 
-80 716</td>
+82 282</td>
       <td align="right">
 
-59 270</td>
+60 420</td>
       <td align="right">
 
-53 344</td>
+54 379</td>
       <td align="right">
 
-53 344</td>
+54 379</td>
     </tr>
     <tr>
       <td align="left">
@@ -146,19 +140,19 @@ Personne seule ou couple ayant deux personnes à charge</td>
 Personne seule ou couple ayant trois personnes à charge</td>
       <td align="right">
 
-104 390</td>
+106 415</td>
       <td align="right">
 
-95 553</td>
+97 407</td>
       <td align="right">
 
-69 725</td>
+71 078</td>
       <td align="right">
 
-62 753</td>
+63 970</td>
       <td align="right">
 
-62 753</td>
+63 970</td>
     </tr>
     <tr>
       <td align="left">
@@ -166,19 +160,19 @@ Personne seule ou couple ayant trois personnes à charge</td>
 Personne seule ou couple ayant quatre personnes à charge</td>
       <td align="right">
 
-117 466</td>
+119 745</td>
       <td align="right">
 
-107 527</td>
+109 613</td>
       <td align="right">
 
-78 579</td>
+80 103</td>
       <td align="right">
 
-70 721</td>
+72 093</td>
       <td align="right">
 
-70 721</td>
+72 093</td>
     </tr>
     <tr>
       <td align="left">
@@ -186,19 +180,19 @@ Personne seule ou couple ayant quatre personnes à charge</td>
 Majoration par personne à charge supplémentaire à partir de la cinquième</td>
       <td align="right">
 
-+ 13 087</td>
++ 13 341</td>
       <td align="right">
 
-+ 11 981</td>
++ 12 213</td>
       <td align="right">
 
-+ 8 766</td>
++ 8 936</td>
       <td align="right">
 
-+ 7 888</td>
++ 8 041</td>
       <td align="right">
 
-+ 7 888</td>
++ 8 041</td>
     </tr>
   </tbody>
 </table>
@@ -258,14 +252,14 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R302-28 (T)
   - Code de la construction et de l'habitation. - art. R302-29 (T)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA quaterdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA undecies (V)
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 4
+  - Décret n°2019-559 du 6 juin 2019 - art. 3
 
 _Cite_:
 

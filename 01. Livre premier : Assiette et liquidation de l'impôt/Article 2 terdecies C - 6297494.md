@@ -6,14 +6,14 @@ locataire sont les suivants :
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus
 proche, de ceux mentionnés au :
 
-- a de l'article 2 terdecies B, pour les baux conclus en 2018, s'agissant de logements autres que ceux visés au b de ce même
+- a de l'article 2 terdecies B, pour les baux conclus en 2019, s'agissant de logements autres que ceux visés au b de ce même
 article ;
 
-- b de l'article 2 terdecies B, pour les baux conclus en 2018, s'agissant de logements visés au b de ce même article.
+- b de l'article 2 terdecies B, pour les baux conclus en 2019, s'agissant de logements visés au b de ce même article.
 
-Pour les baux conclus en 2018, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+Pour les baux conclus en 2019, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre
-carré de surface habitable, à 10,64 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 14,04 € en
+carré de surface habitable, à 10,80 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 14,15 € en
 Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont
 relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
@@ -21,7 +21,7 @@ b. Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2018, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2019, les plafonds annuels de ressources sont les suivants :
 
 <table border="1">
   <tbody>
@@ -59,16 +59,16 @@ Zone C
 Personne seule</td>
       <td align="right">
 
-47 488</td>
+48 409</td>
       <td align="right">
 
-35 275</td>
+35 959</td>
       <td align="right">
 
-32 335</td>
+32 962</td>
       <td align="right">
 
-32 116</td>
+32 739</td>
     </tr>
     <tr>
       <td align="left">
@@ -76,16 +76,16 @@ Personne seule</td>
 Couple</td>
       <td align="right">
 
-70 971</td>
+72 348</td>
       <td align="right">
 
-51 800</td>
+52 805</td>
       <td align="right">
 
-47 484</td>
+48 405</td>
       <td align="right">
 
-43 166</td>
+44 003</td>
     </tr>
     <tr>
       <td align="left">
@@ -93,16 +93,16 @@ Couple</td>
 Personne seule ou couple ayant une personne à charge</td>
       <td align="right">
 
-85 311</td>
+86 966</td>
       <td align="right">
 
-62 011</td>
+63 214</td>
       <td align="right">
 
-56 845</td>
+57 948</td>
       <td align="right">
 
-51 676</td>
+52 679</td>
     </tr>
     <tr>
       <td align="left">
@@ -110,16 +110,16 @@ Personne seule ou couple ayant une personne à charge</td>
 Personne seule ou couple ayant deux personnes à charge</td>
       <td align="right">
 
-102 189</td>
+104 171</td>
       <td align="right">
 
-75 047</td>
+76 503</td>
       <td align="right">
 
-68 795</td>
+70 130</td>
       <td align="right">
 
-62 541</td>
+63 754</td>
     </tr>
     <tr>
       <td align="left">
@@ -127,16 +127,16 @@ Personne seule ou couple ayant deux personnes à charge</td>
 Personne seule ou couple ayant trois personnes à charge</td>
       <td align="right">
 
-120 974</td>
+123 321</td>
       <td align="right">
 
-88 083</td>
+89 792</td>
       <td align="right">
 
-80 745</td>
+82 311</td>
       <td align="right">
 
-73 401</td>
+74 825</td>
     </tr>
     <tr>
       <td align="left">
@@ -144,16 +144,16 @@ Personne seule ou couple ayant trois personnes à charge</td>
 Personne seule ou couple ayant quatre personnes à charge</td>
       <td align="right">
 
-136 126</td>
+138 767</td>
       <td align="right">
 
-99 358</td>
+101 286</td>
       <td align="right">
 
-91 080</td>
+92 847</td>
       <td align="right">
 
-82 799</td>
+84 405</td>
     </tr>
     <tr>
       <td align="left">
@@ -161,16 +161,16 @@ Personne seule ou couple ayant quatre personnes à charge</td>
 Majoration par personne à charge supplémentaire à partir de la cinquième</td>
       <td align="right">
 
-+ 15 174</td>
++ 15 468</td>
       <td align="right">
 
-+ 11 286</td>
++ 11 505</td>
       <td align="right">
 
-+ 10 346</td>
++ 10 547</td>
       <td align="right">
 
-+ 9 405</td>
++ 9 587</td>
     </tr>
   </tbody>
 </table>
@@ -178,7 +178,7 @@ Majoration par personne à charge supplémentaire à partir de la cinquième</td
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
 l'article 2 duodecies.
 
-Pour les baux conclus en 2018, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
+Pour les baux conclus en 2019, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
 d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
 
 <table border="1">
@@ -187,10 +187,18 @@ d'impôt prévue à l'article 199 septvicies du code général des impôts sont 
       <th>Composition du foyer locataire</th>
       <th>
 
-Départements d'outre-mer, Saint-Martin, Saint-Barthélemy (en €)</th>
+Départements d'outre-mer, Saint-Martin, Saint-Barthélemy
+
+(en €)</th>
       <th>
 
-Polynésie française, Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, îles Wallis et Futuna (en €)</th>
+Polynésie française,
+
+Nouvelle-Calédonie, Saint-Pierre-et-Miquelon,
+
+îles Wallis et Futuna
+
+(en €)</th>
     </tr>
     <tr>
       <td align="left">
@@ -198,10 +206,10 @@ Polynésie française, Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, îles Wall
 Personne seule</td>
       <td align="right">
 
-28 654</td>
+29 073</td>
       <td align="right">
 
-25 129</td>
+25 326</td>
     </tr>
     <tr>
       <td align="left">
@@ -209,10 +217,10 @@ Personne seule</td>
 Couple</td>
       <td align="right">
 
-38 264</td>
+38 823</td>
       <td align="right">
 
-46 471</td>
+46 836</td>
     </tr>
     <tr>
       <td align="left">
@@ -220,10 +228,10 @@ Couple</td>
 Personne seule ou couple ayant une personne à charge</td>
       <td align="right">
 
-46 015</td>
+46 687</td>
       <td align="right">
 
-49 157</td>
+49 543</td>
     </tr>
     <tr>
       <td align="left">
@@ -231,10 +239,10 @@ Personne seule ou couple ayant une personne à charge</td>
 Personne seule ou couple ayant deux personnes à charge</td>
       <td align="right">
 
-55 543</td>
+56 354</td>
       <td align="right">
 
-51 845</td>
+52 252</td>
     </tr>
     <tr>
       <td align="left">
@@ -242,10 +250,10 @@ Personne seule ou couple ayant deux personnes à charge</td>
 Personne seule ou couple ayant trois personnes à charge</td>
       <td align="right">
 
-65 345</td>
+66 300</td>
       <td align="right">
 
-55 437</td>
+55 872</td>
     </tr>
     <tr>
       <td align="left">
@@ -253,10 +261,10 @@ Personne seule ou couple ayant trois personnes à charge</td>
 Personne seule ou couple ayant quatre personnes à charge</td>
       <td align="right">
 
-73 642</td>
+74 718</td>
       <td align="right">
 
-59 030</td>
+59 493</td>
     </tr>
     <tr>
       <td align="left">
@@ -264,10 +272,10 @@ Personne seule ou couple ayant quatre personnes à charge</td>
 Majoration par personne à charge supplémentaire à partir de la cinquième</td>
       <td align="right">
 
-+ 8 219</td>
++ 8 339</td>
       <td align="right">
 
-+ 3 773</td>
++ 3 803</td>
     </tr>
   </tbody>
 </table>
@@ -295,17 +303,17 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies B (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B (M)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis B (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 ter (T)
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 4
+  - Décret n°2019-559 du 6 juin 2019 - art. 3
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
   - Code général des impôts, CGI. - art. 1417
