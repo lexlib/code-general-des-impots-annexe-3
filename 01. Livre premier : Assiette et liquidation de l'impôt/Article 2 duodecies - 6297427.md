@@ -3,8 +3,8 @@
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants :
 
-a) Pour les baux conclus en 2018, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,63 € par mètre carré
-en zone A, 12,18 € en zone B et 8,83 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
+a) Pour les baux conclus en 2019, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,86 € par mètre carré
+en zone A, 12,33 € en zone B et 8,94 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
 modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
 centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du
 premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1
@@ -26,26 +26,26 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2018, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2019, les plafonds annuels de ressources sont les suivants :
 
 <table border="1">
   <tbody>
     <tr>
-      <td rowspan="2" align="center">Composition du foyer locataire</td>
-      <td colspan="3" align="center">
+      <th rowspan="2">Composition du foyer locataire</th>
+      <th colspan="3">
 
-Lieu de location</td>
+Lieu de location</th>
     </tr>
     <tr>
-      <td align="center">
+      <th>
 
-Zone A (en €)</td>
-      <td align="center">
+Zone A (en €)</th>
+      <th>
 
-Zone B (en €)</td>
-      <td align="center">
+Zone B (en €)</th>
+      <th>
 
-Zone C (en €)</td>
+Zone C (en €)</th>
     </tr>
     <tr>
       <td align="left">
@@ -53,13 +53,13 @@ Zone C (en €)</td>
 Personne seule</td>
       <td align="right">
 
-47 488</td>
+48 409</td>
       <td align="right">
 
-36 702</td>
+37 414</td>
       <td align="right">
 
-32 116</td>
+32 739</td>
     </tr>
     <tr>
       <td align="left">
@@ -67,13 +67,13 @@ Personne seule</td>
 Couple</td>
       <td align="right">
 
-70 971</td>
+72 348</td>
       <td align="right">
 
-49 010</td>
+49 961</td>
       <td align="right">
 
-43 166</td>
+44 003</td>
     </tr>
     <tr>
       <td align="left">
@@ -81,13 +81,13 @@ Couple</td>
 Personne seule ou couple ayant une personne à charge</td>
       <td align="right">
 
-85 311</td>
+86 966</td>
       <td align="right">
 
-58 937</td>
+60 080</td>
       <td align="right">
 
-51 676</td>
+52 679</td>
     </tr>
     <tr>
       <td align="left">
@@ -95,13 +95,13 @@ Personne seule ou couple ayant une personne à charge</td>
 Personne seule ou couple ayant deux personnes à charge</td>
       <td align="right">
 
-102 189</td>
+104 171</td>
       <td align="right">
 
-71 147</td>
+72 527</td>
       <td align="right">
 
-62 541</td>
+63 754</td>
     </tr>
     <tr>
       <td align="left">
@@ -109,13 +109,13 @@ Personne seule ou couple ayant deux personnes à charge</td>
 Personne seule ou couple ayant trois personnes à charge</td>
       <td align="right">
 
-120 974</td>
+123 321</td>
       <td align="right">
 
-83 693</td>
+85 317</td>
       <td align="right">
 
-73 401</td>
+74 825</td>
     </tr>
     <tr>
       <td align="left">
@@ -123,13 +123,13 @@ Personne seule ou couple ayant trois personnes à charge</td>
 Personne seule ou couple ayant quatre personnes à charge</td>
       <td align="right">
 
-136 126</td>
+138 767</td>
       <td align="right">
 
-94 321</td>
+96 151</td>
       <td align="right">
 
-82 799</td>
+84 405</td>
     </tr>
     <tr>
       <td align="left">
@@ -137,13 +137,13 @@ Personne seule ou couple ayant quatre personnes à charge</td>
 Majoration par personne à charge à partir de la cinquième</td>
       <td align="right">
 
-+ 15 174</td>
++ 15 468</td>
       <td align="right">
 
-+ 10 519</td>
++ 10 723</td>
       <td align="right">
 
-+ 9 405</td>
++ 9 587</td>
     </tr>
   </tbody>
 </table>
@@ -183,7 +183,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 quaterdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
@@ -191,7 +191,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 4
+  - Décret n°2019-559 du 6 juin 2019 - art. 3
 
 _Cite_:
 

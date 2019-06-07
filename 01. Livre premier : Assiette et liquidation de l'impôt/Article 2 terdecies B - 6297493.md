@@ -3,18 +3,18 @@
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
 mensuel, par mètre carré, charges non comprises, sont fixés :
 
-a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2018, à 23,30 € en zone A, 16,20
-€ en zone B 1, 13,24 € en zone B 2 et 9,70 € en zone C ;
+a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2019, à 23,59 € en zone A, 16,40
+€ en zone B 1, 13,41 € en zone B 2 et 9,82 € en zone C ;
 
 b. S'agissant des logements acquis ou construits à compter du 1er janvier 2011 ou des logements acquis par des sociétés
 civiles de placement immobilier en tout ou partie au moyen de souscriptions réalisées à compter de cette même date, pour les
-baux conclus en 2018, à 23,16 € en zone A bis, 17,18 € dans le reste de la zone A, 13,86 € en zone B 1, 11,30 € en zone B 2
-et 7,87 € en zone C.
+baux conclus en 2019, à 23,45 € en zone A bis, 17,39 € dans le reste de la zone A, 14,03 € en zone B 1, 11,44 € en zone B 2
+et 7,97 € en zone C.
 
 Les plafonds mentionnés aux a et b sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa
 du a de l'article 2 duodecies.
 
-Pour les baux conclus en 2018, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+Pour les baux conclus en 2019, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux aux montants
 mentionnés au cinquième alinéa de l'article 2 terdecies C, majorés :
 
@@ -48,12 +48,12 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies B (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (V)
   - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 bis B (V)
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 4
+  - Décret n°2019-559 du 6 juin 2019 - art. 3
 
 _Cite_:
 
