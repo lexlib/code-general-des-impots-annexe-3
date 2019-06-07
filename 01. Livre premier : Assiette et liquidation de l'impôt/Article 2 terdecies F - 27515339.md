@@ -3,16 +3,16 @@
 I. – Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général
 des impôts sont fixés comme suit :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2018, fixés à 10,22
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2019, fixés à 10,37
 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon,
-et à 12,70 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+et à 12,80 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de
 l'article 2 terdecies D.
 
 Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au III de l'article 46 AG terdecies.
 
-2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2018, les suivants :
+2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2019, les suivants :
 
 <table border="1">
   <tbody>
@@ -21,10 +21,21 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
       <th>
 
 Lieu de situation du logement : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon
+
 (en €)</th>
       <th>
 
-Lieu de situation du logement : Nouvelle-Calédonie, Polynésie française, îles Wallis et Futuna (en €)</th>
+Lieu de situation du
+
+logement :
+
+Nouvelle-Calédonie,
+
+Polynésie française,
+
+îles Wallis et Futuna
+
+(en €)</th>
     </tr>
     <tr>
       <td align="left">
@@ -32,10 +43,10 @@ Lieu de situation du logement : Nouvelle-Calédonie, Polynésie française, île
 Personne seule</td>
       <td align="right">
 
-27 710</td>
+28 115</td>
       <td align="right">
 
-30 768</td>
+31 010</td>
     </tr>
     <tr>
       <td align="left">
@@ -43,10 +54,10 @@ Personne seule</td>
 Couple</td>
       <td align="right">
 
-37 006</td>
+37 547</td>
       <td align="right">
 
-41 087</td>
+41 410</td>
     </tr>
     <tr>
       <td align="left">
@@ -54,10 +65,10 @@ Couple</td>
 Personne seule ou couple ayant une personne à charge</td>
       <td align="right">
 
-44 503</td>
+45 153</td>
       <td align="right">
 
-49 412</td>
+49 800</td>
     </tr>
     <tr>
       <td align="left">
@@ -65,10 +76,10 @@ Personne seule ou couple ayant une personne à charge</td>
 Personne seule ou couple ayant deux personnes à charge</td>
       <td align="right">
 
-53 725</td>
+54 510</td>
       <td align="right">
 
-59 651</td>
+60 119</td>
     </tr>
     <tr>
       <td align="left">
@@ -76,10 +87,10 @@ Personne seule ou couple ayant deux personnes à charge</td>
 Personne seule ou couple ayant trois personnes à charge</td>
       <td align="right">
 
-63 200</td>
+64 123</td>
       <td align="right">
 
-70 172</td>
+70 723</td>
     </tr>
     <tr>
       <td align="left">
@@ -87,10 +98,10 @@ Personne seule ou couple ayant trois personnes à charge</td>
 Personne seule ou couple ayant quatre personnes à charge</td>
       <td align="right">
 
-71 226</td>
+72 266</td>
       <td align="right">
 
-79 083</td>
+79 703</td>
     </tr>
     <tr>
       <td align="left">
@@ -98,10 +109,10 @@ Personne seule ou couple ayant quatre personnes à charge</td>
 Majoration par personne à charge supplémentaire à partir de la cinquième</td>
       <td align="right">
 
-+ 7 948</td>
++ 8 065</td>
       <td align="right">
 
-+ 8 824</td>
++ 8 894</td>
     </tr>
   </tbody>
 </table>
@@ -136,7 +147,7 @@ Modifications effectuées en conséquence de l'article 1er-1° du décret n° 20
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 4
+  - Décret n°2019-559 du 6 juin 2019 - art. 3
 
 _Cité par_:
 
@@ -149,7 +160,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
   - Code général des impôts, CGI. - art. 1417

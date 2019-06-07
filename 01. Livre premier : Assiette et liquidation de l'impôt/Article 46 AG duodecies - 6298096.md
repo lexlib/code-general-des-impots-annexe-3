@@ -3,14 +3,14 @@
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants :
 
-1. Pour les baux conclus en 2018, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2019, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 173 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er
+1° 176 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er
 janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
 consommation hors tabac de chacun des cinq départements d'outre-mer ;
 
-2° 215 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
+2° 217 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
 Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que
 la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la
 Nouvelle-Calédonie.
@@ -31,7 +31,7 @@ Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut d
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2018, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2019, les plafonds annuels de ressources sont les suivants :
 
 <table border="1">
   <tbody>
@@ -47,8 +47,9 @@ Plafond annuel de ressources (en €)</th>
 Départements d'outre-mer, Saint-Barthélemy et Saint-Martin</th>
       <th>
 
-Polynésie française, Nouvelle Calédonie, îles Wallis et Futuna, Terres australes et antarctiques françaises et Saint-Pierre-
-et-Miquelon</th>
+Polynésie française,
+
+Nouvelle Calédonie, îles Wallis et Futuna, Terres australes et antarctiques françaises et Saint-Pierre-et-Miquelon</th>
     </tr>
     <tr>
       <td align="justify">
@@ -56,10 +57,10 @@ et-Miquelon</th>
 Personne seule</td>
       <td align="center">
 
-32 069</td>
+32 538</td>
       <td align="center">
 
-30 925</td>
+31 168</td>
     </tr>
     <tr>
       <td align="justify">
@@ -67,10 +68,10 @@ Personne seule</td>
 Couple</td>
       <td align="center">
 
-59 307</td>
+60 173</td>
       <td align="center">
 
-57 194</td>
+57 643</td>
     </tr>
     <tr>
       <td align="justify">
@@ -78,10 +79,10 @@ Couple</td>
 Personne seule ou couple ayant une personne à charge</td>
       <td align="center">
 
-62 737</td>
+63 653</td>
       <td align="center">
 
-60 500</td>
+60 975</td>
     </tr>
     <tr>
       <td align="justify">
@@ -89,10 +90,10 @@ Personne seule ou couple ayant une personne à charge</td>
 Personne seule ou couple ayant deux personnes à charge</td>
       <td align="center">
 
-66 167</td>
+67 134</td>
       <td align="center">
 
-63 810</td>
+64 311</td>
     </tr>
     <tr>
       <td align="justify">
@@ -100,10 +101,10 @@ Personne seule ou couple ayant deux personnes à charge</td>
 Personne seule ou couple ayant trois personnes à charge</td>
       <td align="center">
 
-70 750</td>
+71 783</td>
       <td align="center">
 
-68 229</td>
+68 764</td>
     </tr>
     <tr>
       <td align="justify">
@@ -111,10 +112,10 @@ Personne seule ou couple ayant trois personnes à charge</td>
 Personne seule ou couple ayant quatre personnes à charge</td>
       <td align="center">
 
-75 335</td>
+76 435</td>
       <td align="center">
 
-72 648</td>
+73 218</td>
     </tr>
     <tr>
       <td align="justify">
@@ -122,10 +123,10 @@ Personne seule ou couple ayant quatre personnes à charge</td>
 Majoration par personne à charge à partir de la cinquième</td>
       <td align="center">
 
-+ 4 815</td>
++ 4 886</td>
       <td align="center">
 
-+ 4 643</td>
++ 4 680</td>
     </tr>
   </tbody>
 </table>
@@ -152,7 +153,7 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 4
+  - Décret n°2019-559 du 6 juin 2019 - art. 3
 
 _Cité par_:
 
@@ -168,4 +169,4 @@ _Cité par_:
 _Cite_:
 
   - Code général des impôts, CGI. - art. 196
-  - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 199 undecies A (M)
