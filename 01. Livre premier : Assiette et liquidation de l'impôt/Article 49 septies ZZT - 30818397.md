@@ -2,19 +2,19 @@
 
 Pour l'application de l'article 244 quater X du code général des impôts : 
 
-1° Le montant annuel des ressources mentionnées au b du 1 du I ne peut excéder les plafonds indiqués au 1° du I de l'article
-46 AG sexdecies ; 
+1° Le montant annuel des ressources mentionnées au b du 1 du I ne peut excéder les plafonds annuels de ressources prévus pour
+l'application de l'article R. 372-21 du code de la construction et de l'habitation ; 
 
-2° Le montant des loyers mentionnés au c du 1 du I ne peut excéder les plafonds indiqués au 1° du II de l'article 46 AG
-sexdecies ; 
+2° Le montant des loyers mentionnés au c du 1 du I ne peut excéder les plafonds annuels de loyers prévus pour l'application
+de l'article R. 372-21 du code de la construction et de l'habitation ; 
 
 3° a) La part minimale de la surface habitable des logements mentionnée au d du 1 du I est fixée à 30 % ; 
 
-b) Le montant annuel des ressources mentionnées au d du 1 du I ne peut excéder les plafonds indiqués au 1° du 2 du III de
-l'article 46 AG sexdecies ; 
+b) Le montant annuel des ressources mentionnées au d du 1 du I ne peut excéder les plafonds annuels de ressources prévus pour
+l'application de l'article R. 372-7 du code de la construction et de l'habitation ; 
 
-c) Le montant des loyers mentionnés au d du 1 du I ne peut excéder les plafonds indiqués au 1° du 3 du III de l'article 46 AG
-sexdecies ; 
+c) Le montant des loyers mentionnés au d du 1 du I ne peut excéder les plafonds annuels de loyers prévus pour l'application
+de l'article R. 372-7 du code de la construction et de l'habitation ; 
 
 4° La fraction mentionnée au e du 1 du I est égale à 4,5 % du coût de la construction au sens des 4° et 5° du VI de l'article
 46 AG sexdecies lorsque tous les logements sont équipés d'une installation d'eau chaude sanitaire et à 3,5 % dans les autres
@@ -35,12 +35,13 @@ AG terdecies A.
 
 _Modifié par_:
 
-  - Décret n°2016-775 du 10 juin 2016 - art. 4
+  - Décret n°2019-583 du 13 juin 2019 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexdecies
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies A
   - Code général des impôts, CGI. - art. 244 quater X
+  - Code de la construction et de l'habitation. - art. R372-21
+  - Code de la construction et de l'habitation. - art. R372-7
