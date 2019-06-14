@@ -45,8 +45,8 @@ ou sept premières années d'exploitation de l'investissement ;
 13° Le cas échéant, la date de l'accord, de l'agrément ou de l'autorisation préalable de l'administration. 
 
 2. Lorsque l'investissement consiste en la réalisation de logements et ouvre droit aux dispositions prévues aux articles 199
-undecies A, 199 undecies C, 217 undecies, 244 quater W ou 244 quater X du code général des impôts, la personne morale
-précise, en outre : 
+undecies A, 199 undecies C, 217 undecies, 217 duodecies, 244 quater W ou 244 quater X du code général des impôts, la personne
+morale précise, en outre : 
 
 1° Si l'investissement consiste en l'acquisition, la construction ou la réhabilitation de logements ; 
 
@@ -100,17 +100,18 @@ des dispositions du a du 2 de l'article 199 undecies A du code général des imp
 
 _Cite_:
 
-  - Loi n°2014-173 du 21 février 2014 - art. 5 (V)
-  - Code de commerce - art. R123-221 (V)
-  - Code général des impôts, CGI. - art. 199 undecies A (V)
-  - Code général des impôts, CGI. - art. 199 undecies B (V)
-  - Code général des impôts, CGI. - art. 199 undecies C (V)
+  - Loi n°2014-173 du 21 février 2014 - art. 5
+  - Code de commerce - art. R123-221
+  - Code général des impôts, CGI. - art. 199 undecies A
+  - Code général des impôts, CGI. - art. 199 undecies B
+  - Code général des impôts, CGI. - art. 199 undecies C
+  - Code général des impôts, CGI. - art. 217 duodecies
   - Code général des impôts, CGI. - art. 217 undecies
-  - Code général des impôts, CGI. - art. 242 sexies (V)
-  - Code général des impôts, CGI. - art. 244 quater W (V)
-  - Code général des impôts, CGI. - art. 244 quater X (V)
+  - Code général des impôts, CGI. - art. 242 sexies
+  - Code général des impôts, CGI. - art. 244 quater W
+  - Code général des impôts, CGI. - art. 244 quater X
   - Code de la construction et de l'habitation. - art. L411-2
 
 _Modifié par_:
 
-  - Décret n°2015-1059 du 25 août 2015 - art. 1
+  - Décret n°2019-583 du 13 juin 2019 - art. 1
