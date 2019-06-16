@@ -1,8 +1,8 @@
 # Article 46 quater-0 ZH
 
-I. (Sans objet).
+I.-(Sans objet).
 
-II. Pour l'application des dispositions de l'article 223 F du code général des impôts, la société mère doit :
+II.-Pour l'application des dispositions de l'article 223 F du code général des impôts, la société mère doit :
 
 1. Réintégrer au résultat d'ensemble de chaque exercice une somme égale à la fraction de l'annuité fiscale d'amortissements
 pratiquée par la société cessionnaire, qui excède la dotation fiscale calculée dans les mêmes conditions et au même taux que
@@ -40,10 +40,10 @@ groupe ;
 
 b) La cession est réalisée par une société intermédiaire, une société étrangère ou une entité mère non résidente, à une
 société autre qu'une société du groupe ou autre qu'une société intermédiaire, une société étrangère ou une entité mère non
-résidente  et porte sur des titres d'une société qui demeure dans le groupe et qui ont été préalablement acquis auprès d'une
-société du groupe. 
+résidente et porte sur des titres d'une société qui demeure dans le groupe et qui ont été préalablement acquis auprès d'une
+société du groupe.
 
-III. 1. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
+III.-1. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
 immobilisation autre que les titres d'une société du groupe à une autre société du groupe ou lors de la sortie du groupe de
 la société qui est propriétaire de cette immobilisation ou lors de l'apport d'une immobilisation amortissable entre sociétés
 du groupe lorsque cet apport bénéficie des dispositions de l'article 210 A du code général des impôts.
@@ -56,19 +56,34 @@ Pour une immobilisation non amortissable, son prix d'acquisition par la sociét�
 
 2. Les dispositions du 3 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé des titres
 d'une société du groupe à une autre société du groupe ou à une société intermédiaire, ou à une société étrangère ou à une
-entité mère non résidente,  ou lors de la sortie du groupe de la société qui est propriétaire de ces titres, ou lors de la
+entité mère non résidente, ou lors de la sortie du groupe de la société qui est propriétaire de ces titres, ou lors de la
 sortie du groupe d'une société dont les titres ont fait l'objet d'une cession à une société intermédiaire, ou à une société
 étrangère ou à une entité mère non résidente.
+
+IV.-Pour déterminer le montant brut de la plus-value servant de base au calcul de la quote-part de frais et charges
+mentionnée au troisième alinéa de l'article 223 F du code général des impôts :
+
+1. Les dispositions du 2 du II s'appliquent en cas de cession de titres autres que ceux d'une société du groupe et les
+dispositions du 3 du II s'appliquent en cas de cession de titres d'une société du groupe ;
+
+2. Les dispositions du 1 du III s'appliquent en cas de sortie du groupe de la société propriétaire de titres autres que ceux
+d'une société du groupe et les dispositions du 2 du III s'appliquent lorsque la société propriétaire des titres d'une société
+du groupe, selon le cas, sort du groupe ou perd la qualité de société intermédiaire, de société étrangère ou d'entité mère
+non résidente.
+
+Pour l'application du présent IV, les sommes comprises dans la plus-value ou moins-value nette à long terme d'ensemble en
+application du deuxième alinéa de l'article 223 F précité au titre d'exercices ouverts à compter du 1er janvier 2019 sont
+considérées comme n'ayant pas été retenues pour le calcul de cette plus-value ou moins-value nette à long terme d'ensemble.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
+  - Décret n°2019-594 du 14 juin 2019 - art. 1
 
 _Cité par_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (M)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
 
 _Cite_:
 
