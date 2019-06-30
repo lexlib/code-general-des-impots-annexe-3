@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2019-06-29
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -41411,13 +41411,13 @@ exercées.
 ###### Article 416 bis
 
 Le seuil de publicité obligatoire mentionné au premier alinéa du 4 de l'article 1929 quater du code général des impôts est
-fixé à 15 000 €.
+fixé à 200 000 €.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-197 du 18 février 2009 - art. 1
+  - Décret n°2019-683 du 28 juin 2019 - art. 1
 
 _Cite_:
 
