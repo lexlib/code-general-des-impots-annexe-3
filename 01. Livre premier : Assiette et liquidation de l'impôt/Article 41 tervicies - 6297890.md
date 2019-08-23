@@ -1,25 +1,29 @@
 # Article 41 tervicies
 
-Le montant de la plus-value imposable en application de l'article 160 du code général des impôts ainsi que les éléments
-nécessaires à sa détermination sont déclarés sur une formule délivrée par l'administration.
+Le contribuable renseigne, sur la déclaration prévue au 1 de l'article 170 du code général des impôts établie l'année suivant
+celle du transfert du domicile fiscal hors de France, le montant total des plus-values latentes, des créances trouvant leur
+origine dans une clause de complément de prix et des plus-values en report, imposables en application des premier et deuxième
+alinéas du 1 du I et du II de l'article 167 bis du même code. 
+
+Sont précisés, sur un formulaire distinct, la date du transfert du domicile fiscal hors de France, l'adresse du nouveau
+domicile fiscal, le montant des plus-values latentes, des créances trouvant leur origine dans une clause de complément de
+prix et des plus-values en report, ainsi que les éléments nécessaires à leur détermination. 
+
+Le formulaire mentionné au deuxième alinéa est déposé au service des impôts des particuliers dont dépendait le domicile
+fiscal du contribuable en France avant son transfert, à l'appui de la déclaration mentionnée au premier alinéa.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 160
-
-_Créé par_:
-
-  - Décret n°91-1313 du 27 décembre 1991 - art. 1 (V) JORF 29 décembre 1991
+  - Code général des impôts, CGI. - art. 167 bis
 
 _Codifié par_:
 
-  - Décret n°92-836 1992-08-27
-  - Décret n°2000-477 2000-06-02
+  - Décret n°92-836 du 27 août 1992
+  - Décret n°2000-477 du 2 juin 2000
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 31 mars 2000
-  - HISTO: Edition du 4 juillet 1992
-  - PEREMPTION: Loi - art. 94 (V) JORF 31 décembre 1999
+  - Décret n°2019-868 du 21 août 2019 - art. 1
