@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2019-08-24
+Version Consolidée au 2019-09-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -31156,30 +31156,29 @@ _Cite_:
 
 Pour bénéficier de l'exonération prévue à l'article 1384 C du code général des impôts, le redevable de la taxe foncière sur
 les propriétés bâties doit adresser au service des impôts du lieu de situation des biens une déclaration conforme au modèle
-établi par l'administration comportant tous les éléments permettant leur identification. 
+établi par l'administration comportant tous les éléments permettant leur identification.
 
-Pour les immeubles mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation, la
+Pour les immeubles mentionnés aux 3° et 5° de l'article L. 831-1 du code de la construction et de l'habitation, la
 déclaration doit indiquer le mode de financement de l'acquisition ou des travaux d'amélioration de l'immeuble et être
-accompagnée des pièces justificatives correspondantes. 
+accompagnée des pièces justificatives correspondantes.
 
-Pour les immeubles mentionnés au 4° de l'article L. 351-2 du code de la construction et de l'habitation, la déclaration doit
+Pour les immeubles mentionnés au 4° de l'article L. 831-1 du code de la construction et de l'habitation, la déclaration doit
 préciser la date d'acquisition de l'immeuble, la date de décision et de versement de la subvention par l'Agence nationale de
 l'habitat ainsi que la date d'achèvement des travaux d'amélioration. Elle doit être accompagnée des pièces justificatives
-ainsi que d'une copie de l'agrément accordé à l'organisme propriétaire par le représentant de l'Etat dans le département. 
+ainsi que d'une copie de l'agrément accordé à l'organisme propriétaire par le représentant de l'Etat dans le département.
 
 Pour l'application du premier alinéa du II de l'article 1384 C du code général des impôts, la convention conclue avec l'Etat
-mentionnée à cet article est celle prévue au 4° de l'article L. 351-2 du code de la construction et de l'habitation.
+mentionnée à cet article est celle prévue au 4° de l'article L. 831-1 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2006-674 2006-06-08 art. 1 JORF 10 juin 2006
-  - Loi n°2006-872 du 13 juillet 2006 - art. 37 (V) JORF 16 juillet 2006
-
 _Codifié par_:
 
-  - Décret n°2007-484 2007-03-30
+  - Décret n°2007-484 du 30 mars 2007
+
+_Modifié par_:
+
+  - Décret n°2019-772 du 24 juillet 2019 - art. 12
 
 _Cité par_:
 
@@ -31188,8 +31187,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1384 C (V)
-  - Code de la construction et de l'habitation. - art. L351-2 (V)
+  - Code général des impôts, CGI. - art. 1384 C
+  - Code de la construction et de l'habitation. - art. L831-1
 
 
 ###### Article 315-0 bis A
@@ -32013,10 +32012,9 @@ L'organisme doit ainsi justifier par la production des tarifs pratiqués, des cr
 règlement intérieur de la résidence, du ou des contrat (s) type (s) de location ou d'hébergement et de tout autre document
 édité par l'organisme que :
 
-1° Les tarifs de location avant imputation de l'allocation de logement sociale prévue par les articles L. 831-1 et suivants
-du code de la sécurité sociale ou de l'aide personnalisée au logement prévue par les articles L. 351-1 et suivants du code de
-la construction et de l'habitation n'excèdent pas de 10 % ceux pratiqués par les centres régionaux des oeuvres universitaires
-et scolaires ;
+1° Les tarifs de location avant imputation de l'allocation de logement sociale ou de l'aide personnalisée au logement prévues
+à l'article L. 821-1 du code de la construction et de l'habitation n'excèdent pas de 10 % ceux pratiqués par les centres
+régionaux des oeuvres universitaires et scolaires ;
 
 2° La résidence n'est occupée que par des étudiants inscrits dans l'un des établissements suivants agréés au régime de
 sécurité sociale des étudiants : établissements d'enseignement supérieur, écoles techniques supérieures, grandes écoles et
@@ -32039,9 +32037,9 @@ poursuivent leurs études ;
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-1462 du 16 décembre 2002 - art. 1 () JORF 18 décembre 2002
+  - Décret n°2019-772 du 24 juillet 2019 - art. 12
 
 _Cité par_:
 
@@ -32049,13 +32047,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1407 (V)
-  - Code de la sécurité sociale. - art. L831-1 (V)
-  - Code de la construction et de l'habitation. - art. L351-1 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Instruction 2003-03-06 6D-2-03
+  - Code général des impôts, CGI. - art. 1407
+  - Code de la sécurité sociale. - art. L831-1
+  - Code de la construction et de l'habitation. - art. L351-1
 
 
 ##### Section III : Cotisation foncière des entreprises<a id=350></a>
