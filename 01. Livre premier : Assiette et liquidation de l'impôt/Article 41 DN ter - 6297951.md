@@ -6,13 +6,25 @@ cotisants, avant le 1er mars de chaque année, une attestation mentionnant le mo
 cours de l'année civile précédente ou au cours du dernier exercice clos. Un double de cette attestation est produit dans le
 même délai à l'administration fiscale.
 
+Les organismes gestionnaires des plans d'épargne retraite mentionnés à l'article L. 224-1 du code monétaire et financier
+doivent déclarer à l'administration fiscale le montant des versements mentionnés au dernier alinéa du I de l'article 154 bis
+et au second alinéa de l'article 154 bis-0 A du code général des impôts effectués par chacun de leurs souscripteurs.
+
+Ces renseignements doivent parvenir à l'administration fiscale avant le 16 février de chaque année pour les versements
+réalisés l'année précédente. Ils figurent sur la déclaration prévue au 1 de l'article 242 ter du code général des impôts.
+
+**Nota:**
+
+Conformément aux dispositions du IV de l'article 9 du décret n° 2019-807 du 30 juillet 2019, ces dispositions entrent en
+vigueur le 1er octobre 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1546 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
+  - Décret n°2019-807 du 30 juillet 2019 - art. 5
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 154 bis (V)
-  - Code général des impôts, CGI. - art. 154 bis-0 A (V)
+  - Code général des impôts, CGI. - art. 154 bis
+  - Code général des impôts, CGI. - art. 154 bis-0 A
