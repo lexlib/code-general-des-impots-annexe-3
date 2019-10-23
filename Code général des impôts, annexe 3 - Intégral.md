@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2019-10-01
+Version Consolidée au 2019-10-24
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -37310,38 +37310,40 @@ des impôts ;
 
 14° A la déclaration de taxe sur les véhicules de tourisme des sociétés prévue à l'article 1010 du code général des impôts ; 
 
-15° Sur option, à la déclaration de taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et de stockage
-dans la région Ile-de-France prévue à l'article 231 ter du code général des impôts. L'option ne peut être exercée que si
-l'entreprise a opté pour le paiement des taxes foncières auprès du comptable du service des grandes entreprises mentionné au
-premier alinéa de l'article 344-0 A. Elle est formulée dans les mêmes conditions que celles prévues pour l'option mentionnée
-à l'article 406 terdecies ; 
+15° Aux déclarations de taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et
+les surfaces de stationnement perçue dans la région Ile-de-France prévue à l'article 231 ter du code général des impôts et de
+taxe annuelle sur les surfaces de stationnement prévue à l'article 1599 quater C du même code, en cas d'option pour le
+paiement des taxes foncières prévue au second alinéa du II de l'article 406 terdecies ; 
 
 16° A la déclaration prévue à l'article 87-0 A du code général des impôts.
 
 **Nota:**
 
-Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017 modifié par l'article 2 du décret n° 2017-1676 du 7 décembre
-2017, les dispositions du présent article s'appliquent aux revenus perçus ou réalisés à compter du 1er janvier 2019.
+Conformément à l'article 2 du décret n° 2019-1072 du 21 octobre 2019, les dispositions du présent article sont applicables
+aux options pour le paiement des taxes foncières prévues à l'article 406 terdecies de l'annexe III au code général des impôts
+formulées antérieurement à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
 _Cité par_:
 
   - Décret n°2017-866 du 9 mai 2017 - art. 5 (VD)
   - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
 
+_Modifié par_:
+
+  - Décret n°2019-1072 du 21 octobre 2019 - art. 1
+
 _Cite_:
 
   - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z
   - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis
   - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
+  - Code général des impôts, annexe 3, CGIAN3. - art. 369
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 C
   - Code général des impôts, CGI. - art. 1010
   - Code général des impôts, CGI. - art. 1586 octies
+  - Code général des impôts, CGI. - art. 1599 quater C
   - Code général des impôts, CGI. - art. 172
   - Code général des impôts, CGI. - art. 172 bis
   - Code général des impôts, CGI. - art. 209 B
@@ -37352,6 +37354,8 @@ _Cite_:
   - Code général des impôts, CGI. - art. 87-0 A
   - Code général des impôts, CGI. - art. 990 F
   - Code général des impôts, CGI. - art. 991
+  - Code rural - art. R716-28
+  - Code de la construction et de l'habitation. - art. R*313-2
 
 
 ###### Article 344-0 C
