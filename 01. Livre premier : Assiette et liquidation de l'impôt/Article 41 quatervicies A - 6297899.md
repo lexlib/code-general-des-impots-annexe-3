@@ -1,49 +1,64 @@
 # Article 41 quatervicies A
 
-I. - Les contribuables qui entendent bénéficier du report d'imposition prévu à l'article 92 B decies du code général des
-impôts et au II de l'article 160 du même code font apparaître distinctement sur la déclaration de leurs plus-values prévue,
-selon le cas, aux articles 97 ou 160 du code déjà cité, le montant de la plus-value dont le report d'imposition est demandé,
-ainsi que les éléments nécessaires à sa détermination.
+1. Lorsque, dans les trois années suivant la date de l'apport, délai décompté de date à date, les titres apportés sont
+affectés par l'un des événements mentionnés à la première phrase du 2° du I de l'article 150-0 B ter du code général des
+impôts, la société bénéficiaire de l'apport mentionne sur une attestation annexée à sa déclaration de résultat de l'exercice
+de survenance de l'événement les informations suivantes :
 
-Cette déclaration indique en outre :
+a) La nature et la date de l'événement ayant affecté les titres qui lui ont été apportés ;
 
-a) La dénomination et l'adresse de la société dont les titres sont cédés ;
+b) Le nombre de titres affectés par cet événement ainsi que, le cas échéant, leur prix de cession à la date de l'événement ;
 
-b) Le pourcentage des droits détenus par les membres du foyer fiscal dans les bénéfices sociaux de cette société à la date de
-la cession des titres ;
+c) Le cas échéant, l'engagement de réinvestir, dans les conditions prévues au 2° du I de l'article 150-0 B ter précité, le
+produit de la cession des titres concernés, au plus tard à l'expiration d'un délai de deux ans à compter de la date de la
+cession ou, le cas échéant, à compter de la date de perception d'un complément de prix afférent à cette cession.
 
-c) La nature des fonctions exercées par le cédant dans cette société au cours des cinq années ayant précédé la cession des
-titres.
+2. a) Lorsque la société qui s'est engagée à réinvestir le produit de la cession dans les conditions prévues au 2° du I de
+l'article 150-0 B ter précité satisfait à cet engagement, elle joint à sa déclaration de résultat de chaque exercice au cours
+duquel un réinvestissement est effectué une attestation mentionnant les informations suivantes :
 
-II. - Les contribuables doivent joindre à la déclaration mentionnée au I une attestation de la société bénéficiaire de
-l'apport comportant :
+1° Le montant du produit de cession ou du complément de prix réinvesti ;
 
-a) Sa dénomination et son adresse ;
+2° La nature et la date du réinvestissement ;
 
-b) La date et le montant de l'apport effectué par le cédant au titre de la souscription ou de l'augmentation de capital en
-numéraire. Cette attestation précise que les droits sociaux émis en contrepartie de cet apport sont intégralement libérés à
-leur souscription.
+3° Le cas échéant, la dénomination, la catégorie et la forme ainsi que l'adresse du siège de la société, du fonds ou de
+l'organisme bénéficiaire du réinvestissement.
 
-III. - Lorsque, à la date du dépôt de la déclaration mentionnée au I, le contribuable n'a pas réalisé l'apport en société
-auquel le report d'imposition est subordonné, il produit cette attestation auprès du service des impôts dans le mois qui suit
-la réalisation de cet apport.
+b) Lorsque le produit de la cession des titres est réinvesti en application du d du 2° du I de l'article 150-0 B ter du code
+général des impôts, la société mentionnée au premier alinéa du a informe le fonds, la société ou l'organisme émetteur des
+parts ou actions souscrites que cette souscription est effectuée dans le cadre d'un réinvestissement réalisé en application
+de cette disposition.
+
+3. a) La société qui a satisfait à l'engagement de réinvestissement dans les conditions prévues au 2° du I de l'article 150-0
+B ter du code général des impôts joint à sa déclaration de résultat de l'exercice au cours duquel les délais de conservation
+prévus au septième alinéa du même 2° expirent, une attestation du fonds, de la société ou de l'organisme bénéficiaire du
+réinvestissement certifiant que l'obligation de conservation des biens ou titres ainsi acquis ou souscrits a été satisfaite.
+
+b) Lorsqu'un réinvestissement est réalisé en application du d du 2° du I de l'article 150-0 B ter du code général des impôts,
+dans le mois qui suit l'expiration du délai de cinq ans mentionné au même d, le fonds, la société ou l'organisme émetteur des
+parts ou actions souscrites communique à la société mentionnée au premier alinéa du a du 2 une attestation indiquant si, à
+l'expiration de ce délai, la condition tenant aux quotas d'investissement en titres éligibles prévue audit d est satisfaite
+et indiquant les pourcentages de l'actif de ce fonds, cette société ou cet organisme constitués par ces titres.
+
+4. Lorsque la société ne prend pas l'engagement mentionné au c du 1 ou lorsque le réinvestissement effectué ne répond pas aux
+conditions prévues au 2° du I de l'article 150-0 B ter précité, elle joint à la déclaration de résultat de l'exercice de
+cession des titres apportés sans engagement de réinvestissement, ou de l'exercice au cours duquel l'une des conditions de
+réinvestissement n'est pas respectée, une attestation précisant que le produit de la cession des titres apportés n'est pas
+réinvesti conformément aux dispositions du 2° du I de l'article 150-0 B ter précité.
+
+5. Une copie des attestations mentionnées aux 1 à 4 est transmise par la société concernée au contribuable ayant réalisé
+l'apport des titres grevés d'une plus-value en report d'imposition ou, le cas échéant, au donataire desdits titres.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 92 B decies, 160, 97
-
-_Créé par_:
-
-  - Décret n°98-587 du 9 juillet 1998 - art. 1 () JORF 11 juillet 1997
-
 _Codifié par_:
 
-  - Décret n°2000-477 2000-06-02
+  - Décret n°2000-477 du 2 juin 2000
 
-**Liens**:
+_Modifié par_:
 
-  - HISTO: Edition du 31 mars 1999
-  - HISTO: Edition du 31 mars 2000
-  - PEREMPTION: Loi - art. 94 (V) JORF 31 décembre 1999
+  - Décret n°2019-1142 du 7 novembre 2019 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 150-0 B ter

@@ -1,45 +1,35 @@
 # Article 41 quinvicies
 
-Le montant global des plus-values visées aux articles 41 quatervicies et 41 quatervicies A est mentionné sur la déclaration
-prévue au 1 de l'article 170 du code général des impôts, l'année où leur report d'imposition est demandé.
+1. Pour l'application du II de l'article 150-0 B ter du code général des impôts, le donateur communique au donataire les
+éléments mentionnés à l'article 41 quatervicies lui permettant de déclarer la plus-value en report d'imposition afférente aux
+titres transmis. 
 
-Chaque année, le montant cumulé des plus-values en report d'imposition est indiqué sur cette même déclaration.
+Lorsque la donation intervient dans le délai de trois ans suivant la date de l'apport, délai décompté de date à date, le
+donateur informe la société bénéficiaire de l'apport de l'identité et de l'adresse du donataire. 
 
-Le contribuable joint à cette déclaration un état établi sur une formule délivrée par l'administration et faisant apparaître
-pour chaque plus-value dont le report d'imposition n'est pas expiré :
+2. Le donateur mentionne sur le formulaire prévu à l'article 74-0 F de l'annexe II au présent code, souscrit au titre de
+l'année de la transmission, l'identité et l'adresse du donataire, la date de la transmission, le nombre de titres transmis et
+le montant de la plus-value en report d'imposition afférente à ces titres. 
 
-a) La nature et la date de l'opération ;
-
-b) La désignation des sociétés concernées ;
-
-c) Le montant de ces plus-values au 31 décembre de l'année d'imposition et au 31 décembre de l'année précédente ;
-
-d) La nature et la date de l'événement ayant entraîné la modification de ce montant ;
-
-e) L'indication du régime de report d'imposition applicable à l'opération ;
-
-f) Le cas échéant, la désignation de la société ou du groupement interposé qui a réalisé l'opération d'échange de titres
-ainsi que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange.
+3. Le donataire mentionne sur le formulaire prévu à l'article 74-0 F de l'annexe II précité, souscrit au titre de l'année de
+la transmission, l'identité et l'adresse du donateur, le nombre de titres transmis, la date de la transmission, le montant de
+la plus-value en report d'imposition afférente à ces titres, la dénomination et l'adresse du siège social ou du principal
+établissement de la société dont les titres font l'objet de la transmission et les éléments mentionnés au premier alinéa du
+1. Le cas échéant, sur demande de l'administration, le donataire transmet l'attestation mentionnée au 2 de l'article 41
+quatervicies.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 170
-  - CGIAN3 41 quatervicies, 41 quatervicies A
+  - Décret n°99-382 du 18 mai 1999
+  - Décret n°2000-477 du 2 juin 2000
 
 _Modifié par_:
 
-  - Décret n°98-587 du 9 juillet 1998 - art. 2 () JORF 11 juillet 1998
-  - Décret n°99-382 du 18 mai 1999 - art. 3 () JORF 20 mai 1999
+  - Décret n°2019-1142 du 7 novembre 2019 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°99-382 1999-05-18
-  - Décret n°2000-477 2000-06-02
-
-**Liens**:
-
-  - PEREMPTION: Loi - art. 94 (V) JORF 31 décembre 1999
-  - HISTO: Edition du 31 mars 1999
-  - HISTO: Edition du 31 mars 2000
+  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F
+  - Code général des impôts, CGI. - art. 150-0 B ter

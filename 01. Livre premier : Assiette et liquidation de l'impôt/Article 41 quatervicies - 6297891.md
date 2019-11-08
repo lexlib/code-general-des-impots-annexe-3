@@ -1,41 +1,45 @@
 # Article 41 quatervicies
 
-Les contribuables qui entendent bénéficier du report d'imposition prévu au II de l'article 92 B, au troisième alinéa de
-l'article 150 A bis ou au 4 du I ter de l'article 160 du code général des impôts font apparaître distinctement sur la
-déclaration de leurs plus-values prévue, selon le cas, aux articles 97, 150 S ou 160 du code déjà cité, le montant de la
-plus-value dont le report d'imposition est demandé assorti des éléments nécessaires à sa détermination.
+1. Le contribuable qui réalise une opération relevant du champ d'application du régime du report d'imposition prévu à
+l'article 150-0 B ter du code général des impôts mentionne distinctement sur la déclaration spéciale des plus-values prévue à
+l'article 74-0 F de l'annexe 2 au présent code le montant de la plus-value réalisée au titre de cette opération ainsi que les
+éléments nécessaires à sa détermination. 
 
-Cette déclaration indique, en outre :
+Le contribuable mentionne en outre les informations suivantes : 
 
-a) La nature et la date de l'opération d'échange des titres ;
+a) La date de l'opération d'apport ; 
 
-b) La désignation des sociétés concernées ;
+b) La dénomination et l'adresse du siège social ou du principal établissement de la société bénéficiaire de l'apport et, le
+cas échéant, de la société ou du groupement interposé qui a réalisé l'apport de titres ; 
 
-c) Le nombre de titres remis et de titres reçus ainsi que leur valeur réelle unitaire à la date de l'opération d'échange ;
+c) La nature juridique des droits apportés ; 
 
-d) La valeur nominale des titres reçus ;
+d) Le nombre de titres apportés ainsi que leur valeur réelle unitaire à la date de l'apport ; 
 
-e) Le montant de la soulte reçue, le cas échéant.
+e) Le nombre de titres reçus ainsi que leur valeur nominale et leur valeur réelle unitaire à la date de l'apport ; 
 
-f) S'il y a lieu, la désignation de la société ou du groupement interposé qui a réalisé l'opération d'échange de titres ainsi
-que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange.
+f) La valeur globale des titres apportés à la date de l'apport ; 
+
+g) La valeur unitaire et la valeur globale d'acquisition des titres apportés ; 
+
+h) Le cas échéant, le montant de la soulte reçue immédiatement imposable ou de la soulte versée, ainsi que celui de la plus-
+value d'apport dont l'imposition est reportée. 
+
+2. Le contribuable fournit, dans un délai de trente jours à compter de la demande de l'administration, une attestation émise
+lors de l'apport par la société bénéficiaire de cet apport précisant qu'elle est informée que les titres qui lui ont été
+apportés sont grevés d'une plus-value en report d'imposition en application de l'article 150-0 B ter précité.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 160, 97, 150 S, 150 A bis, 92 B
+  - Décret n°2000-477 du 2 juin 2000
 
 _Modifié par_:
 
-  - Décret n°97-666 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+  - Décret n°2019-1142 du 7 novembre 2019 - art. 1
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2000-477 2000-06-02
-
-**Liens**:
-
-  - HISTO: Edition du 22 avril 1998
-  - HISTO: Edition du 31 mars 2000
-  - PEREMPTION: Loi - art. 94 (V) JORF 31 décembre 1999
+  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F
+  - Code général des impôts, CGI. - art. 150-0 B ter
