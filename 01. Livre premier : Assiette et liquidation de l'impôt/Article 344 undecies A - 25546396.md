@@ -491,7 +491,7 @@ La taxe est perçue par modification présentée, qu'elle soit demandée ou noti
       <td align="left">
 
 a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et
-pour celles de type IB mentionnées au 2 de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008</
+pour celles de type IB mentionnées au 5° de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008</
 td>
       <td align="center" colspan="3">
 
@@ -510,7 +510,10 @@ Quelle que soit la procédure : 3 500 €</td>
       <td align="left">
 
 6° Toute demande de modification d'une autorisation de mise sur le marché sollicitée en application des articles R. 5121-41
-et R. 5121-46 du code de la santé publique</td>
+et R. 5121-46 du code de la santé publique. Le droit n'est perçu qu'une fois lorsque la modification consiste en un
+changement de nom ou d'adresse de l'exploitant quel que soit le nombre d'autorisations de mise sur le marché.
+
+</td>
       <td align="center" colspan="3">
 
 Quelle que soit la procédure : 2 500 €</td>
@@ -717,7 +720,7 @@ La taxe est perçue par modification présentée, qu'elle soit demandée ou noti
       <td align="left">
 
 a) Pour les modifications de type IA ne bénéficiant pas de l'exonération prévue au 3° et 4° du I de l'article 1635 bis AE, et
-pour celles de type IB mentionnées au 2 de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008</
+pour celles de type IB mentionnées au 5° de l'article 2 du règlement (CE) N° 1234/2008 de la Commission du 24 novembre 2008</
 td>
       <td align="left">
 
@@ -739,7 +742,10 @@ article.</td>
 autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen mentionnée au 4° de l'article
 1635 bis AE du code général des impôts, sollicitée en application des articles 61 (3) de la Directive 2001/83/ CE du 6
 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, R. 5121-41 et R. 5121-46 du code de la
-santé publique </td>
+santé publique. Le droit n'est perçu qu'une fois lorsque la modification consiste en un changement de nom ou d'adresse de
+l'exploitant quel que soit le nombre d'autorisations de mise sur le marché.
+
+</td>
       <td align="left">
 
 2 500 €</td>
@@ -788,7 +794,7 @@ demandes déposées à compter de l'entrée en vigueur dudit décret.
 
 _Modifié par_:
 
-  - Décret n°2019-389 du 30 avril 2019 - art. 1
+  - Décret n°2019-1189 du 15 novembre 2019 - art. 1
 
 _Cite_:
 
