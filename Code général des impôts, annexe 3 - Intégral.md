@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2019-12-01
+Version Consolidée au 2019-12-20
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -28264,27 +28264,8 @@ _Cité par_:
 
 ###### Article 178 B
 
-A l'exception de celles prévues aux articles 178 C, 178 D et 178 AB les prescriptions édictées par les articles 178 A et 178
-E à 178 AA ne s'appliquent pas aux pharmaciens d'officine.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-661 1997-05-28
-
-_Cite_:
-
-  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AB (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 178 C (V)
-  - Code général des impôts, annexe 3, CGIAN3. - art. 178 E (V)
-
-
-###### Article 178 C
-
-Sauf autorisation spéciale du ministre des affaires sociales, l'emploi de l'anéthol est interdit dans la fabrication des
-médicaments.
+A l'exception de celles prévues aux articles 178 D et 178 AB les prescriptions édictées par les articles 178 A et 178 E à 178
+AA ne s'appliquent pas aux pharmaciens d'officine.
 
 **Liens relatifs à cet article**
 
@@ -28292,13 +28273,16 @@ _Codifié par_:
 
   - Décret n°97-661 du 28 mai 1997
 
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2019-1383 du 18 décembre 2019 - art. 5
 
-_Cité par_:
+_Cite_:
 
-  - Code général des impôts, annexe 3, CGIAN3. - art. 178 B (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A
+  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AB
+  - Code général des impôts, annexe 3, CGIAN3. - art. 178 C (Ab)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 178 E
 
 
 ###### Article 178 D
