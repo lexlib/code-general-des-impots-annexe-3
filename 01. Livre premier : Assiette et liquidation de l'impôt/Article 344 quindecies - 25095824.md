@@ -1,9 +1,9 @@
 # Article 344 quindecies
 
 Conformément au 3° du II de l'article 1635 sexies du code général des impôts, les taux des abattements dont bénéficie La
-Poste sont fixés, pour l'année 2018, à :
+Poste sont fixés, pour l'année 2019, à :
 
-a. 85 % des bases d'imposition pour la cotisation foncière des entreprises et pour les taxes foncières ;
+a. 95 % des bases d'imposition pour la cotisation foncière des entreprises et pour les taxes foncières ;
 
 b. 95 % de la valeur ajoutée retenue pour l'application de l'article 1586 ter pour ce qui concerne la cotisation sur la
 valeur ajoutée des entreprises.
@@ -12,7 +12,7 @@ valeur ajoutée des entreprises.
 
 _Modifié par_:
 
-  - Décret n°2018-1261 du 26 décembre 2018 - art. 1
+  - Décret n°2019-1542 du 30 décembre 2019 - art. 1
 
 _Cite_:
 
