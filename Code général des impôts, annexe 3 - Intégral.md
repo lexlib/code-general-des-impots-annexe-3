@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-01
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -27450,19 +27450,25 @@ _Cite_:
 
 Les opérateurs des Etats membres de la Communauté européenne autres que la France désirant recevoir, détenir et apposer des
 capsules représentatives de droits sur les bouteilles ou les récipients de vin tranquille, vin mousseux et de boissons
-fiscalement assimilées aux vins destinés à être mis à la consommation en France métropolitaine doivent en faire la demande à
-la direction générale des douanes et droits indirects, afin que leur soit livré, sur justification de leur qualité
-d'entrepositaire agréé, un numéro d'agrément.
+fiscalement assimilées aux vins destinés à être mis à la consommation en France métropolitaine doivent en faire la demande
+à la direction interrégionale des douanes et droits indirects compétente, afin que leur soit livré, sur justification de leur
+qualité d'entrepositaire agréé, un numéro d'agrément.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 2 du décret n° 2020-22 du 13 janvier 2020, les demandes de décisions
+administratives individuelles présentées avant l'entrée en vigueur du présent décret sont instruites selon les procédures
+applicables à la date de leur présentation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°98-584 du 9 juillet 1998 - art. 1 (V) JORF 11 juillet 1998
-
 _Codifié par_:
 
-  - Décret n°99-382 1999-05-18
+  - Décret n°99-382 du 18 mai 1999
+
+_Modifié par_:
+
+  - Décret n°2020-22 du 13 janvier 2020 - art. 1
 
 _Cité par_:
 
