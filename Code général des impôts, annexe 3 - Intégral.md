@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2020-02-01
+Version Consolidée au 2020-02-14
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -37595,8 +37595,7 @@ _Cité par_:
 ###### Article 344 A
 
 I. Les comptes à déclarer en application du deuxième alinéa de l'article 1649 A du code général des impôts sont ceux ouverts
-auprès de toute personne de droit privé ou public qui reçoit habituellement en dépôt des valeurs mobilières, titres ou
-espèces.
+auprès de toute personne de droit privé ou public qui reçoit habituellement en dépôt des valeurs mobilières, titres ou fonds.
 
 II. Les personnes physiques joignent la déclaration de compte à la déclaration annuelle de leurs revenus. Chaque compte à
 usage privé, professionnel ou à usage privé et professionnel doit être mentionné distinctement.
@@ -37622,7 +37621,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1267 du 26 décembre 2018 - art. 1
+  - Décret n°2020-118 du 12 février 2020 - art. 15
 
 _Cité par_:
 
