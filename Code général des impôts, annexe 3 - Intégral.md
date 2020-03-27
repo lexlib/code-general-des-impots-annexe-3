@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2020-02-14
+Version Consolidée au 2020-03-28
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -27189,6 +27189,40 @@ _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quater (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 111 H sexdecies (V)
+
+
+###### Article 111 H septdecies
+
+I.-Pour l'application de l'article 302 M quater, le document commercial comporte les mentions suivantes lorsqu'il est utilisé
+lors d'un échange au sein du territoire fiscal de la France métropolitaine et dans les territoires ultramarins mentionnés à
+l'article 302 C :
+
+1° Le nom, la dénomination ou la raison sociale et l'adresse de l'expéditeur ;
+
+2° Le nom et l'adresse du destinataire des produits soumis à accise ;
+
+3° L'adresse du lieu de livraison des produits si différente de l'adresse du destinataire repris au 2° ;
+
+4° La nature et les quantités des produits transportés ;
+
+5° L'indication “ ventes à distance de produits soumis à accise ”.
+
+II.-Dans les autres cas, le document commercial comporte, en plus des mentions reprises au I, les mentions suivantes :
+
+1° Le numéro d'identification, le nom, la dénomination ou la raison sociale et l'adresse du représentant fiscal de
+l'expéditeur, lorsque le recours à ce dernier est exigé par l'Etat membre de destination des produits soumis à accise ;
+
+2° Le bureau compétent dans l'Etat membre de destination auprès duquel les droits d'accise ont été garantis préalablement à
+l'expédition ;
+
+3° Le numéro de référence ou tout autre élément identifiant de manière claire la garantie constituée par l'expéditeur ou son
+représentant fiscal dans l'Etat membre de destination.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-338 du 26 mars 2020 - art. 1
 
 
 ###### Article 111 H septies
