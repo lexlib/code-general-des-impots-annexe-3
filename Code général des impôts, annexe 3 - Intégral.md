@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2020-04-16
+Version Consolidée au 2020-04-30
 ## Contenu: 
   - [Livre premier : Assiette et liquidation de l'impôt (art. 2 sexies à 350 terdecies)](#1)
     - [Première partie : Impôts d'État (art. 2 sexies à 313-0 BR ter)](#2)
@@ -88,14 +88,14 @@ Version Consolidée au 2020-04-16
               - [5° : Obligations des gestionnaires de fonds salariaux (art. 41 DA)](#85)
               - [6 bis : Taux minimal d'investissement dans certaines structures de capital-risque (art. 41 DGA)](#86)
               - [8° : Option pour le versement forfaitaire libératoire de l'impôt sur le revenu (art. 41 DG ter)](#87)
-          - [Section II : Revenu global (art. 41 DN bis à 46)](#88)
+          - [Section II : Revenu global (art. 41 DN bis à 46-0 A)](#88)
             - [0I bis-0 : Contrats d'assurance groupe des professions indépendantes au titre de la retraite, de la prévoyance et de la perte d'emploi subie (art. 41 DN bis à 41 DN ter)](#89)
             - [I : Monuments historiques - Charges déductibles (art. 41 E à 41 J)](#90)
             - [II : Engagements d'épargne à long terme (art. 41 K à 41 V)](#91)
             - [0 II bis : Gains de cession de titres acquis en exercice de bons de souscription de parts de créateur d'entreprise (art. 41 V bis)](#92)
             - [II bis : Fonds communs de placement à risques et fonds professionnels de capital investissement (art. 41 W à 41 Y)](#93)
             - [II sexies : Epargne retraite (art. 41 ZZ bis à 41 ZZ ter)](#94)
-            - [III : Présentation et contenu des déclarations (art. 42 à 46)](#95)
+            - [III : Présentation et contenu des déclarations (art. 42 à 46-0 A)](#95)
           - [Section III : Calcul de l'impôt (art. 46 AGD à 46-0 B ter)](#96)
             - [2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme (art. 46 AGD à 46 AGG bis)](#97)
             - [2° bis : Réduction et crédit d'impôt accordés au titre de certains investissements forestiers (art. 46 AGH à 46 AGK)](#98)
@@ -11103,6 +11103,64 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 42 (V)
   - Code général des impôts, CGI. - art. 53 A (V)
   - Code général des impôts, CGI. - art. 97 (V)
+
+
+###### Article 46-0 A
+
+L'administration fiscale ne met pas à la disposition du contribuable le document prévu au premier alinéa de l'article 171 du
+code général des impôts lorsque ce dernier se trouve dans au moins l'une des situations suivantes :
+
+1° L'impôt sur le revenu de l'année précédente n'a pas été établi ;
+
+2° L'impôt sur le revenu de l'année précédente a été établi en intégrant l'un des revenus suivants :
+
+a) Bénéfices industriels et commerciaux, bénéfices agricoles, bénéfices non commerciaux ;
+
+b) Revenus fonciers ;
+
+c) Rentes viagères à titre onéreux ;
+
+d) Revenus mentionnés à l'article 62 du code précité ;
+
+e) Revenus mentionnés aux 1 bis, 1 ter ou 1 quater de l'article 93 du code précité, lorsqu'ils ont été imposés suivant les
+règles prévues en matière de traitements et salaires ;
+
+f) Revenus ayant bénéficié des dispositions de l'article 80 sexies du code précité ou de la deuxième phrase du premier alinéa
+du 1° de l'article 81 du code précité ;
+
+g) Revenus de source étrangère ;
+
+3° Le contribuable a déclaré, au titre de l'année précédente, un changement d'adresse, l'un des changements de situation
+mentionnés aux 1° à 4° du 1 de l'article 204 I du code précité, ou un montant d'acompte selon les modalités prévues à
+l'article 204 K du code précité pour un revenu mentionné au 2° du présent article, ou a déclaré, au titre de l'avant-dernière
+année, des revenus soumis au versement libératoire prévu à l'article 151-0 du code précité ;
+
+4° Le contribuable a, au cours de l'avant-dernière année, ouvert, détenu, utilisé ou clos un compte, un contrat ou un
+placement mentionnés aux articles 1649 A et 1649 AA du code précité ;
+
+5° Le contribuable a été passible au titre de l'année précédente de l'impôt sur la fortune immobilière ;
+
+6° Le contribuable était, au 31 décembre de l'avant-dernière année, fiscalement domicilié hors de France, résident de la
+principauté de Monaco, du département de Mayotte ou des collectivités de Saint-Martin ou Saint-Barthélemy, ou relevait du 2
+de l'article 4 B du code précité ;
+
+7° Le contribuable a perçu des produits de contrats et bons de capitalisation et produits d'assurance-vie de plus de huit ans
+afférents à des versements effectués à compter du 27 septembre 2017, ou a effectué des versements sur un plan d'épargne
+retraite individuel mentionné à l'article L. 224-28 du code monétaire et financier ;
+
+8° Les éléments détenus par l'administration fiscale lors de la mise à disposition du document visé au premier alinéa du
+présent article ne permettent pas d'identifier correctement le contribuable ou les membres de son foyer fiscal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-485 du 27 avril 2020 - art. 1
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 171
+  - Code monétaire et financier - art. L224-28
 
 
 ##### Section III : Calcul de l'impôt<a id=96></a>
